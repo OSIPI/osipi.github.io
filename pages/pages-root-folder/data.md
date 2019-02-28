@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/data-inventory.html"
+permalink: "/data-inventory/"
 title: "Public Perfusion Datasets Inventory"
 #subheadline: "... because we need one!"
 ---

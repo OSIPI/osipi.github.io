@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Why?"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  #url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
   text: 'We believe progress in adoption of perfusion analysis applications in the clinic will be facilitated by the ....'
 widget2:

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/software-inventory.html"
+permalink: "/software-inventory/"
 title: "Open Source Perfusion Software Inventory"
 #subheadline: "... because we need one!"
 ---

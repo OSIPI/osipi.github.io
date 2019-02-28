@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/benchmarking.html"
+permalink: "/benchmarking/"
 title: "Benchmarking of the Tools"
 #subheadline: "... because we need one!"
 ---

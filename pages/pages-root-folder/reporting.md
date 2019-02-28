@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/reporting.html"
+permalink: "/reporting-guidelines.html"
 title: "Consensus Recommendations for Reporting Perfusion Analysis Results"
 #subheadline: "... because we need one!"
 ---

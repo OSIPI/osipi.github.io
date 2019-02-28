@@ -6,22 +6,24 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: layout-front.jpg
 widget1:
   title: "Why?"
-  #url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'We believe progress in adoption of perfusion analysis applications in the clinic will be facilitated by the ....'
+  url: '/software/'
+  image: prostate_pixelated-302x182.png
+  text: 'At different times in our careers, we all struggled to find a robust perfusion analysis software producing results of known quality, evaluating, or implementing perfusion tools. We want to make that process easier!'
 widget2:
   title: "Who?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: 'We are an inclusive team of volunteers with the expertise and passion in perfusion analysis, open source software and reproducible science ...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  url: '/contact/'
+  image: friends-302x182.png
+  text: 'We are an inclusive team of volunteers with the expertise and passion in perfusion analysis, open source software and reproducible science. Join our growing group to help us make a difference!'
+
+  #video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "What?"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: 'Our goal is to develop a '
+  url: '/software/'
+  image: curve_segment_larger-302x182.png  
+  text: 'We pursue a number of goals centered around organizing our understanding of the capabilities of the existing open source tools, and developing best practices for perfusion tool evaluation.'
 #
 # Use the call for action to show a button on the frontpage
 #

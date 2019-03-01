@@ -18,6 +18,10 @@
   url: "/reporting-guidelines/"
   side: left
 
+- title: "Forum"
+  url: "/forum/"
+  side: left
+
 #- title: Blog
 #  url: "/blog/"
 #  side: left
@@ -27,8 +31,4 @@
 
 - title: "Search"
   url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
   side: right

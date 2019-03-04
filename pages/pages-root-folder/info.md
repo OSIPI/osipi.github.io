@@ -9,12 +9,12 @@ The mission of OSIPI is _To promote the sharing of perfusion imaging software in
 
 OSIPI is being boot-strapped by the energetic group of volunteers comprising the OSIPI Executive Management Board:
 * **Charlotte Debus**, German Aerospace Center, Cologne, Germany (chair)
-* **Andrey Fedorov**, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA, USA (co-chair)
+* [**Andrey Fedorov**](http://fedorov.github.io/), Brigham and Women’s Hospital, Harvard Medical School, Boston, MA, USA (co-chair)
 * **Amedeo Chiribiri**, King’s College London, UK
 * **Patricia Clement**, Ghent University, Belgium
 * **Kyrre Emblem**, Oslo University Hospital, Norway
 * **Michael Ingrisch**, Ludwig-Maximilian University Munich, Germany
 * **Simon Lévy**, CRMBM, Faculty of Medicine, Aix-Marseille University, France
-* **Frank Zoellner**, University of Heidelberg, Germany
+* **Frank Zoellner**, Heidelberg University, Germany
 * **Laura Bell**, Barrow Neurological Institute, Phoenix, AZ, USA (ISMRM liaison)
 * **Steven Sourbron**, University of Leeds, UK (ISMRM Perfusion study group liaison)

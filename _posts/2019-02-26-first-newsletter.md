@@ -54,7 +54,7 @@ On behalf of the ISMRM Perfusion Study Group, Steven and I submitted a Member In
 
 ## OSIPI online - watch this space!
 
-In order to stay in touch, you all have been automatically added to a google group mailing list (<open-source-initiative-for-perfusion-imaging@googlegroups.com>). Please share this with anyone else who is interested in joining! The EMB is also creating a webpage for OSIPI so that we can have one coherent way to advertise and communicate together. Although a bit bare bones at the moment, please stay tuned as we all make progress on this initiative together.
+In order to stay in touch, you those who expressed interest to our initial survey have been automatically added to [the OSIPI google group mailing list](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging). Please share this with anyone else who is interested in joining! The EMB is also creating a webpage for OSIPI so that we can have one coherent way to advertise and communicate together. Although a bit bare bones at the moment, please stay tuned as we all make progress on this initiative together.
 
 We all look forward to meeting you at ISMRM this year.
 

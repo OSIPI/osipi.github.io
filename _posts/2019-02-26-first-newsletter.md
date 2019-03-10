@@ -2,9 +2,8 @@
 layout: page
 title: "OSIPI Newsletter #1"
 teaser: "Thank you for your interest and support!"
-comments: true
-header:
-  image_fullwidth: PkModeling.jpg
+comments: false
+header: no
 categories:
   - newsletter
 ---
@@ -22,6 +21,8 @@ Thanks to the gracious offer of Ives Levesque of McGill University we can announ
 * **Presentations**: please contact Laura Bell if you would like to provide a demo.
 * **Meeting venue**: [Cancer Centre, McGill University Health Centre, 1001 Decarie Blvd, Montreal, QC H4A 3J1](https://goo.gl/maps/c8v74HyuQ8z).
 * **Local organizer**: Ives Levesque, PhD, Assistant Professor, Medical Physics Unit and MUHC Department of Medical Physics, McGill University
+
+{% include alert info='Show an info alert with *outstanding* <a href="#info">information</a>.' %}
 
 ## OSIPI Executive Management Board (EMB)
 

@@ -2,6 +2,7 @@
 layout: page
 permalink: "/info/"
 title: "About OSIPI"
+header: no
 #subheadline: "... because we need one!"
 ---
 

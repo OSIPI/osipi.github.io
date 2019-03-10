@@ -2,6 +2,7 @@
 layout: page
 permalink: "/data-inventory/"
 title: "Public Perfusion Datasets Inventory"
+header: no
 #subheadline: "... because we need one!"
 ---
 

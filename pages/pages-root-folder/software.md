@@ -2,6 +2,7 @@
 layout: page
 permalink: "/software-inventory/"
 title: "Open Source Perfusion Software Inventory"
+header: no
 #subheadline: "... because we need one!"
 ---
 

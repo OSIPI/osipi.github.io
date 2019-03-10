@@ -2,6 +2,7 @@
 layout: page
 permalink: "/benchmarking/"
 title: "Benchmarking of the Tools"
+header: no
 #subheadline: "... because we need one!"
 ---
 

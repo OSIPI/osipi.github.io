@@ -2,6 +2,7 @@
 layout: page
 permalink: "/reporting-guidelines/"
 title: "Consensus Recommendations for Reporting Perfusion Analysis Results"
+header: no
 #subheadline: "... because we need one!"
 ---
 

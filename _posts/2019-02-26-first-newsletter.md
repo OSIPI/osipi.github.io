@@ -22,7 +22,7 @@ Thanks to the gracious offer of Ives Levesque of McGill University we can announ
 * **Meeting venue**: [Cancer Centre, McGill University Health Centre, 1001 Decarie Blvd, Montreal, QC H4A 3J1](https://goo.gl/maps/c8v74HyuQ8z).
 * **Local organizer**: Ives Levesque, PhD, Assistant Professor, Medical Physics Unit and MUHC Department of Medical Physics, McGill University
 
-{% include alert info='Show an info alert with *outstanding* <a href="#info">information</a>.' %}
+{% include alert alert='<a href="https://www.eventbrite.com/e/osipis-first-annual-face-to-face-meeting-in-montreal-2019-tickets-57199759019">Register to attend the first OSIPI face to face meeting</a>.' %}
 
 ## OSIPI Executive Management Board (EMB)
 

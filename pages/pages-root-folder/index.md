@@ -10,19 +10,16 @@ header:
 
 widget1:
   title: "Why?"
-  url: '/info/'
   image: prostate_pixelated-302x182.png
   text: 'At different times in our careers, we all struggled to find a robust perfusion analysis software producing results of known quality, evaluating, or implementing perfusion tools. We want to make that process easier!'
 widget2:
   title: "Who?"
-  url: '/info/'
   image: friends-302x182.png
   text: 'We are an inclusive team of volunteers with the expertise and passion in perfusion analysis, open source software and reproducible science. Join our growing group to help us make a difference!'
 
   #video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "What?"
-  url: '/info/'
   image: curve_segment_larger-302x182.png  
   text: 'We pursue a number of goals centered around organizing our understanding of the capabilities of the existing open source tools, and developing best practices for perfusion tool evaluation.'
 #

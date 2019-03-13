@@ -16,6 +16,6 @@ OSIPI is being boot-strapped by the energetic group of volunteers comprising the
 * **Kyrre Emblem**, Oslo University Hospital, Norway
 * **Michael Ingrisch**, Ludwig-Maximilian University Munich, Germany
 * **Simon Lévy**, CRMBM, Faculty of Medicine, Aix-Marseille University, France
-* **Frank Zoellner**, Heidelberg University, Germany
+* [**Frank Zöllner**](https://www.umm.uni-heidelberg.de/inst/cbtm/ckm/mitarbeiter/personalpage/fzoellne.html), Heidelberg University, Germany
 * **Laura Bell**, Barrow Neurological Institute, Phoenix, AZ, USA (ISMRM liaison)
 * [**Steven Sourbron**](https://medicinehealth.leeds.ac.uk/medicine/staff/782/dr-steven-sourbron/), University of Leeds, UK (ISMRM Perfusion study group liaison)

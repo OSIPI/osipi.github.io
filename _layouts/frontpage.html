@@ -9,6 +9,18 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+{% comment %}
+*
+* Check if there is a preamble text
+*
+{% endcomment %}
+{% if page.preamble %}
+    <div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <h4> {{ page.preamble.text }} </h4>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+{% endif %}
 
 {% comment %}
 *

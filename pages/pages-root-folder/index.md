@@ -37,6 +37,9 @@ callforaction:
   text: Learn more ›
   style: alert
 
+preamble:
+  text: OSIPI mission is to promote the sharing of perfusion imaging software in order to eliminate the practice of duplicate development, improve the reproducibility of perfusion imaging research, and speed up the translation into tools for discovery science, drug development and clinical practice
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight

@@ -18,10 +18,6 @@
   url: "/data-inventory/"
   side: left
 
-- title: Benchmarking
-  url: "/benchmarking/"
-  side: left
-
 - title: Reporting
   url: "/reporting-guidelines/"
   side: left
@@ -30,6 +26,10 @@
   url: "/forum/"
   side: left
 
+- title: Benchmarking
+  url: "/benchmarking/"
+  side: left
+  
 - title: Blog
   url: "/blog/"
   side: left

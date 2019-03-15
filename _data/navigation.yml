@@ -10,6 +10,10 @@
   url: "/software-inventory/"
   side: left
 
+- title: Toolbox
+  url: "/toolbox/"
+  side: left
+
 - title: Data
   url: "/data-inventory/"
   side: left

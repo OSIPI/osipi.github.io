@@ -1,20 +1,11 @@
 ---
 layout: page
 permalink: "/data-inventory/"
-title: "Public Perfusion Datasets Inventory"
+title: "Inventory of data for the evaluation of perfusion software"
 header: no
 #subheadline: "... because we need one!"
 ---
 
-We aim to establish a curated, comprehensive list of publicly available datasets that can be used for the development and evaluation of perfusion software. We believe not enough data is currently available publicly to enable such evaluations, not enough is understood about what kinds of datasets are needed to improve the _status quo_, while the few datasets that are available are not listed in a single location.
+**OSIPI aim 3: Develop an inventory of data for the evaluation of perfusion software**
 
-We are working to compile an extensible list of publicly available datasets of various origins (including digital and physical phantoms, pre-clinical and clinical datasets), accompanied by details related to their acquisition, applicability to specific types of analysis, disease type, availability of accompanying annotations and analysis results, usage rights, etc, as applicable.
-
-You can help us make this list more complete and more comprehensive!
-
-Please contact us via the mailing list if:
-* you know of a publicly available perfusion dataset that is not listed below
-* you have experience that you want to share about using any of the datasets listed below
-* you find any of the information inaccurate or incomplete, and can suggest improvements
-
-**Stay tuned - coming up!**
+This is aimed at researchers looking for data to test their perfusion analysis methods, and at data owners who want to share data for secondary research. The inventory will provide a curated list of publicly available synthetic, phantom, preclinical and clinical perfusion datasets. Digital reference objects (DROs) and phantom data can serve as ground truth for perfusion analysis methods, and in-vivo data can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality.

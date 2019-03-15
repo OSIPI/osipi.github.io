@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "OSIPI Discussion Forum"
+title: "Platform for discussion and exchange between developers and users of perfusion software"
 permalink: "/forum/"
 header: no
 ---
 
-If you are interested to participate the initiative, the best way to start is to join our [google group](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging).
+**OSIPI aim 5: Develop a platform for discussion and exchange between developers and users of perfusion software**
 
-We are very interested to learn about your experience with using perfusion tools, what are the most important roadblocks to successful translation and deployment of this technology, and how you can contribute to the effort.
+Effective communication is a key prerequisite for the realisation of the aims, but also to ensure long-term sustainability of the initiative. Through the use of novel communication media and organisation of events, OSIPI will build an active community promoting networking, communication, guidance and discussion.

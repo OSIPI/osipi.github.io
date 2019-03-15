@@ -9,19 +9,42 @@ header:
   image_fullwidth: layout-front.jpg
 
 widget1:
-  title: "Why?"
+  #title: "Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis."
   image: prostate_pixelated-302x182.png
-  text: 'At different times in our careers, we all struggled to find a robust perfusion analysis software producing results of known quality, evaluating, or implementing perfusion tools. We want to make that process easier!'
+  text: 'Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis.'
+  url: '/software-inventory/'
+
 widget2:
-  title: "Who?"
-  image: friends-302x182.png
-  text: 'We are an inclusive team of volunteers with the expertise and passion in perfusion analysis, open source software and reproducible science. Join our growing group to help us make a difference!'
+  #title:
+  text: "Develop a library of open-source functions, scripts and pipelines for perfusion imaging analysis"
+  image: prostate_pixelated-302x182.png
+  url: '/toolbox/'
 
   #video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "What?"
-  image: curve_segment_larger-302x182.png  
-  text: 'We pursue a number of goals centered around organizing our understanding of the capabilities of the existing open source tools, and developing best practices for perfusion tool evaluation.'
+  #title: "What?"
+  image: prostate_pixelated-302x182.png  
+  text: 'Develop an inventory of data for the evaluation of perfusion software. The inventory will provide a curated list of publicly available datasets.'
+  url: '/data-inventory/'
+
+widget4:
+  #title: "Why?"
+  image: prostate_pixelated-302x182.png
+  text: 'Develop consensus guidelines for reporting image acquisition and analysis of perfusion imaging'
+  url: '/reporting-guidelines/'
+
+widget5:
+  #title: "Who?"
+  image: prostate_pixelated-302x182.png
+  text: 'Develop a platform for discussion and exchange between developers and users of perfusion software'
+  url: '/forum/'
+
+  #video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+widget6:
+  #title: "What?"
+  image: prostate_pixelated-302x182.png  
+  text: 'Development of benchmarks and application to existing software'  
+  url: '/benchmarking/'
 #
 # Use the call for action to show a button on the frontpage
 #

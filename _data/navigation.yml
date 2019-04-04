@@ -6,30 +6,10 @@
   url: "/info/"
   side: left
 
-- title: Software
-  url: "/software-inventory/"
-  side: left
-
-- title: Toolbox
-  url: "/toolbox/"
-  side: left
-
-- title: Data
-  url: "/data-inventory/"
-  side: left
-
-- title: Reporting
-  url: "/reporting-guidelines/"
-  side: left
-
 - title: "Forum"
   url: "/forum/"
   side: left
 
-- title: Benchmarking
-  url: "/benchmarking/"
-  side: left
-  
 - title: Blog
   url: "/blog/"
   side: left

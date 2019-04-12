@@ -10,12 +10,16 @@
   url: "/forum/"
   side: left
 
-- title: Blog
+- title: News
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "News Archive"
     url: "/blog/archive/"
+
+- title: Events
+  url: "/events/"
+  side: left
 
 #- title: Blog
 #  url: "/blog/"

@@ -8,7 +8,7 @@ header: no
 
 ## Upcoming Events
 
-### ISMRM Member-Initiated Symposium “Open Source Initiative for Perfusion Imaging” on
+### ISMRM Member-Initiated Symposium “Open Source Initiative for Perfusion Imaging”
 
 **When**: Monday, May 13th from 1:45-3:45 pm.
 
@@ -19,7 +19,7 @@ header: no
 **Agenda**: You can find the details of this event at [the ISMRM page of the event](https://www.ismrm.org/19/program_files/MIS04.htm).
 
 
-### 1st Annual Face-to-Face Meeting
+### OSIPI 1st Annual Face-to-Face Meeting
 
 **When**: Friday, May 17th from 10:30 am to 12:45 pm
 

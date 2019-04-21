@@ -21,13 +21,13 @@ We’ve been busy gearing up in the hopes to meet you at ISMRM next month! We al
 ### Reminder of upcoming OSIPI Events - connect in person!
  At ISMRM next month, we have two opportunities to meet (http://www.osipi.org/events/):
 
-1. ISMRM Member-Initiated Symposium “Open Source Initiative for Perfusion Imaging” on Monday, May 13th from 1:45-3:45 pm. You can find more details at https://www.ismrm.org/19/program_files/MIS04.htm.
+1. ISMRM Member-Initiated Symposium “Open Source Initiative for Perfusion Imaging” on Monday, May 13th from 1:45-3:45 pm. You can find more details at [the ISMRM symposium page](https://www.ismrm.org/19/program_files/MIS04.htm).
 2. 1st Annual Face-to-Face Meeting hosted by Ives Levesque of McGill University in Montreal on Friday, May 17th from 10:30 am - 12:45 pm. This meeting is free, but registration is required (and more details) via [EventBrite](https://www.google.com/url?q=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fosipis-first-annual-face-to-face-meeting-in-montreal-2019-tickets-57199759019%3Faff%3Dutm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email%26utm_term%3Deventurl_text&sa=D&sntz=1&usg=AFQjCNF7tH1pGMMQq1vIX1FSgfTyIlqEPw).
 
 ### OSIPI Mission and Aims - an initial presentation:
 
 In the last few months, the EMB has diligently been working on our mission statement and aims. We realize these will be evolving over time, but for now have settled on (more details
- can be found at http://osipi.org):
+ can be found at the [OSIPI web site](http://osipi.org)):
 
 **OSIPI mission**: To promote the sharing of perfusion imaging software in order to eliminate the practice of duplicate development, improve the reproducibility of
  perfusion imaging research, and speed up the translation into tools for discovery science, drug development and clinical practice.
@@ -65,7 +65,7 @@ All three surveys are in this [shareable link](https://docs.google.com/spreadshe
 
 ### Sign up for OSIPI and stay up-to-date:
 
-The EMB has been working on a website that holds all this information and more. Please visit us at http://osipi.org!
+The EMB has been working on a website that holds all this information and more. Please visit us at the [OSIPI web site](http://osipi.org)!
  On this website is information about our google group so that you will receive these newsletters - you’re most likely already on this list if you are receiving this directly! Also, forward this link to anyone you know that might be interested in joining OSIPI
  - the more we are, the more we can do.
 

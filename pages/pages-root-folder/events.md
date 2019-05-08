@@ -27,12 +27,22 @@ header: no
 
 **Registration**: This meeting is free, but registration is required (and most details) are available [via EventBrite](https://www.eventbrite.com/e/osipis-first-annual-face-to-face-meeting-in-montreal-2019-tickets-57199759019)
 
-**Agenda**: The agenda of this meeting is being finalized, but the program will include the following items:
+**Participants**: Listed below are the current participants - come and join us!  
+_Zaki Ahmrf, Udunna Anazodo, Veronica Aramendia-Vidaurreta, Laura Bell, Irene Brumer, Teresa Correia, Paula Croal, Charlotte Debus, Tanguy Duval, Andrey Fedorov, Xue Feng, Xavier Golay, Ingomar Gutmann, Agah Karakuzu, Ina Nora Kompan, Ives Levesque, Thomas Lindner, Eve LoCastro, Hanzhang Lu, Xenios Milidonis, Henk Mutsaerts, Aaron Oliver-Taylor, Ramesh Paudyal, Jan Petr, Federico Pineda, Sudarshan Ragunathan, Bolin Song, Steven Sourbron, David Thomas, Tanja Uhrig, Xiaoqing Wang, Moss Zhao, and Frank Zollner_
+
+**Agenda**:
 * 10:30 - Introduction of the OSIPI EMB members
-* 10:35 - Presentation of OSIPI aims and task force concepts with audience feedback [Charlie Debus]
+* 10:35 - Introduction of OSIPI and task force concepts with audience feedback [Charlie Debus]
+  * Outline the current mission and aims, current progress, and define OSIPI task forces
+  * An opportunity for audience to contribute to OSIPI's overall mission, aims, and future aims
 * 11:15 - Presentation of survey and current results [Simon Levy]
+  * Provide an overview of three available surveys that aim to develop inventories for software, data, and code
+  * Provide an example of how to contribute to the surveys so that the audience can participate at home
 * 11:30 - MITK + 3D Slicer Demo [Ina Nora Kompan, Andrey Fedorov]
 * 11:45 - Quantiphyse Demo [Michael Chappell et al.]
 * 12:00 - ExploreASL Demo [Henk-Jan Mutsaerts]
 * 12:15 - New task force creations and roles with audience feedback [Steven Sourbron]
+  * Discuss future task force possibilities and assign volunteers to lead
 * 12:45 - Meeting ends
+
+**Questions?**: laura.bell@barrowneuro.org

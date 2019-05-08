@@ -25,7 +25,7 @@ header: no
 
 **Where**: [McGill University Health Centre (Room RBC Conference Room, DS1.1427), 1001 Boulevard Décarie, Montreal, QC, Canada](https://goo.gl/maps/KfZJWAmeFhK2)
 
-**Registration**: This meeting is free, but registration is required (and most details) are available [via EventBrite](https://www.eventbrite.com/e/osipis-first-annual-face-to-face-meeting-in-montreal-2019-tickets-57199759019)
+**Registration**: This meeting is free, but registration is required [via EventBrite](https://www.eventbrite.com/e/osipis-first-annual-face-to-face-meeting-in-montreal-2019-tickets-57199759019)
 
 **Participants**: Listed below are the current participants - come and join us!  
 _Zaki Ahmrf, Udunna Anazodo, Veronica Aramendia-Vidaurreta, Laura Bell, Irene Brumer, Teresa Correia, Paula Croal, Charlotte Debus, Tanguy Duval, Andrey Fedorov, Xue Feng, Xavier Golay, Ingomar Gutmann, Agah Karakuzu, Ina Nora Kompan, Ives Levesque, Thomas Lindner, Eve LoCastro, Hanzhang Lu, Xenios Milidonis, Henk Mutsaerts, Aaron Oliver-Taylor, Ramesh Paudyal, Jan Petr, Federico Pineda, Sudarshan Ragunathan, Bolin Song, Steven Sourbron, David Thomas, Tanja Uhrig, Xiaoqing Wang, Moss Zhao, and Frank Zollner_

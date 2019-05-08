@@ -28,9 +28,11 @@ header: no
 **Registration**: This meeting is free, but registration is required (and most details) are available [via EventBrite](https://www.eventbrite.com/e/osipis-first-annual-face-to-face-meeting-in-montreal-2019-tickets-57199759019)
 
 **Agenda**: The agenda of this meeting is being finalized, but the program will include the following items:
-* Introduction of the OSIPI EMB members
-* Presentation of OSIPI aims and task force concept in direct interaction with the audience
-* Presentation of the survey results
-* Open source software demonstrations
-* Task force definitions and roles in interaction with the audience
-* Open discussions with the attendees
+* 10:30 - Introduction of the OSIPI EMB members
+* 10:35 - Presentation of OSIPI aims and task force concepts with audience feedback [Charlie Debus]
+* 11:15 - Presentation of survey and current results [Simon Levy]
+* 11:30 - MITK + 3D Slicer Demo [Ina Nora Kompan, Andrey Fedorov]
+* 11:45 - Quantiphyse Demo [Michael Chappell et al.]
+* 12:00 - ExploreASL Demo [Henk-Jan Mutsaerts]
+* 12:15 - New task force creations and roles with audience feedback [Steven Sourbron]
+* 12:45 - Meeting ends

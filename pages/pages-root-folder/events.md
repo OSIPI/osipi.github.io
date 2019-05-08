@@ -46,7 +46,7 @@ _Zaki Ahmrf, Udunna Anazodo, Veronica Aramendia-Vidaurreta, Laura Bell, Irene Br
 * 11:45 - Quantiphyse Demo [Michael Chappell et al.]
 * 12:00 - ExploreASL Demo [Henk-Jan Mutsaerts]
 * 12:15 - New task force creations and roles with audience feedback [Steven Sourbron]
-  * Discuss future task force possibilities and assign volunteers to lead
+  * Create task forces, identify task force chairs and co-chairs, possible members
 * 12:45 - Meeting ends
 
 **Questions?**: laura.bell@barrowneuro.org

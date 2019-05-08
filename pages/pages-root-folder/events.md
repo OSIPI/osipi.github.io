@@ -27,7 +27,7 @@ header: no
 
 **Organizers**:
 * Laura Bell, ISMRM Perfusion Study Group Trainee Representative, Barrow Neurological Institute, laura.bell@barrowneuro.org
-* Ives Levesque, Host, McGill University, ives.levesque@mcgill.ca
+* Ives Levesque, F2F Host, McGill University, ives.levesque@mcgill.ca
 
 **Registration**: This meeting is free, but registration is required [via EventBrite](https://www.eventbrite.com/e/osipis-first-annual-face-to-face-meeting-in-montreal-2019-tickets-57199759019)
 

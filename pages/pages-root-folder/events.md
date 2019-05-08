@@ -25,13 +25,17 @@ header: no
 
 **Where**: [McGill University Health Centre (Room RBC Conference Room, DS1.1427), 1001 Boulevard Décarie, Montreal, QC, Canada](https://goo.gl/maps/KfZJWAmeFhK2)
 
+**Organizers**:
+* Laura Bell, ISMRM Perfusion Study Group Trainee Representative, Barrow Neurological Institute, laura.bell@barrowneuro.org
+* Ives Levesque, Host, McGill University, ives.levesque@mcgill.ca
+
 **Registration**: This meeting is free, but registration is required [via EventBrite](https://www.eventbrite.com/e/osipis-first-annual-face-to-face-meeting-in-montreal-2019-tickets-57199759019)
 
 **Participants**: Listed below are the current participants - come and join us!  
 _Zaki Ahmrf, Udunna Anazodo, Veronica Aramendia-Vidaurreta, Laura Bell, Irene Brumer, Teresa Correia, Paula Croal, Charlotte Debus, Tanguy Duval, Andrey Fedorov, Xue Feng, Xavier Golay, Ingomar Gutmann, Agah Karakuzu, Ina Nora Kompan, Ives Levesque, Thomas Lindner, Eve LoCastro, Hanzhang Lu, Xenios Milidonis, Henk Mutsaerts, Aaron Oliver-Taylor, Ramesh Paudyal, Jan Petr, Federico Pineda, Sudarshan Ragunathan, Bolin Song, Steven Sourbron, David Thomas, Tanja Uhrig, Xiaoqing Wang, Moss Zhao, and Frank Zollner_
 
 **Agenda**:
-* 10:30 - Introduction of the OSIPI EMB members
+* 10:30 - Welcome [Laura Bell, Ives Levesque] 
 * 10:35 - Introduction of OSIPI and task force concepts with audience feedback [Charlie Debus]
   * Outline the current mission and aims, current progress, and define OSIPI task forces
   * An opportunity for audience to contribute to OSIPI's overall mission, aims, and future aims

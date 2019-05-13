@@ -18,6 +18,8 @@ header: no
 
 **Agenda**: You can find the details of this event at [the ISMRM page of the event](https://www.ismrm.org/19/program_files/MIS04.htm).
 
+**Get OSIPI introduction slides at MIS [here](http://bit.ly/2VwZcYY)**
+
 
 ### OSIPI 1st Annual Face-to-Face Meeting
 

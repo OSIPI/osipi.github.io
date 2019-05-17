@@ -21,6 +21,21 @@
   url: "/events/"
   side: left
 
+- title: Aims
+  url: "/aims/"
+  side: left
+  dropdown:
+  - title: "Perfusion Software Inventory"
+    url: "/aims/software-inventory/"
+  - title: "Perfusion Code Library"
+    url: "/aims/toolbox/"
+  - title: "Perfusion Data Inventory"
+    url: "/aims/data-inventory/"
+  - title: "Perfusion Reporting Guidelines"
+    url: "/aims/reporting/"
+  - title: "Perfusion Software Benchmarking"
+    url: "/aims/benchmarking/"
+
 #- title: Blog
 #  url: "/blog/"
 #  side: left

@@ -13,3 +13,4 @@ header: no
 ### Resources
 
 * [Perfusion image analysis lexicon and reporting recommendations](http://bit.ly/perfusion-reporting): Google document open for community contributions and comments
+* [dcmqi](https://github.com/QIICR/dcmqi): free open source library and tools for conversion to and from DICOM for image-derived analysis results, including DICOM Parametric maps

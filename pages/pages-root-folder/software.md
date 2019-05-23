@@ -29,7 +29,7 @@ This is aimed at end-users looking for a suitable tool to process their data. Th
 3. Benoit Bourassa Moreau
 4. Ingomar Gutmann
 5. P.T. (TBC)
-6. TBC
+6. Ives Levesque
 7. TBC
 8. TBC
 

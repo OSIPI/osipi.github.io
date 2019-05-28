@@ -38,7 +38,7 @@ Scope: collect ASL code from developers and integrate in the library structure
 
 **Task force 2.3. DCE contributions**
 
-Scope: collect DCE/DSC code from developers and integrate in the library structure
+Scope: collect DCE code from developers and integrate in the library structure
 
 1. Petra van Houdt
 2. Ingomar Gutmann
@@ -48,6 +48,16 @@ Scope: collect DCE/DSC code from developers and integrate in the library structu
 6. TBC
 7. TBC
 8. TBC
-9. TBC
-10. TBC
 
+**Task force 2.4. DSC contributions**
+
+Scope: collect DSC code from developers and integrate in the library structure
+
+1. Laura Bell
+2. Jayashree Kalpathy-Cramer
+3. TBC
+4. TBC
+5. TBC
+6. TBC
+7. TBC
+8. TBC

@@ -5,23 +5,8 @@
 - title: About
   url: "/info/"
   side: left
-
-- title: "Forum"
-  url: "/forum/"
-  side: left
-
-- title: News
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/blog/archive/"
-
-- title: Events
-  url: "/events/"
-  side: left
-
-- title: Aims
+  
+  - title: Aims
   url: "/aims/"
   side: left
   dropdown:
@@ -37,6 +22,21 @@
     url: "/aims/benchmarking/"
   - title: "Platform for exchange"
     url: "/aims/exchange/"
+
+- title: "Forum"
+  url: "/forum/"
+  side: left
+
+- title: News
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "News Archive"
+    url: "/blog/archive/"
+
+- title: Events
+  url: "/events/"
+  side: left
 
 #- title: Blog
 #  url: "/blog/"

@@ -19,4 +19,4 @@ OSIPI is a community-driven effort and is currently bootstrapped by the energeti
 * [**Steven Sourbron**](https://medicinehealth.leeds.ac.uk/medicine/staff/782/dr-steven-sourbron/), University of Leeds, UK (ISMRM Perfusion study group liaison)
 * [**Frank Zöllner**](https://www.umm.uni-heidelberg.de/inst/cbtm/ckm/mitarbeiter/personalpage/fzoellne.html), Heidelberg University, Germany
 
-We welcome your feedback about the directions of the OSIPI activities! Feel free to reach out to individual EMB members, or contribute your feedback by posting to the [OSIPI forum](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging).
+We welcome your feedback about the directions of the OSIPI activities! Feel free to reach out to individual EMB members or contribute your feedback by posting to the [OSIPI forum](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging).

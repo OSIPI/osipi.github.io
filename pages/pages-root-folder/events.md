@@ -10,7 +10,6 @@ header: no
 _Stay tuned for possible events happening in fall 2019 or winter 2020..._
 
 ## Past Events
-
 #### ISMRM Member-Initiated Symposium “Open Source Initiative for Perfusion Imaging”
 
 **When**: Monday, May 13th 2019 from 1:45-3:45 pm.

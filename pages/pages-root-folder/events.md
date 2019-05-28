@@ -19,7 +19,7 @@ _Stay tuned for possible events happening in fall 2019 or winter 2020..._
 
 #### OSIPI 1st Annual Face-to-Face Meeting
 **When**: Friday, May 17th 2019 from 10:30 am to 12:45 pm  
-**Where**: [McGill University Health Centre (Room RBC Conference Room, DS1.1427), 1001 Boulevard Décarie, Montreal, QC, Canada](https://goo.gl/maps/KfZJWAmeFhK2)  
+**Where**: [McGill University Health Centre (Room RBC Conference Room, DS1.1427), 1001 Boulevard Décarie, Montreal, QC, Canada]  (https://goo.gl/maps/KfZJWAmeFhK2)
 **Organizers**:
 * Laura Bell, ISMRM Perfusion Study Group Trainee Representative, Barrow Neurological Institute, laura.bell@barrowneuro.org
 * Ives Levesque, F2F Host, McGill University, ives.levesque@mcgill.ca  

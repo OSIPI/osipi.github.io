@@ -22,7 +22,7 @@ _Stay tuned for possible events happening in fall 2019 or winter 2020..._
 **Organizers**:  
 -[Laura Bell](laura.bell@barrowneuro.org), ISMRM Perfusion Study Group Trainee Representative, Barrow Neurological Institute   
 -[Ives Levesque](ives.levesque@mcgill.ca), F2F Host, McGill University  
-**Attendees**: Thanks for joining us!_Zaki Ahmrf, Udunna Anazodo, Daniel Barboriak, Laura Bell, Benoit Bourassa-Moreau, Irene Brumer, Paula Croal, Greg Cron, Charlotte Debus, Tanguy Duval, Klaus Eickel, Andrey Fedorov,Xavier Golay, Ingomar Gutmann,Ina Nora Kompan, Ives Levesque, Simon Levy, Thomas Lindner, Hanzhang Lu, Henk Mutsaerts, Aaron Oliver-Taylor, Jan Petr, Steven Sourbron, Yuriko Suzuki, David Thomas, Marta Tibiletti, Tanja Uhrig, and Frank Zollner_  
+**Attendees**: Thanks for joining us! _Zaki Ahmrf, Udunna Anazodo, Daniel Barboriak, Laura Bell, Benoit Bourassa-Moreau, Irene Brumer, Paula Croal, Greg Cron, Charlotte Debus, Tanguy Duval, Klaus Eickel, Andrey Fedorov,Xavier Golay, Ingomar Gutmann,Ina Nora Kompan, Ives Levesque, Simon Levy, Thomas Lindner, Hanzhang Lu, Henk Mutsaerts, Aaron Oliver-Taylor, Jan Petr, Steven Sourbron, Yuriko Suzuki, David Thomas, Marta Tibiletti, Tanja Uhrig, and Frank Zollner_  
 **Agenda**:
 * 10:30 - Welcome [Laura Bell, Ives Levesque] 
 * 10:35 - Introduction of OSIPI and task force concepts with audience feedback [Charlie Debus]

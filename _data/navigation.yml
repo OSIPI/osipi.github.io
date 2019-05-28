@@ -6,7 +6,7 @@
   url: "/info/"
   side: left
   
-  - title: Aims
+- title: Aims
   url: "/aims/"
   side: left
   dropdown:

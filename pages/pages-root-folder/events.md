@@ -7,11 +7,11 @@ header: no
 ---
 
 ## Upcoming Events
-_Stay tuned for possible events in fall 2019 or winter or 2020..._
+_Stay tuned for possible events happening in fall 2019 or winter 2020..._
 
 ## Past Events
 
-### ISMRM Member-Initiated Symposium “Open Source Initiative for Perfusion Imaging”
+#### ISMRM Member-Initiated Symposium “Open Source Initiative for Perfusion Imaging”
 
 **When**: Monday, May 13th 2019 from 1:45-3:45 pm.
 
@@ -24,7 +24,7 @@ _Stay tuned for possible events in fall 2019 or winter or 2020..._
 **Get OSIPI introduction slides at MIS [here](http://bit.ly/2VwZcYY)**
 
 
-### OSIPI 1st Annual Face-to-Face Meeting
+#### OSIPI 1st Annual Face-to-Face Meeting
 
 **When**: Friday, May 17th 2019 from 10:30 am to 12:45 pm
 

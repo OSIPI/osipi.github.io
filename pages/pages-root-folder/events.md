@@ -14,15 +14,14 @@ _Stay tuned for possible events happening in fall 2019 or winter 2020..._
 **When**: Monday, May 13th 2019 from 1:45-3:45 pm.  
 **Where**: ISMRM 27th Annual meeting and exhibition  
 **Agenda**: You can find the details of this event at [the ISMRM page of the event](https://www.ismrm.org/19/program_files/MIS04.htm).  
-
 **Get OSIPI introduction slides at MIS [here](http://bit.ly/2VwZcYY)**
 
 #### OSIPI 1st Face-to-Face Meeting
 **When**: Friday, May 17th 2019 from 10:30 am to 12:45 pm  
 **Where**: [McGill University Health Centre (Room RBC Conference Room, DS1.1427), 1001 Boulevard Décarie, Montreal, QC, Canada](https://goo.gl/maps/KfZJWAmeFhK2)  
-**Organizers**:
-* Laura Bell, ISMRM Perfusion Study Group Trainee Representative, Barrow Neurological Institute, laura.bell@barrowneuro.org
-* Ives Levesque, F2F Host, McGill University, ives.levesque@mcgill.ca 
+**Organizers**:  
+[Laura Bell](laura.bell@barrowneuro.org), ISMRM Perfusion Study Group Trainee Representative, Barrow Neurological Institute   
+[Ives Levesque](ives.levesque@mcgill.ca), F2F Host, McGill University  
 **Attendees**: Thanks for joining us!  
 _Zaki Ahmrf, Udunna Anazodo, Daniel Barboriak, Laura Bell, Benoit Bourassa-Moreau, Irene Brumer, Paula Croal, Greg Cron, Charlotte Debus, Tanguy Duval, Klaus Eickel, Andrey Fedorov,Xavier Golay, Ingomar Gutmann,Ina Nora Kompan, Ives Levesque, Simon Levy, Thomas Lindner, Hanzhang Lu, Henk Mutsaerts, Aaron Oliver-Taylor, Jan Petr, Steven Sourbron, Yuriko Suzuki, David Thomas, Marta Tibiletti, Tanja Uhrig, and Frank Zollner_  
 **Agenda**:

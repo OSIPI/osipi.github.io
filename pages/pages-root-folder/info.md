@@ -20,7 +20,3 @@ OSIPI is a community-driven effort and is currently bootstrapped by the energeti
 * [**Frank Zöllner**](https://www.umm.uni-heidelberg.de/inst/cbtm/ckm/mitarbeiter/personalpage/fzoellne.html), Heidelberg University, Germany
 
 We welcome your feedback about the directions of the OSIPI activities! Feel free to reach out to individual EMB members, or contribute your feedback by posting to the [OSIPI forum](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging).
-
-If you have feedback specifically about the formulation of the aims, you can also leave comments in [this google doc](https://docs.google.com/document/d/10OhbXTRGPuToYLy-cFof9TreX0DS_yhs_8wJeIw5SIU/edit).
-
-{% include alert alert='<a href="https://docs.google.com/document/d/10OhbXTRGPuToYLy-cFof9TreX0DS_yhs_8wJeIw5SIU/edit">Give feedback about the OSIPI aims here!</a>' %}

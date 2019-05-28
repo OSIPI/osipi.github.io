@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: "/aims/toolbox/"
-title: "Open-source functions, scripts and pipelines for perfusion imaging analysis"
+title: "Open-source functions, scripts, and pipelines for perfusion imaging analysis"
 header: no
 #subheadline: "... because we need one!"
 ---

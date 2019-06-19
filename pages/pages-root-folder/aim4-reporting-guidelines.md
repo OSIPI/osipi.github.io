@@ -33,6 +33,7 @@ This will enable interoperability and facilitate the comparison of results produ
 8. Petra van Houdt
 9. Ingomar Guttman
 10. Frank Zoellner
+11. Patrick Thurner
 
 **Task force 4.3. DICOM standard amendment** (to open after lexicons are finalised)
 1. Andrey Fedorov

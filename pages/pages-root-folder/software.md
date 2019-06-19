@@ -28,8 +28,8 @@ This is aimed at end-users looking for a suitable tool to process their data. Th
 2. Andrey Fedorov
 3. Benoit Bourassa Moreau
 4. Ingomar Gutmann
-5. P.T. (TBC)
+5. Patrick Thurner
 6. Ives Levesque
-7. TBC
-8. TBC
+7. Laura Bell
+8. Sudarshan Ragunathan
 

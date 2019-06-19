@@ -55,8 +55,8 @@ Scope: collect DSC code from developers and integrate in the library structure
 
 1. Laura Bell
 2. Jayashree Kalpathy-Cramer
-3. TBC
-4. TBC
+3. Ben Ellingson
+4. Sudarshan Ragunathan
 5. TBC
 6. TBC
 7. TBC

@@ -7,11 +7,11 @@ header: no
 categories:
   - event
 gallery:
-  - image_url: /assets/galleries/ISMRM2019/ISMRM2019-MIS-1.jpg
+  - image_url: ISMRM2019-MIS-1.jpg
     caption: Steven and Laura moderating the session, while Henk Jan Mutsaerts presenting
-  - image_url: /assets/galleries/ISMRM2019/ISMRM2019-MIS-2.jpg
+  - image_url: ISMRM2019-MIS-2.jpg
     caption: Close to full house at the session presenting OSIPI!
-  - image_url: /assets/galleries/ISMRM2019/ISMRM2019-EMB-afterhours.jpg
+  - image_url: ISMRM2019-EMB-afterhours.jpg
     caption: OSIPI EMB first face to face meeting (sans Patricia and Amedeo!)
 ---
 

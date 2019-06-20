@@ -6,6 +6,13 @@ comments: false
 header: no
 categories:
   - event
+gallery:
+  - image_url: /assets/galleries/ISMRM2019/ISMRM2019-MIS-1.jpg
+    caption: Steven and Laura moderating the session, while Henk Jan Mutsaerts presenting
+  - image_url: /assets/galleries/ISMRM2019/ISMRM2019-MIS-2.jpg
+    caption: Close to full house at the session presenting OSIPI!
+  - image_url: /assets/galleries/ISMRM2019/ISMRM2019-EMB-afterhours.jpg
+    caption: OSIPI EMB first face to face meeting (sans Patricia and Amedeo!)
 ---
 
 # ISMRM Member-Initiated Symposium “Open Source Initiative for Perfusion Imaging”
@@ -14,3 +21,5 @@ categories:
 **Where**: ISMRM 27th Annual meeting and exhibition  
 **Agenda**: You can find the details of this event at [the ISMRM page of the event](https://www.ismrm.org/19/program_files/MIS04.htm).  
 **Get OSIPI introduction slides at MIS [here](http://bit.ly/2VwZcYY)**
+
+{% include gallery %}

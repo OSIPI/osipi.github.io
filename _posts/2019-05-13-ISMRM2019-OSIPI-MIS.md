@@ -24,7 +24,7 @@ Note: if you registered for ISMRM 2019, you can view video recordings of the pre
 
 * 13:45 Introduction to the Perfusion Open-Source Initiative - Andrey Fedorov [[slides](http://bit.ly/2VwZcYY)]
 * 14:00 Building Software for Reproducible Research: Lessons from the BART Project - Martin Uecker
-* 14:20 Welcome to the Jungle: Open-Source Software for DCE & DSC - Charlotte Debus [[slides](https://www.osipi.org/assets/pdf/Debus-OSIPI-F2F-2019.pdf)]
+* 14:20 Welcome to the Jungle: Open-Source Software for DCE & DSC - Charlotte Debus [[slides](https://www.osipi.org/assets/pdf/Debus-OSIPI-MIS-2019.pdf)]
 * 14:30 Standardized Open-Source Image Analysis: Can We Avoid Confusion but Focus on Perfusion? - Henk-Jan Mutsaerts
 * 14:45 Best Practices in DRO Development - Daniel Barboriak
 * 14:50 Digital Reference Objects for DCE-MRI: Sources & Directions - Daniel Barboriak

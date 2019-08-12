@@ -6,6 +6,8 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
+Aims
+----------
 OSIPI's aims are always open to be discussed and amended by the community. As of now, this is OSIPI's growing list of actionable aims presented in May 2019:
 
 1. [**Software inventory: Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis**](/aims/software-inventory/) This is aimed at end-users looking for a suitable tool to process their data. This inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.
@@ -15,6 +17,20 @@ OSIPI's aims are always open to be discussed and amended by the community. As of
 5. [**Exchange: Develop a platform for discussion and exchange between developers and users of perfusion software**](/aims/exchange/) Effective communication is a key prerequisite for the realisation of the aims, but also to ensure long-term sustainability of the initiative. Through the use of novel communication media and organisation of events, OSIPI will build an active community promoting networking, communication, guidance and discussion.
 6. [**Benchmarking: Development of benchmarks and application to existing software**](/aims/benchmarking/) Using the data collected in aim 3, develop metrics that quantify the performance of a perfusion analysis tool (eg. bias and precision on DRO’s, agreement with reference methods in-vivo, reproducibility on in-vivo data, processing time, …). These metrics will be measured for the software tools collected in aims 1 and 2 in order to establish a set of benchmarks. The long-term aim is to establish OSIPI as an independent arbiter for software solutions in perfusion imaging.
 
+Task Forces
+--------------------
+Task forces are the OSIPI means to implement the [aims](/aims/).
+
+A *task force* is a group of OSIPI community volunteers with the interest and expertise in the subject matter of a specific aim, who are actively working on a specific task towards achieving this aim. They are open for participation by anyone in the OSIPI community. 
+
+Proposal for task forces can arise from members of the community. A single aim can have multiple task-forces, depending on the number of tasks that are required to implement the aim. Each task force is assigned one or more leads that direct activities of the task force and report to the EMB about the progress at the intervals mutually agreed between the task force and the EMB. Members of the community can join existing task forces at any time, but this needs to be agreed on with the existing members of the task force.
+
+Task forces define their own scope and milestones. These can be changed if necessary, but requires approval of the EMB, in order to avoid duplicated work, or work outside of the scope of the task-force or aim.
+Once the task is achieved, the task force may be closed. 
+
+
+Contribute
+--------------------
 If you want to get involved, feel free to add your name to the task forces in any of these aims or feel free to reach out to us. At any time, we welcome feedback about OSIPI activities and the aims listed above! You can reach out to individual EMB members or contribute your feedback by posting to the [OSIPI forum](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging).
 
 If you have feedback specifically about the formulation of the aims, you can also leave comments in [this google doc](https://docs.google.com/document/d/10OhbXTRGPuToYLy-cFof9TreX0DS_yhs_8wJeIw5SIU/edit).

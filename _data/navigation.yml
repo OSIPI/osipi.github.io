@@ -23,10 +23,6 @@
   - title: "Perfusion Software Benchmarking"
     url: "/aims/benchmarking/"
 
-- title: "Task Forces"
-  url: "/taskforces/"
-  side: left
-
 - title: "Forum"
   url: "/forum/"
   side: left

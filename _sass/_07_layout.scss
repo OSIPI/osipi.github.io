@@ -94,7 +94,12 @@ body.video cite { color: #fff; }
 
 @media #{$small-only} {
     #logo img {
-        display: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 40px;
+        height: auto;
+        width: auto;
     }
     #masthead {
         height: 200px;
@@ -121,7 +126,12 @@ body.video cite { color: #fff; }
 
 @media #{$medium-only} {
     #logo img {
-        margin-top: 60px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 40px;
+        height: auto;
+        width: auto;
     }
     #masthead {
         height: 280px;
@@ -144,7 +154,12 @@ body.video cite { color: #fff; }
 
 @media #{$large-only} {
     #logo img {
-        margin-top: 80px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        height: auto;
+        width: auto;
     }
     #masthead {
         height: 310px;
@@ -167,7 +182,12 @@ body.video cite { color: #fff; }
 
 @media #{$xlarge-up} {
     #logo img {
-        margin-top: 110px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 40px;
+        height: auto;
+        width: auto;
     }
     #masthead {
         height: 380px;

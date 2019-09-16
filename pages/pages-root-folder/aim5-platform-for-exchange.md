@@ -18,7 +18,7 @@ Scope: develop and distribute educational content such as online tutorials, powe
 2. Paula Croal
 3. Zaki Ahmed
 4. Patricia Clement
-5. TBC
+5. Divya Bolar
 6. TBC
 7. TBC
 8. TBC

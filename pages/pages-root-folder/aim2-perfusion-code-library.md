@@ -27,8 +27,8 @@ Scope: (1) define Library structure, licensing, naming conventions, documentatio
 
 Scope: collect ASL code from developers and integrate in the library structure
 
-1. TBC
-2. TBC
+1. Henk-Jan Mutsaerts
+2. Sudipto Dolui
 3. TBC
 4. TBC
 5. TBC

@@ -23,7 +23,7 @@ This will enable interoperability and facilitate the comparison of results produ
 
 **Task force 4.2. DCE/DSC lexicon** (Active)
 
-1. **Chair** Ina Kompan
+1. **Co-lead** Ina Kompan
 2. Laura Bell
 3. Charlotte Debus
 4. Ralf Floca

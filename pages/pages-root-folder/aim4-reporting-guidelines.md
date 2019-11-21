@@ -12,14 +12,14 @@ This will enable interoperability and facilitate the comparison of results produ
 
 **Task force 4.1. ASL lexicon**
 
-1. Jan Petr
+1. Udunna Anazodo
 2. Patricia Clement
-3. Henk-Jan Mutsaerts
-4. Yuriko Suzuki
-5. Thomas Lindner
-6. Udunna Anazodo
-7. Michael Chappell (TBC)
-8. TBC
+3. Thomas Lindner
+4. Jan Petr
+5. Yuriko Suzuki
+6. *open position*
+7. *open position*
+8. *open position*
 
 **Task force 4.2. DCE/DSC lexicon** (Active)
 
@@ -27,23 +27,21 @@ This will enable interoperability and facilitate the comparison of results produ
 2. Laura Bell
 3. Charlotte Debus
 4. Ralf Floca
-5. Chad Quarles
-6. Andrey Fedorov
-7. Steven Sourbron
+5. Andrey Fedorov
+6. Steven Sourbron
+7. Chad Quarles
 8. Petra van Houdt
-9. Ingomar Guttman
-10. Frank Zoellner
-11. Patrick Thurner
+9. Patrick Thurner
 
 **Task force 4.3. DICOM standard amendment** (to open after lexicons are finalised)
 1. Andrey Fedorov
 2. Ina Kompan
 3. David Clunie
 4. Yuriko Suzuki
-5. TBC
-6. TBC
-7. TBC
-8. TBC
+5. *open position*
+6. *open position*
+7. *open position*
+8. *open position*
 
 
 ### Resources

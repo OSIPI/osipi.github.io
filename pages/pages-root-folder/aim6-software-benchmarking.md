@@ -17,6 +17,6 @@ Using the data collected in aim 3, develop metrics that quantify the performance
 4. *open position*
 5. *open position*
 6. *open position*
-7. *open position*\
+7. *open position*
 8. *open position*
 

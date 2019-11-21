@@ -6,11 +6,13 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-Aims
-----------
-OSIPI's aims are always open to be discussed and amended by the community. As of now, this is OSIPI's growing list of actionable aims presented in May 2019:
+OSIPI's mission is to promote the sharing of perfusion imaging software in order to eliminate the practice of duplicate development, improve the reproducibility of perfusion imaging research, and speed up the translation into tools for discovery science, drug development, and clinical practice. To do this, our current actionable aims, as presented in May 2019, are as follows:
 
-1. [**Software inventory: Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis**](/aims/software-inventory/) This is aimed at end-users looking for a suitable tool to process their data. This inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.
+1. [**Software inventory: Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis**](/aims/software-inventory/) 
+
+Task Force 1.1 - ASL Inventory
+Task Force 1.2 - DCE/DSC Inventory
+
 2. [**Toolbox: Develop a library of open-source functions, scripts and pipelines for perfusion imaging analysis**](/aims/toolbox/) This is aimed at developers of perfusion methods looking for specific functionality or development templates, or who want to share their own in-house developments with others. Contributions will be sourced from the community, and may include individual functions and more complete pipelines in various programming languages. OSIPI will organise these in a coherent and well-documented library structure, then identify and develop any missing functionality.
 3. [**Data inventory: Develop an inventory of data for the evaluation of perfusion software**](/aims/data-inventory/) This is aimed at researchers looking for data to test their perfusion analysis methods, and at data owners who want to share data for secondary research. The inventory will provide a curated list of publicly available synthetic, phantom, preclinical and clinical perfusion datasets. Digital reference objects (DROs) and phantom data can serve as ground truth for perfusion analysis methods, and in-vivo data can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality.
 4. [**Reporting: Develop guidelines for reporting image acquisition and analysis of perfusion imaging**](/aims/reporting-guidelines/) This will enable interoperability and facilitate the comparison of results produced by different analysis tools, studies or sites. We aim to harmonize and increase the detail in the description of parameters and configurations, enable encoding of the complete perfusion imaging workflow, and pave the way for consensus building. An important application will be the amendment of the DICOM standard for perfusion parametric maps, and development of demonstrations and use cases.

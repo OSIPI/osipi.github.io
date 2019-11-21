@@ -12,22 +12,25 @@ This is aimed at researchers looking for data to test their perfusion analysis m
 
 **Task force 3.1. Digital Reference Objects and Phantoms**
 
-1. Leah Henze Bancroft
-2. Nataneal Semmineh (TBC)
-3. Xavier Golay
-4. Aaron Oliver-Taylor
-5. Daniel Barboriak (TBC)
-6. Ingomar Gutmann
-7. Benoit Bourassa Moreau
-8. TBC
+1. Jonathan Arvidsson
+2. Leah Henze Bancroft
+3. Benoit Bourassa Moreau
+4. Ingomar Gutmann
+5. Xavier Golay
+6. Pauline Hall Barrientos
+7. Jochen Hirsch
+8. Aaron Oliver-Taylor
+9. Nataneal Semmineh 
 
 **Task force 3.2. Clinical and preclinical data**
 
-1. Andrey Fedorov
-2. Greg Cron
-3. Thomas Lindner
-4. Zaki Ahmed
-5. TBC
-6. TBC
-7. TBC
-8. TBC
+1. Zaki Ahmed
+2. Beatrix Asenjo Garcia
+3. Greg Cron
+4. Andrey Fedorov
+5. Pauline Hall Barrientos
+6. Jochen Hirsch
+7. Thomas Lindner
+8. Felix Navarro
+9. Federico Pineda
+10. Annette van der Toorn

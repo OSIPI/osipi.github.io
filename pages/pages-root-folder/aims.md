@@ -17,8 +17,7 @@ OSIPI's mission is to promote the sharing of perfusion imaging software in order
 
     Task Force 2.1 - Library Structure and Management (TBD lead, TBD co-lead)<br/>
     Task Force 2.2 - ASL Contributions (TBD lead, TBD co-lead)<br/>
-    Task Force 2.3 - DCE Contributions (TBD lead, TBD co-lead)<br/>
-    Task Force 2.4 - DSC Contributions (TBD lead, TBD co-lead)<br/>
+    Task Force 2.3 - DCE/DSC Contributions (TBD lead, TBD co-lead)
 
 3. [**Data inventory: Develop an inventory of data for the evaluation of perfusion software**](/aims/data-inventory/) 
 

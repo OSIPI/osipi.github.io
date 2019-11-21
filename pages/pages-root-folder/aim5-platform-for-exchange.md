@@ -15,23 +15,23 @@ Effective communication is a key prerequisite for the realisation of the aims, b
 Scope: develop and distribute educational content such as online tutorials, powerpoint presentation, training courses. 
 
 1. Rik Achten
-2. Paula Croal
-3. Zaki Ahmed
+2. Zaki Ahmed
+3. Divya Bolar
 4. Patricia Clement
-5. Divya Bolar
-6. TBC
-7. TBC
-8. TBC
+5. Paula Croal
+6. *open position*
+7. *open position*
+8. *open position*
 
 **Task force 5.2: Dissemination and Events** 
 
 Scope: develop dissemination materials including osipi.org website content and structure, and organise events such as hackathons, meetings, educational sessions on conferences.
 
-1. TBC
-2. TBC
-3. TBC
-4. TBC
-5. TBC
-6. TBC
-7. TBC
-8. TBC
+1. *open position*
+2. *open position*
+3. *open position*
+4. *open position*
+5. *open position*
+6. *open position*
+7. *open position*
+8. *open position*

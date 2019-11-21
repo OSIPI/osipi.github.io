@@ -41,8 +41,6 @@ OSIPI's mission is to promote the sharing of perfusion imaging software in order
 
 Contribute
 --------------------
-We highly encourage anyone to get involved - please reach out to us if you can in any shape or form. We welcome feedback about OSIPI activities and the aims listed above as well. You can reach out to individuals participating or contribute your feedback by posting to the [OSIPI forum](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging).
-
-If you have feedback specifically about the formulation of the aims, you can also leave comments in [this google doc](https://docs.google.com/document/d/10OhbXTRGPuToYLy-cFof9TreX0DS_yhs_8wJeIw5SIU/edit).
+We highly encourage anyone to get involved - please reach out to us if you can in any shape or form. You can reach out to individuals participating or contribute your feedback by posting to the [OSIPI forum](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging).
 
 {% include alert alert='<a href="https://docs.google.com/document/d/10OhbXTRGPuToYLy-cFof9TreX0DS_yhs_8wJeIw5SIU/edit">Give feedback about the OSIPI aims here!</a>' %}

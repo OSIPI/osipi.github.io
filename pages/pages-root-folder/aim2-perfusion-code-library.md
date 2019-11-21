@@ -14,50 +14,42 @@ This is aimed at developers of perfusion methods looking for specific functional
 
 Scope: (1) define Library structure, licensing, naming conventions, documentation conventions, version control, code review, etc.. (2) ongoing management and revision
 
-1. Simon Levy
-2. Frank Zoellner
-3. TBC
-4. TBC
-5. TBC
-6. TBC
-7. TBC
-8. TBC
+1. Michael Berks
+2. Martin Craig
+3. Rebeca Echeverria Chasco
+4. Simon Levy
+5. Matthias Schabel
+6. Frank Zoellner
+7. *open position*
+8. *open position*
 
 **Task force 2.2. ASL contributions**
 
 Scope: collect ASL code from developers and integrate in the library structure
 
-1. Henk-Jan Mutsaerts
-2. Sudipto Dolui
-3. TBC
-4. TBC
-5. TBC
-6. TBC
-7. TBC
-8. TBC
+1. Marco Castellaro
+2. Martin Craig
+3. Sudipto Dolui
+4. Rebeca Echeverria Chasco 
+5. Patrick Hales
+6. Maria Mora
+7. Ruth Oliver 
+8. *open position*
 
-**Task force 2.3. DCE contributions**
+**Task force 2.3. DCE/DSC contributions**
 
-Scope: collect DCE code from developers and integrate in the library structure
+Scope: collect DCE/DSC code from developers and integrate in the library structure
 
-1. Petra van Houdt
-2. Ingomar Gutmann
-3. Zaki Ahmed
-4. TBC
-5. TBC
-6. TBC
-7. TBC
-8. TBC
-
-**Task force 2.4. DSC contributions**
-
-Scope: collect DSC code from developers and integrate in the library structure
-
-1. Laura Bell
-2. Jayashree Kalpathy-Cramer
-3. Ben Ellingson
-4. Sudarshan Ragunathan
-5. TBC
-6. TBC
-7. TBC
-8. TBC
+1. Jonathan Arvidsson
+2. Martin Craig
+3. Ingomar Gutmann
+4. Zaki Ahmed
+5. Michael Berks
+6. Ben Ellingson
+7. Petra van Houdt
+8. Jayashree Kalpathy-Cramer
+9. Federico Pineda
+10. Sudarshan Ragunathan
+11. Matthias Schabel
+12. Michael Thrippleton
+13. Luis Torres

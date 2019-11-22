@@ -6,40 +6,41 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-OSIPI's mission is to promote the sharing of perfusion imaging software in order to eliminate the practice of duplicate development, improve the reproducibility of perfusion imaging research, and speed up the translation into tools for discovery science, drug development, and clinical practice. To do this, our current actionable aims, as presented in May 2019, are as follows:
+The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view) for OSIPI defines six actionable aims, each of which are addressed by one or more independent task forces:
 
-1. [**Software inventory: Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis**](/aims/software-inventory/) 
+Aim 1. [**Software inventory: Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis**](/aims/software-inventory/) 
 
-    Task Force 1.1 - ASL Inventory (TBD lead, TBD co-lead)<br/>
-    Task Force 1.2 - DCE/DSC Inventory (TBD lead, TBD co-lead)
+    Task Force - ASL Inventory (TBD lead, TBD co-lead)<br/>
+    Task Force - DCE/DSC Inventory (TBD lead, TBD co-lead)
 
-2. [**Toolbox: Develop a library of open-source functions, scripts and pipelines for perfusion imaging analysis**](/aims/toolbox/)
+Aim 2. [**Toolbox: Develop a library of open-source functions, scripts and pipelines for perfusion imaging analysis**](/aims/toolbox/)
 
-    Task Force 2.1 - Library Structure and Management (TBD lead, TBD co-lead)<br/>
-    Task Force 2.2 - ASL Contributions (TBD lead, TBD co-lead)<br/>
-    Task Force 2.3 - DCE/DSC Contributions (TBD lead, TBD co-lead)
+    Task Force - Library Structure and Management (TBD lead, TBD co-lead)<br/>
+    Task Force - ASL Contributions (TBD lead, TBD co-lead)<br/>
+    Task Force - DCE/DSC Contributions (TBD lead, TBD co-lead)
 
-3. [**Data inventory: Develop an inventory of data for the evaluation of perfusion software**](/aims/data-inventory/) 
+Aim 3. [**Data inventory: Develop an inventory of data for the evaluation of perfusion software**](/aims/data-inventory/) 
 
-    Task Force 3.1 - Digital Reference Objects and Phantoms (TBD lead, TBD co-lead)<br/>
-    Task Force 3.2 - Clinical and Preclinical Data (TBD lead, TBD co-lead)
+    Task Force - Digital Reference Objects and Phantoms (TBD lead, TBD co-lead)<br/>
+    Task Force - Clinical and Preclinical Data (TBD lead, TBD co-lead)
 
-4. [**Reporting: Develop guidelines for reporting image acquisition and analysis of perfusion imaging**](/aims/reporting-guidelines/) 
+Aim 4. [**Reporting: Develop guidelines for reporting image acquisition and analysis of perfusion imaging**](/aims/reporting-guidelines/) 
 
-    Task Force 4.1 - ASL Lexicon (TBD lead, TBD co-lead)<br/>
-    Task Force 4.2 - DCE/DSC Lexicon (TBD lead, Ina Kompan co-lead)
+    Task Force - ASL Lexicon (TBD lead, TBD co-lead)<br/>
+    Task Force - DCE/DSC Lexicon (TBD lead, Ina Kompan co-lead)
     
-5. [**Exchange: Develop a platform for discussion and exchange between developers and users of perfusion software**](/aims/exchange/) 
+Aim 5. [**Exchange: Develop a platform for discussion and exchange between developers and users of perfusion software**](/aims/exchange/) 
 
-    Task Force 5.1 - Teaching and Education (TBD lead, TBD co-lead)<br/>
-    Task Force 5.2 - Dissemination and Events (TBD lead, TBD co-lead)
+    Task Force - Teaching and Education (TBD lead, TBD co-lead)<br/>
+    Task Force - Dissemination and Events (TBD lead, TBD co-lead)
 
-6. [**Benchmarking: Development of benchmarks and application to existing software**](/aims/benchmarking/)
+Aim 6. [**Benchmarking: Development of benchmarks and application to existing software**](/aims/benchmarking/)
 
     Task Force 6.1 - Development of Benchmarking (TBD lead, TBD co-lead)<br/>
 
+
 Contribute
---------------------
-We highly encourage anyone to get involved - please reach out to us if you can in any shape or form. You can reach out to individuals participating or contribute your feedback by posting to the [OSIPI forum](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging).
+----------
+We highly encourage anyone interested to get involved - if you feel you can contribute to one of the task forces, please read out to the lead directly. You can reach out to individuals participating or contribute your feedback by posting to the [OSIPI forum](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging).
 
 {% include alert alert='<a href="https://docs.google.com/document/d/10OhbXTRGPuToYLy-cFof9TreX0DS_yhs_8wJeIw5SIU/edit">Give feedback about the OSIPI aims here!</a>' %}

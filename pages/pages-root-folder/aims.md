@@ -36,7 +36,7 @@ Aim 5. [**Exchange: Develop a platform for discussion and exchange between devel
 
 Aim 6. [**Benchmarking: Development of benchmarks and application to existing software**](/aims/benchmarking/)
 
-   Task Force 6.1 - Development of Benchmarking (TBD lead, TBD co-lead)<br/>
+   Task Force - Development of Benchmarking (TBD lead, TBD co-lead)<br/>
 
 
 Contribute

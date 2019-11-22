@@ -32,11 +32,13 @@ The work in OSIPI is planned around 6 specific [aims](/aims/) that include the b
 **How can I join OSIPI?**
 -------------------------
 
-If you want to stay informed about the progress of OSIPI, please consider joining the [OSIPI google group](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging/). 
+If you want to stay informed about the progress of OSIPI, contribute ideas or comments, please consider joining the [OSIPI google group](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging/). 
 
 If you want to actively contribute to a particular task force, then please get in touch with the appropriate task force lead directly. The names and contact details are [here](/aims/). 
 
 If you want to contribute but are unsure where, or your ideas are outside the remit of any given taks force, then please contact a member of the OSIPI leadership team.
+
+This website is hosted on [github](https://github.com/OSIPI/osipi.github.io/). Feel free to contribute - instructions are provided [here](https://docs.google.com/document/d/1cJV7rnJEzPXu_hyDiw8PEZtw27N1jthtuWXPynBpjmk/edit?usp=sharing) if you are not familiar with Github.
 
 
 **How is OSIPI managed?**

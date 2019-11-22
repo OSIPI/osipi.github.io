@@ -11,7 +11,7 @@ header: no
 
 OSIPI is an initiative of the [ISMRM Perfusion Study Group](https://www.ismrm.org/study-groups/perfusion-mr/) and endorsed by the parent society [ISMRM](https://www.ismrm.org/). The project was founded in the fall of 2018 after a call-to-action survey of the study group membership revealed a strong demand for an initiative around perfusion software. Over 100 members returned a questionnaire with detailed information on data, software and other possible contributions. 
 
-A founding board organised [launch events](/events/) during and after the ISMRM 2019 and drafted more detailed plans including this project website and logo, communication channels, governance structure and mission statement. The plans were endorsed by the ISMRM study group and the ISMRM executive committee in november 2019 and the operational phase of OSIPI was launched on 1 december 2019.
+A founding board organised [launch events](/events/) during and after the ISMRM 2019 and drafted more detailed plans including this project website and logo, communication channels, governance structure and mission statement. The plans were endorsed by the ISMRM study group and the ISMRM executive committee in november 2019 and the operational phase of OSIPI was launched on 1 december 2019. OSIPI has no predefined end date and is designed to evolve as the need for coordinated perfusion software development changes.
 
 *OSIPI founding board:* Laura Bell, Patricia Clement, Charlotte Debus, Andrey Fedorov, Simon Levy, Steven Sourbron, and Frank Zoellner. 
 

@@ -40,7 +40,7 @@ If you want to contribute but are unsure where, or your ideas are outside the re
 
 The task force leads together with the leadership team form the **Executive and Management Board (EMB)**, which defines a *Roadmap* with detailed deliverables and milestones for each of the task forces, and monitors their implementation. The EMB reports back to the ISMRM perfusion study group ahead of each study group meeting at the ISMRM. For more details on the way OSIPI is organised, please refer to the [governance document](https://drive.google.com/file/d/1fH0hFBMJsUctdhhBmv1ujGI-9v5Bwe3k/view?usp=sharing/). 
 
-The mission and overal [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view?usp=sharing/) of OSIPI is revised and updated on a biannual basis by the **Strategy Board**, which also nominates the task force leads. The Strategy Board consists of the OSIPI leadership team, the governance committee of the perfusion study group, and representatives of other societies with a stake in perfusion stoftware development.
+The mission and overal [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view?usp=sharing/) of OSIPI is revised and updated on an annual basis by the **Strategy Board**, which also nominates the task force leads. The Strategy Board consists of the OSIPI leadership team, the governance committee of the perfusion study group, and representatives of other societies with a stake in perfusion stoftware development.
 
 
 {% include alert alert='[Join the OSIPI community!](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging/)' %}

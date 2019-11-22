@@ -7,6 +7,7 @@ header: no
 ---
 
 **When was OSIPI founded?**
+---------------------------
 
 OSIPI is an initiative of the [ISMRM Perfusion Study Group](https://www.ismrm.org/study-groups/perfusion-mr/) and endorsed by the parent society [ISMRM](https://www.ismrm.org/). The project was founded in the fall of 2018 after a call-to-action survey of the study group membership revealed a strong demand for an initiative around perfusion software. Over 100 members returned a questionnaire with detailed information on data, software and other possible contributions. 
 
@@ -16,6 +17,7 @@ A founding board organised [launch events](/events/) during and after the ISMRM 
 
 
 **Who is leading OSIPI?**
+-------------------------
 
 OSIPI is managed by a **leadership team** of 4 members nominated by the ISMRM perfusion study group (past chair, chair, co-chair, secretary). Each is appointed for 1 year with a rotation on the annual meeting of the ISMRM, when a new secretary is nominated by the study group and the past chair rotates off. The current leadership team consists of:
 
@@ -28,6 +30,7 @@ The work in OSIPI is planned around 6 specific [aims](/aims/) that include the b
 
 
 **How can I join OSIPI?**
+-------------------------
 
 If you want to stay informed about the progress of OSIPI, please consider joining the [OSIPI google group](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging/). 
 
@@ -37,6 +40,7 @@ If you want to contribute but are unsure where, or your ideas are outside the re
 
 
 **How is OSIPI managed?**
+-------------------------
 
 The task force leads together with the leadership team form the **Executive and Management Board (EMB)**, which defines a *Roadmap* with detailed deliverables and milestones for each of the task forces, and monitors their implementation. The EMB reports back to the ISMRM perfusion study group ahead of each study group meeting at the ISMRM. For more details on the way OSIPI is organised, please refer to the [governance document](https://drive.google.com/file/d/1fH0hFBMJsUctdhhBmv1ujGI-9v5Bwe3k/view?usp=sharing/). 
 

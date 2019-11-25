@@ -16,7 +16,7 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
 *This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.*
 
-   Task Force 1.1 - ASL Inventory
+   Task Force 1.1 - ASL Inventory <br/>
       1. Udunna Anazodo <br/>
       2. Sudipto Dolui <br/>
       3. David Thomas <br/>
@@ -26,15 +26,15 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
       7. *open position* <br/>
       8. *open position* <br/>
       
-   Task Force 1.2 - DCE/DSC Inventory (TBD lead, TBD co-lead)
-      1. 
-      2.
-      3.
-      4.
-      5.
-      6.
-      7.
-      8.
+   Task Force 1.2 - DCE/DSC Inventory <br/>
+      1. Benoit Bourassa Moreau <br/>
+      2. Andrey Fedorov <br/>
+      3. Ingomar Gutmann <br/>
+      4. Ives Levesque <br/>
+      5. Sudarshan Ragunathan <br/>
+      6. Patrick Thurner <br/>
+      7. *open position* <br/>
+      8. *open position* <br/>
    
 
 **Aim 2. Toolbox**

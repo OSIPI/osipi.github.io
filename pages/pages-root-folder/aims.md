@@ -17,6 +17,7 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 *This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.*
 
    **Task Force 1.1 - ASL Inventory** <br/>
+   
       1. Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA) <br/>
       2. Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA) <br/>
       3. David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK) <br/>
@@ -27,6 +28,7 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
       8. *open position* <br/>
       
    **Task Force 1.2 - DCE/DSC Inventory** <br/>
+   
       1. Benoit Bourassa Moreau <br/>
       2. Andrey Fedorov <br/>
       3. Ingomar Gutmann <br/>
@@ -46,6 +48,7 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
    **Task Force 2.1 - Library Structure and Management** <br/>
    *Scope: (1) define Library structure, licensing, naming conventions, documentation conventions, version control, code      review, etc.. (2) ongoing management and revision* <br/>
+   
       1. Michael Berks <br/>
       2. Martin Craig <br/>
       3. Rebeca Echeverria Chasco <br/>
@@ -57,6 +60,7 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
       
    **Task Force 2.2 - ASL Contributions** <br/>
    *Scope: collect ASL code from developers and integrate in the library structure* <br/>
+   
       1. Marco Castellaro <br/>
       2. Martin Craig <br/>
       3. Sudipto Dolui <br/>
@@ -68,6 +72,7 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
       
    **Task Force 2.3 - DCE/DSC Contributions** <br/>
    *Scope: collect DCE/DSC code from developers and integrate in the library structure* <br/>
+   
       1. Jonathan Arvidsson <br/>
       2. Martin Craig <br/>
       3. Ingomar Gutmann <br/>

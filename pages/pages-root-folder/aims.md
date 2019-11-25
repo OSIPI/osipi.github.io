@@ -17,24 +17,24 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 *This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.*
 
    **Task Force 1.1 - ASL Inventory** <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA) <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA) <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK) <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany) <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. *open position* <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. *open position* <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. *open position* <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. *open position* <br/>
+      &nbsp;&nbsp;&nbsp; 1. Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA) <br/>
+      &nbsp;&nbsp;&nbsp; 2. Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA) <br/>
+      &nbsp;&nbsp;&nbsp; 3. David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK) <br/>
+      &nbsp;&nbsp;&nbsp; 4. Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany) <br/>
+      &nbsp;&nbsp;&nbsp; 5. *open position* <br/>
+      &nbsp;&nbsp;&nbsp; 6. *open position* <br/>
+      &nbsp;&nbsp;&nbsp; 7. *open position* <br/>
+      &nbsp;&nbsp;&nbsp; 8. *open position* <br/>
       
    **Task Force 1.2 - DCE/DSC Inventory** <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Benoit Bourassa Moreau <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Andrey Fedorov <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Ingomar Gutmann <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Ives Levesque <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Sudarshan Ragunathan <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Patrick Thurner <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. *open position* <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. *open position* <br/>
+      &nbsp;&nbsp;&nbsp; 1. Benoit Bourassa Moreau <br/>
+      &nbsp;&nbsp;&nbsp; 2. Andrey Fedorov <br/>
+      &nbsp;&nbsp;&nbsp; 3. Ingomar Gutmann <br/>
+      &nbsp;&nbsp;&nbsp; 4. Ives Levesque <br/>
+      &nbsp;&nbsp;&nbsp; 5. Sudarshan Ragunathan <br/>
+      &nbsp;&nbsp;&nbsp; 6. Patrick Thurner <br/>
+      &nbsp;&nbsp;&nbsp; 7. *open position* <br/>
+      &nbsp;&nbsp;&nbsp; 8. *open position* <br/>
    
 
 **Aim 2. Toolbox**
@@ -68,55 +68,119 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
       
    **Task Force 2.3 - DCE/DSC Contributions** <br/>
    *Scope: collect DCE/DSC code from developers and integrate in the library structure* <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Jonathan Arvidsson <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Martin Craig <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Ingomar Gutmann <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Zaki Ahmed <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Michael Berks <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Ben Ellingson <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. Petra van Houdt <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. Jayashree Kalpathy-Cramer <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. Federico Pineda <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Sudarshan Ragunathan <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. Matthias Schabel <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12. Sudarshan Ragunathan <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13. Michael Thrippleton <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14. Luis Torres <br/>  
+      &nbsp;&nbsp;&nbsp; 1. Jonathan Arvidsson <br/>
+      &nbsp;&nbsp;&nbsp; 2. Martin Craig <br/>
+      &nbsp;&nbsp;&nbsp; 3. Ingomar Gutmann <br/>
+      &nbsp;&nbsp;&nbsp; 4. Zaki Ahmed <br/>
+      &nbsp;&nbsp;&nbsp; 5. Michael Berks <br/>
+      &nbsp;&nbsp;&nbsp; 6. Ben Ellingson <br/>
+      &nbsp;&nbsp;&nbsp; 7. Petra van Houdt <br/>
+      &nbsp;&nbsp;&nbsp; 8. Jayashree Kalpathy-Cramer <br/>
+      &nbsp;&nbsp;&nbsp; 9. Federico Pineda <br/>
+      &nbsp;&nbsp;&nbsp; 10. Sudarshan Ragunathan <br/>
+      &nbsp;&nbsp;&nbsp; 11. Matthias Schabel <br/>
+      &nbsp;&nbsp;&nbsp; 12. Sudarshan Ragunathan <br/>
+      &nbsp;&nbsp;&nbsp; 13. Michael Thrippleton <br/>
+      &nbsp;&nbsp;&nbsp; 14. Luis Torres <br/>  
 
 **Aim 3. Data inventory**
 -------------------------
 
 [**Develop an inventory of data for the evaluation of perfusion software**](/aims/data-inventory/) 
+*This is aimed at researchers looking for data to test their perfusion analysis methods, and at data owners who want to share data for secondary research. The inventory will provide a curated list of publicly available synthetic, phantom, preclinical and clinical perfusion datasets. Digital reference objects (DROs) and phantom data can serve as ground truth for perfusion analysis methods, and in-vivo data can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality.* <br/>
 
-   Task Force - Digital Reference Objects and Phantoms (TBD lead, TBD co-lead)<br/>
-   Task Force - Clinical and Preclinical Data (TBD lead, TBD co-lead)
+   **Task Force 3.1 - Digital Reference Objects and Phantoms** <br/>
+      &nbsp;&nbsp;&nbsp; 1. Jonathan Arvidsson <br/>
+      &nbsp;&nbsp;&nbsp; 2. Leah Henze Bancroft <br/>
+      &nbsp;&nbsp;&nbsp; 3. Benoit Bourassa Moreau <br/>
+      &nbsp;&nbsp;&nbsp; 4. Ingomar Gutmann <br/>
+      &nbsp;&nbsp;&nbsp; 5. Xavier Golay <br/>
+      &nbsp;&nbsp;&nbsp; 6. Pauline Hall Barrientos <br/>
+      &nbsp;&nbsp;&nbsp; 7. Jochen Hirsch <br/>
+      &nbsp;&nbsp;&nbsp; 8. Aaron Oliver-Taylor <br/>
+      &nbsp;&nbsp;&nbsp; 9. Nataneal Semmineh <br/>
+      
+   **Task Force 3.1 - Clinical and Preclinical Data** <br/>
+      &nbsp;&nbsp;&nbsp; 1. Zaki Ahmed <br/>
+      &nbsp;&nbsp;&nbsp; 2. Beatrix Asenjo Garcia <br/>
+      &nbsp;&nbsp;&nbsp; 3. Greg Cron <br/>
+      &nbsp;&nbsp;&nbsp; 4. Andrey Fedorov <br/>
+      &nbsp;&nbsp;&nbsp; 5. Pauline Hall Barrientos <br/>
+      &nbsp;&nbsp;&nbsp; 6. Jochen Hirsch <br/>
+      &nbsp;&nbsp;&nbsp; 7. Thomas Lindner <br/>
+      &nbsp;&nbsp;&nbsp; 8. Felix Navarro <br/>
+      &nbsp;&nbsp;&nbsp; 9. Federico Pineda <br/>
+      &nbsp;&nbsp;&nbsp; 10. Annette van der Toorn <br/>
    
 
 **Aim 4. Reporting**
 --------------------
 
 [**Develop guidelines for reporting image acquisition and analysis of perfusion imaging**](/aims/reporting-guidelines/) 
+*This will enable interoperability and facilitate the comparison of results produced by different analysis tools, studies or sites. We aim to harmonize and increase the detail in the description of parameters and configurations, enable encoding of the complete perfusion imaging workflow, and pave the way for consensus building. An important application will be the amendment of the DICOM standard for perfusion parametric maps, and development of demonstrations and use cases.* <br/>
 
-   Task Force - ASL Lexicon (TBD lead, TBD co-lead)<br/>
-   Task Force - DCE/DSC Lexicon (TBD lead, Ina Kompan co-lead)
+   **Task Force 4.1 - ASL Lexicon**<br/>
+    &nbsp;&nbsp;&nbsp; 1. Udunna Anazodo
+    &nbsp;&nbsp;&nbsp; 2. Patricia Clement
+    &nbsp;&nbsp;&nbsp; 3. Thomas Lindner
+    &nbsp;&nbsp;&nbsp; 4. Jan Petr
+    &nbsp;&nbsp;&nbsp; 5. Yuriko Suzuki
+    &nbsp;&nbsp;&nbsp; 6. *open position*
+    &nbsp;&nbsp;&nbsp; 7. *open position*
+    &nbsp;&nbsp;&nbsp; 8. *open position*
+   
+   **Task Force 4.2 - DCE/DSC Lexicon**<br/>
+   &nbsp;&nbsp;&nbsp; 1. Ina Kompan
+   &nbsp;&nbsp;&nbsp; 2. Laura Bell
+   &nbsp;&nbsp;&nbsp; 3. Charlotte Debus
+   &nbsp;&nbsp;&nbsp; 4. Ralf Floca
+   &nbsp;&nbsp;&nbsp; 5. Andrey Fedorov
+   &nbsp;&nbsp;&nbsp; 6. Steven Sourbron
+   &nbsp;&nbsp;&nbsp; 7. Chad Quarles
+   &nbsp;&nbsp;&nbsp; 8. Petra van Houdt
+   &nbsp;&nbsp;&nbsp; 9. Patrick Thurner
+   
+   **Task Force 4.3 - DICOM standard amendment**<br/>
+   *Stay tuned! Will open after 4.1 and 4.2 are finalized.*
 
 
 **Aim 5. Platform for exchange**
 --------------------------------
 
 [**Exchange: Develop a platform for discussion and exchange between developers and users of perfusion software**](/aims/exchange/) 
+*Effective communication is a key prerequisite for the realisation of the aims, but also to ensure long-term sustainability of the initiative. Through the use of novel communication media and organisation of events, OSIPI will build an active community promoting networking, communication, guidance and discussion.*<br/>
 
-   Task Force - Teaching and Education (TBD lead, TBD co-lead)<br/>
-   Task Force - Dissemination and Events (TBD lead, TBD co-lead)
+   **Task Force 5.1 - Teaching and Education**<br/>
+   *Scope: develop and distribute educational content such as online tutorials, powerpoint presentation, training courses.*<br/>
+   &nbsp;&nbsp;&nbsp; 1. Rik Achten
+   &nbsp;&nbsp;&nbsp; 2. Zaki Ahmed
+   &nbsp;&nbsp;&nbsp; 3. Divya Bolar
+   &nbsp;&nbsp;&nbsp; 4. Patricia Clement
+   &nbsp;&nbsp;&nbsp; 5. Paula Croal
+   &nbsp;&nbsp;&nbsp; 6. *open position*
+   &nbsp;&nbsp;&nbsp; 7. *open position*
+   &nbsp;&nbsp;&nbsp; 8. *open position*
+
+   **Task Force 5.2 - Dissemination and Events**<br/>
+   *Scope: develop dissemination materials including osipi.org website content and structure, and organise events such as hackathons, meetings, educational sessions on conferences.<br/>*
+   &nbsp;&nbsp;&nbsp; 1. *open position*
+   &nbsp;&nbsp;&nbsp; 2. *open position*
+   &nbsp;&nbsp;&nbsp; 3. *open position*
+   &nbsp;&nbsp;&nbsp; 4. *open position*
+   &nbsp;&nbsp;&nbsp; 5. *open position*
+   &nbsp;&nbsp;&nbsp; 6. *open position*
+   &nbsp;&nbsp;&nbsp; 7. *open position*
+   &nbsp;&nbsp;&nbsp; 8. *open position*
 
 
 **Aim 6. Benchmarking**
 -----------------------
 
 [**Development of benchmarks and application to existing software**](/aims/benchmarking/)
+*Using the data collected in aim 3, develop metrics that quantify the performance of a perfusion analysis tool (eg. bias and precision on DRO’s, agreement with reference methods in-vivo, reproducibility on in-vivo data, processing time, …). These metrics will be measured for the software tools collected in aims 1 and 2 in order to establish a set of benchmarks. The long-term aim is to establish OSIPI as an independent arbiter for software solutions in perfusion imaging.*<br/>
 
-   Task Force - Development of Benchmarking (TBD lead, TBD co-lead)<br/>
-
+   **Task Force 6.1 - Development of Benchmarking**<br/>
+   *Stay tuned! Will open once aims 1-3 have progressed.*
 
 **Get involved!**
 -----------------

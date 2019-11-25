@@ -14,6 +14,8 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
 [**Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis**](/aims/software-inventory/) 
 
+*This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.*
+
    Task Force - ASL Inventory (TBD lead, TBD co-lead)<br/>
    Task Force - DCE/DSC Inventory (TBD lead, TBD co-lead)
    

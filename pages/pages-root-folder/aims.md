@@ -120,25 +120,25 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 *This will enable interoperability and facilitate the comparison of results produced by different analysis tools, studies or sites. We aim to harmonize and increase the detail in the description of parameters and configurations, enable encoding of the complete perfusion imaging workflow, and pave the way for consensus building. An important application will be the amendment of the DICOM standard for perfusion parametric maps, and development of demonstrations and use cases.* <br/>
 
    **Task Force 4.1 - ASL Lexicon**<br/>
-    &nbsp;&nbsp;&nbsp; 1. Udunna Anazodo
-    &nbsp;&nbsp;&nbsp; 2. Patricia Clement
-    &nbsp;&nbsp;&nbsp; 3. Thomas Lindner
-    &nbsp;&nbsp;&nbsp; 4. Jan Petr
-    &nbsp;&nbsp;&nbsp; 5. Yuriko Suzuki
-    &nbsp;&nbsp;&nbsp; 6. *open position*
-    &nbsp;&nbsp;&nbsp; 7. *open position*
-    &nbsp;&nbsp;&nbsp; 8. *open position*
+    &nbsp;&nbsp;&nbsp; 1. Udunna Anazodo <br/>
+    &nbsp;&nbsp;&nbsp; 2. Patricia Clement <br/>
+    &nbsp;&nbsp;&nbsp; 3. Thomas Lindner <br/>
+    &nbsp;&nbsp;&nbsp; 4. Jan Petr <br/>
+    &nbsp;&nbsp;&nbsp; 5. Yuriko Suzuki <br/>
+    &nbsp;&nbsp;&nbsp; 6. *open position* <br/>
+    &nbsp;&nbsp;&nbsp; 7. *open position* <br/>
+    &nbsp;&nbsp;&nbsp; 8. *open position* <br/>
    
    **Task Force 4.2 - DCE/DSC Lexicon**<br/>
-   &nbsp;&nbsp;&nbsp; 1. Ina Kompan
-   &nbsp;&nbsp;&nbsp; 2. Laura Bell
-   &nbsp;&nbsp;&nbsp; 3. Charlotte Debus
-   &nbsp;&nbsp;&nbsp; 4. Ralf Floca
-   &nbsp;&nbsp;&nbsp; 5. Andrey Fedorov
-   &nbsp;&nbsp;&nbsp; 6. Steven Sourbron
-   &nbsp;&nbsp;&nbsp; 7. Chad Quarles
-   &nbsp;&nbsp;&nbsp; 8. Petra van Houdt
-   &nbsp;&nbsp;&nbsp; 9. Patrick Thurner
+   &nbsp;&nbsp;&nbsp; 1. Ina Kompan <br/>
+   &nbsp;&nbsp;&nbsp; 2. Laura Bell <br/>
+   &nbsp;&nbsp;&nbsp; 3. Charlotte Debus <br/>
+   &nbsp;&nbsp;&nbsp; 4. Ralf Floca <br/>
+   &nbsp;&nbsp;&nbsp; 5. Andrey Fedorov <br/>
+   &nbsp;&nbsp;&nbsp; 6. Steven Sourbron <br/>
+   &nbsp;&nbsp;&nbsp; 7. Chad Quarles <br/>
+   &nbsp;&nbsp;&nbsp; 8. Petra van Houdt <br/>
+   &nbsp;&nbsp;&nbsp; 9. Patrick Thurner <br/>
    
    **Task Force 4.3 - DICOM standard amendment**<br/>
    *Stay tuned! Will open after 4.1 and 4.2 are finalized.*
@@ -152,25 +152,25 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
    **Task Force 5.1 - Teaching and Education**<br/>
    *Scope: develop and distribute educational content such as online tutorials, powerpoint presentation, training courses.*<br/>
-   &nbsp;&nbsp;&nbsp; 1. Rik Achten
-   &nbsp;&nbsp;&nbsp; 2. Zaki Ahmed
-   &nbsp;&nbsp;&nbsp; 3. Divya Bolar
-   &nbsp;&nbsp;&nbsp; 4. Patricia Clement
-   &nbsp;&nbsp;&nbsp; 5. Paula Croal
-   &nbsp;&nbsp;&nbsp; 6. *open position*
-   &nbsp;&nbsp;&nbsp; 7. *open position*
-   &nbsp;&nbsp;&nbsp; 8. *open position*
+   &nbsp;&nbsp;&nbsp; 1. Rik Achten <br/>
+   &nbsp;&nbsp;&nbsp; 2. Zaki Ahmed <br/>
+   &nbsp;&nbsp;&nbsp; 3. Divya Bolar <br/>
+   &nbsp;&nbsp;&nbsp; 4. Patricia Clement <br/>
+   &nbsp;&nbsp;&nbsp; 5. Paula Croal <br/>
+   &nbsp;&nbsp;&nbsp; 6. *open position* <br/>
+   &nbsp;&nbsp;&nbsp; 7. *open position* <br/>
+   &nbsp;&nbsp;&nbsp; 8. *open position* <br/>
 
    **Task Force 5.2 - Dissemination and Events**<br/>
    *Scope: develop dissemination materials including osipi.org website content and structure, and organise events such as hackathons, meetings, educational sessions on conferences.<br/>*
-   &nbsp;&nbsp;&nbsp; 1. *open position*
-   &nbsp;&nbsp;&nbsp; 2. *open position*
-   &nbsp;&nbsp;&nbsp; 3. *open position*
-   &nbsp;&nbsp;&nbsp; 4. *open position*
-   &nbsp;&nbsp;&nbsp; 5. *open position*
-   &nbsp;&nbsp;&nbsp; 6. *open position*
-   &nbsp;&nbsp;&nbsp; 7. *open position*
-   &nbsp;&nbsp;&nbsp; 8. *open position*
+   &nbsp;&nbsp;&nbsp; 1. *open position* <br/>
+   &nbsp;&nbsp;&nbsp; 2. *open position* <br/>
+   &nbsp;&nbsp;&nbsp; 3. *open position* <br/>
+   &nbsp;&nbsp;&nbsp; 4. *open position* <br/>
+   &nbsp;&nbsp;&nbsp; 5. *open position* <br/>
+   &nbsp;&nbsp;&nbsp; 6. *open position* <br/>
+   &nbsp;&nbsp;&nbsp; 7. *open position* <br/>
+   &nbsp;&nbsp;&nbsp; 8. *open position* <br/>
 
 
 **Aim 6. Benchmarking**

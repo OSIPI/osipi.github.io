@@ -17,26 +17,24 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 *This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.*
 
    **Task Force 1.1 - ASL Inventory** <br/>
-   
-      1. Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA) <br/>
-      2. Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA) <br/>
-      3. David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK) <br/>
-      4. Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany) <br/>
-      5. *open position* <br/>
-      6. *open position* <br/>
-      7. *open position* <br/>
-      8. *open position* <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA) <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA) <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK) <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany) <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. *open position* <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. *open position* <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. *open position* <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. *open position* <br/>
       
    **Task Force 1.2 - DCE/DSC Inventory** <br/>
-   
-      1. Benoit Bourassa Moreau <br/>
-      2. Andrey Fedorov <br/>
-      3. Ingomar Gutmann <br/>
-      4. Ives Levesque <br/>
-      5. Sudarshan Ragunathan <br/>
-      6. Patrick Thurner <br/>
-      7. *open position* <br/>
-      8. *open position* <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Benoit Bourassa Moreau <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Andrey Fedorov <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Ingomar Gutmann <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Ives Levesque <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Sudarshan Ragunathan <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Patrick Thurner <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. *open position* <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. *open position* <br/>
    
 
 **Aim 2. Toolbox**
@@ -48,45 +46,42 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
    **Task Force 2.1 - Library Structure and Management** <br/>
    *Scope: (1) define Library structure, licensing, naming conventions, documentation conventions, version control, code      review, etc.. (2) ongoing management and revision* <br/>
-   
-      1. Michael Berks <br/>
-      2. Martin Craig <br/>
-      3. Rebeca Echeverria Chasco <br/>
-      4. Simon Levy <br/>
-      5. Matthias Schabel <br/>
-      6. Frank Zoellner <br/>
-      7. *open position* <br/>
-      8. *open position* <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Michael Berks <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Martin Craig <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Rebeca Echeverria Chasco <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Simon Levy <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Matthias Schabel <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Frank Zoellner <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. *open position* <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. *open position* <br/>
       
    **Task Force 2.2 - ASL Contributions** <br/>
    *Scope: collect ASL code from developers and integrate in the library structure* <br/>
-   
-      1. Marco Castellaro <br/>
-      2. Martin Craig <br/>
-      3. Sudipto Dolui <br/>
-      4. Rebeca Echeverria Chasco <br/>
-      5. Patrick Hales <br/>
-      6. Maria Mora <br/>
-      7. Ruth Oliver <br/>
-      8. *open position* <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Marco Castellaro <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Martin Craig <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Sudipto Dolui <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Rebeca Echeverria Chasco <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Patrick Hales <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Maria Mora <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. Ruth Oliver <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. *open position* <br/>
       
    **Task Force 2.3 - DCE/DSC Contributions** <br/>
    *Scope: collect DCE/DSC code from developers and integrate in the library structure* <br/>
-   
-      1. Jonathan Arvidsson <br/>
-      2. Martin Craig <br/>
-      3. Ingomar Gutmann <br/>
-      4. Zaki Ahmed <br/>
-      5. Michael Berks <br/>
-      6. Ben Ellingson <br/>
-      7. Petra van Houdt <br/>
-      8. Jayashree Kalpathy-Cramer <br/>
-      9. Federico Pineda <br/>
-      10. Sudarshan Ragunathan <br/>
-      11. Matthias Schabel <br/>
-      12. Sudarshan Ragunathan <br/>
-      13. Michael Thrippleton <br/>
-      14. Luis Torres <br/>  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Jonathan Arvidsson <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Martin Craig <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Ingomar Gutmann <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Zaki Ahmed <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Michael Berks <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Ben Ellingson <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. Petra van Houdt <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. Jayashree Kalpathy-Cramer <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. Federico Pineda <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Sudarshan Ragunathan <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. Matthias Schabel <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12. Sudarshan Ragunathan <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13. Michael Thrippleton <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14. Luis Torres <br/>  
 
 **Aim 3. Data inventory**
 -------------------------

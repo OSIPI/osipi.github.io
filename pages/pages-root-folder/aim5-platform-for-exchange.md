@@ -10,8 +10,8 @@ header: no
 
 Effective communication is a key prerequisite for the realisation of the aims, but also to ensure long-term sustainability of the initiative. Through the use of novel communication media and organisation of events, OSIPI will build an active community promoting networking, communication, guidance and discussion.
 
-**Task force 5.1: Teaching and education**
-
+{:.list-title}
+**Task force 5.1: Teaching and education**  
 Scope: develop and distribute educational content such as online tutorials, powerpoint presentation, training courses. 
 
 1. Rik Achten
@@ -23,8 +23,8 @@ Scope: develop and distribute educational content such as online tutorials, powe
 7. *open position*
 8. *open position*
 
-**Task force 5.2: Dissemination and Events** 
-
+{:.list-title}
+**Task force 5.2: Dissemination and Events**  
 Scope: develop dissemination materials including osipi.org website content and structure, and organise events such as hackathons, meetings, educational sessions on conferences.
 
 1. *open position*

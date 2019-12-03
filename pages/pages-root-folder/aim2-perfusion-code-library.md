@@ -10,8 +10,8 @@ header: no
 
 This is aimed at developers of perfusion methods looking for specific functionality or development templates, or who want to share their own in-house developments with others. Contributions will be sourced from the community, and may include individual functions and more complete pipelines in various programming languages. OSIPI will organise these in a coherent and well-documented library structure, then identify and develop any missing functionality.
 
-**Task force 2.1. Library structure and management** 
-
+{:.list-title}
+**Task force 2.1. Library structure and management**  
 Scope: (1) define Library structure, licensing, naming conventions, documentation conventions, version control, code review, etc.. (2) ongoing management and revision
 
 1. Michael Berks
@@ -23,8 +23,8 @@ Scope: (1) define Library structure, licensing, naming conventions, documentatio
 7. *open position*
 8. *open position*
 
-**Task force 2.2. ASL contributions**
-
+{:.list-title}
+**Task force 2.2. ASL contributions**  
 Scope: collect ASL code from developers and integrate in the library structure
 
 1. Marco Castellaro
@@ -36,8 +36,8 @@ Scope: collect ASL code from developers and integrate in the library structure
 7. Ruth Oliver 
 8. *open position*
 
-**Task force 2.3. DCE/DSC contributions**
-
+{:.list-title}
+**Task force 2.3. DCE/DSC contributions**  
 Scope: collect DCE/DSC code from developers and integrate in the library structure
 
 1. Jonathan Arvidsson

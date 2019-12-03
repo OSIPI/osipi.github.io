@@ -17,24 +17,26 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 *This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.*
 
    **Task Force 1.1 - ASL Inventory**
-   1. Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA) <br/>
-   2. Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA) <br/>
-   3. David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK) <br/>
-   4. Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany) <br/>
-   5. *open position* <br/>
-   6. *open position* <br/>
-   7. *open position* <br/>
-   8. *open position* <br/>
+
+   1. Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA)
+   2. Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA)
+   3. David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK)
+   4. Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany)
+   5. *open position*
+   6. *open position*
+   7. *open position*
+   8. *open position*
       
-   **Task Force 1.2 - DCE/DSC Inventory** <br/>
-   1. Benoit Bourassa Moreau <br/>
-   2. Andrey Fedorov <br/>
-   3. Ingomar Gutmann <br/>
-   4. Ives Levesque <br/>
-   5. Sudarshan Ragunathan <br/>
-   6. Patrick Thurner <br/>
-   7. *open position* <br/>
-   8. *open position* <br/>
+   **Task Force 1.2 - DCE/DSC Inventory**
+
+   1. Benoit Bourassa Moreau
+   2. Andrey Fedorov
+   3. Ingomar Gutmann
+   4. Ives Levesque
+   5. Sudarshan Ragunathan
+   6. Patrick Thurner
+   7. *open position*
+   8. *open position*
    
 
 **Aim 2. Toolbox**
@@ -44,103 +46,110 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
 *This is aimed at developers of perfusion methods looking for specific functionality or development templates, or who want to share their own in-house developments with others. Contributions will be sourced from the community, and may include individual functions and more complete pipelines in various programming languages. OSIPI will organise these in a coherent and well-documented library structure, then identify and develop any missing functionality.*
 
-   **Task Force 2.1 - Library Structure and Management** <br/>
-   *Scope: (1) define Library structure, licensing, naming conventions, documentation conventions, version control, code      review, etc.. (2) ongoing management and revision* <br/>
-   1. Michael Berks <br/>
-   2. Martin Craig <br/>
-   3. Rebeca Echeverria Chasco <br/>
-   4. Simon Levy <br/>
-   5. Matthias Schabel <br/>
-   6. Frank Zoellner <br/>
-   7. *open position* <br/>
-   8. *open position* <br/>
+   **Task Force 2.1 - Library Structure and Management**  
+   *Scope: (1) define Library structure, licensing, naming conventions, documentation conventions, version control, code      review, etc.. (2) ongoing management and revision*
+
+   1. Michael Berks
+   2. Martin Craig
+   3. Rebeca Echeverria Chasco
+   4. Simon Levy
+   5. Matthias Schabel
+   6. Frank Zoellner
+   7. *open position*
+   8. *open position*
       
-   **Task Force 2.2 - ASL Contributions** <br/>
-   *Scope: collect ASL code from developers and integrate in the library structure* <br/>
-   1. Marco Castellaro <br/>
-   2. Martin Craig <br/>
-   3. Sudipto Dolui <br/>
-   4. Rebeca Echeverria Chasco <br/>
-   5. Patrick Hales <br/>
-   6. Maria Mora <br/>
-   7. Ruth Oliver <br/>
-   8. *open position* <br/>
+   **Task Force 2.2 - ASL Contributions**  
+   *Scope: collect ASL code from developers and integrate in the library structure*
+
+   1. Marco Castellaro
+   2. Martin Craig
+   3. Sudipto Dolui
+   4. Rebeca Echeverria Chasco
+   5. Patrick Hales
+   6. Maria Mora
+   7. Ruth Oliver
+   8. *open position*
       
-   **Task Force 2.3 - DCE/DSC Contributions** <br/>
-   *Scope: collect DCE/DSC code from developers and integrate in the library structure* <br/>
-   1. Jonathan Arvidsson <br/>
-   2. Martin Craig <br/>
-   3. Ingomar Gutmann <br/>
-   4. Zaki Ahmed <br/>
-   5. Michael Berks <br/>
-   6. Ben Ellingson <br/>
-   7. Petra van Houdt <br/>
-   8. Jayashree Kalpathy-Cramer <br/>
-   9. Federico Pineda <br/>
-   10. Sudarshan Ragunathan <br/>
-   11. Matthias Schabel <br/>
-   12. Sudarshan Ragunathan <br/>
-   13. Michael Thrippleton <br/>
-   14. Luis Torres <br/>  
+   **Task Force 2.3 - DCE/DSC Contributions**  
+   *Scope: collect DCE/DSC code from developers and integrate in the library structure*
+
+   1. Jonathan Arvidsson
+   2. Martin Craig
+   3. Ingomar Gutmann
+   4. Zaki Ahmed
+   5. Michael Berks
+   6. Ben Ellingson
+   7. Petra van Houdt
+   8. Jayashree Kalpathy-Cramer
+   9. Federico Pineda
+   10. Sudarshan Ragunathan
+   11. Matthias Schabel
+   12. Sudarshan Ragunathan
+   13. Michael Thrippleton
+   14. Luis Torres
 
 **Aim 3. Data inventory**
 -------------------------
 
 [**Develop an inventory of data for the evaluation of perfusion software**](/aims/data-inventory/) 
-*This is aimed at researchers looking for data to test their perfusion analysis methods, and at data owners who want to share data for secondary research. The inventory will provide a curated list of publicly available synthetic, phantom, preclinical and clinical perfusion datasets. Digital reference objects (DROs) and phantom data can serve as ground truth for perfusion analysis methods, and in-vivo data can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality.* <br/>
+*This is aimed at researchers looking for data to test their perfusion analysis methods, and at data owners who want to share data for secondary research. The inventory will provide a curated list of publicly available synthetic, phantom, preclinical and clinical perfusion datasets. Digital reference objects (DROs) and phantom data can serve as ground truth for perfusion analysis methods, and in-vivo data can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality.* 
 
-   **Task Force 3.1 - Digital Reference Objects and Phantoms** <br/>
-   1. Jonathan Arvidsson <br/>
-   2. Leah Henze Bancroft <br/>
-   3. Benoit Bourassa Moreau <br/>
-   4. Ingomar Gutmann <br/>
-   5. Xavier Golay <br/>
-   6. Pauline Hall Barrientos <br/>
-   7. Jochen Hirsch <br/>
-   8. Aaron Oliver-Taylor <br/>
-   9. Nataneal Semmineh <br/>
+   **Task Force 3.1 - Digital Reference Objects and Phantoms**
+
+   1. Jonathan Arvidsson
+   2. Leah Henze Bancroft
+   3. Benoit Bourassa Moreau
+   4. Ingomar Gutmann
+   5. Xavier Golay
+   6. Pauline Hall Barrientos
+   7. Jochen Hirsch
+   8. Aaron Oliver-Taylor
+   9. Nataneal Semmineh
       
-   **Task Force 3.1 - Clinical and Preclinical Data** <br/>
-   1. Zaki Ahmed <br/>
-   2. Beatrix Asenjo Garcia <br/>
-   3. Greg Cron <br/>
-   4. Andrey Fedorov <br/>
-   5. Pauline Hall Barrientos <br/>
-   6. Jochen Hirsch <br/>
-   7. Thomas Lindner <br/>
-   8. Felix Navarro <br/>
-   9. Federico Pineda <br/>
-   10. Annette van der Toorn <br/>
+   **Task Force 3.1 - Clinical and Preclinical Data**
+
+   1. Zaki Ahmed
+   2. Beatrix Asenjo Garcia
+   3. Greg Cron
+   4. Andrey Fedorov
+   5. Pauline Hall Barrientos
+   6. Jochen Hirsch
+   7. Thomas Lindner
+   8. Felix Navarro
+   9. Federico Pineda
+   10. Annette van der Toorn
    
 
 **Aim 4. Reporting**
 --------------------
 
 [**Develop guidelines for reporting image acquisition and analysis of perfusion imaging**](/aims/reporting-guidelines/) 
-*This will enable interoperability and facilitate the comparison of results produced by different analysis tools, studies or sites. We aim to harmonize and increase the detail in the description of parameters and configurations, enable encoding of the complete perfusion imaging workflow, and pave the way for consensus building. An important application will be the amendment of the DICOM standard for perfusion parametric maps, and development of demonstrations and use cases.* <br/>
+*This will enable interoperability and facilitate the comparison of results produced by different analysis tools, studies or sites. We aim to harmonize and increase the detail in the description of parameters and configurations, enable encoding of the complete perfusion imaging workflow, and pave the way for consensus building. An important application will be the amendment of the DICOM standard for perfusion parametric maps, and development of demonstrations and use cases.* 
 
-   **Task Force 4.1 - ASL Lexicon**<br/>
-   1. Udunna Anazodo <br/>
-   2. Patricia Clement <br/>
-   3. Thomas Lindner <br/>
-   4. Jan Petr <br/>
-   5. Yuriko Suzuki <br/>
-   6. *open position* <br/>
-   7. *open position* <br/>
-   8. *open position* <br/>
+   **Task Force 4.1 - ASL Lexicon**
+
+   1. Udunna Anazodo
+   2. Patricia Clement
+   3. Thomas Lindner
+   4. Jan Petr
+   5. Yuriko Suzuki
+   6. *open position*
+   7. *open position*
+   8. *open position*
    
-   **Task Force 4.2 - DCE/DSC Lexicon**<br/>
-   1. Ina Kompan <br/>
-   2. Laura Bell <br/>
-   3. Charlotte Debus <br/>
-   4. Ralf Floca <br/>
-   5. Andrey Fedorov <br/>
-   6. Steven Sourbron <br/>
-   7. Chad Quarles <br/>
-   8. Petra van Houdt <br/>
-   9. Patrick Thurner <br/>
+   **Task Force 4.2 - DCE/DSC Lexicon**
+
+   1. Ina Kompan
+   2. Laura Bell
+   3. Charlotte Debus
+   4. Ralf Floca
+   5. Andrey Fedorov
+   6. Steven Sourbron
+   7. Chad Quarles
+   8. Petra van Houdt
+   9. Patrick Thurner
    
-   **Task Force 4.3 - DICOM standard amendment**<br/>
+   **Task Force 4.3 - DICOM standard amendment**  
    *Stay tuned! Will open after 4.1 and 4.2 are finalized.*
 
 
@@ -148,38 +157,40 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 --------------------------------
 
 [**Exchange: Develop a platform for discussion and exchange between developers and users of perfusion software**](/aims/exchange/) 
-*Effective communication is a key prerequisite for the realisation of the aims, but also to ensure long-term sustainability of the initiative. Through the use of novel communication media and organisation of events, OSIPI will build an active community promoting networking, communication, guidance and discussion.*<br/>
+*Effective communication is a key prerequisite for the realisation of the aims, but also to ensure long-term sustainability of the initiative. Through the use of novel communication media and organisation of events, OSIPI will build an active community promoting networking, communication, guidance and discussion.*
 
-   **Task Force 5.1 - Teaching and Education**<br/>
-   *Scope: develop and distribute educational content such as online tutorials, powerpoint presentation, training courses.*<br/>
-   1. Rik Achten <br/>
-   2. Zaki Ahmed <br/>
-   3. Divya Bolar <br/>
-   4. Patricia Clement <br/>
-   5. Paula Croal <br/>
-   6. *open position* <br/>
-   7. *open position* <br/>
-   8. *open position* <br/>
+   **Task Force 5.1 - Teaching and Education**  
+   *Scope: develop and distribute educational content such as online tutorials, powerpoint presentation, training courses.*
 
-   **Task Force 5.2 - Dissemination and Events**<br/>
-   *Scope: develop dissemination materials including osipi.org website content and structure, and organise events such as hackathons, meetings, educational sessions on conferences.<br/>*
-   1. *open position* <br/>
-   2. *open position* <br/>
-   3. *open position* <br/>
-   4. *open position* <br/>
-   5. *open position* <br/>
-   6. *open position* <br/>
-   7. *open position* <br/>
-   8. *open position* <br/>
+   1. Rik Achten
+   2. Zaki Ahmed
+   3. Divya Bolar
+   4. Patricia Clement
+   5. Paula Croal
+   6. *open position*
+   7. *open position*
+   8. *open position*
+
+   **Task Force 5.2 - Dissemination and Events**  
+   *Scope: develop dissemination materials including osipi.org website content and structure, and organise events such as hackathons, meetings, educational sessions on conferences.*
+
+   1. *open position*
+   2. *open position*
+   3. *open position*
+   4. *open position*
+   5. *open position*
+   6. *open position*
+   7. *open position*
+   8. *open position*
 
 
 **Aim 6. Benchmarking**
 -----------------------
 
 [**Development of benchmarks and application to existing software**](/aims/benchmarking/)
-*Using the data collected in aim 3, develop metrics that quantify the performance of a perfusion analysis tool (eg. bias and precision on DRO’s, agreement with reference methods in-vivo, reproducibility on in-vivo data, processing time, …). These metrics will be measured for the software tools collected in aims 1 and 2 in order to establish a set of benchmarks. The long-term aim is to establish OSIPI as an independent arbiter for software solutions in perfusion imaging.*<br/>
+*Using the data collected in aim 3, develop metrics that quantify the performance of a perfusion analysis tool (eg. bias and precision on DRO’s, agreement with reference methods in-vivo, reproducibility on in-vivo data, processing time, …). These metrics will be measured for the software tools collected in aims 1 and 2 in order to establish a set of benchmarks. The long-term aim is to establish OSIPI as an independent arbiter for software solutions in perfusion imaging.*
 
-   **Task Force 6.1 - Development of Benchmarking**<br/>
+   **Task Force 6.1 - Development of Benchmarking**  
    *Stay tuned! Will open once aims 1-3 have progressed.*
 
 **Get involved!**

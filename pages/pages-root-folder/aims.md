@@ -16,25 +16,25 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
 *This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.*
 
-   **Task Force 1.1 - ASL Inventory** <br/>
-      &nbsp;&nbsp;&nbsp; 1. Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA) <br/>
-      &nbsp;&nbsp;&nbsp; 2. Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA) <br/>
-      &nbsp;&nbsp;&nbsp; 3. David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK) <br/>
-      &nbsp;&nbsp;&nbsp; 4. Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany) <br/>
-      &nbsp;&nbsp;&nbsp; 5. *open position* <br/>
-      &nbsp;&nbsp;&nbsp; 6. *open position* <br/>
-      &nbsp;&nbsp;&nbsp; 7. *open position* <br/>
-      &nbsp;&nbsp;&nbsp; 8. *open position* <br/>
+   **Task Force 1.1 - ASL Inventory**
+   1. Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA) <br/>
+   2. Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA) <br/>
+   3. David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK) <br/>
+   4. Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany) <br/>
+   5. *open position* <br/>
+   6. *open position* <br/>
+   7. *open position* <br/>
+   8. *open position* <br/>
       
    **Task Force 1.2 - DCE/DSC Inventory** <br/>
-      &nbsp;&nbsp;&nbsp; 1. Benoit Bourassa Moreau <br/>
-      &nbsp;&nbsp;&nbsp; 2. Andrey Fedorov <br/>
-      &nbsp;&nbsp;&nbsp; 3. Ingomar Gutmann <br/>
-      &nbsp;&nbsp;&nbsp; 4. Ives Levesque <br/>
-      &nbsp;&nbsp;&nbsp; 5. Sudarshan Ragunathan <br/>
-      &nbsp;&nbsp;&nbsp; 6. Patrick Thurner <br/>
-      &nbsp;&nbsp;&nbsp; 7. *open position* <br/>
-      &nbsp;&nbsp;&nbsp; 8. *open position* <br/>
+   1. Benoit Bourassa Moreau <br/>
+   2. Andrey Fedorov <br/>
+   3. Ingomar Gutmann <br/>
+   4. Ives Levesque <br/>
+   5. Sudarshan Ragunathan <br/>
+   6. Patrick Thurner <br/>
+   7. *open position* <br/>
+   8. *open position* <br/>
    
 
 **Aim 2. Toolbox**
@@ -46,42 +46,42 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
    **Task Force 2.1 - Library Structure and Management** <br/>
    *Scope: (1) define Library structure, licensing, naming conventions, documentation conventions, version control, code      review, etc.. (2) ongoing management and revision* <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Michael Berks <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Martin Craig <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Rebeca Echeverria Chasco <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Simon Levy <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Matthias Schabel <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Frank Zoellner <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. *open position* <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. *open position* <br/>
+   1. Michael Berks <br/>
+   2. Martin Craig <br/>
+   3. Rebeca Echeverria Chasco <br/>
+   4. Simon Levy <br/>
+   5. Matthias Schabel <br/>
+   6. Frank Zoellner <br/>
+   7. *open position* <br/>
+   8. *open position* <br/>
       
    **Task Force 2.2 - ASL Contributions** <br/>
    *Scope: collect ASL code from developers and integrate in the library structure* <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Marco Castellaro <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Martin Craig <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Sudipto Dolui <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Rebeca Echeverria Chasco <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Patrick Hales <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Maria Mora <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. Ruth Oliver <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. *open position* <br/>
+   1. Marco Castellaro <br/>
+   2. Martin Craig <br/>
+   3. Sudipto Dolui <br/>
+   4. Rebeca Echeverria Chasco <br/>
+   5. Patrick Hales <br/>
+   6. Maria Mora <br/>
+   7. Ruth Oliver <br/>
+   8. *open position* <br/>
       
    **Task Force 2.3 - DCE/DSC Contributions** <br/>
    *Scope: collect DCE/DSC code from developers and integrate in the library structure* <br/>
-      &nbsp;&nbsp;&nbsp; 1. Jonathan Arvidsson <br/>
-      &nbsp;&nbsp;&nbsp; 2. Martin Craig <br/>
-      &nbsp;&nbsp;&nbsp; 3. Ingomar Gutmann <br/>
-      &nbsp;&nbsp;&nbsp; 4. Zaki Ahmed <br/>
-      &nbsp;&nbsp;&nbsp; 5. Michael Berks <br/>
-      &nbsp;&nbsp;&nbsp; 6. Ben Ellingson <br/>
-      &nbsp;&nbsp;&nbsp; 7. Petra van Houdt <br/>
-      &nbsp;&nbsp;&nbsp; 8. Jayashree Kalpathy-Cramer <br/>
-      &nbsp;&nbsp;&nbsp; 9. Federico Pineda <br/>
-      &nbsp;&nbsp;&nbsp; 10. Sudarshan Ragunathan <br/>
-      &nbsp;&nbsp;&nbsp; 11. Matthias Schabel <br/>
-      &nbsp;&nbsp;&nbsp; 12. Sudarshan Ragunathan <br/>
-      &nbsp;&nbsp;&nbsp; 13. Michael Thrippleton <br/>
-      &nbsp;&nbsp;&nbsp; 14. Luis Torres <br/>  
+   1. Jonathan Arvidsson <br/>
+   2. Martin Craig <br/>
+   3. Ingomar Gutmann <br/>
+   4. Zaki Ahmed <br/>
+   5. Michael Berks <br/>
+   6. Ben Ellingson <br/>
+   7. Petra van Houdt <br/>
+   8. Jayashree Kalpathy-Cramer <br/>
+   9. Federico Pineda <br/>
+   10. Sudarshan Ragunathan <br/>
+   11. Matthias Schabel <br/>
+   12. Sudarshan Ragunathan <br/>
+   13. Michael Thrippleton <br/>
+   14. Luis Torres <br/>  
 
 **Aim 3. Data inventory**
 -------------------------
@@ -90,27 +90,27 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 *This is aimed at researchers looking for data to test their perfusion analysis methods, and at data owners who want to share data for secondary research. The inventory will provide a curated list of publicly available synthetic, phantom, preclinical and clinical perfusion datasets. Digital reference objects (DROs) and phantom data can serve as ground truth for perfusion analysis methods, and in-vivo data can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality.* <br/>
 
    **Task Force 3.1 - Digital Reference Objects and Phantoms** <br/>
-      &nbsp;&nbsp;&nbsp; 1. Jonathan Arvidsson <br/>
-      &nbsp;&nbsp;&nbsp; 2. Leah Henze Bancroft <br/>
-      &nbsp;&nbsp;&nbsp; 3. Benoit Bourassa Moreau <br/>
-      &nbsp;&nbsp;&nbsp; 4. Ingomar Gutmann <br/>
-      &nbsp;&nbsp;&nbsp; 5. Xavier Golay <br/>
-      &nbsp;&nbsp;&nbsp; 6. Pauline Hall Barrientos <br/>
-      &nbsp;&nbsp;&nbsp; 7. Jochen Hirsch <br/>
-      &nbsp;&nbsp;&nbsp; 8. Aaron Oliver-Taylor <br/>
-      &nbsp;&nbsp;&nbsp; 9. Nataneal Semmineh <br/>
+   1. Jonathan Arvidsson <br/>
+   2. Leah Henze Bancroft <br/>
+   3. Benoit Bourassa Moreau <br/>
+   4. Ingomar Gutmann <br/>
+   5. Xavier Golay <br/>
+   6. Pauline Hall Barrientos <br/>
+   7. Jochen Hirsch <br/>
+   8. Aaron Oliver-Taylor <br/>
+   9. Nataneal Semmineh <br/>
       
    **Task Force 3.1 - Clinical and Preclinical Data** <br/>
-      &nbsp;&nbsp;&nbsp; 1. Zaki Ahmed <br/>
-      &nbsp;&nbsp;&nbsp; 2. Beatrix Asenjo Garcia <br/>
-      &nbsp;&nbsp;&nbsp; 3. Greg Cron <br/>
-      &nbsp;&nbsp;&nbsp; 4. Andrey Fedorov <br/>
-      &nbsp;&nbsp;&nbsp; 5. Pauline Hall Barrientos <br/>
-      &nbsp;&nbsp;&nbsp; 6. Jochen Hirsch <br/>
-      &nbsp;&nbsp;&nbsp; 7. Thomas Lindner <br/>
-      &nbsp;&nbsp;&nbsp; 8. Felix Navarro <br/>
-      &nbsp;&nbsp;&nbsp; 9. Federico Pineda <br/>
-      &nbsp;&nbsp;&nbsp; 10. Annette van der Toorn <br/>
+   1. Zaki Ahmed <br/>
+   2. Beatrix Asenjo Garcia <br/>
+   3. Greg Cron <br/>
+   4. Andrey Fedorov <br/>
+   5. Pauline Hall Barrientos <br/>
+   6. Jochen Hirsch <br/>
+   7. Thomas Lindner <br/>
+   8. Felix Navarro <br/>
+   9. Federico Pineda <br/>
+   10. Annette van der Toorn <br/>
    
 
 **Aim 4. Reporting**
@@ -120,25 +120,25 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 *This will enable interoperability and facilitate the comparison of results produced by different analysis tools, studies or sites. We aim to harmonize and increase the detail in the description of parameters and configurations, enable encoding of the complete perfusion imaging workflow, and pave the way for consensus building. An important application will be the amendment of the DICOM standard for perfusion parametric maps, and development of demonstrations and use cases.* <br/>
 
    **Task Force 4.1 - ASL Lexicon**<br/>
-    &nbsp;&nbsp;&nbsp; 1. Udunna Anazodo <br/>
-    &nbsp;&nbsp;&nbsp; 2. Patricia Clement <br/>
-    &nbsp;&nbsp;&nbsp; 3. Thomas Lindner <br/>
-    &nbsp;&nbsp;&nbsp; 4. Jan Petr <br/>
-    &nbsp;&nbsp;&nbsp; 5. Yuriko Suzuki <br/>
-    &nbsp;&nbsp;&nbsp; 6. *open position* <br/>
-    &nbsp;&nbsp;&nbsp; 7. *open position* <br/>
-    &nbsp;&nbsp;&nbsp; 8. *open position* <br/>
+   1. Udunna Anazodo <br/>
+   2. Patricia Clement <br/>
+   3. Thomas Lindner <br/>
+   4. Jan Petr <br/>
+   5. Yuriko Suzuki <br/>
+   6. *open position* <br/>
+   7. *open position* <br/>
+   8. *open position* <br/>
    
    **Task Force 4.2 - DCE/DSC Lexicon**<br/>
-   &nbsp;&nbsp;&nbsp; 1. Ina Kompan <br/>
-   &nbsp;&nbsp;&nbsp; 2. Laura Bell <br/>
-   &nbsp;&nbsp;&nbsp; 3. Charlotte Debus <br/>
-   &nbsp;&nbsp;&nbsp; 4. Ralf Floca <br/>
-   &nbsp;&nbsp;&nbsp; 5. Andrey Fedorov <br/>
-   &nbsp;&nbsp;&nbsp; 6. Steven Sourbron <br/>
-   &nbsp;&nbsp;&nbsp; 7. Chad Quarles <br/>
-   &nbsp;&nbsp;&nbsp; 8. Petra van Houdt <br/>
-   &nbsp;&nbsp;&nbsp; 9. Patrick Thurner <br/>
+   1. Ina Kompan <br/>
+   2. Laura Bell <br/>
+   3. Charlotte Debus <br/>
+   4. Ralf Floca <br/>
+   5. Andrey Fedorov <br/>
+   6. Steven Sourbron <br/>
+   7. Chad Quarles <br/>
+   8. Petra van Houdt <br/>
+   9. Patrick Thurner <br/>
    
    **Task Force 4.3 - DICOM standard amendment**<br/>
    *Stay tuned! Will open after 4.1 and 4.2 are finalized.*
@@ -152,25 +152,25 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
    **Task Force 5.1 - Teaching and Education**<br/>
    *Scope: develop and distribute educational content such as online tutorials, powerpoint presentation, training courses.*<br/>
-   &nbsp;&nbsp;&nbsp; 1. Rik Achten <br/>
-   &nbsp;&nbsp;&nbsp; 2. Zaki Ahmed <br/>
-   &nbsp;&nbsp;&nbsp; 3. Divya Bolar <br/>
-   &nbsp;&nbsp;&nbsp; 4. Patricia Clement <br/>
-   &nbsp;&nbsp;&nbsp; 5. Paula Croal <br/>
-   &nbsp;&nbsp;&nbsp; 6. *open position* <br/>
-   &nbsp;&nbsp;&nbsp; 7. *open position* <br/>
-   &nbsp;&nbsp;&nbsp; 8. *open position* <br/>
+   1. Rik Achten <br/>
+   2. Zaki Ahmed <br/>
+   3. Divya Bolar <br/>
+   4. Patricia Clement <br/>
+   5. Paula Croal <br/>
+   6. *open position* <br/>
+   7. *open position* <br/>
+   8. *open position* <br/>
 
    **Task Force 5.2 - Dissemination and Events**<br/>
    *Scope: develop dissemination materials including osipi.org website content and structure, and organise events such as hackathons, meetings, educational sessions on conferences.<br/>*
-   &nbsp;&nbsp;&nbsp; 1. *open position* <br/>
-   &nbsp;&nbsp;&nbsp; 2. *open position* <br/>
-   &nbsp;&nbsp;&nbsp; 3. *open position* <br/>
-   &nbsp;&nbsp;&nbsp; 4. *open position* <br/>
-   &nbsp;&nbsp;&nbsp; 5. *open position* <br/>
-   &nbsp;&nbsp;&nbsp; 6. *open position* <br/>
-   &nbsp;&nbsp;&nbsp; 7. *open position* <br/>
-   &nbsp;&nbsp;&nbsp; 8. *open position* <br/>
+   1. *open position* <br/>
+   2. *open position* <br/>
+   3. *open position* <br/>
+   4. *open position* <br/>
+   5. *open position* <br/>
+   6. *open position* <br/>
+   7. *open position* <br/>
+   8. *open position* <br/>
 
 
 **Aim 6. Benchmarking**

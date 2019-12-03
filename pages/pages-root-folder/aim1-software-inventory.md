@@ -11,6 +11,7 @@ header: no
 
 This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.
 
+{:.list-title}
 **Task force 1.1. ASL inventory**
 
 1. Udunna Anazodo
@@ -22,6 +23,7 @@ This is aimed at end-users looking for a suitable tool to process their data. Th
 7. *open position*
 8. *open position*
 
+{:.list-title}
 **Task force 1.2. DCE/DSC based inventory**
 
 1. Charlotte Debus

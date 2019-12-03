@@ -10,8 +10,8 @@ header: no
 
 This will enable interoperability and facilitate the comparison of results produced by different analysis tools, studies or sites. We aim to harmonize and increase the detail in the description of parameters and configurations, enable encoding of the complete perfusion imaging workflow, and pave the way for consensus building. An important application will be the amendment of the DICOM standard for perfusion parametric maps, and development of demonstrations and use cases.
 
+{:.list-title}
 **Task force 4.1. ASL lexicon**
-
 1. Udunna Anazodo
 2. Patricia Clement
 3. Thomas Lindner
@@ -21,8 +21,8 @@ This will enable interoperability and facilitate the comparison of results produ
 7. *open position*
 8. *open position*
 
+{:.list-title}
 **Task force 4.2. DCE/DSC lexicon** (Active)
-
 1. **Co-lead** Ina Kompan
 2. Laura Bell
 3. Charlotte Debus
@@ -33,6 +33,7 @@ This will enable interoperability and facilitate the comparison of results produ
 8. Petra van Houdt
 9. Patrick Thurner
 
+{:.list-title}
 **Task force 4.3. DICOM standard amendment** (to open after lexicons are finalised)
 1. Andrey Fedorov
 2. Ina Kompan

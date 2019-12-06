@@ -12,7 +12,7 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 **Aim 1. Software inventory**
 -----------------------------
 
-[**Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis**](/aims/software-inventory/) 
+**Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis** 
 
 *This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.*
 
@@ -25,7 +25,7 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
    - Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany)
 
    {:.list-title}
-   **Task Force 1.2 - DCE/DSC Inventory**
+   [**Task Force 1.2 - DCE/DSC Inventory**](/task-force-1-2/)
 
    - Benoit Bourassa Moreau
    - Andrey Fedorov
@@ -33,6 +33,7 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
    - Ives Levesque
    - Sudarshan Ragunathan
    - Patrick Thurner
+   - Charlotte Debus
    
 
 **Aim 2. Toolbox**

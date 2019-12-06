@@ -19,20 +19,20 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
    {:.list-title}
    **Task Force 1.1 - ASL Inventory**
 
-   > Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA)
-   > Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA)
-   > David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK)
-   > Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany)
+   - Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA)
+   - Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA)
+   - David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK)
+   - Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany)
 
    {:.list-title}
    **Task Force 1.2 - DCE/DSC Inventory**
 
-   > Benoit Bourassa Moreau
-   > Andrey Fedorov
-   > Ingomar Gutmann
-   > Ives Levesque
-   > Sudarshan Ragunathan
-   > Patrick Thurner
+   - Benoit Bourassa Moreau
+   - Andrey Fedorov
+   - Ingomar Gutmann
+   - Ives Levesque
+   - Sudarshan Ragunathan
+   - Patrick Thurner
    
 
 **Aim 2. Toolbox**
@@ -46,43 +46,43 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
    **Task Force 2.1 - Library Structure and Management**  
    *Scope: (1) define Library structure, licensing, naming conventions, documentation conventions, version control, code review, etc.. (2) ongoing management and revision*
 
-   > Michael Berks
-   > Martin Craig
-   > Rebeca Echeverria Chasco
-   > Simon Levy
-   > Matthias Schabel
-   > Frank Zoellner
+   - Michael Berks
+   - Martin Craig
+   - Rebeca Echeverria Chasco
+   - Simon Levy
+   - Matthias Schabel
+   - Frank Zoellner
 
    {:.list-title}
    **Task Force 2.2 - ASL Contributions**  
    *Scope: collect ASL code from developers and integrate in the library structure*
 
-   > Marco Castellaro
-   > Martin Craig
-   > Sudipto Dolui
-   > Rebeca Echeverria Chasco
-   > Patrick Hales
-   > Maria Mora
-   > Ruth Oliver
+   - Marco Castellaro
+   - Martin Craig
+   - Sudipto Dolui
+   - Rebeca Echeverria Chasco
+   - Patrick Hales
+   - Maria Mora
+   - Ruth Oliver
 
    {:.list-title}
    **Task Force 2.3 - DCE/DSC Contributions**  
    *Scope: collect DCE/DSC code from developers and integrate in the library structure*
 
-   > Jonathan Arvidsson
-   > Martin Craig
-   > Ingomar Gutmann
-   > Zaki Ahmed
-   > Michael Berks
-   > Ben Ellingson
-   > Petra van Houdt
-   > Jayashree Kalpathy-Cramer
-   > Federico Pineda
-   > Sudarshan Ragunathan
-   > Matthias Schabel
-   > Sudarshan Ragunathan
-   > Michael Thrippleton
-   > Luis Torres
+   - Jonathan Arvidsson
+   - Martin Craig
+   - Ingomar Gutmann
+   - Zaki Ahmed
+   - Michael Berks
+   - Ben Ellingson
+   - Petra van Houdt
+   - Jayashree Kalpathy-Cramer
+   - Federico Pineda
+   - Sudarshan Ragunathan
+   - Matthias Schabel
+   - Sudarshan Ragunathan
+   - Michael Thrippleton
+   - Luis Torres
 
 **Aim 3. Data inventory**
 -------------------------
@@ -93,30 +93,30 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
    {:.list-title}
    **Task Force 3.1 - Digital Reference Objects and Phantoms**
 
-   > Jonathan Arvidsson
-   > Leah Henze Bancroft
-   > Benoit Bourassa Moreau
-   > Ingomar Gutmann
-   > Xavier Golay
-   > Pauline Hall Barrientos
-   > Jochen Hirsch
-   > Aaron Oliver-Taylor
-   > Nataneal Semmineh
+   - Jonathan Arvidsson
+   - Leah Henze Bancroft
+   - Benoit Bourassa Moreau
+   - Ingomar Gutmann
+   - Xavier Golay
+   - Pauline Hall Barrientos
+   - Jochen Hirsch
+   - Aaron Oliver-Taylor
+   - Nataneal Semmineh
 
    {:.list-title}
    **Task Force 3.2 - Clinical and Preclinical Data**
 
-   > Zaki Ahmed
-   > Beatrix Asenjo Garcia
-   > Greg Cron
-   > Andrey Fedorov
-   > Pauline Hall Barrientos
-   > Jochen Hirsch
-   > Thomas Lindner
-   > Felix Navarro
-   > Federico Pineda
-   > Annette van der Toorn
-   
+   - Zaki Ahmed
+   - Beatrix Asenjo Garcia
+   - Greg Cron
+   - Andrey Fedorov
+   - Pauline Hall Barrientos
+   - Jochen Hirsch
+   - Thomas Lindner
+   - Felix Navarro
+   - Federico Pineda
+   - Annette van der Toorn
+ 
 
 **Aim 4. Reporting**
 --------------------
@@ -127,24 +127,24 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
    {:.list-title}
    **Task Force 4.1 - ASL Lexicon**
 
-   > Udunna Anazodo
-   > Patricia Clement
-   > Thomas Lindner
-   > Jan Petr
-   > Yuriko Suzuki
+   - Udunna Anazodo
+   - Patricia Clement
+   - Thomas Lindner
+   - Jan Petr
+   - Yuriko Suzuki
 
    {:.list-title}
    **Task Force 4.2 - DCE/DSC Lexicon**
 
-   > Ina Kompan
-   > Laura Bell
-   > Charlotte Debus
-   > Ralf Floca
-   > Andrey Fedorov
-   > Steven Sourbron
-   > Chad Quarles
-   > Petra van Houdt
-   > Patrick Thurner
+   - Ina Kompan
+   - Laura Bell
+   - Charlotte Debus
+   - Ralf Floca
+   - Andrey Fedorov
+   - Steven Sourbron
+   - Chad Quarles
+   - Petra van Houdt
+   - Patrick Thurner
    
    {:.list-title}
    **Task Force 4.3 - DICOM standard amendment**  
@@ -161,17 +161,17 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
    **Task Force 5.1 - Teaching and Education**  
    *Scope: develop and distribute educational content such as online tutorials, powerpoint presentation, training courses.*
 
-   > Rik Achten
-   > Zaki Ahmed
-   > Divya Bolar
-   > Patricia Clement
-   > Paula Croal
+   - Rik Achten
+   - Zaki Ahmed
+   - Divya Bolar
+   - Patricia Clement
+   - Paula Croal
 
    {:.list-title}
    **Task Force 5.2 - Dissemination and Events**  
    *Scope: develop dissemination materials including osipi.org website content and structure, and organise events such as hackathons, meetings, educational sessions on conferences.*
 
-   > Membership to be confirmed
+   - Membership to be confirmed
 
 
 **Aim 6. Benchmarking**

@@ -23,9 +23,7 @@
 #  - title: "Perfusion Software Benchmarking"
 #    url: "/aims/benchmarking/"
 
-- title: "Forum"
-  url: "/forum/"
-  side: left
+
 
 - title: News
   url: "/blog/"
@@ -45,6 +43,10 @@
 #  - title: "Blog Archive"
 #    url: "/blog/archive/"
 
+- title: "Forum"
+  url: "/forum/"
+  side: right
+  
 - title: "Search"
   url: "/search/"
   side: right

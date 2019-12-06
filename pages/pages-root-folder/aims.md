@@ -32,17 +32,14 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
 *This is aimed at developers of perfusion methods looking for specific functionality or development templates, or who want to share their own in-house developments with others. Contributions will be sourced from the community, and may include individual functions and more complete pipelines in various programming languages. OSIPI will organise these in a coherent and well-documented library structure, then identify and develop any missing functionality.*
 
-   {:.list-title}
    [**Task Force 2.1 - Library Structure and Management**](/task-force-2-1/)  
-   *Define and manage the library structure*
+    *Define and manage the library structure*
 
-   {:.list-title}
    [**Task Force 2.2 - ASL Contributions**](/task-force-2-2/)    
-   *Collect and harmonise ASL code snippets from developers*
+    *Collect and harmonise ASL code snippets from developers*
 
-   {:.list-title}
    [**Task Force 2.3 - DCE/DSC Contributions**](/task-force-2-3/)    
-   *Collect and harmonise DCE/DSC code snippets from developers*
+    *Collect and harmonise DCE/DSC code snippets from developers*
 
 
 **Aim 3. Data inventory**

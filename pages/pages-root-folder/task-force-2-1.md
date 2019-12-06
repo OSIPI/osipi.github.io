@@ -6,9 +6,10 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task Force Aim**
+{:.list-title}
+**Task force aims**
 
-*Define and manage the library for ASL, DCE and DSC code snippets collected and harmonized by task forces 2.2 and 2.3. This includes defining the structure of the library, licensing, naming conventions, documentation conventions, version control, code review, etc.. * 
+- Define and manage the library for ASL, DCE and DSC code snippets collected and harmonized by task forces 2.2 and 2.3. This includes defining the structure of the library, licensing, naming conventions, documentation conventions, version control, code review, etc..  
 
 {:.list-title}
 **Task Force Members**  

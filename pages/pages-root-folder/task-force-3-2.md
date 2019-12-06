@@ -6,9 +6,10 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task Force Aim**
+{:.list-title}
+**Task force aims**
 
-*Build an inventory of freely available clinical and preclinical data*
+- Build an inventory of freely available clinical and preclinical data
 
 {:.list-title}
 **Task force members**

@@ -6,8 +6,10 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task force aim**
-*Create an inventory of open source ASL packages*
+{:.list-title}
+**Task force aims**
+
+- Create an inventory of open source ASL packages
 
 {:.list-title}
 **Task force members**

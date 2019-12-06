@@ -6,9 +6,10 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task Force Aim**
+{:.list-title}
+**Task force aims**
 
-*Collect and harmonise DCE/DSC code snippets from developers* 
+- Collect and harmonise DCE/DSC code snippets from developers 
 
 {:.list-title}
 **Task Force Members**  

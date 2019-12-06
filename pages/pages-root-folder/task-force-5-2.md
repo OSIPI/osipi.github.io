@@ -6,9 +6,12 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task Force Aim**
+{:.list-title}
+**Task force aims**
 
-*Develop dissemination materials including osipi.org website content and structure, and organise events such as hackathons, meetings, educational sessions on conferences.*
+- Develop dissemination materials including osipi.org website content and structure.
+- Organise events such as hackathons, meetings, educational sessions on conferences.
+
 
 {:.list-title}
 **Task force members**

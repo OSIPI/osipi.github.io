@@ -6,9 +6,10 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task Force Aim**
+{:.list-title}
+**Task force aims**
 
-*Build an inventory of digital reference objects and phantoms*
+- Build an inventory of digital reference objects and phantoms
 
 {:.list-title}
 **Task force members**

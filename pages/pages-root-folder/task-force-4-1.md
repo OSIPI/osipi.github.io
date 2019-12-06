@@ -6,9 +6,10 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task Force Aim**
+{:.list-title}
+**Task force aims**
 
-*Develop guidelines for reporting of ASL image acquisition and analysis*
+- Develop guidelines for reporting of ASL image acquisition and analysis
 
 {:.list-title}
 **Task force members**

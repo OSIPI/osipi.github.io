@@ -6,9 +6,10 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task Force Aim**
+{:.list-title}
+**Task force aims**
 
-*Develop and implement challenges involving perfusion imaging analysis.*
+- Develop and implement challenges involving perfusion imaging analysis
 
 {:.list-title}
 **Task force members**

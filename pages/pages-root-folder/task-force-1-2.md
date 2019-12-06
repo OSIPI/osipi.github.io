@@ -6,9 +6,10 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task Force Aim**
+{:.list-title}
+**Task force aims**
 
-*Create an inventory of open source DCE/DSC packages*
+- Create an inventory of open source DCE/DSC packages
 
 {:.list-title}
 **Task force members**

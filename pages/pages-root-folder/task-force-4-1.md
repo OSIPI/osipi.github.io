@@ -5,3 +5,18 @@ title: "OSIPI Task Force 4.1: ASL lexicon"
 header: no
 #subheadline: "... because we need one!"
 ---
+
+**Task Force Aim**
+
+*Develop guidelines for reporting of ASL image acquisition and analysis*
+
+{:.list-title}
+**Task force members**
+
+- Udunna Anazodo
+- Patricia Clement
+- Thomas Lindner
+- Jan Petr
+- Yuriko Suzuki
+
+

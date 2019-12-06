@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/info/"
+permalink: "/about/"
 title: "About OSIPI"
 header: no
 #subheadline: "... because we need one!"

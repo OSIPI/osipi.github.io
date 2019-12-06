@@ -6,15 +6,14 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
+**Task Force Aim**
 
-**ASL software inventory aim: Develop a comprehensive inventory of complete open source packages for ASL perfusion imaging analysis** 
-
-This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.
+*Create an inventory of open source ASL packages*
 
 {:.list-title}
-**Task force membership**
+**Task force members**
 
-- Udunna Anazodo
-- Sudipto Dolui
-- David Thomas
-- Jan Petr
+- Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA)
+- Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA)
+- David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK)
+- Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany)

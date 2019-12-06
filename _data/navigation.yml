@@ -9,21 +9,34 @@
 - title: Aims
   url: "/aims/"
   side: left
-#  dropdown:
-#  - title: "Perfusion Software Inventory"
-#    url: "/aims/software-inventory/"
-#  - title: "Perfusion Code Library"
-#    url: "/aims/toolbox/"
-#  - title: "Perfusion Data Inventory"
-#    url: "/aims/data-inventory/"
-#  - title: "Perfusion Reporting Guidelines"
-#    url: "/aims/reporting-guidelines/"
-#  - title: "Platform for exchange"
-#    url: "/aims/exchange/"
-#  - title: "Perfusion Software Benchmarking"
-#    url: "/aims/benchmarking/"
-
-
+  dropdown:
+  - title: "ASL inventory"
+    url: "/task-force-1-1/"
+  - title: "DCE/DSC inventory"
+    url: "/task-force-1-2/"
+  - title: "Library management"
+    url: "/task-force-2-1/"
+  - title: "ASL contributions"
+    url: "/task-force-2-2/"
+  - title: "DCE/DSC contributions"
+    url: "/task-force-2-3/"
+  - title: "Digital reference objects"
+    url: "/task-force-3-1/"
+  - title: "Measured data"
+    url: "/task-force-3-2/"
+  - title: "ASL lexicon"
+    url: "/task-force-4-1/"
+  - title: "DCE/DSC lexicon"
+    url: "/task-force-4-2/"
+  - title: "DICOM amendment"
+    url: "/task-force-4-3/"
+  - title: "Education"
+    url: "/task-force-5-1/"
+  - title: "Dissemination"
+    url: "/task-force-5-2/"  
+  - title: "Challenges"
+    url: "/task-force-6-1/" 
+    
 
 - title: News
   url: "/blog/"

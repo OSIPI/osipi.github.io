@@ -26,12 +26,20 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
+// $ci-1: #334D5C;		// dark turquoise
+// $ci-2: #45B29D;		// turquoise
+// $ci-3: #EFC94C;		// yellow
+// $ci-4: #E27A3F;		// orange
+// $ci-5: #DF4949;		// red
+// $ci-6: #A1D044;     // green
+
+
 $ci-1: #334D5C;		// dark turquoise
 $ci-2: #45B29D;		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
-$ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
+$ci-5: #792A8A;		// OSIPI-purple
+$ci-6: #F1625B;     // OSIPI-red
 
 
 
@@ -50,6 +58,7 @@ $info-color: $ci-1;
 /* Grey Scale
 ------------------------------------------------------------------- */
 
+$just-white: #fff;
 $grey-1: #E4E4E4;
 $grey-2: #D7D7D7;
 $grey-3: #CBCBCB;
@@ -72,7 +81,7 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: $body-bg;
+$topbar-bg-color: $grey-1;
 $topbar-bg: $topbar-bg-color;
 
 
@@ -83,17 +92,17 @@ $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-2;
+$topbar-dropdown-label-color: $grey-1;
 $topbar-dropdown-link-bg-hover: $ci-6;
 
 $topbar-link-bg-active: $ci-6; // Active Navigation Link
 $topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active-hover: $grey-1;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $grey-1;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
@@ -109,7 +118,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 
 $footer-bg: $grey-8;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $grey-3;
 
 
 $subfooter-bg: $grey-13;

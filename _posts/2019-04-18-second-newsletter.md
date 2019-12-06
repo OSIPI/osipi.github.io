@@ -3,7 +3,6 @@ layout: page
 title: "OSIPI Newsletter #2"
 teaser: "ISMRM 2019 is coming up soon!"
 comments: false
-header: no
 categories:
   - newsletter
 ---

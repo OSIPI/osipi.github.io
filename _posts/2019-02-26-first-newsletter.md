@@ -3,7 +3,6 @@ layout: page
 title: "OSIPI Newsletter #1"
 teaser: "Thank you for your interest and support!"
 comments: false
-header: no
 categories:
   - newsletter
 ---

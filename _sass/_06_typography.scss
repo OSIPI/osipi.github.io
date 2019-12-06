@@ -193,8 +193,12 @@ code {
 /* Lists
 ------------------------------------------------------------------- */
 
+.list-title {
+    margin-bottom: 0;
+}
+
 ul, ol {
-    margin-left: 20px;
+    margin-left: 2rem;
     padding: 0;
 }
 li {

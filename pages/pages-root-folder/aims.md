@@ -17,7 +17,7 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 *This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users.*
 
    {:.list-title}
-   **Task Force 1.1 - ASL Inventory**
+   [**Task Force 1.1 - ASL Inventory**](/task-force-1-1/)
 
    - Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA)
    - Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA)

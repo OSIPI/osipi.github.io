@@ -8,8 +8,11 @@ header: no
 
 The **Executive and Management Board (EMB)** of OSIPI is the central body responsible 
 for the execution of the strategic plan and ongoing management of OSIPI. 
+
 The EMB defines a *Roadmap* that sets out deliverables and milestones, 
 monitors its implementation, and reports back to the [ISMRM Perfusion Study Group](https://www.ismrm.org/study-groups/perfusion-mr/) ahead of the annual ISMRM meeting. 
+
+The EMB consists of the OSIPI leadership team and one co-lead for each task force. Meetings are held quarterly.
 
 {:.list-title}
 **Current OSIPI Roadmap**
@@ -29,5 +32,5 @@ monitors its implementation, and reports back to the [ISMRM Perfusion Study Grou
 {:.list-title}
 **EMB meetings**
 
-- 2019.02.07 First EMB meeting (Agenda TBD)
+- 2020.02.07 First EMB meeting (Agenda TBD)
 

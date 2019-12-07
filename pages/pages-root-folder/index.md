@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: layout-front.jpg
+# header:
+#   image_fullwidth: layout-front.jpg
 
 widget1:
   title: "Why?"

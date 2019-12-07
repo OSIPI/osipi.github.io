@@ -5,7 +5,12 @@
 - title: About
   url: "/about/"
   side: left
-  
+  dropdown:
+  - title: "Executive & Management Board"
+    url: "/emb/"
+  - title: "Strategy Board"
+    url: "/sb/"
+    
 - title: Aims
   url: "/aims/"
   side: left

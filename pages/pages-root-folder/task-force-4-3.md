@@ -6,11 +6,10 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
+{:.list-title}
 **Task force aim**
 
-*Integrate reporting standards for ASL, DCE and DSC into an amendement to the DICOM standard*
-
-Task force 4.3 is not yet active and will open once 4.1 and 4.2 are in progress
+- Integrate reporting standards for ASL, DCE and DSC into an amendement to the DICOM standard
 
 {:.list-title}
 **Task force members**
@@ -23,7 +22,7 @@ Task force 4.3 is not yet active and will open once 4.1 and 4.2 are in progress
 {:.list-title}
 **Task force status**  
 
-- Identifying leads..
+- Not yet active ..
 
 
 ### Resources

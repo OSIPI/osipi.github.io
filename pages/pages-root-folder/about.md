@@ -25,12 +25,9 @@ The plans were endorsed by the ISMRM study group and the ISMRM executive committ
 
 OSIPI is managed by a **leadership team** of 4 members nominated by the ISMRM perfusion study group (past chair, chair, co-chair, secretary). Each is appointed for 1 year with a rotation on the annual meeting of the ISMRM, when a new secretary is nominated by the study group and the past chair rotates off. The current leadership team consists of:
 
-* [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/), University of Sheffield, UK (chair)
-* [**Laura Bell**](https://www.linkedin.com/in/lauracbell/), Barrow Neurological Institute, Phoenix, AZ, USA (co-chair)
-* [**Henk-Jan Mutsaerts**](https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/), Amsterdam UMC/UMC Utrecht, Netherlands (secretary)
-* [**Charlotte Debus**](https://www.linkedin.com/in/charlotte-debus-316214a0/?originalSubdomain=de), German Aerospace Center, Cologne, Germany (past-chair)
+{% include _leadership.html %}
 
-The work in OSIPI is planned around 6 specific [aims](/aims/) that include the building of a software inventory, a library of code snippets, a data inventory, reporting guidelines, education and exchange and benchmarking. The aims are delivered by one or more **Task Forces**, each of which is led by a (senior) task force co-lead and a (junior) co-lead appointed for a period of 2 years. 
+The work in OSIPI is planned around 6 specific [aims](/aims/) that include the building of a software inventory, a library of code snippets, a data inventory, reporting guidelines, education and exchange and benchmarking. The aims are delivered by one or more **Task Forces**, each of which is led by a (senior) task force lead and a (junior) co-lead appointed for a period of 2 years. 
 
 
 **How can I join OSIPI?**

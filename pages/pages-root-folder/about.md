@@ -27,7 +27,7 @@ OSIPI is managed by a **leadership team** of 4 members nominated by the ISMRM pe
 
 {% include _leadership.html %}
 
-The work in OSIPI is planned around 6 specific [aims](/aims/) that include the building of a software inventory, a library of code snippets, a data inventory, reporting guidelines, education and exchange and benchmarking. The aims are delivered by one or more **Task Forces**, each of which is led by a (senior) task force lead and a (junior) co-lead appointed for a period of 2 years. 
+The work in OSIPI is planned around 6 specific [aims](/aims/) that include the building of a software inventory, a library of code snippets, a data inventory, reporting guidelines, education and exchange and benchmarking. The aims are delivered by one or more **Task Forces**, each of which is led by a (senior) task force co-lead and a (junior) co-lead appointed for a period of 2 years. 
 
 
 **How can I join OSIPI?**

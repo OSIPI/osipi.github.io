@@ -14,7 +14,7 @@ header: no
 {:.list-title}
 **Task force members**
 
-- [Ina Kompan](https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html) (OSIPI task force 4.2 co-lead)(**Co-lead**)
+- (**Co-lead**)[Ina Kompan](https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html) 
 - Laura Bell
 - Charlotte Debus
 - Ralf Floca
@@ -23,7 +23,7 @@ header: no
 - Chad Quarles
 - Petra van Houdt
 - Patrick Thurner
-- [David Buckley](https://medicinehealth.leeds.ac.uk/medicine/staff/175/professor-david-l-buckley)(**Co-lead**)
+- (**Co-lead**)[David Buckley](https://medicinehealth.leeds.ac.uk/medicine/staff/175/professor-david-l-buckley)
 
 {:.list-title}
 **Task force status**  

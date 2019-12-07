@@ -9,6 +9,8 @@ header: no
 The **Executive and Management Board (EMB)** of OSIPI is the central body responsible 
 for the execution of the strategic plan and ongoing management of OSIPI. 
 
+![Organigram]({{ site.urlimg }}organigram-emb.png)
+
 The EMB defines a *Roadmap* that sets out deliverables and milestones, 
 monitors its implementation, and reports back to the [ISMRM Perfusion Study Group](https://www.ismrm.org/study-groups/perfusion-mr/) ahead of the annual ISMRM meeting. 
 

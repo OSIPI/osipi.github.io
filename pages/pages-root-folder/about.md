@@ -9,9 +9,13 @@ header: no
 **When was OSIPI founded?**
 ---------------------------
 
-OSIPI is an initiative of the [ISMRM Perfusion Study Group](https://www.ismrm.org/study-groups/perfusion-mr/) and endorsed by the parent society [ISMRM](https://www.ismrm.org/). The project was founded in the fall of 2018 after a call-to-action survey of the study group membership revealed a strong demand for an initiative around perfusion software. Over 100 members returned a questionnaire with detailed information on data, software and other possible contributions. 
+OSIPI is an initiative of the [ISMRM Perfusion Study Group](https://www.ismrm.org/study-groups/perfusion-mr/) and endorsed by the parent society [ISMRM](https://www.ismrm.org/). The project was founded in the fall of 2018 by trainee representative [Laura Bell](https://www.linkedin.com/in/lauracbell/) and secretary [Steven Sourbron](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/). 
 
-A founding board organised [launch events](/events/) during and after the ISMRM 2019 and drafted more detailed plans including this project website and logo, communication channels, governance structure and mission statement. The plans were endorsed by the ISMRM study group and the ISMRM executive committee in november 2019 and the operational phase of OSIPI was launched on 1 december 2019. OSIPI has no predefined end date and is designed to evolve as the need for coordinated perfusion software development changes.
+An initial call-to-action survey of the study group membership revealed a strong demand for an initiative around perfusion software. Over 100 members returned a questionnaire with detailed information on data, software and other possible contributions. 
+
+A founding board organised [launch events](/events/) during and after the ISMRM 2019 and drafted more detailed plans including this project website and logo, communication channels, governance structure and mission statement. 
+
+The plans were endorsed by the ISMRM study group and the ISMRM executive committee in november 2019 and the operational phase of OSIPI was launched on 1 december 2019. OSIPI has no predefined end date and is designed to evolve as the need for coordinated perfusion software development changes.
 
 *OSIPI founding board:* Laura Bell, Patricia Clement, Charlotte Debus, Andrey Fedorov, Simon Levy, Steven Sourbron, and Frank Zoellner. 
 
@@ -26,7 +30,7 @@ OSIPI is managed by a **leadership team** of 4 members nominated by the ISMRM pe
 * [**Henk-Jan Mutsaerts**](https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/), Amsterdam UMC/UMC Utrecht, Netherlands (secretary)
 * [**Charlotte Debus**](https://www.linkedin.com/in/charlotte-debus-316214a0/?originalSubdomain=de), German Aerospace Center, Cologne, Germany (past-chair)
 
-The work in OSIPI is planned around 6 specific [aims](/aims/) that include the building of a software inventory, a library of code snippets, a data inventory, reporting guidelines, education and exchange and benchmarking. The aims are delivered by one or more **Task Forces**, each of which is led by a (senior) task force lead and a (junior) co-lead appointed for a period of 2 years. 
+The work in OSIPI is planned around 6 specific [aims](/aims/) that include the building of a software inventory, a library of code snippets, a data inventory, reporting guidelines, education and exchange and benchmarking. The aims are delivered by one or more **Task Forces**, each of which is led by a (senior) task force co-lead and a (junior) co-lead appointed for a period of 2 years. 
 
 
 **How can I join OSIPI?**
@@ -34,7 +38,7 @@ The work in OSIPI is planned around 6 specific [aims](/aims/) that include the b
 
 If you want to stay informed about the progress of OSIPI, contribute ideas or comments, please consider joining the [OSIPI google group](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging/). 
 
-If you want to actively contribute to a particular task force, then please get in touch with the appropriate task force lead directly. The names and contact details are [here](/aims/). 
+If you want to actively contribute to a particular task force, then please get in touch with the appropriate task force lead directly. The names and contact details are on the task force page linked from [here](/aims/). 
 
 If you want to contribute but are unsure where, or your ideas are outside the remit of any given taks force, then please contact a member of the OSIPI leadership team.
 

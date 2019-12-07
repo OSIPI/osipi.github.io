@@ -1,5 +1,6 @@
 ---
 permalink: /search/
+header: no
 layout: page
 title: "Search"
 sitemap: false

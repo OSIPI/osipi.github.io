@@ -6,7 +6,7 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task Force Aim**
+**Task force aim**
 
 *Integrate reporting standards for ASL, DCE and DSC into an amendement to the DICOM standard*
 
@@ -19,6 +19,11 @@ Task force 4.3 is not yet active and will open once 4.1 and 4.2 are in progress
 - Ina Kompan
 - David Clunie
 - Yuriko Suzuki
+
+{:.list-title}
+**Task force status**  
+
+- Identifying leads..
 
 
 ### Resources

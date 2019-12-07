@@ -6,7 +6,7 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-**Task Force Aim**
+**Task force aim**
 
 *Develop and distribute educational content such as online tutorials, powerpoint presentation, training courses.*
 
@@ -18,4 +18,10 @@ header: no
 - Divya Bolar
 - Patricia Clement
 - Paula Croal
+
+{:.list-title}
+**Task force status**  
+
+- Identifying leads..
+
 

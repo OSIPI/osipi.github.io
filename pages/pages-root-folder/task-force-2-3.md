@@ -12,7 +12,7 @@ header: no
 - Collect and harmonise DCE/DSC code snippets from developers 
 
 {:.list-title}
-**Task Force Members**  
+**Task force members**  
 
 - Jonathan Arvidsson
 - Martin Craig
@@ -28,4 +28,10 @@ header: no
 - Sudarshan Ragunathan
 - Michael Thrippleton
 - Luis Torres
+
+{:.list-title}
+**Task force status**  
+
+- Identifying leads..
+
 

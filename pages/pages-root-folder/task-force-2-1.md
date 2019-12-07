@@ -12,7 +12,7 @@ header: no
 - Define and manage the library for ASL, DCE and DSC code snippets collected and harmonized by task forces 2.2 and 2.3. This includes defining the structure of the library, licensing, naming conventions, documentation conventions, version control, code review, etc..  
 
 {:.list-title}
-**Task Force Members**  
+**Task force members**  
 
 - Michael Berks
 - Martin Craig
@@ -21,4 +21,10 @@ header: no
 - Matthias Schabel
 - Frank Zoellner
 - Joao de Sousa
+
+{:.list-title}
+**Task Force status**  
+
+- Identifying leads..
+
 

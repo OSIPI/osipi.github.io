@@ -12,7 +12,7 @@ header: no
 - Collect and harmonise ASL code snippets from developers 
 
 {:.list-title}
-**Task Force Members**  
+**Task force fembers**  
 
 - Marco Castellaro
 - Martin Craig
@@ -21,3 +21,8 @@ header: no
 - Patrick Hales
 - Maria Mora
 - Ruth Oliver
+
+{:.list-title}
+**Task force status**  
+
+- Identifying leads..

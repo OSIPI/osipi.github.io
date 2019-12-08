@@ -334,6 +334,7 @@ body.video cite { color: #fff; }
 
 .social-icons {
     margin-bottom: 10px !important;
+    display: inline-block
 
 // Beware of SCSS-Syntax here
   li {
@@ -345,10 +346,10 @@ body.video cite { color: #fff; }
     width: 36px;
     border-radius: 50%;
     color: $subfooter-bg;
-    background: $subfooter-color;
+    background: $subfooter-bg;
     text-align: center;
     &:hover {
-      background: $subfooter-bg;
+      background: $subfooter-color;
       color: #fff;
     }
   }

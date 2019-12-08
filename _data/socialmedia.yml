@@ -1,7 +1,12 @@
 - name: GitHub
-  url: http://github.com/osipi
+  url: https://github.com/osipi
   class: icon-github
   title: GitHub organization
+
+- name: Forum
+  url: https://www.osipi.org/forum/
+  class: icon-chat
+  title: Join the OSIPI community
 
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia

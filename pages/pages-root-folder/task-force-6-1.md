@@ -14,5 +14,6 @@ header: no
 {:.list-title}
 **Task force members**
 
-- Task force not yet active
+- Anahita Fathi (**co-lead**)
+
 

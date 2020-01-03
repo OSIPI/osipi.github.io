@@ -14,17 +14,17 @@ header: no
 {:.list-title}
 **Task force members**  
 
+- (**Co-lead**) Simon Levy
 - Michael Berks
 - Martin Craig
 - Rebeca Echeverria Chasco
-- Simon Levy
-- Matthias Schabel
 - Frank Zoellner
 - Joao de Sousa
+- (**Co-lead**) Matthias Schabel
 
 {:.list-title}
 **Task Force status**  
 
-- Identifying leads..
+- 2020.01.03 Co-leads confirmed
 
 

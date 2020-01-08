@@ -22,7 +22,7 @@ header: no
 {:.list-title}
 **Task force status**
 
-- Identifying leads ..
+- 2020.01.07 Co-lead confirmed
 
 
 

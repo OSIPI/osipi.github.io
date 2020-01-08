@@ -17,7 +17,7 @@ header: no
 - Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA)
 - Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA)
 - David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK)
-- Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany)
+- (**Co-lead**) Jan Petr (Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany)
 
 {:.list-title}
 **Task force status**

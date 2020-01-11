@@ -46,13 +46,6 @@
 - title: News
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/blog/archive/"
-
-- title: Events
-  url: "/events/"
-  side: left
 
 #- title: Blog
 #  url: "/blog/"

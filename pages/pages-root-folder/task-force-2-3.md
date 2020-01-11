@@ -15,6 +15,7 @@ header: no
 **Task force members**  
 
 - Jonathan Arvidsson
+- Samual Barnes
 - Martin Craig
 - Ingomar Gutmann
 - Zaki Ahmed
@@ -27,6 +28,7 @@ header: no
 - Sudarshan Ragunathan
 - Michael Thrippleton
 - Luis Torres
+
 
 {:.list-title}
 **Task force status**  

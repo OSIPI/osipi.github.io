@@ -19,6 +19,7 @@ header: no
 - Thomas Lindner
 - Jan Petr
 - Yuriko Suzuki
+- (**Co-lead**) David Thomas 
 
 {:.list-title}
 **Task force status**  

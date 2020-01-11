@@ -23,7 +23,6 @@ header: no
 - Petra van Houdt
 - Jayashree Kalpathy-Cramer
 - Federico Pineda
-- Sudarshan Ragunathan
 - Matthias Schabel
 - Sudarshan Ragunathan
 - Michael Thrippleton

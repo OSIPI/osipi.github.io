@@ -8,10 +8,17 @@
 
 
 {% for post in paginator.posts %}
+  {% if post.categories contains "event" %}
+    {% assign icon-class = 'icon-calendar' %}
+  {% elsif post.categories contains "newsletter" %}
+    {% assign icon-class = 'icon-feather' %}
+  {% else %}
+   {assign icon-class = '' %}
+  {% endif %}
   <div class="row">
-    <div class="small-12 columns b60">
-      <p class="subheadline">{{ post.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: '</span>' }}{% if post.categories != empty and post.subheadline != NULL %} – {% endif %}{{ post.subheadline }}</p>
-      <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="small-12 columns b15">
+      <p class="subheadline {{ icon-class }}">{{ post.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: '</span>' }}{% if post.categories != empty and post.subheadline != NULL %} – {% endif %}{{ post.subheadline }}</p>
+      <h3><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
       <p>
         {% if post.image.thumb %}<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img src="{{ site.urlimg }}{{ post.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ page.title escape_once }}"></a>{% endif %}
 

@@ -38,6 +38,7 @@ $subheader-font-color: scale-color($header-font-color, $lightness: 35%) !default
 $subheader-font-weight: $font-weight-normal !default;
 $subheader-top-margin: .2rem !default;
 $subheader-bottom-margin: .5rem !default;
+$subheader-left-margin: .2rem !default;
 
 // A general <small> styling
 $small-font-size: 60% !default;
@@ -183,6 +184,7 @@ $align-class-breakpoints:
   font-weight: $subheader-font-weight;
   margin-top: $subheader-top-margin;
   margin-bottom: $subheader-bottom-margin;
+  margin-left: $subheader-left-margin;
 }
 @include exports("type") {
   @if $include-html-type-classes {

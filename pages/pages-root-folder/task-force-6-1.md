@@ -14,7 +14,7 @@ header: no
 {:.list-title}
 **Task force members**
 
-- Anahita Fathi (**co-lead**)
+- (**Co-lead**) Anahita Fathi 
 - Other members
 
 

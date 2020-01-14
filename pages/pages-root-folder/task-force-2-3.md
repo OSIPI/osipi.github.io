@@ -26,13 +26,13 @@ header: no
 - Federico Pineda
 - Matthias Schabel
 - Sudarshan Ragunathan
-- Michael Thrippleton
 - Luis Torres
+- (**Lead**)[Michael Thrippleton](https://www.ed.ac.uk/profile/dr-michael-thrippleton)
 
 
 {:.list-title}
 **Task force status**  
 
-- Identifying leads..
+- Identifying co-lead..
 
 

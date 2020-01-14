@@ -14,6 +14,7 @@ header: no
 {:.list-title}
 **Task force members**  
 
+- Petra van Houdt
 - Jonathan Arvidsson
 - Samual Barnes
 - Martin Craig
@@ -21,7 +22,6 @@ header: no
 - Zaki Ahmed
 - Michael Berks
 - Ben Ellingson
-- Petra van Houdt
 - Jayashree Kalpathy-Cramer
 - Federico Pineda
 - Matthias Schabel

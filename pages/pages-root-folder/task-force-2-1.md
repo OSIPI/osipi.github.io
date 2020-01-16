@@ -25,6 +25,6 @@ header: no
 {:.list-title}
 **Task Force status**  
 
-- 2020.01.03 Co-leads confirmed
+- 2020.01.03 Leads confirmed
 
 

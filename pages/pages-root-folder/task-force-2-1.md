@@ -20,7 +20,7 @@ header: no
 - Rebeca Echeverria Chasco
 - Frank Zoellner
 - Joao de Sousa
-- (**Co-lead**) Matthias Schabel
+- (**Lead**) Matthias Schabel
 
 {:.list-title}
 **Task Force status**  

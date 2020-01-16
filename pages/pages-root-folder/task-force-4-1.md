@@ -19,12 +19,12 @@ header: no
 - Thomas Lindner
 - Jan Petr
 - Yuriko Suzuki
-- (**Co-lead**) David Thomas 
+- (**Lead**) David Thomas 
 
 {:.list-title}
 **Task force status**  
 
-- Identifying leads..
+- 2020.01.15 Lead confirmed
 
 
 

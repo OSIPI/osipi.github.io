@@ -27,7 +27,7 @@ header: no
 - Matthias Schabel
 - Sudarshan Ragunathan
 - Luis Torres
-- (**Lead**)[Michael Thrippleton](https://www.ed.ac.uk/profile/dr-michael-thrippleton)
+- (**Lead**) [Michael Thrippleton](https://www.ed.ac.uk/profile/dr-michael-thrippleton)
 
 
 {:.list-title}

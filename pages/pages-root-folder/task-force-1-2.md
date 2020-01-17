@@ -9,7 +9,7 @@ header: no
 {:.list-title}
 **Task force aims**
 
-- Create an inventory of open source DCE/DSC packages
+- Create an inventory of available DCE/DSC packages
 
 {:.list-title}
 **Task force members**

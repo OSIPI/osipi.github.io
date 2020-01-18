@@ -14,7 +14,13 @@ header: no
 {:.list-title}
 **Task force members**
 
-- (**Co-lead**) Anahita Fathi 
-- Other members
+- (**Lead DSC challenge**) [Anahita Fathi](https://www.linkedin.com/in/anahita-fathi-kazerooni-a3287238/)
+- Other members TBC
+
+- (**Lead ASL challenge**) [Paola Croal](https://www.linkedin.com/in/paula-croal/?originalSubdomain=uk)
+- (**Co-Lead ASL challenge**) [Udunna Anazodo](https://www.lawsonresearch.ca/scientist/dr-udunna-anazodo)
+- Pieter Vandemaele
+- Jan Petr
+- Henk-Jan Mutsaerts
 
 

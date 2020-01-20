@@ -10,10 +10,14 @@ header: no
 
 Develop guidelines for reporting of DCE/DSC image acquisition and analysis
 
-### Task force leads
 ---
 
+### Task force leads
+
+
 {% include _tf_4_2.html %}
+
+---
 
 ### Task force members 
 
@@ -26,9 +30,13 @@ Develop guidelines for reporting of DCE/DSC image acquisition and analysis
 - Petra van Houdt
 - Patrick Thurner
 
+---
+
 ### Task force status  
 
 - 2019.12.01 Co-leads confirmed
+
+---
 
 ### Resources
 

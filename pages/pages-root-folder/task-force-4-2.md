@@ -11,7 +11,7 @@ header: no
 Develop guidelines for reporting of DCE/DSC image acquisition and analysis
 
 ### Task force leads
-###  
+---
 
 {% include _tf_4_2.html %}
 

@@ -4,10 +4,10 @@
 
 {{ taskforce.aims }}
 
+{% if taskforce.leads %}
 ---
 
 ### Task force leads
-
 
 {% for lead in taskforce.leads %}
 <div style="display:flex">
@@ -30,8 +30,9 @@
     </div>
 </div>
 {% endfor %}
+{% endif %}
 
-
+{% if taskforce.members %}
 ---
 
 ### Task force members 
@@ -41,7 +42,7 @@
     <li> {{ member }} </li> 
 {% endfor %}
 </ul>
-
+{% endif %}
 ---
 
 ### Task force status  
@@ -52,6 +53,7 @@
 {% endfor %}
 </ul>
 
+{% if taskforce.resources %}
 ---
 
 ### Resources
@@ -66,3 +68,4 @@
     </li>
 {% endfor %}
 </ul>
+{% endif %}

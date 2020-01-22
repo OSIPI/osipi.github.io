@@ -1,0 +1,27 @@
+title: "OSIPI Task Force 4.2: DCE/DSC lexicon"
+aims: Develop guidelines for reporting of DCE/DSC image acquisition and analysis
+leads:
+  - name: Ina Kompan
+    location: German Cancer Research Centre (DKFZ), Heidelberg
+    photo: ina_kompan_headshot.jpg
+    website: https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html
+  - name: David Buckley
+    location: University of Leeds, UK
+    photo: david_buckley_headshot.jpg
+    website: https://medicinehealth.leeds.ac.uk/medicine/staff/175/professor-david-l-buckley/
+members:
+  - Laura Bell
+  - Charlotte Debus
+  - Ralf Floca
+  - Andrey Fedorov
+  - Steven Sourbron
+  - Chad Quarles
+  - Petra van Houdt
+  - Patrick Thurner
+status:
+  - 2019.12.02 Co-leads confirmed
+resources:
+  - website: http://bit.ly/perfusion-reporting
+    description: |
+      Perfusion image analysis lexicon and reporting recommendations. 
+      Google document open for community contributions and comments.

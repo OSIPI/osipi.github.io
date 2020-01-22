@@ -24,5 +24,7 @@ header: no
 
 - 2020.01.07 Co-lead confirmed
 
+{:.list-title}
+**Task force description**
 
-
+**Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis.** This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users. 

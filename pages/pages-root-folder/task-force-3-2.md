@@ -1,36 +1,8 @@
 ---
-layout: page
+layout: taskforce
+tf: "tf_3_2"
 permalink: "/task-force-3-2/"
-title: "OSIPI Task Force 3.2: Clinical and preclinical data"
 header: no
-#subheadline: "... because we need one!"
 ---
 
-{:.list-title}
-**Task force aims**
-
-- Build an inventory of freely available clinical and preclinical data
-
-{:.list-title}
-**Task force members**
-
-- Zaki Ahmed
-- Beatrix Asenjo Garcia
-- Greg Cron
-- Andrey Fedorov
-- Pauline Hall Barrientos
-- Jochen Hirsch
-- Thomas Lindner
-- Felix Navarro
-- Federico Pineda
-- Annette van der Toorn
-
-{:.list-title}
-**Task force status**  
-
-- Identifying leads..
-
-{:.list-title}
-**This task force is part of aim 3:**
-
-Develop an inventory of data for the evaluation of perfusion software. This is aimed at researchers looking for data to test their perfusion analysis methods, and at data owners who want to share data for secondary research. The inventory will provide a curated list of publicly available synthetic, phantom, preclinical and clinical perfusion datasets. Digital reference objects (DROs) and phantom data can serve as ground truth for perfusion analysis methods, and in-vivo data can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality. TF 3.2 builds an inventory of freely available (pre-)clinical data.
+{% include taskforce_content.md %}

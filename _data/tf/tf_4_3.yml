@@ -1,0 +1,12 @@
+title: "OSIPI Task Force 4.3: DICOM standard amendment"
+aims: Integrate reporting standards for ASL, DCE and DSC into an amendement to the DICOM standard
+members:
+  - Andrey Fedorov
+  - Ina Kompan
+  - David Clunie
+  - Yuriko Suzuki
+status:
+  - Not yet active ..
+resources:
+  - website: https://github.com/QIICR/dcmqi
+    description: "dcmqi: free open source library and tools for conversion to and from DICOM for image-derived analysis results, including DICOM Parametric maps"

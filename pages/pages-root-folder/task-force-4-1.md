@@ -1,30 +1,8 @@
 ---
-layout: page
+layout: taskforce
+tf: "tf_4_1"
 permalink: "/task-force-4-1/"
-title: "OSIPI Task Force 4.1: ASL lexicon"
 header: no
-#subheadline: "... because we need one!"
 ---
 
-{:.list-title}
-**Task force aims**
-
-- Develop guidelines for reporting of ASL image acquisition and analysis
-
-{:.list-title}
-**Task force members**
-
-- Udunna Anazodo
-- Patricia Clement
-- Thomas Lindner
-- Jan Petr
-- Yuriko Suzuki
-- (**Lead**) David Thomas 
-
-{:.list-title}
-**Task force status**  
-
-- 2020.01.15 Lead confirmed
-
-
-
+{% include taskforce_content.md %}

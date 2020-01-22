@@ -1,0 +1,21 @@
+title: "OSIPI Task Force 2.1: Library structure and management"
+aims: |
+  Define and manage the library for ASL, DCE and DSC code snippets collected and harmonized by task forces 2.2 and 2.3. 
+  This includes defining the structure of the library, licensing, naming conventions, documentation conventions, version control, code review, etc..
+leads:
+  - name: Matthias Schabel
+    location: null
+    photo: anonymous_headshot.png 
+    website: null
+  - name: Simon Levy
+    location: null
+    photo: anonymous_headshot.png 
+    website: null
+members:
+  - Michael Berks
+  - Martin Craig
+  - Rebeca Echeverria Chasco
+  - Frank Zoellner
+  - Joao de Sousa
+status:
+  - 2020.01.03 Leads confirmed

@@ -27,7 +27,11 @@ header: no
 
 - Identifying leads..
 
-{:.list-title}
-**Task force description**
 
-**Develop a library of open-source functions, scripts and pipelines for perfusion imaging analysis.** This is aimed at developers of perfusion methods looking for specific functionality or development templates, or who want to share their own in-house developments with others. Contributions will be sourced from the community, and may include individual functions and more complete pipelines in various programming languages. OSIPI will organise these in a coherent and well-documented library structure, then identify and develop any missing functionality.
+{:.list-title}
+**This task force is part of aim 1:**
+
+Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis. This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users. TF 1.2 provides this for DCE/DSC software.
+
+
+

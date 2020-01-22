@@ -18,3 +18,7 @@ header: no
 
 - Task force not yet active
 
+{:.list-title}
+**This task force is part of aim 5:**  
+
+Develop a platform for discussion and exchange between developers and users of perfusion software. Effective communication is a key prerequisite for the realisation of the aims, but also to ensure long-term sustainability of the initiative. Through the use of novel communication media and organisation of events, OSIPI will build an active community promoting networking, communication, guidance and discussion. TF 5.1 focuses on teaching and education. TF 5.2 focuses on dissemination and events.

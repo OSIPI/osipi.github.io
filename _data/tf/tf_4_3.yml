@@ -1,5 +1,11 @@
 title: "OSIPI Task Force 4.3: DICOM standard amendment"
 aims: Integrate reporting standards for ASL, DCE and DSC into an amendement to the DICOM standard
+description: |
+  Develop consensus guidelines for reporting image acquisition and analysis of perfusion imaging. 
+  This will enable interoperability and facilitate the comparison of results produced by different analysis tools, studies or sites. 
+  We aim to harmonize and increase the detail in the description of parameters and configurations, enable encoding of the complete perfusion imaging workflow, and pave the way for consensus building. 
+  An important application will be the amendment of the DICOM standard for perfusion parametric maps, as well as BIDS extensions, and development of demonstrations and use cases. 
+  TF 4.3 will integrate the results of TF 4.1 and 4.2 into a DICOM amendment.
 members:
   - Andrey Fedorov
   - Ina Kompan

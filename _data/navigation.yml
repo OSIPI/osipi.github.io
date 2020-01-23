@@ -41,25 +41,10 @@
     url: "/task-force-5-2/"  
   - title: "TF 6.1 - Challenges"
     url: "/task-force-6-1/" 
-    
 
 - title: News
-  url: "/blog/"
+  url: "/news/"
   side: left
-#  dropdown:
-#  - title: "News Archive"
-#    url: "/blog/archive/"
-
-#- title: Events
-#  url: "/events/"
-#  side: left
-
-#- title: Blog
-#  url: "/blog/"
-#  side: left
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
 
 - title: "Forum"
   url: "/forum/"

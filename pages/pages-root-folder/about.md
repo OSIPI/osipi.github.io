@@ -13,7 +13,7 @@ OSIPI is an initiative of the [ISMRM Perfusion Study Group](https://www.ismrm.or
 
 An initial call-to-action survey of the study group membership revealed a strong demand for an initiative around perfusion software. Over 100 members returned a questionnaire with detailed information on data, software and other possible contributions. 
 
-A founding board organised [launch events](/blog/) during and after the ISMRM 2019 and drafted more detailed plans including this project website and logo, communication channels, governance structure and mission statement. 
+A founding board organised [launch events](/news/) during and after the ISMRM 2019 and drafted more detailed plans including this project website and logo, communication channels, governance structure and mission statement. 
 
 The plans were endorsed by the ISMRM study group and the ISMRM executive committee in november 2019 and the operational phase of OSIPI was launched on 1 december 2019. OSIPI has no predefined end date and is designed to evolve as the need for coordinated perfusion software development changes.
 

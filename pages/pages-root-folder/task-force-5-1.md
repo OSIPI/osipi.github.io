@@ -1,27 +1,8 @@
 ---
-layout: page
+layout: taskforce
+tf: "tf_5_1"
 permalink: "/task-force-5-1/"
-title: "OSIPI Task Force 5.1: Teaching and Education"
 header: no
-#subheadline: "... because we need one!"
 ---
 
-**Task force aim**
-
-*Develop and distribute educational content such as online tutorials, powerpoint presentation, training courses.*
-
-{:.list-title}
-**Task force members**
-
-- Rik Achten
-- Zaki Ahmed
-- Divya Bolar
-- Patricia Clement
-- Paula Croal
-
-{:.list-title}
-**Task force status**  
-
-- Identifying leads..
-
-
+{% include taskforce_content.md %}

@@ -1,0 +1,21 @@
+{% for person in site.data.tf_4_2 %}
+<div style="display:flex">
+    <figure style="margin-bottom:1rem">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ person.photo }}" 
+        style="border-radius:50%; width:75px">
+    </figure>
+    <div style="padding-left:1rem; padding-top:0.5rem">
+        <p style="margin-bottom:0.1rem">
+            <b>{{ person.position }}</b> <br/>
+        </p>
+        <p style="line-height:1rem; margin-bottom:0">
+            <a href="{{ person.website }}" style="border-bottom:none">
+                <b>{{ person.name }}</b> <br/>
+                <span style="font-weight: normal"> 
+                    {{ person.location }}
+                </span>
+            </a>
+        </p>
+    </div>
+</div>
+{% endfor %}

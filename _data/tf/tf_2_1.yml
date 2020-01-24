@@ -10,13 +10,13 @@ description: |
   TF 2.1 will define and manage the library structure.
 leads:
   - name: Matthias Schabel
-    location: null
+    location: Advanced Imaging Research Center, Oregon Health and Sciences University
     photo: anonymous_headshot.png 
-    website: null
+    website: https://ohsu.pure.elsevier.com/en/persons/matthias-schabel
   - name: Simon Levy
-    location: null
-    photo: anonymous_headshot.png 
-    website: null
+    location: Center for Magnetic Resonance in Biology and Medicine, Aix-Marseille University
+    photo: headshot_simon_levy.jfif
+    website: https://crmbm.univ-amu.fr/contact/levy-rosetti-simon
 members:
   - Michael Berks
   - Martin Craig

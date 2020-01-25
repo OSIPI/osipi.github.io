@@ -8,14 +8,18 @@ description: |
   TF 4.1 will create the ASL lexicon.
 leads:
   - name: David Thomas 
-    location: null
-    photo: anonymous_headshot.png 
-    website: null
+    location: Leonard Wolfson Experimental Neurology Centre, University College London, UK
+    photo: headshot_david_thomas.jpg 
+    website: https://iris.ucl.ac.uk/iris/browse/profile?upi=DTHOM65
+  - name: Yuriko Suzuki
+    location: The Institute of Biomedical Engineering, Oxford University, UK
+    photo: headshot_yuriko_suzuki.jpg
+    website: https://www.researchgate.net/profile/Yuriko_Suzuki3
 members:
   - Udunna Anazodo
   - Patricia Clement
   - Thomas Lindner
   - Jan Petr
-  - Yuriko Suzuki
+  - 
 status:
   - 2020.01.15 Lead confirmed

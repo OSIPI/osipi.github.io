@@ -6,6 +6,11 @@ description: |
   The inventory will provide a curated list of publicly available synthetic, phantom, preclinical and clinical perfusion datasets. 
   Digital reference objects (DROs) and phantom data can serve as ground truth for perfusion analysis methods, and in-vivo data can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality. 
   TF 3.1 builds an inventory of DROs and phantoms.
+leads:
+  - name: Jim Holmes
+    location: University of Wisconsin-Madison
+    photo: headshot_jim_holmes.png
+    website: https://www.linkedin.com/in/james-holmes-35b52a110/
 members:
   - Jonathan Arvidsson
   - Leah Henze Bancroft
@@ -17,4 +22,4 @@ members:
   - Aaron Oliver-Taylor
   - Nataneal Semmineh
 status:
-  - Identifying leads..
+  - Lead identified 24.01.2020

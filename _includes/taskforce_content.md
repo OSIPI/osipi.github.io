@@ -4,6 +4,8 @@
 
 {{ taskforce.aims }}
 
+### Task force description
+
 {{ taskforce.description }}
 
 {% if taskforce.leads %}

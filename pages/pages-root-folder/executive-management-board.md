@@ -24,18 +24,14 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 {:.list-title}
 **Current EMB members**
 
+{:style="margin-bottom:0"}
 - [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/) (OSIPI chair)
 - [**Laura Bell**](https://www.linkedin.com/in/lauracbell/) (OSIPI co-chair)
 - [**Henk-Jan Mutsaerts**](https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/) (OSIPI secretary)
 - [**Charlotte Debus**](https://www.linkedin.com/in/charlotte-debus-316214a0/?originalSubdomain=de) (OSIPI past-chair)
-- **Jan Petr** (OSIPI task force 1.1 co-lead)
-- **Simon Levy** (OSIPI task force 2.1 co-lead)
-- **Matthias Schabel** (OSIPI task force 2.1 co-lead)
-- **David Thomas** (OSIPI task force 4.1 co-lead)
-- [**Ina Kompan**](https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html) (OSIPI task force 4.2 co-lead)
-- **David Buckley** (OSIPI task force 4.2 co-lead)
-- **Anahita Fathi** (OSIPI task force 6.1 co-lead)
-- Other task force leads to be determined.
+
+{% include taskforce/leads_list.html %}
+
 
 {:.list-title}
 **EMB meetings**

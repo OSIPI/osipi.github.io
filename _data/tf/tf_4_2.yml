@@ -26,19 +26,20 @@ members:
   - Patrick Thurner
 status:
   - 2019.12.02 Co-leads confirmed
+  - Confirming members ...
 links:
   - website: https://drive.google.com/drive/folders/1TTh6_7aqfGMRCw6dJkaBj84ePqZQ0H9B?usp=sharing
     description: |
-      Task force google drive.
+      Task force folder on drive - storage space for public or private documents developed by the task force.
   - website: https://osipi.slack.com/archives/CQVLAHK16
     description: |
-      Task force slack channel.
+      Task force slack channel - for discussions between task force members.
   - website: https://github.com/OSIPI/osipi.github.io/blob/master/pages/pages-root-folder/task-force-4-2.md
     description: |
-      Task force webpage backend. 
+      Task force webpage backend - for information on task force progress and links to public resources.
   - website: https://github.com/OSIPI/osipi.github.io/blob/master/_data/tf/tf_4_2.yml
     description: |
-      Task force factsheet backend. 
+      Task force factsheet backend - listing task force aims, membership, status, etc.
 resources:
   - website: http://bit.ly/perfusion-reporting
     description: |

@@ -61,7 +61,7 @@
 {% if taskforce.links %}
 ---
 
-### Task force members-only links
+### Task force members links
 
 <ul>
 {% for links in taskforce.links %}

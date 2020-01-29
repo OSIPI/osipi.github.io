@@ -64,7 +64,7 @@
 ### Task force members-only links
 
 <ul>
-{% for resource in taskforce.links %}
+{% for links in taskforce.links %}
     <li>
         <a class="icon-export"  href="{{ links.website }}" style="border-bottom:none"></a>
         <span style="font-weight: normal"> 

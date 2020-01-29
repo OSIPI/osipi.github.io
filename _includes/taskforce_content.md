@@ -3,13 +3,14 @@
 ### Task force aims
 
 {{ taskforce.aims }}
+---
 
 ### Task force description
 
 {{ taskforce.description }}
+---
 
 {% if taskforce.leads %}
----
 
 ### Task force leads
 

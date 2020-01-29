@@ -14,14 +14,14 @@ header: no
 {:.list-title}
 **DSC challenge members**
 
-- (**Lead**)[Anahita Fathi](https://www.linkedin.com/in/anahita-fathi-kazerooni-a3287238/)
+- (**Lead**) [Anahita Fathi](https://www.linkedin.com/in/anahita-fathi-kazerooni-a3287238/)
 - Other members TBC
 
 {:.list-title}
 **ASL challenge members**
 
-- (**Lead**)[Paola Croal](https://www.linkedin.com/in/paula-croal/?originalSubdomain=uk)
-- (**Co-Lead**)[Udunna Anazodo](https://www.lawsonresearch.ca/scientist/dr-udunna-anazodo)
+- (**Lead**) [Paola Croal](https://www.linkedin.com/in/paula-croal/?originalSubdomain=uk)
+- (**Co-Lead**) [Udunna Anazodo](https://www.lawsonresearch.ca/scientist/dr-udunna-anazodo)
 - Pieter Vandemaele
 - Jan Petr
 - Henk-Jan Mutsaerts

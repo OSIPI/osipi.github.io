@@ -1,0 +1,22 @@
+<ul>
+{% for taskforces in site.data.tf %}
+{% for taskforce in taskforces %}
+{% assign taskforce_title = taskforce.title | split: ":" | first %}
+
+{% for lead in taskforce.leads %}
+<li>
+<a href="{{ lead.website }}"><b>{{ lead.name }}</b></a> ({{ taskforce_title }} {{ lead.role }})
+</li>
+{% endfor %}
+
+{% for subgroup in taskforce.subgroups %}
+{% for lead in subgroup.leads %}
+<li>
+<a href="{{ lead.website }}"><b>{{ lead.name }}</b></a> ({{ taskforce_title }} {{ lead.role }})
+</li>
+{% endfor %}
+{% endfor %}
+
+{% endfor %}
+{% endfor %}
+</ul>

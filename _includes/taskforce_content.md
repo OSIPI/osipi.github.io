@@ -58,10 +58,28 @@
 {% endfor %}
 </ul>
 
+{% if taskforce.links %}
+---
+
+### Task force members-only links
+
+<ul>
+{% for resource in taskforce.links %}
+    <li>
+        <a class="icon-export"  href="{{ links.website }}" style="border-bottom:none"></a>
+        <span style="font-weight: normal"> 
+            {{ links.description }}
+        </span>
+    </li>
+{% endfor %}
+</ul>
+{% endif %}
+
+
 {% if taskforce.resources %}
 ---
 
-### Resources
+### Public resources
 
 <ul>
 {% for resource in taskforce.resources %}

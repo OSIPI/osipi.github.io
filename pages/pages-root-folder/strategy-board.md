@@ -7,7 +7,7 @@ header: no
 ---
 
 The Strategy Board (SB) represents the stakeholders within OSIPI 
-and maintains the Strategic Plan outlining the mission, aims and general approach of OSIPI. 
+and maintains the Strategic Plan outlining the mission, aims and general approach of OSIPI. If needed the SB will also propose changes to the OSIPI governance for approval by the ISMRM perfusion study group.
 
 ![Organigram]({{ site.urlimg }}organigram-sb.png)
 
@@ -18,10 +18,17 @@ This could include other ISMRM study groups, other societies or more informal ne
 If you are interested to represent an external body within the SB, please contact the OSIPI chair.
 
 {:.list-title}
-**Strategic Plan**
+**OSIPI Strategic Plan**
 
 - [Current version 1.0](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view?usp=sharing)
 - [Current draft version](https://drive.google.com/open?id=1tbsovLQTpI-nkZiJgU2kCXKG0EifQjpW). Please feel free to add comments and suggestions to be considered at the next SB meeting.
+
+{:.list-title}
+**OSIPI Governance**
+
+- [Current version 1.0](https://drive.google.com/open?id=1fH0hFBMJsUctdhhBmv1ujGI-9v5Bwe3k)
+- [Current draft version](https://drive.google.com/drive/folders/1cxA2K6xM8w2vxX2Dcon6RcIJOOR1ks95). Please feel free to add comments and suggestions to be considered at the next SB meeting.
+
 
 {:.list-title}
 **Current SB members**

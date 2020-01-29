@@ -3,13 +3,13 @@ aims: Develop guidelines for reporting of DCE/DSC image acquisition and analysis
 description: |
   The guidelines developed by TF 4.2 will enable interoperability and facilitate the comparison of results produced by different analysis tools, studies or sites. 
   We aim to harmonize and increase the detail in the description of parameters and configurations, enable encoding of the complete perfusion imaging workflow, and pave the way for consensus building. 
-  An important application will be the amendment of the DICOM standard for perfusion parametric maps, as well as BIDS extensions, and development of demonstrations and use cases. 
+  An important application will be the amendment of the DICOM standard for DCE/DSC perfusion parametric maps, as well as BIDS extensions, and development of demonstrations and use cases. 
 leads:
   - name: Ina Kompan
     location: German Cancer Research Centre (DKFZ), Heidelberg
     photo: headshot_ina_kompan.jpg
     website: https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html
-    role: Co-lead
+    role: lead
   - name: David Buckley
     location: University of Leeds, UK
     photo: headshot_david_buckley.jpg

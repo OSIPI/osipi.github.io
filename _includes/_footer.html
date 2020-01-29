@@ -7,17 +7,27 @@
 
     <footer id="footer-content" class="bg-grau">
       <div id="footer">
-        <div class="row" style="text-align: center">
-          <section class="inline-list social-icons">
+        <nav class="row">
+          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+            <a href="https://www.ismrm.org" style="float:left; margin-right:2rem">
+              <img src="https://www.ismrm.org/wp-content/uploads/ismrm_logo_2016.jpg" width="128" alt="ISMRM">
+            </a>
+            <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
-              <a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" style="display: inline-block;" title="{{ social_item.title }}"></a>
+            <li>  
+              <a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a>
+            </li>
             {% endfor %}
+            </ul>
+            
           </section>
+          <section id="subfooter-right" class="small-12 medium-6 columns credits"></section>
           {{ site.credits }} <br/>
           Icons by <a href="http://entypo.com/">Daniel Bruce</a> and images from <a href="http://unsplash.com/">Unsplash</a><br/>
           Based on <a href="https://github.com/Phlow/feeling-responsive">Feeling Responsive theme</a> 
           using <a href="http://foundation.zurb.com/">Foundation</a>
           and <a href="http://srobbin.com/jquery-plugins/backstretch/">Backstretch</a> 
-        </div><!-- /.large-6.columns -->
+          </section>
+        </nav><!-- /.large-6.columns -->
       </div><!-- /#footer -->
     </footer>

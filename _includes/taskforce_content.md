@@ -22,7 +22,7 @@
     </figure>
     <div style="padding-left:1rem; padding-top:0.5rem">
         <p style="margin-bottom:0.1rem">
-            <b>Co-lead</b> <br/>
+            <b>lead.role</b> <br/>
         </p>
         <p style="line-height:1rem; margin-bottom:0">
             <a href="{{ lead.website }}" style="border-bottom:none">

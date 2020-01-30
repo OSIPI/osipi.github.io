@@ -1,11 +1,9 @@
 {% assign taskforce = site.data.tf[page.tf] %}
 
-### Task force aims
+
 
 {{ taskforce.aims }}
 ---
-
-### Task force description
 
 {{ taskforce.description }}
 ---

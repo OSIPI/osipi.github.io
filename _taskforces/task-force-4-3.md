@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: "/task-force-4-3/"
 
 title: "OSIPI Task Force 4.3: DICOM standard amendment"

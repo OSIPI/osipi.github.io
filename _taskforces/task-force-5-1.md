@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: "/task-force-5-1/"
 
 title: "OSIPI Task Force 5.1: Teaching and Education"

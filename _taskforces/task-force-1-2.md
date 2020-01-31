@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: "/task-force-1-2/"
 
 title: "OSIPI Task Force 1.2: DCE/DSC software inventory"

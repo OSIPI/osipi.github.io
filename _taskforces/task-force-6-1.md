@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: "/task-force-6-1/"
 
 title: "OSIPI Task Force 6.1: Challenges"

@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: "/task-force-1-1/"
 
 title: "OSIPI Task Force 1.1: ASL software inventory"

@@ -14,8 +14,12 @@ leads:
     photo: headshot_michael_thrippleton.jpg
     website: https://www.ed.ac.uk/profile/dr-michael-thrippleton
     role: Lead
+  - name: Petra van Houdt
+    location: Centre for Clinical Brain Sciences, University of Edinburgh, UK
+    photo: Petra_van_Houdt_headshot.jpg
+    website: https://www.researchgate.net/scientific-contributions/2144629837_Petra_J_van_Houdt
+    role: Co-lead
 members:
-  - Petra van Houdt
   - Jonathan Arvidsson
   - Samual Barnes
   - Martin Craig
@@ -30,7 +34,8 @@ members:
   - Luis Torres
 status:
   - 22/01/2020 Lead confirmed.
-  - Identifying co-lead..
+  - 31/01/2020 Co-lead confirmed.
+  - Confirming members..
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |

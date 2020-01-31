@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-3-1/"
-header: no
 
 title: "OSIPI Task Force 3.1: Digital Reference Objects and Phantoms"
 aims: Build an inventory of digital reference objects and phantom data for perfusion MRI.

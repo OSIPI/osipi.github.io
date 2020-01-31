@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-1-1/"
-header: no
 
 title: "OSIPI Task Force 1.1: ASL software inventory"
 aims: Create an inventory of open source ASL packages

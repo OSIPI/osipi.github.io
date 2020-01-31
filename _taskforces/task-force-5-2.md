@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-5-2/"
-header: no
 
 title: "OSIPI Task Force 5.2: Dissemination and Events"
 aims: |

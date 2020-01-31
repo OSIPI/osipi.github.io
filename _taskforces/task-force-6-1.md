@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-6-1/"
-header: no
 
 title: "OSIPI Task Force 6.1: Challenges"
 aims: Develop and implement challenges involving perfusion imaging analysis

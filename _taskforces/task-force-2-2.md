@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-2-2/"
-header: no
 
 title: "OSIPI Task Force 2.2: ASL contributions"
 aims: Collect and harmonise ASL code snippets from developers

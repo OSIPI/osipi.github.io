@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-1-2/"
-header: no
 
 title: "OSIPI Task Force 1.2: DCE/DSC software inventory"
 aims: Create an inventory of available DCE/DSC packages

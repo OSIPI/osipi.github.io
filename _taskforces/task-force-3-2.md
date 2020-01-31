@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-3-2/"
-header: no
 
 title: "OSIPI Task Force 3.2: Clinical and preclinical data"
 aims: Build an inventory of freely available clinical and preclinical perfusion MRI data.

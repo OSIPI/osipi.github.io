@@ -1,7 +1,6 @@
 <ul>
-{% assign taskforces = site.data.tf | sort %}
-{% for taskforce_array in taskforces %}
-{% assign taskforce = taskforce_array[1] %}
+{% assign taskforces = site.taskforces | sort %}
+{% for taskforce in taskforces %}
 {% assign taskforce_title = taskforce.title | split: ":" | first %}
 
 {% for lead in taskforce.leads %}

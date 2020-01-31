@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-2-3/"
-header: no
 
 title: "OSIPI Task Force 2.3: DCE/DSC contributions"
 aims: Collect and harmonise DCE/DSC code snippets from developers

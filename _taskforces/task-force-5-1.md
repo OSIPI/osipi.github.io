@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-5-1/"
-header: no
 
 title: "OSIPI Task Force 5.1: Teaching and Education"
 aims: Develop, distribute and deliver educational content on open-source perfusion software. 

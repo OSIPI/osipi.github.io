@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-4-1/"
-header: no
 
 title: "OSIPI Task Force 4.1: ASL lexicon"
 aims: Develop guidelines for reporting of ASL image acquisition and analysis

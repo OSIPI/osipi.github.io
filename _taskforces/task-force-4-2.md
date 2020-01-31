@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-4-2/"
-header: no
 
 title: "OSIPI Task Force 4.2: DCE/DSC lexicon"
 aims: Develop guidelines for reporting of DCE/DSC image acquisition and analysis

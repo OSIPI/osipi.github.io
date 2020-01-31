@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: "/task-force-4-3/"
-header: no
 
 title: "OSIPI Task Force 4.3: DICOM standard amendment"
 aims: Integrate reporting standards for ASL, DCE and DSC into an amendement to the DICOM standard

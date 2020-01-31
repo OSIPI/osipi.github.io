@@ -1,4 +1,4 @@
-{% assign taskforce = site.data.tf[page.tf] %}
+{% assign taskforce = page %}
 
 ### Task force aims
 

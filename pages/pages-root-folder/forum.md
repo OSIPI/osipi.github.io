@@ -15,19 +15,19 @@ If you want to contribute to OSIPI then please determine which [task force](/aim
 
 **Communicate**
 ---
-Task force members are encouraged to take up discussions via the [OSIPI slack channel](osipi.slack.com) to minimize email overload. 
+Task force members are encouraged to take up discussions via the [OSIPI slack channel](https://osipi.slack.com) to minimize email overload. 
 
 **Mission**
 ---
-The overall aims and strategy of OSIPI are laid out in the [strategic plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view?usp=sharing) drawn up by the [Strategy Board](/sb/). Feel free to add comments and suggestions to the [draft version](https://drive.google.com/open?id=1tbsovLQTpI-nkZiJgU2kCXKG0EifQjpW) and they will be considered at the next SB meeting.
+The overall aims and strategy of OSIPI are laid out in the [strategic plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view?usp=sharing). Feel free to add comments and suggestions to the [draft version](https://drive.google.com/open?id=1tbsovLQTpI-nkZiJgU2kCXKG0EifQjpW) and they will be considered at the next [Strategy Board](/sb/) meeting.
 
 **Roadmap**
 ---
-Coming soon.. . The Roadmap maps out the implementation of the strategic plan and is revisited at regular intervals by the [Executive & Management Board](/emb/).
+!!Coming soon!! . The Roadmap maps out the implementation of the strategic plan and is revisited at regular intervals by the [Executive & Management Board](/emb/).
 
 **Governance**
 ---
-Details of how OSIPI is organised can be found in the [governance document](https://drive.google.com/open?id=1fH0hFBMJsUctdhhBmv1ujGI-9v5Bwe3k). Feel free to add comments and suggestions to the [draft version](https://drive.google.com/file/d/1Gi-G-74kL1asflrmEHoUlk7cxv6iky2r/view?usp=sharing) and they will be considered at the next SB meeting.
+Details of how OSIPI is organised can be found in the [governance document](https://drive.google.com/open?id=1fH0hFBMJsUctdhhBmv1ujGI-9v5Bwe3k). Feel free to add comments and suggestions to the [draft version](https://drive.google.com/file/d/1Gi-G-74kL1asflrmEHoUlk7cxv6iky2r/view?usp=sharing) and they will be considered at the next [Strategy Board](/sb/) meeting.
 
 **Stakeholders**
 ---

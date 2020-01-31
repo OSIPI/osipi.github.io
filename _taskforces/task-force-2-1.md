@@ -1,3 +1,6 @@
+---
+permalink: "/task-force-2-1/"
+
 title: "OSIPI Task Force 2.1: Library structure and management"
 aims: |
   Define and manage a library for ASL, DCE and DSC code snippets collected and harmonized by task forces 2.2 and 2.3. 
@@ -34,9 +37,6 @@ links:
   - website: https://osipi.slack.com/archives/CQJ64MZU3
     description: |
       Task force slack channel - for discussions between task force members.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/pages/pages-root-folder/task-force-2-1.md
-    description: |
-      Task force webpage backend - for information on task force progress and links to public resources.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/_data/tf/tf_2_1.yml
-    description: |
-      Task force factsheet backend - listing task force aims, membership, status, etc.
+---
+
+{% include taskforce_content.md %}

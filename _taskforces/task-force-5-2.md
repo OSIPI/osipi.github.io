@@ -1,3 +1,6 @@
+---
+permalink: "/task-force-5-2/"
+
 title: "OSIPI Task Force 5.2: Dissemination and Events"
 aims: |
   Develop dissemination materials on OSIPI including website content and events.
@@ -14,9 +17,6 @@ links:
   - website: https://osipi.slack.com/archives/CQMNM4TFB
     description: |
       Task force slack channel - for discussions between task force members.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/pages/pages-root-folder/task-force-5-2.md
-    description: |
-      Task force webpage backend - for information on task force progress and links to public resources.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/_data/tf/tf_5_2.yml
-    description: |
-      Task force factsheet backend - listing task force aims, membership, status, etc.  
+---
+
+{% include taskforce_content.md %}

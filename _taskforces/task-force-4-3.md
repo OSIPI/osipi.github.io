@@ -1,3 +1,6 @@
+---
+permalink: "/task-force-4-3/"
+
 title: "OSIPI Task Force 4.3: DICOM standard amendment"
 aims: Integrate reporting standards for ASL, DCE and DSC into an amendement to the DICOM standard
 description: |
@@ -17,12 +20,9 @@ links:
   - website: https://osipi.slack.com/archives/CQXG7V93R
     description: |
       Task force slack channel - for discussions between task force members.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/pages/pages-root-folder/task-force-4-3.md
-    description: |
-      Task force webpage backend - for information on task force progress and links to public resources.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/_data/tf/tf_4_3.yml
-    description: |
-      Task force factsheet backend - listing task force aims, membership, status, etc.  
 resources:
   - website: https://github.com/QIICR/dcmqi
     description: "dcmqi: free open source library and tools for conversion to and from DICOM for image-derived analysis results, including DICOM Parametric maps"
+---
+
+{% include taskforce_content.md %}

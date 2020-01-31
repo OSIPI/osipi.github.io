@@ -1,4 +1,4 @@
-{% assign taskforce = site.data.tf[page.tf] %}
+{% assign taskforce = page %}
 
 ### Task force aims
 
@@ -50,7 +50,7 @@
 
 ### Task force members links
 
-{% include taskforce/links.md links=taskforce.links %}
+{% include taskforce/links.md links=taskforce.links edit_me=true%}
 {% endif %}
 
 <!-- Resources -->

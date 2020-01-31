@@ -1,3 +1,6 @@
+---
+permalink: "/task-force-4-2/"
+
 title: "OSIPI Task Force 4.2: DCE/DSC lexicon"
 aims: Develop guidelines for reporting of DCE/DSC image acquisition and analysis
 description: |
@@ -34,13 +37,10 @@ links:
   - website: https://osipi.slack.com/archives/CQVLAHK16
     description: |
       Task force slack channel - for discussions between task force members.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/pages/pages-root-folder/task-force-4-2.md
-    description: |
-      Task force webpage backend - for information on task force progress and links to public resources.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/_data/tf/tf_4_2.yml
-    description: |
-      Task force factsheet backend - listing task force aims, membership, status, etc.
 resources:
   - website: http://bit.ly/perfusion-reporting
     description: |
       Public - Perfusion image analysis lexicon and reporting recommendations. Google document open for community contributions and comments.
+---
+
+{% include taskforce_content.md %}

@@ -1,3 +1,6 @@
+---
+permalink: "/task-force-5-1/"
+
 title: "OSIPI Task Force 5.1: Teaching and Education"
 aims: Develop, distribute and deliver educational content on open-source perfusion software. 
 description: |
@@ -18,9 +21,6 @@ links:
   - website: https://osipi.slack.com/archives/CQVLERERE
     description: |
       Task force slack channel - for discussions between task force members.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/pages/pages-root-folder/task-force-5-1.md
-    description: |
-      Task force webpage backend - for information on task force progress and links to public resources.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/_data/tf/tf_5_1.yml
-    description: |
-      Task force factsheet backend - listing task force aims, membership, status, etc.  
+---
+
+{% include taskforce_content.md %}

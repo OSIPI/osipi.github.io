@@ -1,3 +1,6 @@
+---
+permalink: "/task-force-2-2/"
+
 title: "OSIPI Task Force 2.2: ASL contributions"
 aims: Collect and harmonise ASL code snippets from developers
 description: |
@@ -22,9 +25,6 @@ links:
   - website: https://osipi.slack.com/archives/CQV6GNPMJ
     description: |
       Task force slack channel - for discussions between task force members.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/pages/pages-root-folder/task-force-2-2.md
-    description: |
-      Task force webpage backend - for information on task force progress and links to public resources.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/_data/tf/tf_2_2.yml
-    description: |
-      Task force factsheet backend - listing task force aims, membership, status, etc.
+---
+
+{% include taskforce_content.md %}

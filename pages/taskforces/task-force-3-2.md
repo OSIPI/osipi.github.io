@@ -1,5 +1,5 @@
 ---
-layout: taskforce
+layout: page
 permalink: "/task-force-3-2/"
 header: no
 

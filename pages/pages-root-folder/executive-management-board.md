@@ -38,3 +38,9 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 
 - 2020.02.07 First EMB meeting at 15:00 GMT (Agenda TBD)
 
+{:.list-title}
+**EMB links**
+
+- Members-only [documents](https://drive.google.com/drive/folders/1Rx6D_5hEeJ4CRcF0KObmPWx0Mx1Xgz_j)
+
+

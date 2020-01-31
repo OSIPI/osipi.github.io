@@ -45,3 +45,10 @@ If you are interested to represent an external body within the SB, please contac
 **SB meetings**
 
 - The first SB meeting will take place during the ISMRM 2020 (Sydney)
+
+
+{:.list-title}
+**SB links**
+
+- Members-only [documents](https://drive.google.com/drive/folders/1cxA2K6xM8w2vxX2Dcon6RcIJOOR1ks95)
+

@@ -40,12 +40,6 @@ links:
   - website: https://osipi.slack.com/archives/CQJ6R76FM
     description: |
       Task force slack channel - for discussions between task force members.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/pages/pages-root-folder/task-force-6-1.md
-    description: |
-      Task force webpage backend - for information on task force progress and links to public resources.
-  - website: https://github.com/OSIPI/osipi.github.io/blob/master/_data/tf/tf_6_1.yml
-    description: |
-      Task force factsheet backend - listing task force aims, membership, status, etc.  
 ---
 
 {% include taskforce_content.md %}

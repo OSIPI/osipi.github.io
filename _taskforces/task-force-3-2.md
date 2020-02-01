@@ -24,7 +24,7 @@ members:
   - Federico Pineda
   - Annette van der Toorn
 status:
-  - 01/02/2020: Lead confirmed
+  - 01.02.2020: Lead confirmed
   - Identifying colead..
 links:
   - website: https://drive.google.com/drive/folders/13KOjMyRkNmjigNcmQ2LHMYIzCTr2cN-S

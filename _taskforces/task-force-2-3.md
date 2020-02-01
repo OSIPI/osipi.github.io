@@ -14,7 +14,7 @@ leads:
     website: https://www.ed.ac.uk/profile/dr-michael-thrippleton
     role: Lead
   - name: Petra van Houdt
-    location: Centre for Clinical Brain Sciences, University of Edinburgh, UK
+    location: Dutch Cancer Institute, Amsterdam, NL
     website: https://www.researchgate.net/scientific-contributions/2144629837_Petra_J_van_Houdt
     role: Co-lead
 members:

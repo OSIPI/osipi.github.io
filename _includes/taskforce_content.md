@@ -21,7 +21,7 @@
 ---
 ### Task force leads
 
-{% include taskforce/leads.md leads=taskforce.leads %}
+{% include taskforce/leads.html leads=taskforce.leads %}
 {% endif %}
 
 <!-- MEMBERS -->

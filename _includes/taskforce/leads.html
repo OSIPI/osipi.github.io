@@ -1,0 +1,35 @@
+{% assign headshots = site.static_files | where: "image", true %}
+{% for lead in include.leads %}
+<!-- Determine filename for photo/headshot -->
+{%- assign photo = "anonymous.png" -%} <!-- Default -->
+{%- if lead.photo -%}  <!-- Use filename if it is defined -->
+    {%- assign photo = lead.photo -%}
+{%- else -%} <!-- Try finding file based on lead's name -->
+    {%- assign expected_basename = lead.name | replace: " ", "_" | downcase -%}
+    {%- for headshot in headshots -%}
+        {%- if headshot.basename == expected_basename -%}
+            {%- assign photo = headshot.name -%}
+            {%- break -%}
+        {%- endif -%}
+    {%- endfor -%}
+{%- endif -%}
+<div style="display:flex">
+    <figure style="margin-bottom:1rem">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/headshots/{{ photo }}" 
+        style="border-radius:50%; width:75px">
+    </figure>
+    <div style="padding-left:1rem; padding-top:0.5rem">
+        <p style="margin-bottom:0.1rem">
+            <b>{{ lead.role }}</b> <br/>
+        </p>
+        <p style="line-height:1rem; margin-bottom:0">
+            <a href="{{ lead.website }}" style="border-bottom:none">
+                <b>{{ lead.name }}</b> <br/>
+                <span style="font-weight: normal"> 
+                    {{ lead.location }}
+                </span>
+            </a>
+        </p>
+    </div>
+</div>
+{% endfor %}

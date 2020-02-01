@@ -11,7 +11,6 @@ description: |
 leads:
   - name: Andrey Fedorov
     location: Harvard Medical School
-    photo: andrey_fedorov_headshot.png
     website: http://www.spl.harvard.edu/pages/People/fedorov/
     role: Lead
 members:

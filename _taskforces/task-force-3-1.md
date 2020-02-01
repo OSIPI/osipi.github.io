@@ -11,7 +11,6 @@ description: |
 leads:
   - name: Jim Holmes
     location: University of Wisconsin-Madison
-    photo: headshot_jim_holmes.png
     website: https://www.linkedin.com/in/james-holmes-35b52a110/
     role: Lead
 members:

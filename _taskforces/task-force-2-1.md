@@ -13,12 +13,10 @@ description: |
 leads:
   - name: Matthias Schabel
     location: Advanced Imaging Research Center, Oregon Health and Sciences University
-    photo: anonymous_headshot.png 
     website: https://ohsu.pure.elsevier.com/en/persons/matthias-schabel
     role: Lead
   - name: Simon Levy
     location: Center for Magnetic Resonance in Biology and Medicine, Aix-Marseille University
-    photo: headshot_simon_levy.jpg
     website: https://crmbm.univ-amu.fr/contact/levy-rosetti-simon
     role: Co-lead
 members:

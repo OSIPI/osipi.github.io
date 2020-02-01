@@ -1,0 +1,19 @@
+- role: Chair
+  name: Steven Sourbron
+  location: University of Sheffield, UK
+  website: https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/
+
+- role: Co-Chair
+  name: Laura Bell
+  location: Barrow Neurological Institute, Phoenix, AZ, USA,
+  website: https://www.linkedin.com/in/lauracbell/
+
+- role: Secretary
+  name: Henk-Jan Mutsaerts
+  location: Amsterdam UMC, Netherlands/UZ Ghent, Belgium
+  website: https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/
+
+- role: Past-Chair
+  name: Charlotte Debus
+  location: German Aerospace Center, Cologne, Germany
+  website: https://www.linkedin.com/in/charlotte-debus-316214a0/?originalSubdomain=de

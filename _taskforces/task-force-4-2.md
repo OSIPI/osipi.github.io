@@ -10,12 +10,10 @@ description: |
 leads:
   - name: Ina Kompan
     location: German Cancer Research Centre (DKFZ), Heidelberg
-    photo: headshot_ina_kompan.jpg
     website: https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html
     role: Lead
   - name: David Buckley
     location: University of Leeds, UK
-    photo: headshot_david_buckley.jpg
     website: https://medicinehealth.leeds.ac.uk/medicine/staff/175/professor-david-l-buckley/
     role: Co-lead
 members:

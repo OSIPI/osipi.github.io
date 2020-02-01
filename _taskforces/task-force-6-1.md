@@ -12,7 +12,6 @@ subgroups:
     leads:
       - name: Anahita Fathi
         location: University of Pennsylvania
-        photo: anahita_fathi_headshot.png 
         website: https://www.linkedin.com/in/anahita-fathi-kazerooni-a3287238/
         role: Lead
     members:
@@ -21,12 +20,10 @@ subgroups:
     leads:
       - name: Paola Croal
         location: University of Oxford
-        photo: paola_croal_headshot.png 
         website: https://www.linkedin.com/in/paula-croal/?originalSubdomain=uk
         role: Lead
       - name: Udunna Anazodo
         location: Lawson Health Research Institute
-        photo: udunna_anazodo_headshot.jpg 
         website: https://www.lawsonresearch.ca/scientist/dr-udunna-anazodo
         role: Co-lead
     members:

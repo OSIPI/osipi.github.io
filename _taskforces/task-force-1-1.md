@@ -8,7 +8,6 @@ description: |
 leads:
   - name: Jan Petr
     location: Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany
-    photo: Headshot_Jan_Petr.jpg
     website: https://www.researchgate.net/profile/Jan_Petr
     role: Lead
 members:

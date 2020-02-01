@@ -10,12 +10,10 @@ description: |
 leads:
   - name: David Thomas 
     location: Leonard Wolfson Experimental Neurology Centre, University College London, UK
-    photo: headshot_david_thomas.png 
     website: https://iris.ucl.ac.uk/iris/browse/profile?upi=DTHOM65
     role: Lead
   - name: Yuriko Suzuki
     location: The Institute of Biomedical Engineering, Oxford University, UK
-    photo: headshot_yuriko_suzuki.jpg
     website: https://www.researchgate.net/profile/Yuriko_Suzuki3
     role: Co-lead
 members:

@@ -8,12 +8,8 @@ description: |
   The inventory will provide a curated list of publicly available preclinical and clinical perfusion datasets that can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality. 
   Task force 3.2 will initially focus on identifying, listing and qualifying existing datasets. 
   In a second phase we may identify gaps in the available data and take actions to fill them.
-leads:
-  - name: Andrey Fedorov
-    location: Harvard Medical School
-    website: http://www.spl.harvard.edu/pages/People/fedorov/
-    role: Lead
 members:
+  - Andrey Fedorov
   - Zaki Ahmed
   - Beatrix Asenjo Garcia
   - Greg Cron
@@ -24,8 +20,7 @@ members:
   - Federico Pineda
   - Annette van der Toorn
 status:
-  - 01.02.2020: Lead confirmed
-  - Identifying colead..
+    - Identifying Lead..
 links:
   - website: https://drive.google.com/drive/folders/13KOjMyRkNmjigNcmQ2LHMYIzCTr2cN-S
     description: |

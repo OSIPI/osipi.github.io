@@ -7,7 +7,13 @@ description: |
   Task force 2.2 will develop a library of open-source functions, scripts and pipelines for ASL perfusion imaging analysis. 
   This is aimed at developers of ASL perfusion methods looking for specific functionality or development templates, or who want to share their own in-house developments with others. 
   Contributions will be sourced from the community, and may include individual functions and more complete pipelines in various programming languages. 
-  Task force 2.2 will organise these in a coherent and well-documented library structure as defined by task force 2.1, then identify and develop any missing functionality. 
+  Task force 2.2 will organise these in a coherent and well-documented library structure as defined by task force 2.1, then identify and develop any missing functionality.
+  leads:
+  - name: Ananth Madhuranthakam
+    location: UT Southwestern
+    website: https://www.linkedin.com/in/ananth-madhuranthakam-4771189/
+    role: Lead
+    
 members:
   - Marco Castellaro
   - Martin Craig

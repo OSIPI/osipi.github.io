@@ -10,10 +10,15 @@ description: |
 subgroups:
   - name: DSC challenge members
     leads:
-      - name: Anahita Fathi
+      - name: Anahita Fathi Kazerooni
         location: University of Pennsylvania
         website: https://www.linkedin.com/in/anahita-fathi-kazerooni-a3287238/
         role: Lead
+        
+      - name: Hamidreza Saligheh Rad
+        location: Tehran University of Medical Sciences
+        website: https://www.linkedin.com/in/hamidreza-saligheh-rad-7127021a/
+        role: Co-lead
     members:
       - TBC
   - name: ASL challenge members

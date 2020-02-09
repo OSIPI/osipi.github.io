@@ -23,7 +23,7 @@ subgroups:
       - TBC
   - name: ASL challenge members
     leads:
-      - name: Paola Croal
+      - name: Paula Croal
         location: University of Oxford
         website: https://www.linkedin.com/in/paula-croal/?originalSubdomain=uk
         role: Lead

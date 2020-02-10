@@ -23,6 +23,7 @@ members:
   - Felix Navarro
   - Federico Pineda
   - Annette van der Toorn
+  - Lutz Lüdemann (Universitätsklinikum Essen)
 status:
   - 01/02/2020 Lead confirmed
   - Identifying Co-lead..

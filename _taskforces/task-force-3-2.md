@@ -15,7 +15,7 @@ leads:
     role: Lead
 members:
   - Zaki Ahmed
-  - Beatrix Asenjo Garcia
+  - Beatriz Asenjo Garcia
   - Greg Cron
   - Pauline Hall Barrientos
   - Jochen Hirsch

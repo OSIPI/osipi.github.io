@@ -25,8 +25,9 @@ members:
   - Annette van der Toorn
   - Lutz Lüdemann (Universitätsklinikum Essen)
 status:
-  - 01/02/2020 Lead confirmed
+  - Feb 1, 2020 Lead confirmed
   - Identifying Co-lead..
+  - Feb 17, 2020 Scheduling of the kick-off call initiated
 links:
   - website: https://drive.google.com/drive/folders/13KOjMyRkNmjigNcmQ2LHMYIzCTr2cN-S
     description: |

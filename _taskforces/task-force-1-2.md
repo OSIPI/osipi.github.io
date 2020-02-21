@@ -19,7 +19,6 @@ members:
   - Ingomar Gutmann
   - Ives Levesque
   - Sudarshan Ragunathan
-  - Patrick Thurner
   - Charlotte Debus
 status:
   - Feb 2020, lead confirmed

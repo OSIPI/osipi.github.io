@@ -8,6 +8,11 @@ description: |
   This is aimed at end-users looking for a suitable tool to process their data. 
   The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users. 
   TF 1.2 provides this for DCE/DSC software.
+leads:
+  - name: Kathleen Schmainda
+    location: Medical College of Wisconsin
+    website: https://www.mcw.edu/departments/biophysics/faculty/kathleen-schmainda-phd
+    role: Lead
 members:
   - Benoit Bourassa Moreau
   - Andrey Fedorov
@@ -17,7 +22,8 @@ members:
   - Patrick Thurner
   - Charlotte Debus
 status:
-  - Identifying leads..
+  - Feb 2020: Lead confirmed
+  - Currently identifying co-lead and building a 2 year roadmap
 links:
   - website: https://drive.google.com/drive/folders/1h_PWOHywx1M36hj00bc-rsXqEWGnHS1l
     description: |

@@ -4,9 +4,9 @@ permalink: "/task-force-1-2/"
 title: "OSIPI Task Force 1.2: DCE/DSC software inventory"
 aims: Create an inventory of available DCE/DSC packages
 description: |
-  Develop a comprehensive inventory of complete open source packages for perfusion imaging analysis. 
+  Develop a comprehensive inventory of software packages for perfusion imaging analysis. 
   This is aimed at end-users looking for a suitable tool to process their data. 
-  The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users. 
+  The inventory will list available tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users. 
   TF 1.2 provides this for DCE/DSC software.
 leads:
   - name: Kathleen Schmainda
@@ -22,7 +22,7 @@ members:
   - Patrick Thurner
   - Charlotte Debus
 status:
-  - Feb 2020: Lead confirmed
+  - Feb 2020, lead confirmed
   - Currently identifying co-lead and building a 2 year roadmap
 links:
   - website: https://drive.google.com/drive/folders/1h_PWOHywx1M36hj00bc-rsXqEWGnHS1l

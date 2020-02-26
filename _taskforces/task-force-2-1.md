@@ -24,7 +24,7 @@ members:
   - Martin Craig
   - Rebeca Echeverria Chasco
   - Frank Zoellner
-  - Joao de Sousa
+  - Joao Almeida e Sousa
 status:
   - 2020.01.03 Leads confirmed
   - Confirming members..

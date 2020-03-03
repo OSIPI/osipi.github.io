@@ -10,13 +10,16 @@ leads:
     location: Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany
     website: https://www.researchgate.net/profile/Jan_Petr
     role: Lead
+  - name: Sudipto Dolui
+    location: University of Pennsylvania, Philadelphia, PA, USA
+    website: https://www.researchgate.net/profile/Sudipto_Dolui
+    role: co-Lead
 members:
   - Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA)
-  - Sudipto Dolui (University of Pennsylvania, Philadelphia, PA, USA)
   - David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK)
 status:
   - 2020.01.07 Lead confirmed
-  - Confirming co-lead...
+  - Co-lead confirmed, skyping soon for further planning
 links:
   - website: https://drive.google.com/drive/folders/1btNX3KT-vLWzNOYSjMHXOqrqqz1f4mV6
     description: |

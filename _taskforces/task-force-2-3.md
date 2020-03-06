@@ -19,21 +19,24 @@ leads:
     role: Co-lead
 members:
   - Jonathan Arvidsson
-  - Samual Barnes
-  - Martin Craig
-  - Ingomar Gutmann
+  - Samual Barnes (confirmed)
+  - Martin Craig (confirmed)
+  - Ingomar Gutmann (confirmed)
   - Zaki Ahmed
-  - Michael Berks
-  - Ben Ellingson
+  - Michael Berks (confirmed)
+  - Ben Ellingson (confirmed)
   - Jayashree Kalpathy-Cramer
   - Federico Pineda
-  - Matthias Schabel
-  - Sudarshan Ragunathan
-  - Luis Torres
+  - Matthias Schabel (confirmed)
+  - Sudarshan Ragunathan (confirmed)
+  - Luis Torres (confirmed)
+  - Laura Bell (confirmed)
+  - Sirisha Tadimalla (confirmed)
+To join, please contact one of the task force co-leads.
 status:
   - 22/01/2020 Lead confirmed.
   - 31/01/2020 Co-lead confirmed.
-  - Confirming members..
+  - 06/03/2020 Members confirmed.
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |

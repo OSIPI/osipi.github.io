@@ -13,7 +13,7 @@ leads:
   - name: Sudipto Dolui
     location: University of Pennsylvania, Philadelphia, PA, USA
     website: https://www.researchgate.net/profile/Sudipto_Dolui
-    role: co-Lead
+    role: Co-lead
 members:
   - Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA)
   - David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK)

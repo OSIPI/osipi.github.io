@@ -47,5 +47,6 @@ links:
 ---
 
 {% include taskforce_content.md %}
+---
 
 To join the task force, please contact the leads.

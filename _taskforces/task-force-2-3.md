@@ -36,7 +36,7 @@ status:
   - 22/01/2020 Lead confirmed.
   - 31/01/2020 Co-lead confirmed.
   - 06/03/2020 Members confirmed.
-  - Developing Roadmap..
+  - Drafting roadmap..
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |
@@ -47,3 +47,5 @@ links:
 ---
 
 {% include taskforce_content.md %}
+
+To join the task force, please contact the leads.

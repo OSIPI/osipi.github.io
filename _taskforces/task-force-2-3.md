@@ -32,11 +32,11 @@ members:
   - Luis Torres (confirmed)
   - Laura Bell (confirmed)
   - Sirisha Tadimalla (confirmed)
-To join, please contact one of the task force co-leads.
 status:
   - 22/01/2020 Lead confirmed.
   - 31/01/2020 Co-lead confirmed.
   - 06/03/2020 Members confirmed.
+  - Developing Roadmap..
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |

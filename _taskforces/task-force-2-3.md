@@ -14,8 +14,8 @@ leads:
     website: https://www.ed.ac.uk/profile/dr-michael-thrippleton
     role: Lead
   - name: Petra van Houdt
-    location: Dutch Cancer Institute, Amsterdam, NL
-    website: https://www.researchgate.net/scientific-contributions/2144629837_Petra_J_van_Houdt
+    location: the Netherlands Cancer Institute, Amsterdam, NL
+    website: https://www.nki.nl/divisions/radiotherapy/van-der-heide-uulke-group/
     role: Co-lead
 members:
   - Jonathan Arvidsson

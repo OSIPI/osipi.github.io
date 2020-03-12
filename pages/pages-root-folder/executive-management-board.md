@@ -37,11 +37,12 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 **EMB meetings**
 
 - 2020.02.07 First EMB meeting at 15:00 GMT [(Minutes)](https://drive.google.com/open?id=1zjiT6dmbC7t1Svii_HG6NpYE8iS8bnR-GIf_-m02Fhc)
-- During ISMRM 2020: Second EMB meeting (exact time and agenda TBC)
+- 2020.04.21 Second EMB meeting at 3-4pm London time, 4-5pm Brussels time, 11-12am New York, 8-9am Los Angeles (Webex)
 
 {:.list-title}
 **EMB links**
 
 - Members-only [documents](https://drive.google.com/drive/folders/1Rx6D_5hEeJ4CRcF0KObmPWx0Mx1Xgz_j)
-
+- EMB [web page](https://github.com/OSIPI/osipi.github.io/edit/master/pages/pages-root-folder/executive-management-board.md)
+- EMB [slack channel] (https://osipi.slack.com/archives/CQGS2DP7C)
 

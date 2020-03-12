@@ -44,5 +44,5 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 
 - Members-only [documents](https://drive.google.com/drive/folders/1Rx6D_5hEeJ4CRcF0KObmPWx0Mx1Xgz_j)
 - EMB [web page](https://github.com/OSIPI/osipi.github.io/edit/master/pages/pages-root-folder/executive-management-board.md)
-- EMB [slack channel] (https://osipi.slack.com/archives/CQGS2DP7C)
+- EMB [slack channel](https://osipi.slack.com/archives/CQGS2DP7C)
 

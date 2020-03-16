@@ -26,7 +26,7 @@ members:
   - Michael Berks (confirmed)
   - Ben Ellingson (confirmed)
   - Jayashree Kalpathy-Cramer
-  - Federico Pineda
+  - Federico Pineda (confirmed)
   - Matthias Schabel (confirmed)
   - Sudarshan Ragunathan (confirmed)
   - Luis Torres (confirmed)
@@ -35,7 +35,7 @@ members:
 status:
   - 22/01/2020 Lead confirmed.
   - 31/01/2020 Co-lead confirmed.
-  - 06/03/2020 Members confirmed.
+  - 16/03/2020 Members confirmed.
   - Drafting roadmap..
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc

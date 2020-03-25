@@ -17,13 +17,16 @@ leads:
     website: https://www.researchgate.net/profile/Yuriko_Suzuki3
     role: Co-lead
 members:
-  - Udunna Anazodo
-  - Patricia Clement
-  - Thomas Lindner
-  - Jan Petr
+  - Udunna Anazodo (confirmed)
+  - Patricia Clement (confirmed)
+  - Thomas Lindner (confirmed)
+  - Jan Petr (confirmed)
+  - Xingfeng Shao (confirmed)
+  - Henk-Jan Mutsaerts (confirmed)
 status:
   - 2020.01.15 Leads confirmed
-  - Confirming members..
+  - 2020.02.18 Member confirmed
+  - 2020.03.25 New member joined
 links:
   - website: https://drive.google.com/drive/folders/1CxyGHIXU30CYBZmnLBfylnC4iP7ytNld
     description: |

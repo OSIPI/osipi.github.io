@@ -19,7 +19,7 @@ leads:
 members:
   - Laura Bell (confirmed)
   - Charlotte Debus (confirmed)
-  - Ralf Floca (cornfirmed)
+  - Ralf Floca (confirmed)
   - Andrey Fedorov (confirmed)
   - David Clunie (confirmed)
   - Steven Sourbron (confirmed)

@@ -24,6 +24,7 @@ members:
   - Federico Pineda
   - Annette van der Toorn
   - Lutz Lüdemann (Universitätsklinikum Essen)
+  - Anahita Fathi
 status:
   - Feb 1, 2020 Lead confirmed
   - Identifying Co-lead..

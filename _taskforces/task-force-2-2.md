@@ -13,7 +13,10 @@ leads:
     location: UT Southwestern
     website: https://www.linkedin.com/in/ananth-madhuranthakam-4771189/
     role: Lead
-    
+  - name: Li Zhao
+    location: Children’s National Medical Center, Washington, D.C.
+    website: https://www.linkedin.com/in/lizhaomri/
+    role: Co-lead    
 members:
   - Marco Castellaro
   - Martin Craig
@@ -23,7 +26,9 @@ members:
   - Maria Mora
   - Ruth Oliver
 status:
-  - Identifying leads..
+  - Lead identified
+  - 31.03.2010 Co-lead identified
+  - Confirming members and drafting roadmap...
 links:
   - website: https://drive.google.com/drive/folders/16VPJ4Wq-YW8GA5cddMpKgWKs4Ua5dPEV
     description: |

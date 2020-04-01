@@ -25,6 +25,7 @@ members:
   - Annette van der Toorn
   - Lutz Lüdemann (Universitätsklinikum Essen)
   - Anahita Fathi
+  - Nandor Pinter
 status:
   - Feb 1, 2020 Lead confirmed
   - Identifying Co-lead..

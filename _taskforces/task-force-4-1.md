@@ -37,6 +37,6 @@ links:
 ---
 
 {% include taskforce_content.md %}
-### You can include your task force content below:
+% You can include your task force content below:
 
 Here we have the content of the task force

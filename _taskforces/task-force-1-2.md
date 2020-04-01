@@ -27,7 +27,8 @@ members:
   - Charlotte Debus
 status:
   - Feb 2020, lead confirmed
-  - Currently identifying co-lead and building a 2 year roadmap
+  - Apr 2020, co-lead confirmed
+  - Building a 2 year roadmap
 links:
   - website: https://drive.google.com/drive/folders/1h_PWOHywx1M36hj00bc-rsXqEWGnHS1l
     description: |

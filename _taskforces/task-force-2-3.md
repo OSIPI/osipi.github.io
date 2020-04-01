@@ -50,3 +50,4 @@ links:
 ---
 
 To join the task force, please contact the leads.
+<!--- Please include your task force contents below, free formatting -->

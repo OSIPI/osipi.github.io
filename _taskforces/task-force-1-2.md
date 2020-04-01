@@ -13,6 +13,11 @@ leads:
     location: Medical College of Wisconsin
     website: https://www.mcw.edu/departments/biophysics/faculty/kathleen-schmainda-phd
     role: Lead
+    
+  - name: Melissa Prah
+    location: Medical College of Wisconsin
+    website: https://www.mcw.edu/departments/biophysics/faculty/prah-melissa
+    role: Co-lead
 members:
   - Benoit Bourassa Moreau
   - Andrey Fedorov

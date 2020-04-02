@@ -35,8 +35,13 @@ subgroups:
       - Pieter Vandemaele
       - Jan Petr
       - Henk-Jan Mutsaerts
+      - Flora Kennedy McConnell
+      - Joana Pinto
+      - Moss Zhao
+      - Charlotte Buchanan
+      - Cassanda Gould Van Praag
 status:
-    - Searching TF members...
+    - Finalising 2 year Roadmap
 links:
   - website: https://drive.google.com/drive/folders/1jygYkrrzgznMfFGqVL9Qjvpbbvmkj55q
     description: |

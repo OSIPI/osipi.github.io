@@ -20,7 +20,8 @@ subgroups:
         website: https://www.linkedin.com/in/hamidreza-saligheh-rad-7127021a/
         role: Co-lead
     members:
-      - TBC
+      - Laura Bell
+      - Salman Rezaei
   - name: ASL challenge members
     leads:
       - name: Paula Croal

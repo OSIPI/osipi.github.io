@@ -17,7 +17,7 @@ leads:
     location: Children’s National Medical Center, Washington, D.C.
     website: https://www.linkedin.com/in/lizhaomri/
     role: Co-lead    
-members:
+members (not yet confirmed):
   - Marco Castellaro
   - Martin Craig
   - Sudipto Dolui

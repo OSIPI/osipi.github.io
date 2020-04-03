@@ -15,11 +15,13 @@ leads:
     website: https://www.researchgate.net/profile/Sudipto_Dolui
     role: Co-lead
 members:
-  - Udunna Anazodo (Lawson Health Research Institute, London, Ontario, CA)
-  - David Thomas (Lenoard Wolfson Experimental Neurology Centre, London, UK)
+  - Udunna Anazodo
+  - David Thomas
+  - Henk-Jan Mutsaerts
 status:
   - 2020.01.07 Lead confirmed
-  - Co-lead confirmed, skyping soon for further planning
+  - 2020.03.20 Co-lead confirmed
+  - 2020.04.02 Drafted a 2-year roadmap
 links:
   - website: https://drive.google.com/drive/folders/1btNX3KT-vLWzNOYSjMHXOqrqqz1f4mV6
     description: |

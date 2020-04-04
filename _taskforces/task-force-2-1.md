@@ -23,11 +23,17 @@ members:
   - Michael Berks
   - Martin Craig
   - Rebeca Echeverria Chasco
-  - Frank Zoellner
   - Joao Almeida e Sousa
 status:
   - 2020.01.03 Leads confirmed
-  - Confirming members..
+  - 2020.04.02 Members confirmed. 2-year roadmap finalized.
+Important documents:
+  - website: https://docs.google.com/document/d/1YJgi9YL_cS0HEP5Sns3x81L6TeYkWknBwQELMH5uxWQ/edit?usp=sharing
+    description: |
+      Two-year roadmap - deliverables and milestones definition.
+  - website: https://docs.google.com/document/d/1fEX-9UDpAk7phlarLZBXJ9gbSIEKEAHE9bwz176A1eI/edit?usp=sharing
+    description: |
+      Library specifications (*work in progress*) - document where the main decisions made about library structure definition and specifications will be stated.
 links:
   - website: https://drive.google.com/drive/folders/1S4vB13OQY7RGjcU6HpAxNmOU5Dwwdp1z
     description: |

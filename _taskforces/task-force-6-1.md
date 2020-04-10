@@ -22,6 +22,7 @@ subgroups:
     members:
       - Laura Bell
       - Salman Rezaei
+      - Moss Zhao
   - name: ASL challenge members
     leads:
       - name: Paula Croal

@@ -21,8 +21,10 @@ subgroups:
         role: Co-lead
     members:
       - Laura Bell
+      - Mohammadreza Alviri
       - Salman Rezaei
       - Moss Zhao
+      - Xinze Zhou
   - name: ASL challenge members
     leads:
       - name: Paula Croal

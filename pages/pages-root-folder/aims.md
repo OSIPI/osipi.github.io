@@ -6,8 +6,7 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view) for OSIPI defines six actionable aims, each of which are addressed by one or more independent task forces:
-
+The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view) for OSIPI defines six actionable aims listed below, each of which are addressed by one or more independent task forces. We highly encourage anyone interested to get involved - if you feel you can contribute to one of the task forces, please reach out to the leads directly (contact details on the task force page).
 
 **Aim 1. Software inventory**
 -----------------------------
@@ -95,10 +94,3 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
    [**Task Force 6.1 - Challenges**](/task-force-6-1/)   
     *Develop and implement challenges involving perfusion imaging analysis.*
 
-
-**Get involved!**
------------------
-
-We highly encourage anyone interested to get involved - if you feel you can contribute to one of the task forces, please reach out to the leads directly (contact details above). You can reach out to individuals participating or contribute your feedback by posting to the [OSIPI forum](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging).
-
-{% include alert alert='<a href="https://docs.google.com/document/d/10OhbXTRGPuToYLy-cFof9TreX0DS_yhs_8wJeIw5SIU/edit">Give feedback about the OSIPI aims here!</a>' %}

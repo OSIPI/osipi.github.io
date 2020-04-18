@@ -1,13 +1,9 @@
 ---
 layout: page
 title: "OSIPI links"
-permalink: "/forum/"
+permalink: "/links/"
 header: no
 ---
-
-**Stay informed**
----
-To stay informed about the progress of OSIPI, contribute ideas or comments, please join the [OSIPI google group](https://groups.google.com/forum/#!forum/open-source-initiative-for-perfusion-imaging/). 
 
 **Contribute**
 ---

@@ -44,8 +44,7 @@ If you are interested to represent an external body within the SB, please contac
 {:.list-title}
 **SB meetings**
 
-- The first SB meeting will take place during the ISMRM 2020 (Sydney)
-
+- The first SB meeting was due to take place during the ISMRM 2020 (Sydney), but has been post-poned due to the cancellation of the ISMRM.
 
 {:.list-title}
 **SB links**

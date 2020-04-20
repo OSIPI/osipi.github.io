@@ -13,6 +13,10 @@ leads:
     location: University of Wisconsin-Madison
     website: https://www.linkedin.com/in/james-holmes-35b52a110/
     role: Lead
+ - name: Chad Quarles
+    location: Barrow Neurological Insitute
+    website: https://www.barrowneuro.org/get-to-know-barrow/person/chad-quarles-phd/
+    role: Co-Lead
 members:
   - Jonathan Arvidsson
   - Leah Henze Bancroft

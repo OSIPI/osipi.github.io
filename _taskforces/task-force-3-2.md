@@ -14,18 +14,17 @@ leads:
     website: http://www.spl.harvard.edu/pages/People/fedorov/
     role: Lead
 members:
-  - Zaki Ahmed
-  - Beatriz Asenjo Garcia
-  - Greg Cron
+  - [Zaki Ahmed](https://github.com/notzaki), McGill University, Canada
+  - Beatriz Asenjo Garcia, Regional University Hospital of Málaga, Spain
+  - [Greg Cron](https://med.uottawa.ca/radiology/people/cron-greg), Ottawa Hospital Research Institute, Canada
   - Pauline Hall Barrientos
-  - Jochen Hirsch
-  - Thomas Lindner
-  - Felix Navarro
+  - Jochen Hirsch, Fraunhofer MEVIS, Germany
+  - Thomas Lindner, University Hospital Hamburg-Eppendorf, Germany
+  - [Felix Navarro](https://github.com/felixnavarro), Regional University Hospital of Málaga, Spain
   - Federico Pineda
-  - Annette van der Toorn
-  - Lutz Lüdemann (Universitätsklinikum Essen)
-  - Anahita Fathi
-  - Nandor Pinter
+  - Annette van der Toorn, University Medical Center Utrecht, The Netherlands
+  - Lutz Lüdemann, Universitätsklinikum Essen, Germany
+  - Anahita Fathi, University of Pennsylvania, USA
 status:
   - Feb 1, 2020 Lead confirmed
   - Identifying Co-lead..

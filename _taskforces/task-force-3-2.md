@@ -29,9 +29,9 @@ status:
   - Feb 1, 2020 Lead confirmed
   - Identifying Co-lead..
   - Feb 17, 2020 Scheduling of the kick-off call initiated
-  - March 10, 2020: Kick-off monthly phone call of the TF
-  - April 2, 2020: roadmap communicated to the OSIPI EMB
-  - April 14, 2020: roadmap discussed and confirmed with the TF
+  - March 10, 2020 Kick-off monthly phone call of the TF
+  - April 2, 2020 roadmap communicated to the OSIPI EMB
+  - April 14, 2020 roadmap discussed and confirmed with the TF
 links:
   - website: https://drive.google.com/drive/folders/13KOjMyRkNmjigNcmQ2LHMYIzCTr2cN-S
     description: |

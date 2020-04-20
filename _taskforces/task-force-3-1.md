@@ -14,7 +14,7 @@ leads:
     website: https://www.linkedin.com/in/james-holmes-35b52a110/
     role: Lead
   - name: Chad Quarles
-    location: Barrow Neurological Institute, Philadelphia, PA, USA
+    location: Barrow Neurological Institute, Phoenix, AZ, USA
     website: https://www.barrowneuro.org/get-to-know-barrow/person/chad-quarles-phd/
     role: Co-lead
 members:

@@ -10,13 +10,13 @@ description: |
   In a second phase we may identify gaps in the available data and take actions to fill them.
 leads:
   - name: Jim Holmes
-    location: University of Wisconsin-Madison
+    location: University of Wisconsin-Madison, Madison, WI, USA
     website: https://www.linkedin.com/in/james-holmes-35b52a110/
     role: Lead
- - name: Chad Quarles
-    location: Barrow Neurological Insitute
+  - name: Chad Quarles
+    location: Barrow Neurological Institute, Philadelphia, PA, USA
     website: https://www.barrowneuro.org/get-to-know-barrow/person/chad-quarles-phd/
-    role: Co-Lead
+    role: Co-lead
 members:
   - Jonathan Arvidsson
   - Leah Henze Bancroft

@@ -29,7 +29,7 @@ members:
   - Nataneal Semmineh
 status:
   - Lead identified 24.01.2020
-  - Confirming co-lead..
+  - Drafting 2 year roadmap
 links:
   - website: https://drive.google.com/drive/folders/1iHk0mpJ4mfV5zYruGQuGuxzhxZvFOzX9
     description: |

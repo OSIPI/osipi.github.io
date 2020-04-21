@@ -17,13 +17,16 @@ leads:
     location: Children’s National Medical Center, Washington, D.C.
     website: https://www.linkedin.com/in/lizhaomri/
     role: Co-lead    
-members (not yet confirmed):
-  - Marco Castellaro
-  - Martin Craig
+members (confirmed):
   - Sudipto Dolui
   - Rebeca Echeverria Chasco
   - Patrick Hales
   - Maria Mora
+  - Yiming Wang
+  - Limin Zhou
+members (not yet confirmed):
+  - Marco Castellaro
+  - Martin Craig
   - Ruth Oliver
 status:
   - Lead identified

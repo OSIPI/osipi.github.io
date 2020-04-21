@@ -8,7 +8,7 @@ description: |
   The challenges will use data collected by OSIPI and will be applied to the software tools listed in OSIPI in order to establish a set of benchmarks. 
   The long-term aim is to establish OSIPI as an independent arbiter for software solutions in perfusion imaging. 
 subgroups:
-  - name: DSC challenge members
+  - name: DSC/DCE-MRI Quantification Challenge 
     leads:
       - name: Anahita Fathi Kazerooni
         location: University of Pennsylvania

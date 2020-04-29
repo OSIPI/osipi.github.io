@@ -18,6 +18,7 @@ members:
   - Udunna Anazodo
   - David Thomas
   - Henk-Jan Mutsaerts
+  - Paula Croal
 status:
   - 2020.01.07 Lead confirmed
   - 2020.03.20 Co-lead confirmed

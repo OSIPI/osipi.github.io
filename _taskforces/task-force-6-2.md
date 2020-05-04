@@ -23,7 +23,7 @@ members:
 status:
   - 2020.05.04 Finalizing a 2-year roadmap
 links:
-  - website: https://drive.google.com/drive/folders/1btNX3KT-vLWzNOYSjMHXOqrqqz1f4mV6
+  - website: https://drive.google.com/drive/folders/1T9Q1hRjw7gjEOSLeUYB7RyjFLHaEfgpp
     description: |
       Task force folder on drive - storage space for public or private documents developed by the task force.
   - website: https://osipi.slack.com/archives/CQJ60PD5H

@@ -33,8 +33,10 @@
     url: "/task-force-4-1/"
   - title: "TF 4.2 - DCE/DSC lexicon"
     url: "/task-force-4-2/"
-  - title: "TF 6.1 - Challenges"
-    url: "/task-force-6-1/" 
+  - title: "TF 6.1 - ASL Challenges"
+    url: "/task-force-6-1/"
+  - title: "TF 6.2 - DSC/DCE Challenges"
+    url: "/task-force-6-2/" 
 
 - title: News
   url: "/news/"

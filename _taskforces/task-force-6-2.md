@@ -26,7 +26,7 @@ links:
   - website: https://drive.google.com/drive/folders/1T9Q1hRjw7gjEOSLeUYB7RyjFLHaEfgpp
     description: |
       Task force folder on drive - storage space for public or private documents developed by the task force.
-  - website: https://osipi.slack.com/archives/CQJ60PD5H
+  - website: https://osipi.slack.com/archives/C012T016ELS
     description: |
       Task force slack channel - for discussions between task force members.
 ---

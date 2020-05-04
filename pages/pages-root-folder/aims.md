@@ -91,6 +91,8 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
 
 *Using the data collected in aim 3, develop metrics that quantify the performance of a perfusion analysis tool (eg. bias and precision on DRO's, agreement with reference methods in-vivo, reproducibility on in-vivo data, processing time, etc.). These metrics will be measured for the software tools collected in aims 1 and 2 in order to establish a set of benchmarks. The long-term aim is to establish OSIPI as an independent arbiter for software solutions in perfusion imaging.*
 
-   [**Task Force 6.1 - Challenges**](/task-force-6-1/)   
-    *Develop and implement challenges involving perfusion imaging analysis.*
+   [**Task Force 6.1 - ASL Challenges**](/task-force-6-1/)   
+    *Develop and implement challenges involving ASL perfusion imaging analysis.*
 
+   [**Task Force 6.2 - DSC/DCE Challenges**](/task-force-6-1/)   
+    *Develop and implement challenges involving DCE/DSC perfusion imaging analysis.*

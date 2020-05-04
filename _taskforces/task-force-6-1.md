@@ -1,8 +1,8 @@
 ---
 permalink: "/task-force-6-1/"
 
-title: "OSIPI Task Force 6.1: Challenges"
-aims: Develop and implement challenges involving perfusion imaging analysis
+title: "OSIPI Task Force 6.1: ASL Challenges"
+aims: Develop and implement challenges involving ASL perfusion imaging analysis
 description: |
   Task force 6.1 will develop challenges using that can act as broadly recognised benchmarks for perfusion software. This will include the development of metrics that quantify the performance of a perfusion analysis tool (eg. bias and precision on DROs, agreement with reference methods in-vivo, reproducibility on in-vivo data, processing time, etc).
   The challenges will use data collected by OSIPI and will be applied to the software tools listed in OSIPI in order to establish a set of benchmarks. 

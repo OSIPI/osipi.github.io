@@ -1,8 +1,8 @@
 ---
 permalink: "/task-force-6-2/"
 
-title: "OSIPI Task Force 6.2: DSC/DCE Challenges"
-aims: Develop and implement challenges involving perfusion imaging analysis
+title: "OSIPI Task Force 6.2: DCE/DSC Challenges"
+aims: Develop and implement challenges involving DCE/DSC perfusion imaging analysis
 description: |
   To compare quantification pipelines for DSC/DCE-MRI in clinical cancer imaging applications. Through these challenges, the performance of DSC-/DCE-MRI perfusion analysis tools developed in-house by the participating groups or the available software packages will be tested and evaluated according to some metrics (eg. bias and precision on DROs, agreement with reference methods in-vivo, reproducibility on in-vivo data, processing time, etc). 
   

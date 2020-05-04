@@ -94,5 +94,5 @@ The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKE
    [**Task Force 6.1 - ASL Challenges**](/task-force-6-1/)   
     *Develop and implement challenges involving ASL perfusion imaging analysis.*
 
-   [**Task Force 6.2 - DSC/DCE Challenges**](/task-force-6-1/)   
+   [**Task Force 6.2 - DSC/DCE Challenges**](/task-force-6-2/)   
     *Develop and implement challenges involving DCE/DSC perfusion imaging analysis.*

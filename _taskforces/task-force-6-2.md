@@ -15,7 +15,11 @@ leads:
     website: https://www.linkedin.com/in/hamidreza-saligheh-rad-7127021a/
     role: Co-lead
 members:
-  - TBD
+  - Laura Bell
+  - Mohammadreza Alviri
+  - Salman Rezaei
+  - Moss Zhao
+  - Xinze Zhou
 status:
   - 2020.05.04 Finalizing a 2-year roadmap
 links:

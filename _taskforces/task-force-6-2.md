@@ -1,7 +1,7 @@
 ---
 permalink: "/task-force-6-2/"
 
-title: "OSIPI Task Force 6.1: Challenges"
+title: "OSIPI Task Force 6.2: DSC/DCE Challenges"
 aims: Develop and implement challenges involving perfusion imaging analysis
 description: |
   Add description. 

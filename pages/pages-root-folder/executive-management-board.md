@@ -36,7 +36,8 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 {:.list-title}
 **EMB meetings**
 
-- 2020.04.21 Second EMB meeting at 3-4pm London time, 4-5pm Brussels time, 11-12am New York, 8-9am Los Angeles (Webex)
+- 2020.08.04 Third EMB meeting at 4-5pm London time, 5-6pm Brussels time, 12am-1pm New York, 8-9am Los Angeles
+- 2020.04.21 Second EMB meeting at 3-4pm London time, 4-5pm Brussels time, 11-12am New York, 8-9am Los Angeles [(Minutes)](https://drive.google.com/open?id=1zjiT6dmbC7t1Svii_HG6NpYE8iS8bnR-GIf_-m02Fhc)
 - 2020.02.07 First EMB meeting at 15:00 GMT [(Minutes)](https://drive.google.com/open?id=1zjiT6dmbC7t1Svii_HG6NpYE8iS8bnR-GIf_-m02Fhc)
 
 {:.list-title}

@@ -19,19 +19,19 @@ leads:
     role: Co-lead
 members:
   - Jonathan Arvidsson
-  - Samual Barnes (confirmed)
-  - Martin Craig (confirmed)
-  - Ingomar Gutmann (confirmed)
+  - Samual Barnes
+  - Martin Craig
+  - Ingomar Gutmann
   - Zaki Ahmed
-  - Michael Berks (confirmed)
-  - Ben Ellingson (confirmed)
+  - Michael Berks
+  - Ben Ellingson
   - Jayashree Kalpathy-Cramer
-  - Federico Pineda (confirmed)
-  - Matthias Schabel (confirmed)
-  - Sudarshan Ragunathan (confirmed)
-  - Luis Torres (confirmed)
-  - Laura Bell (confirmed)
-  - Sirisha Tadimalla (confirmed)
+  - Federico Pineda
+  - Matthias Schabel
+  - Sudarshan Ragunathan
+  - Luis Torres
+  - Laura Bell
+  - Sirisha Tadimalla
 status:
   - 22/01/2020 Lead confirmed.
   - 31/01/2020 Co-lead confirmed.

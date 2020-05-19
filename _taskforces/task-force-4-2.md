@@ -17,16 +17,16 @@ leads:
     website: https://medicinehealth.leeds.ac.uk/medicine/staff/175/professor-david-l-buckley/
     role: Co-lead
 members:
-  - Laura Bell (confirmed)
-  - Charlotte Debus (confirmed)
-  - Ralf Floca (confirmed)
-  - Andrey Fedorov (confirmed)
-  - David Clunie (confirmed)
-  - Steven Sourbron (confirmed)
-  - Chad Quarles (confirmed)
-  - Petra van Houdt (confirmed)
-  - Ingomar Gutmann (confirmed)
-  - Patrick Thurner (confirmed)
+  - Laura Bell
+  - Charlotte Debus
+  - Ralf Floca
+  - Andrey Fedorov
+  - David Clunie
+  - Steven Sourbron
+  - Chad Quarles
+  - Petra van Houdt
+  - Ingomar Gutmann
+  - Patrick Thurner
 status:
   - 2019.12.02 Lead and Co-lead confirmed
   - 2020.03.26 Members confirmed

@@ -7,7 +7,7 @@ categories:
   - newsletter
 ---
 
-*June 6, 2020: Roadmap launched!*
+## June 6, 2020: Roadmap launched!
 
 We have launched the first Roadmap for OSIPI! 
 

@@ -9,20 +9,29 @@ description: |
   An important application will be the amendment of the DICOM standard for ASL perfusion parametric maps, as well as BIDS extensions, and development of demonstrations and use cases. 
 leads:
   - name: David Thomas 
-    location: Leonard Wolfson Experimental Neurology Centre, University College London, UK
+    location: UCL Queen Square Institute of Neurology, UK
     website: https://iris.ucl.ac.uk/iris/browse/profile?upi=DTHOM65
     role: Lead
   - name: Yuriko Suzuki
-    location: The Institute of Biomedical Engineering, Oxford University, UK
+    location: Wellcome Centre for Integrative Neuroimaging, FMRIB, Oxford University, UK
     website: https://www.researchgate.net/profile/Yuriko_Suzuki3
     role: Co-lead
 members:
-  - Udunna Anazodo
-  - Patricia Clement
-  - Thomas Lindner
-  - Jan Petr
-  - Xingfeng Shao
-  - Henk-Jan Mutsaerts
+  - name: Patricia Clement
+    location:
+  - name: Thomas Lindner
+    location: University Hospital Hamburg-Eppendorf, Germany
+  - name: Jan Petr
+    location: Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany
+    website: https://www.researchgate.net/profile/Jan_Petr/
+  - name: Xingfeng Shao
+    location: University of Southern California, USA
+  - name: Henk-Jan Mutsaerts
+    location: 
+    website: https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/
+  - name: Sudipto Dolui
+    location: University of Pennsylvania, USA
+    website: https://www.researchgate.net/profile/Sudipto_Dolui
 status:
   - 2020.01.15 Leads confirmed
   - 2020.02.18 Member confirmed

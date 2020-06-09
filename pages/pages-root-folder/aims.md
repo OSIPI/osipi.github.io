@@ -6,7 +6,7 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view) for OSIPI defines six actionable aims listed below, each of which are addressed by one or more independent task forces. We highly encourage anyone interested to get involved - if you feel you can contribute to one of the task forces, please reach out to the leads directly (contact details on the task force page).
+The current [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view) for OSIPI defines six actionable aims listed below, each of which are addressed by one or more independent task forces. More details on the current work in progress can be found in the [OSIPI Roadmap 2020-2022](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) and on the individual taks force pages. We highly encourage anyone interested to get involved - if you feel you can contribute to one of the task forces, please reach out to the leads directly (contact details on the task force page).
 
 **Aim 1. Software inventory**
 -----------------------------

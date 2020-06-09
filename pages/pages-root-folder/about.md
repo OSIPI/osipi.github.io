@@ -33,6 +33,8 @@ The work in OSIPI is planned around 6 specific [aims](/aims/) that include the b
 **How can I join OSIPI?**
 -------------------------
 
+The ongoing workplan is summarised in the [OSIPI roadmap](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) and we are always looking for help! 
+
 If you want to contribute to a particular task force, then please get in touch with the appropriate task force lead directly. The names and contact details are on the task force pages listed [here](/aims/). 
 
 If you want to contribute but are unsure where, or your ideas are outside the remit of any given task force, then please contact a member of the OSIPI management team.

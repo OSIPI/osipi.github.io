@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "OSIPI Newsletter #3"
+title: "OSIPI News, june 2020"
 teaser: "OSIPI roadmap launched!"
 comments: false
 categories:

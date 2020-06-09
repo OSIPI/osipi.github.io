@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "OSIPI News, june 2020"
-teaser: "OSIPI roadmap launched!"
+title: "06/2020: First OSIPI roadmap launched!"
+teaser: "We have officially kicked off the first OSIPI delivery cycle with the launch of the 20-22 Roadmap.."
 comments: false
 categories:
   - newsletter

@@ -19,7 +19,7 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 {:.list-title}
 **Current OSIPI Roadmap**
 
-- [Version 1.0 (9 june 2020)](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) ([pdf version](https://drive.google.com/file/d/1eJsOcMSI93oTkoQeD3lpS5xVNq8jO2FS/view?usp=sharing))
+- [Version 1.0](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) ([pdf](https://drive.google.com/file/d/1eJsOcMSI93oTkoQeD3lpS5xVNq8jO2FS/view?usp=sharing))
 - [Draft version](https://docs.google.com/document/d/1zdPajpE5YXgiRrCxaLeTK0xElWZ0VNGLtVX_-VEYCrM/edit#heading=h.sd4p8tejbzln)
 
 {:.list-title}

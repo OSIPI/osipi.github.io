@@ -43,7 +43,7 @@ This website is hosted on [github](https://github.com/OSIPI/osipi.github.io/). F
 **How is OSIPI managed?**
 -------------------------
 
-The task force leads together with the managemment team form the [**Executive and Management Board (EMB)**](/emb/). The EMB defines a *Roadmap* with detailed deliverables and milestones for each of the task forces, and monitors their implementation. The EMB reports back to the ISMRM perfusion study group ahead of each study group meeting at the ISMRM. 
+The task force leads together with the management team form the [**Executive and Management Board (EMB)**](/emb/). The EMB defines a [Roadmap](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) with detailed deliverables and milestones for each of the task forces, and monitors their implementation. The EMB reports back to the ISMRM perfusion study group ahead of each study group meeting at the ISMRM. 
 
 The mission and overall [Strategic Plan](https://drive.google.com/file/d/14XZYB59W2rn5NIMBKEwdzht23WLa3zzN/view?usp=sharing/) of OSIPI is revised and updated on an annual basis by the [**Strategy Board**](/sb/), which also nominates the task force leads. The Strategy Board consists of the OSIPI management team, the governance committee of the perfusion study group, and representatives of other societies with a stake in perfusion stoftware development.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "06/2020: First OSIPI roadmap launched!"
+title: "09 june 2020: First OSIPI roadmap launched!"
 teaser: "We have officially kicked off the first OSIPI delivery cycle with the launch of the 2020-22 Roadmap.."
 comments: false
 categories:
@@ -11,4 +11,4 @@ By may 2022, OSIPI will have delivered 24 main deliverables including 13 peer-re
 
 Full details on the deliverables and the trajectory towards them can be found in the [OSIPI roadmap 20-22](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub). 
 
-If you want to take part, you can join the effort at any time. Just get in touch with the appropriate [task force leads](https://www.osipi.org/emb/) and start a conversation. 
+You are welcome to join the effort at any time! Just get in touch with the appropriate [task force leads](https://www.osipi.org/emb/) and start a conversation. 

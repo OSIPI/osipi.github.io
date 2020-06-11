@@ -13,7 +13,7 @@ We are delighted to announce that OSIPI has now formally moved into the implemen
 
 By May 2022, OSIPI will have produced 24 deliverables including 13 peer-reviewed journal articles, 6 sustainable online resources, 1 manual, 3 software releases, and 1 standard amendment (DICOM). We estimate 16 abstracts will be submitted to the annual ISMRM meetings in 2021 and 2022. Furthmore, as we wrap up the 2 year cycle, each task force will present at the ISMRM Perfusion study group workshop (currently planned for February 2022), as well as on the study group sessions at the annual meetings.
 
-You are welcome to join the effort at any time! Just get in touch with the appropriate [task force leads](https://www.osipi.org/emb/) or <a href="mailto:s.sourbron@sheffield.ac.uk">myself</a>, <a href="mailto:laura.bell@barrowneuro.org">Laura</a>, <a href="mailto:henkjanmutsaerts@gmail.com">Henk-Jan</a> to start a conversation. 
+You are welcome to join the effort at any time! Just get in touch with the appropriate [task force leads](https://www.osipi.org/emb/) or <a href="mailto:s.sourbron@sheffield.ac.uk">Steven</a>, <a href="mailto:laura.bell@barrowneuro.org">Laura</a>, <a href="mailto:henkjanmutsaerts@gmail.com">Henk-Jan</a> to start a conversation. 
 
 Next up, we're trying to find a time for a virtual meeting since we will not be able to meet in person this year at ISMRM. Stayed tuned for updates. 
 

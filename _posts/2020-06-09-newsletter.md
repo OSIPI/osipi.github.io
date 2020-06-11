@@ -13,7 +13,7 @@ Apologies for the radio silence on our end, but we have all been working on buil
 
 Full details on the deliverables and the trajectory towards them can be found in the [OSIPI roadmap 20-22](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub). 
 
-You are welcome to join the effort at any time! Just get in touch with the appropriate [task force leads](https://www.osipi.org/emb/) or myself (s.sourbron@sheffield.ac.uk), Laura (laura.bell@barrowneuro.org), Henk-Jan (henkjanmutsaerts@gmail.com) to start a conversation. 
+You are welcome to join the effort at any time! Just get in touch with the appropriate [task force leads](https://www.osipi.org/emb/) or [myself] (mailto:s.sourbron@sheffield.ac.uk), [Laura] (mailto:laura.bell@barrowneuro.org), [Henk-Jan] (mailto:henkjanmutsaerts@gmail.com) to start a conversation. 
 
 Next up, we're trying to find a time for a virtual meeting since we will not be able to meet in person this year at ISMRM. Stayed tuned for updates. 
 

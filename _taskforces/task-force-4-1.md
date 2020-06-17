@@ -36,6 +36,7 @@ status:
   - 2020.01.15 Leads confirmed
   - 2020.02.18 Member confirmed
   - 2020.03.25 New member joined
+  - 2020.06.17 First online meeting, meet & greet, first lexicon draft/sketch created
 links:
   - website: https://drive.google.com/drive/folders/1CxyGHIXU30CYBZmnLBfylnC4iP7ytNld
     description: |

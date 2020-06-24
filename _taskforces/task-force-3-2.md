@@ -22,8 +22,9 @@ members:
   - name: Greg Cron 
     website: https://med.uottawa.ca/radiology/people/cron-greg
     location: Ottawa Hospital Research Institute, Canada
-  - name: Pauline Hall Barrientos, MRI physics Royal Hospital for Children, NHS Greater Glasgow and Clyde
+  - name: Pauline Hall Barrientos
     website: https://www.researchgate.net/profile/Pauline_Hall_Barrientos
+    location: MRI physics Royal Hospital for Children, NHS Greater Glasgow and Clyde
   - name: Jochen Hirsch
     location: Fraunhofer MEVIS, Germany
   - name: Thomas Lindner

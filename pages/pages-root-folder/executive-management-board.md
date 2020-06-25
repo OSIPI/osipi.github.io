@@ -26,7 +26,7 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 **Current EMB members**
 
 {:style="margin-bottom:0"}
-- [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/) (OSIPI chair)
+- [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/) (OSIPI chair) (s.sourbron@sheffield.ac.uk)
 - [**Laura Bell**](https://www.linkedin.com/in/lauracbell/) (OSIPI co-chair)
 - [**Henk-Jan Mutsaerts**](https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/) (OSIPI secretary)
 - [**Charlotte Debus**](https://www.linkedin.com/in/charlotte-debus-316214a0/?originalSubdomain=de) (OSIPI past-chair)

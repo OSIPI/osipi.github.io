@@ -12,10 +12,12 @@ leads:
     location: German Cancer Research Centre (DKFZ), Heidelberg
     website: https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html
     role: Lead
+    email: i.kompan@dkfz-heidelberg.de
   - name: David Buckley
     location: University of Leeds, UK
     website: https://medicinehealth.leeds.ac.uk/medicine/staff/175/professor-david-l-buckley/
     role: Co-lead
+    email: D.L.Buckley@leeds.ac.uk
 members:
   - Laura Bell
   - Charlotte Debus

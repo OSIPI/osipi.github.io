@@ -15,10 +15,12 @@ leads:
     location: Advanced Imaging Research Center, Oregon Health and Sciences University
     website: https://ohsu.pure.elsevier.com/en/persons/matthias-schabel
     role: Lead
+    email: schabelm@ohsu.edu
   - name: Simon Levy
     location: Center for Magnetic Resonance in Biology and Medicine, Aix-Marseille University
     website: https://crmbm.univ-amu.fr/contact/levy-rosetti-simon
     role: Co-lead
+    email: simon.levy@mines-ales.org
 members:
   - Michael Berks
   - Martin Craig

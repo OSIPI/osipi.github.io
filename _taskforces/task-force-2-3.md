@@ -13,10 +13,12 @@ leads:
     location: Centre for Clinical Brain Sciences, University of Edinburgh, UK
     website: https://www.ed.ac.uk/profile/dr-michael-thrippleton
     role: Lead
+    email: m.j.thrippleton@ed.ac.uk 
   - name: Petra van Houdt
     location: the Netherlands Cancer Institute, Amsterdam, NL
     website: https://www.nki.nl/divisions/radiotherapy/van-der-heide-uulke-group/
     role: Co-lead
+    email: p.v.houdt@nki.nl 
 members:
   - Jonathan Arvidsson (University of Gothenburg)
   - Samual Barnes (Loma Linda University)

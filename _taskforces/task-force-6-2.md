@@ -11,10 +11,12 @@ leads:
     location: University of Pennsylvania, Philadelphia, PA, USA
     website: https://www.linkedin.com/in/anahita-fathi-kazerooni-a3287238/
     role: Lead
+    email: fathikaa@pennmedicine.upenn.edu
   - name: Hamidreza Saligheh Rad
     location: Tehran University of Medical Sciences
     website: https://www.linkedin.com/in/hamidreza-saligheh-rad-7127021a/
     role: Co-lead
+    email: hamid.saligheh@gmail.com
 members:
   - Laura Bell
   - Mohammadreza Alviri

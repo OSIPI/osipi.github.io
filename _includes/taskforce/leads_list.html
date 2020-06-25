@@ -5,7 +5,7 @@
 
 {% for lead in taskforce.leads %}
 <li>
-<a href="{{ lead.website }}"><b>{{ lead.name }}</b></a> ({{ taskforce_title }} {{ lead.role }}) <a href="mailto:{{ lead.email }}">{{ lead.email }}</a>
+<a href="{{ lead.website }}"><b>{{ lead.name }}</b></a> ({{ taskforce_title }} {{ lead.role }})
 </li>
 {% endfor %}
 

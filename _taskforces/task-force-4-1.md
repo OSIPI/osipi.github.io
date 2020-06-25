@@ -12,10 +12,12 @@ leads:
     location: UCL Queen Square Institute of Neurology, UK
     website: https://iris.ucl.ac.uk/iris/browse/profile?upi=DTHOM65
     role: Lead
+    email: d.thomas@ucl.ac.uk 
   - name: Yuriko Suzuki
     location: Wellcome Centre for Integrative Neuroimaging, FMRIB, Oxford University, UK
     website: https://www.researchgate.net/profile/Yuriko_Suzuki3
     role: Co-lead
+    email: yuriko.suzuki@ndcn.ox.ac.uk
 members:
   - name: Patricia Clement
     location:

@@ -10,10 +10,12 @@ leads:
     location: UT Southwestern
     website: https://www.linkedin.com/in/ananth-madhuranthakam-4771189/
     role: Lead
+    email: ananth.madhuranthakam@utsouthwestern.edu
   - name: Li Zhao
     location: Children’s National Medical Center, Washington, D.C.
     website: https://www.linkedin.com/in/lizhaomri/
-    role: Co-lead    
+    role: Co-lead
+    email: lz5bf@virginia.edu 
 members:
   - Sudipto Dolui
   - Rebeca Echeverria Chasco

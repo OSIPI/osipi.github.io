@@ -12,10 +12,12 @@ leads:
     location: University of Oxford
     website: https://www.linkedin.com/in/paula-croal/?originalSubdomain=uk
     role: Lead
+    email: paula.croal@nottingham.ac.uk
   - name: Udunna Anazodo
     location: Lawson Health Research Institute
     website: https://www.lawsonresearch.ca/scientist/dr-udunna-anazodo
     role: Co-lead
+    email: uanazodo@lawsonimaging.ca
 members:
   - Pieter Vandemaele
   - Jan Petr

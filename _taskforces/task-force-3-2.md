@@ -13,6 +13,7 @@ leads:
     location: Harvard Medical School
     website: http://www.spl.harvard.edu/pages/People/fedorov/
     role: Lead
+    email: andrey.fedorov@gmail.com
 members:
   - name: Zaki Ahmed 
     website: https://github.com/notzaki

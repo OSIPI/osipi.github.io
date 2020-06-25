@@ -10,10 +10,12 @@ leads:
     location: Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany
     website: https://www.researchgate.net/profile/Jan_Petr
     role: Lead
+    email: j.petr@hzdr.de
   - name: Sudipto Dolui
     location: University of Pennsylvania, Philadelphia, PA, USA
     website: https://www.researchgate.net/profile/Sudipto_Dolui
     role: Co-lead
+    email: sudiptod@pennmedicine.upenn.edu
 members:
   - Udunna Anazodo
   - David Thomas

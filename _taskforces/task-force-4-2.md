@@ -29,6 +29,7 @@ members:
   - Petra van Houdt
   - Ingomar Gutmann
   - Patrick Thurner
+  - Ben Dickie
 status:
   - 2019.12.02 Lead and Co-lead confirmed
   - 2020.03.26 Members confirmed

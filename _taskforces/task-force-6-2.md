@@ -19,8 +19,9 @@ leads:
     email: hamid.saligheh@gmail.com
 members:
   - Laura Bell
-  - Mohammadreza Alviri
+  - Kaveh Daneshmand
   - Salman Rezaei
+  - Sogand Sadeghi
   - Moss Zhao
   - Xinze Zhou
 status:

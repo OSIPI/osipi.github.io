@@ -40,6 +40,9 @@ members:
     location: Universitätsklinikum Essen, Germany
   - name: Anahita Fathi
     location: University of Pennsylvania, USA
+  - name: Ben Dickie
+    website: https://www.research.manchester.ac.uk/portal/ben.dickie.html
+    location: The University of Manchester, UK
 status:
   - Feb 1, 2020 Lead confirmed
   - Identifying Co-lead..

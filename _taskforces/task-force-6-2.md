@@ -21,7 +21,14 @@ members:
   - Laura Bell
   - Kaveh Daneshmand
   - Salman Rezaei
+  - Farzad Alizadeh
   - Sogand Sadeghi
+  - Shirin Farsi
+  - Hanieh Salari
+  - Fardin Samadi
+  - Mohammadreza Alviri
+  - Sam Sharifzadeh
+  - Diego Pineda
   - Moss Zhao
   - Xinze Zhou
 status:

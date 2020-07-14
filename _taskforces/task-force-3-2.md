@@ -27,6 +27,7 @@ members:
     website: https://www.researchgate.net/profile/Pauline_Hall_Barrientos
     location: MRI physics Royal Hospital for Children, NHS Greater Glasgow and Clyde
   - name: Jochen Hirsch
+    website: https://www.mevis.fraunhofer.de/en/employees/jochen-hirsch.html
     location: Fraunhofer MEVIS, Germany
   - name: Thomas Lindner
     location: University Hospital Hamburg-Eppendorf, Germany
@@ -34,11 +35,15 @@ members:
     website: https://github.com/felixnavarro
     location: Regional University Hospital of Málaga, Spain
   - name: Federico Pineda
+    website: https://scholar.google.com/citations?user=FA5DI34AAAAJ&hl=en
+    location: University of Chicago, USA
   - name: Annette van der Toorn
+    website: https://dijkhuizenlab.nl/research-staff/ 
     location: University Medical Center Utrecht, The Netherlands
   - name: Lutz Lüdemann
     location: Universitätsklinikum Essen, Germany
   - name: Anahita Fathi
+    website: https://www.med.upenn.edu/cbica/aibil/anahita.html
     location: University of Pennsylvania, USA
   - name: Ben Dickie
     website: https://www.research.manchester.ac.uk/portal/ben.dickie.html

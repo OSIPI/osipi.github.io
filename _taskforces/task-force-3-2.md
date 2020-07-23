@@ -17,6 +17,7 @@ leads:
   - name: Greg Cron 
     website: https://med.uottawa.ca/radiology/people/cron-greg
     location: Ottawa Hospital Research Institute, Canada
+    email: gcron@toh.ca
     role: Co-Lead
 members:
   - name: Zaki Ahmed 

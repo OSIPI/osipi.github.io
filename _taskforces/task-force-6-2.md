@@ -1,4 +1,5 @@
 ---
+---
 permalink: "/task-force-6-2/"
 
 title: "OSIPI Task Force 6.2: DCE/DSC Challenges"
@@ -18,13 +19,13 @@ leads:
     role: Co-lead
     email: hamid.saligheh@gmail.com
 members:
-  Executive Committee: 
-      Executive Advisers: Kaveh Daneshmand, Hamidreza Saligheh Rad, Anahita Fathi Kazerooni
-      Executive Team: Farzad Alizadeh, Sogand Sadeghi, Hanieh Salari, Shirin Farsi, Salman Rezaei
+  Executive Committee:
+  	Executive Advisers: Kaveh Daneshmand, Hamidreza Saligheh Rad, Anahita Fathi Kazerooni
+	Executive Team: Farzad Alizadeh, Sogand Sadeghi, Hanieh Salari, Shirin Farsi, Salman Rezaei
   Scientific Committee: 
-	    Scientific Advisers: Laura Bell, Hamidreza Saligheh Rad, Anahita Fathi Kazerooni
-      Scientific Team: Moss Zhao, Salman Rezaei, Xinze Zhou, Sam Sharifzadeh
-      Radiologists : Diego Pineda
+  	Scientific Advisers: Laura Bell, Hamidreza Saligheh Rad, Anahita Fathi Kazerooni
+	Scientific Team: Moss Zhao, Salman Rezaei, Xinze Zhou, Sam Sharifzadeh
+	Radiologists : Diego Pineda
 status:
   - 2020.07.23 Drafting outlines of the first challenges
 links:
@@ -35,6 +36,9 @@ links:
     description: |
       Task force slack channel - for discussions between task force members.
 ---
+
+
+
 
 {% include taskforce_content.md %}
 <!--- Please include your task force contents below, free formatting -->

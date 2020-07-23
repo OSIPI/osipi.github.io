@@ -10,12 +10,6 @@
 
 {{ taskforce.description }}
 
-<!-- SUBGROUPS -->
-{% if taskforce.subgroups %}
----
-{% include taskforce/subgroups.md subgroups=taskforce.subgroups %}
-{% endif %}
-
 <!-- LEADS -->
 {% if taskforce.leads %}
 ---
@@ -30,6 +24,12 @@
 ### Task force members 
 
 {% include taskforce/members.md members=taskforce.members %}
+{% endif %}
+
+<!-- SUBGROUPS -->
+{% if taskforce.subgroups %}
+---
+{% include taskforce/subgroups.md subgroups=taskforce.subgroups %}
 {% endif %}
 
 <!-- Status -->

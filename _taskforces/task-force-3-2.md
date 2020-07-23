@@ -14,15 +14,16 @@ leads:
     website: http://www.spl.harvard.edu/pages/People/fedorov/
     role: Lead
     email: andrey.fedorov@gmail.com
+  - name: Greg Cron 
+    website: https://med.uottawa.ca/radiology/people/cron-greg
+    location: Ottawa Hospital Research Institute, Canada
+    role: Co-Lead
 members:
   - name: Zaki Ahmed 
     website: https://github.com/notzaki
     location: McGill University, Canada
   - name: Beatriz Asenjo Garcia
     location: Regional University Hospital of Málaga, Spain
-  - name: Greg Cron 
-    website: https://med.uottawa.ca/radiology/people/cron-greg
-    location: Ottawa Hospital Research Institute, Canada
   - name: Pauline Hall Barrientos
     website: https://www.researchgate.net/profile/Pauline_Hall_Barrientos
     location: MRI physics Royal Hospital for Children, NHS Greater Glasgow and Clyde

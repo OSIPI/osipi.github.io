@@ -2,15 +2,24 @@
 
 ### {{ subgroup.name }}
 
+{% if subgroup.leads %}
 {:.list-title}
-**Task force leads**
 
 {% include taskforce/leads.html leads=subgroup.leads %}
+{% endif %}
 
+{% if subgroup.members %}
 {:.list-title}
-**Task force members**
 
 {% include taskforce/members.md members=subgroup.members %}
+{% endif %}
+
+{% for subsubgroup in subgroup.subsubgroups %}
+**{{ subsubgroup.name }}**
+{:.list-title}
+{% include taskforce/members.md members=subsubgroup.members %}
+
+{% endfor %}
 
 {% endfor %}
 

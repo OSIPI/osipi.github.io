@@ -21,16 +21,16 @@ subgroups:
     subsubgroups: 
       - name: Executive Advisers
         members: 
+          - Kaveh Daneshmand
+          - Hamidreza Saligheh Rad
+          - Anahita Fathi Kazerooni
+      - name: Executive Team
+        members: 
           - Farzad Alizadeh
           - Sogand Sadeghi
           - Hanieh Salari
           - Shirin Farsi
           - Salman Rezaei
-      - name: Executive Team
-        members: 
-          - Kaveh Daneshmand
-          - Hamidreza Saligheh Rad
-          - Anahita Fathi Kazerooni
   - name: Scientific Committee
     subsubgroups:
       - name: Scientific Advisers
@@ -44,9 +44,9 @@ subgroups:
           - Salman Rezaei
           - Xinze Zhou
           - Sam Sharifzadeh
-  - name: Radiologists
-    members: 
-      - Diego Pineda
+      - name: Radiologists
+        members: 
+          - Diego Pineda
 status:
   - 2020.07.23 Drafting outlines of the first challenges
 links:

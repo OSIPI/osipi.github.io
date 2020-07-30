@@ -34,7 +34,7 @@ members:
   - name: Sudipto Dolui
     location: University of Pennsylvania, USA
     website: https://www.researchgate.net/profile/Sudipto_Dolui
-  - name Weiying Dai
+  - name: Weiying Dai
     location: State University of New York at Binghamton, USA 
     website: https://www.binghamton.edu/computer-science/contact/profile.html?id=wdai 
 status:

@@ -39,8 +39,9 @@ status:
   - 22/01/2020 Lead confirmed.
   - 31/01/2020 Co-lead confirmed.
   - 16/03/2020 Members confirmed.
-  - 7/06/2020 Roadmap completed.
-  - Milestone 1 (Define scope)...
+  - 7/06/2020 Roadmap COMPLETED.
+  - 31 July 2020 Milestone 1 (Define scope, lead: Petra van Houdt) COMPLETED.
+  - 1 August 2020 Milestone 2 (Collect and verify sample code, lead: Sudarshan Ragunathan) IN-PROGRESS...
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |
@@ -50,7 +51,7 @@ links:
       Roadmap document
   - website: https://docs.google.com/document/d/1SmGhdzUPREHjpGtSEQohmIYz1Fi-XmHm0R8_Qp8xCuI/edit?usp=sharing
     description: |
-      Taskforce scope document (work-in-progress)    
+      Taskforce scope document (latest version)    
   - website: https://docs.google.com/spreadsheets/d/1x3iWGbt97E6tl__iUJhiaOyFPIErUOiW2XwQ_QeEnrw/edit?usp=sharing
     description: |
       Taskforce timeline

@@ -50,4 +50,4 @@ links:
 <!--- Please include your task force contents below, free formatting -->
 
 OSIPI ASL Challenge:
-- Challenge Overview: https://docs.google.com/document/d/1EtG5TVZotnvXSufboh707lAIq1imPg2CTVaMnIN01iA/edit?usp=sharing
+- [Challenge Overview](https://docs.google.com/document/d/1EtG5TVZotnvXSufboh707lAIq1imPg2CTVaMnIN01iA/edit?usp=sharing)

@@ -20,7 +20,8 @@ leads:
     email: yuriko.suzuki@ndcn.ox.ac.uk
 members:
   - name: Patricia Clement
-    location:
+    location: Ghent Institute for metabolic and Functional Imaging (GIfMI), Belgium
+    website: https://www.researchgate.net/profile/Patricia_Clement3
   - name: Thomas Lindner
     location: University Hospital Hamburg-Eppendorf, Germany
   - name: Jan Petr

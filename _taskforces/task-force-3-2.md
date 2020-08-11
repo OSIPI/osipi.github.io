@@ -4,9 +4,9 @@ permalink: "/task-force-3-2/"
 title: "OSIPI Task Force 3.2: Clinical and preclinical data"
 aims: Build an inventory of freely available clinical and preclinical perfusion MRI data.
 description: |
-  The inventory is aimed at researchers looking for data to test their perfusion analysis methods, and at data owners who want to share data for secondary research. 
-  The inventory will provide a curated list of publicly available preclinical and clinical perfusion datasets that can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality. 
-  Task force 3.2 will initially focus on identifying, listing and qualifying existing datasets. 
+  The inventory is aimed at researchers looking for data to test their perfusion analysis methods, and at data owners who want to share data for secondary research.
+  The inventory will provide a curated list of publicly available preclinical and clinical perfusion datasets that can be used to test algorithms in real-world conditions for robustness, reproducibility and practicality.
+  Task force 3.2 will initially focus on identifying, listing and qualifying existing datasets.
   In a second phase we may identify gaps in the available data and take actions to fill them.
 leads:
   - name: Andrey Fedorov
@@ -14,13 +14,13 @@ leads:
     website: http://www.spl.harvard.edu/pages/People/fedorov/
     role: Lead
     email: andrey.fedorov@gmail.com
-  - name: Greg Cron 
+  - name: Greg Cron
     website: https://med.uottawa.ca/radiology/people/cron-greg
     location: Ottawa Hospital Research Institute, Canada
     email: gcron@toh.ca
     role: Co-Lead
 members:
-  - name: Zaki Ahmed 
+  - name: Zaki Ahmed
     website: https://github.com/notzaki
     location: McGill University, Canada
   - name: Beatriz Asenjo Garcia
@@ -40,7 +40,7 @@ members:
     website: https://scholar.google.com/citations?user=FA5DI34AAAAJ&hl=en
     location: University of Chicago, USA
   - name: Annette van der Toorn
-    website: https://dijkhuizenlab.nl/research-staff/ 
+    website: https://dijkhuizenlab.nl/research-staff/
     location: University Medical Center Utrecht, The Netherlands
   - name: Lutz Lüdemann
     location: Universitätsklinikum Essen, Germany
@@ -64,6 +64,9 @@ links:
   - website: https://osipi.slack.com/archives/CQVL56H5E
     description: |
       Task force slack channel - for discussions between task force members.
+  - website: https://bit.ly/33NZei1
+    description: |
+      Inventory of the public imaging repositories relevant or potentially relevant to perfusion imaging. Comments and edits are welcomed!
 ---
 
 {% include taskforce_content.md %}

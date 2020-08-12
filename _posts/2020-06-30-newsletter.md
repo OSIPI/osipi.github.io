@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "30 June 2020: Future MRM Plans!"
+title: "30 June 2020: OSIPI issue in MRM!"
 teaser: "We are excited to announce that the editor of Magnetic Resonance in Medicine, Prof. Peter Jezzard, has offered to publish the main deliverables of OSIPI together..."
 comments: false
 categories:

@@ -15,5 +15,7 @@ All task forces in OSIPI have successfully delivered their first milestones! Thi
 
 **Task force 1.2 (DSC/DCE software inventory)** has created a list of available DSC/DCE software, including both commercial and open-source tools, with links. The list can be found [here](https://drive.google.com/file/d/14avwqgQv6l0Uw7xExz9P0w-rwwY-e2cA/view). If you know of any relevant software packages that are missing from the list, please contact the task force co-lead [Melissa Prah](mailto:mprah@mcw.edu).
 
+**Other task forces** update will follow soon..
+
 Best wishes,
 <a href="mailto:s.sourbron@sheffield.ac.uk">Steven</a>, <a href="mailto:laura.bell@barrowneuro.org">Laura</a>, and <a href="mailto:henkjanmutsaerts@gmail.com">Henk-Jan</a>

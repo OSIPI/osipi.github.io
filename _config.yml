@@ -58,7 +58,7 @@ plugins:
 #   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
 #               /____/
 #
-paginate: 5                      # Paginates all X entries
+paginate: 50                      # Paginates all X entries
 paginate_path: "news/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 

@@ -27,7 +27,7 @@ Details of how OSIPI is organised can be found in the [governance document](http
 
 **Stakeholders**
 ---
-OSIPI is an initiative of the [ISMRM perfusion study group](https://www.ismrm.org/study-groups/perfusion-mr/) and endorsed by the parent society [ISMRM](https://www.ismrm.org/).
+OSIPI is an initiative of the [ISMRM perfusion study group](https://www.ismrm.org/study-groups/perfusion-mr/) and sponsored by the parent society [ISMRM](https://www.ismrm.org/).
 
 **Website**
 ---

@@ -19,8 +19,7 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 {:.list-title}
 **Current OSIPI Roadmap**
 
-- [Version 1.0](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) ([pdf](https://drive.google.com/file/d/1eJsOcMSI93oTkoQeD3lpS5xVNq8jO2FS/view?usp=sharing))
-- [Draft version](https://docs.google.com/document/d/1zdPajpE5YXgiRrCxaLeTK0xElWZ0VNGLtVX_-VEYCrM/edit#heading=h.sd4p8tejbzln)
+- [Version 2.0](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) 
 
 {:.list-title}
 **Current EMB members**
@@ -35,11 +34,13 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 
 
 {:.list-title}
-**EMB meetings**
+**EMB meetings [(Minutes)](https://drive.google.com/open?id=1zjiT6dmbC7t1Svii_HG6NpYE8iS8bnR-GIf_-m02Fhc)**
 
-- 2020.08.04 Third EMB meeting at 3.30-5pm London time, 4.30-6pm Brussels time, 10.30am-12:00pm New York, 7.30-9am Los Angeles
-- 2020.04.21 Second EMB meeting at 3-4pm London time, 4-5pm Brussels time, 11-12am New York, 8-9am Los Angeles [(Minutes)](https://drive.google.com/open?id=1zjiT6dmbC7t1Svii_HG6NpYE8iS8bnR-GIf_-m02Fhc)
-- 2020.02.07 First EMB meeting at 15:00 GMT [(Minutes)](https://drive.google.com/open?id=1zjiT6dmbC7t1Svii_HG6NpYE8iS8bnR-GIf_-m02Fhc)
+[(Minutes)](https://drive.google.com/open?id=1zjiT6dmbC7t1Svii_HG6NpYE8iS8bnR-GIf_-m02Fhc)
+
+- 2020.08.04 Third EMB meeting at 3.30-5pm London time, 4.30-6pm Brussels time, 10.30am-12:00pm New York, 7.30-9am Los Angeles [(Minutes)](https://drive.google.com/open?id=1zjiT6dmbC7t1Svii_HG6NpYE8iS8bnR-GIf_-m02Fhc)
+- 2020.04.21 Second EMB meeting at 3-4pm London time, 4-5pm Brussels time, 11-12am New York, 8-9am Los Angeles 
+- 2020.02.07 First EMB meeting at 15:00 GMT 
 
 {:.list-title}
 **EMB links**

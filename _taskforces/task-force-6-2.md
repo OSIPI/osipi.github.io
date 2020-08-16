@@ -25,8 +25,6 @@ members:
   - Diego Pineda
   - Sam Sharifzadeh
   - Farzad Alizadeh
-  - Sogol Sadeghi
-  - Shirin Farsi
 status:
   - 2020.07.23 Drafting outlines of the first challenges
 links:
@@ -40,3 +38,6 @@ links:
 
 {% include taskforce_content.md %}
 <!--- Please include your task force contents below, free formatting -->
+
+OSIPI QCP-MRI Challenge:
+- [Challenge Outline](https://docs.google.com/document/d/1DXJsKwLrAeh471SLhlvEFaNtw-ePLZcBsxSzM8QJ_KM/edit?usp=sharing)

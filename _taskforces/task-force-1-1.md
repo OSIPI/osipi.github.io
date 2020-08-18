@@ -43,3 +43,4 @@ resources:
 
 {% include taskforce_content.md %}
 <!--- Please include your task force contents below, free formatting -->
+## Are you an ASL pipeline developer? Please fill out this short [survey](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) to get your software entered into our inventory!

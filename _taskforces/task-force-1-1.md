@@ -17,12 +17,12 @@ leads:
     role: Co-lead
     email: sudiptod@pennmedicine.upenn.edu
 members:
-  - Udunna Anazodo
-  - David Thomas
-  - Henk-Jan Mutsaerts
-  - Paula Croal
-  - Charlotte Buchanan
-  - Lydiane Hirschler
+  - Udunna Anazodo (Western University, Canada)
+  - David Thomas (University College London (UCL), UK)
+  - Henk-Jan Mutsaerts (Amsterdam University Medical Center, the Netherlands)
+  - Paula Croal (University of Nottingham, UK)
+  - Charlotte Buchanan (University of Nottingham, UK)
+  - Lydiane Hirschler (Leiden University Medical Center, the Netherlands)
 status:
   - 2020.01.07 Lead confirmed
   - 2020.03.20 Co-lead confirmed
@@ -43,4 +43,7 @@ resources:
 
 {% include taskforce_content.md %}
 <!--- Please include your task force contents below, free formatting -->
-#### Are you an ASL pipeline developer? Please fill out this short [survey](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) to get your software entered into our inventory!
+#### Call for ASL pipelines
+As a first step to create the inventory of ASL pipelines, we ask all ASL pipeline developers to self-assess the features of their pipelines by filling out this short [survey](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) before the **1st October 2020**. We will publish the results of the survey in the form of an ASL pipeline inventory here on the OSIPI webpages, and we will send a brief summary as an abstract to ISMRM 2021. We will then work on a more objective pipeline comparison together with the developers - please express your interest to participate at the end of the questionnaire. See more details in the [roadmap](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub#id.2i4c3golnmp9).
+
+

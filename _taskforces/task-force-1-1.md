@@ -27,7 +27,7 @@ status:
   - 2020.01.07 Lead confirmed
   - 2020.03.20 Co-lead confirmed
   - 2020.04.02 Drafted a 2-year roadmap
-  - 2020.08.14 Published a [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) for ASL pipeline developers
+  - 2020.08.14 Published a questionnaire
 links:
   - website: https://drive.google.com/drive/folders/1btNX3KT-vLWzNOYSjMHXOqrqqz1f4mV6
     description: |

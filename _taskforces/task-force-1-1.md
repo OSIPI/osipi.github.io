@@ -4,7 +4,7 @@ permalink: "/task-force-1-1/"
 title: "OSIPI Task Force 1.1: ASL software inventory"
 aims: Create an inventory of open source ASL packages
 description: |
-  The inventory is aimed at end-users looking for a suitable tool to process their ASL images. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users. Currently, all ASL pipeline developers are kindly asked to fill a [short questionnaire] (https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) to specify the features of their pipelines. 
+  The inventory is aimed at end-users looking for a suitable tool to process their ASL images. The inventory will list available open-source tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, licence policy, transparency, user-friendliness, and reviews by other users. Currently, all ASL pipeline developers are kindly asked to fill a [short questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) to specify the features of their pipelines. 
 leads:
   - name: Jan Petr
     location: Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany
@@ -43,4 +43,4 @@ resources:
 
 {% include taskforce_content.md %}
 <!--- Please include your task force contents below, free formatting -->
-## Are you an ASL pipeline developer? Please fill out this short [survey](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) to get your software entered into our inventory!
+#### Are you an ASL pipeline developer? Please fill out this short [survey](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) to get your software entered into our inventory!

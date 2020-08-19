@@ -20,9 +20,9 @@ leads:
     role: Co-lead
     email: mprah@mcw.edu
 members:
-  - Benoit Bourassa Moreau
+  - Rianne van der Heijden
   - Andrey Fedorov
-  - Ingomar Gutmann
+  - Laura Bell
   - Ives Levesque
   - Sudarshan Ragunathan
   - Charlotte Debus

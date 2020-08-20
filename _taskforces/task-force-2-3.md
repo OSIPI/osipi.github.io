@@ -45,19 +45,20 @@ status:
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |
-      Task force folder on drive - storage space for public or private documents developed by the task force.      
-  - website: https://docs.google.com/document/d/1TXWPi6hiTA3bSQu0PbbNjnlNoVClik53Psp3QkVtvww/edit#bookmark=id.obucmtsk8skv
-    description: |
-      Roadmap document
-  - website: https://docs.google.com/document/d/1SmGhdzUPREHjpGtSEQohmIYz1Fi-XmHm0R8_Qp8xCuI/edit?usp=sharing
-    description: |
-      Taskforce scope document (latest version)    
+      Task force folder on drive - storage space for public or private documents developed by the task force.        
   - website: https://docs.google.com/spreadsheets/d/1x3iWGbt97E6tl__iUJhiaOyFPIErUOiW2XwQ_QeEnrw/edit?usp=sharing
     description: |
       Taskforce timeline
   - website: https://osipi.slack.com/archives/CQVLA1KJ9
     description: |
       Task force slack channel - for discussions between task force members.
+resources:
+  - website: https://docs.google.com/document/d/1TXWPi6hiTA3bSQu0PbbNjnlNoVClik53Psp3QkVtvww/edit#bookmark=id.obucmtsk8skv
+    description: |
+      Public - Roadmap document
+  - website: https://docs.google.com/document/d/1SmGhdzUPREHjpGtSEQohmIYz1Fi-XmHm0R8_Qp8xCuI/edit?usp=sharing
+    description: |
+      Public - Taskforce scope document
 ---
 
 {% include taskforce_content.md %}

@@ -20,12 +20,12 @@ leads:
     role: Co-lead
     email: mprah@mcw.edu
 members:
-  - Rianne van der Heijden
-  - Andrey Fedorov
-  - Laura Bell
-  - Ives Levesque
-  - Sudarshan Ragunathan
-  - Charlotte Debus
+  - Rianne van der Heijden (Erasmus University Rotterdam)
+  - Andrey Fedorov (Brigham and Women's Hospital)
+  - Laura Bell (Barrow Neurological Institute)
+  - Ives Levesque (McGill University Health Centre)
+  - Sudarshan Ragunathan (Barrow Neurological Institute)
+  - Charlotte Debus (German Aerospace Center)
 status:
   - Feb 2020, lead confirmed
   - Apr 2020, co-lead confirmed
@@ -37,7 +37,17 @@ links:
   - website: https://osipi.slack.com/archives/CQVKV4TSL
     description: |
       Task force slack channel - for discussions between task force members.
+ resources:
+  - website: https://drive.google.com/file/d/14avwqgQv6l0Uw7xExz9P0w-rwwY-e2cA/view?usp=sharing
+    description: |
+      In Progress - Dynamic Contrast (DCE/DSC) Software Inventory
+   
 ---
 
 {% include taskforce_content.md %}
+   
+---
+
+Please contact the leads join Task Force 1.2. 
+
 <!--- Please include your task force contents below, free formatting -->

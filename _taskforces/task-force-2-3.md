@@ -40,8 +40,8 @@ status:
   - 31/01/2020 Co-lead confirmed.
   - 16/03/2020 Members confirmed.
   - 7/06/2020 Roadmap COMPLETED.
-  - 31 July 2020 Milestone 1 (Define scope, lead: Petra van Houdt) COMPLETED.
-  - 1 August 2020 Milestone 2 (Collect and verify sample code, lead: Sudarshan Ragunathan) IN-PROGRESS...
+  - 31 July 2020 Milestone 1 "define scope" led by Petra van Houdt. COMPLETED.
+  - 1 August 2020 Milestone 2 "collect and verify sample code" currently led by Sudarshan Ragunathan. IN-PROGRESS...
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |

@@ -41,12 +41,9 @@ links:
   - website: https://drive.google.com/file/d/14avwqgQv6l0Uw7xExz9P0w-rwwY-e2cA/view?usp=sharing
     description: |
       In Progress - Dynamic Contrast (DCE/DSC) Software Inventory
-   
 ---
 
 {% include taskforce_content.md %}
-   
----
 
 Please contact the leads join Task Force 1.2. 
 

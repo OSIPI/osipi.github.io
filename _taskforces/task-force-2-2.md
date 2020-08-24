@@ -40,11 +40,11 @@ links:
 
 {% include taskforce_content.md %}
 <!--- Please include your task force contents below, free formatting -->
-# TF2.2 Roadmap
+### TF2.2 Roadmap
 Our 2 year (2020-2022) roadmap can be found [here](https://docs.google.com/document/d/1TXWPi6hiTA3bSQu0PbbNjnlNoVClik53Psp3QkVtvww/edit).
 
-# TF2.2 Scope Document
-Our scope document can be found [here](https://docs.google.com/document/d/1ioVbJKTfeoIGwCYcq6IsWwl9o_W4wRfeSFHXo6msCQQ/edit#heading=h.xh5k7d7orbcg). Suggestions are more than welcome, and if you'd like to contribute and join please contact any of the leads!
+### TF2.2 Scope Document
+Our scope document can be found [here](https://docs.google.com/document/d/1ioVbJKTfeoIGwCYcq6IsWwl9o_W4wRfeSFHXo6msCQQ/edit#heading=h.xh5k7d7orbcg). Suggestions are more than welcome, and if you'd like to contribute and/or join please contact any of the leads!
 
 
 

@@ -26,3 +26,7 @@ Have a few minutes? Listed below are opportunities to contribute now without nec
 **ASL Challenge**  
 Pipeline developers and users are invited to particiapte in a community-based challenge aiming to establish an optimal analysis pipeline for ASL MRI.
 *Please get in touch with [Task Force 6.1](/task-force-6-1/) to join now!*
+
+**DSC/DCE Challenge**  
+Pipeline developers and users are invited to particiapte in a community-based challenge or to get involved in reproducing the pipelines submitted by the challenge competitors,   to establish a set of benchmarks for analysis of DCE-MRI in the brain. Neuroradiologists are invited to collaborate in preparing the clinical data.
+*Please get in touch with [Task Force 6.2](/task-force-6-2/) to join now!*

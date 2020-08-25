@@ -11,6 +11,7 @@ There are many ways you can contribute depending on your desired time committmen
 
 **Communicate**
 ---
+For up-to-date information regarding OSIPI, join our [mailing list](https://groups.google.com/g/open-source-initiative-for-perfusion-imaging). 
 Task force members are encouraged to take up discussions via the [OSIPI slack channel](https://osipi.slack.com) to minimize email overload. 
 
 **Mission**

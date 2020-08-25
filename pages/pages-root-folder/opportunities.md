@@ -6,7 +6,7 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-Have a few minutes? Listed below are opportunities to contribute now without necessarily joining a task force.
+Have a few minutes? Listed below are opportunities to contribute now without necessarily joining a task force. OSIPI is a community-driven initiative and we relay on your contributions no matter how big or small.
 
 **Open surveys/calls**
 ----------------------

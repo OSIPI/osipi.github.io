@@ -17,16 +17,19 @@ leads:
     role: Co-lead
     email: mprah@mcw.edu
 members:
-  - Rianne van der Heijden (Erasmus University Rotterdam)
   - Andrey Fedorov (Brigham and Women's Hospital)
-  - Laura Bell (Barrow Neurological Institute)
-  - Ives Levesque (McGill University Health Centre)
-  - Sudarshan Ragunathan (Barrow Neurological Institute)
   - Charlotte Debus (German Aerospace Center)
+  - Ina Kompan (German Cancer Research Centre)
+  - Ives Levesque (McGill University Health Centre)
+  - Laura Bell (Barrow Neurological Institute)
+  - Rianne van der Heijden (Erasmus University Rotterdam)
+  - Sudarshan Ragunathan (Barrow Neurological Institute)
 status:
-  - Feb 2020 Lead confirmed
-  - April 2020 Co-lead confirmed
-  - 2020.08.04 Drafted a 2-year roadmap
+  - February 2020 -- Lead confirmed
+  - April 2020 -- Co-lead confirmed
+  - April 2020 -- Drafted a 2-year roadmap
+  - August 2020 -- Preliminary inventory of DC software
+  - Current Efforts -- Incorporate software descriptors
 links:
   - website: https://drive.google.com/drive/folders/1h_PWOHywx1M36hj00bc-rsXqEWGnHS1l
     description: |

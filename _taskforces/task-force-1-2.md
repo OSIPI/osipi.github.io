@@ -25,11 +25,12 @@ members:
   - Rianne van der Heijden (Erasmus University Rotterdam)
   - Sudarshan Ragunathan (Barrow Neurological Institute)
 status:
-  - February 2020 -- Lead confirmed
-  - April 2020 -- Co-lead confirmed
-  - August 2020 -- Drafted a 2-year roadmap
-  - August 2020 -- Preliminary inventory of DC software
-  - Current Efforts -- Incorporate software descriptors
+  - February 2020 - Lead confirmed
+  - April 2020 - Co-lead confirmed
+  - April 2020 - Drafted 2-year roadmap
+  - June 2020 - Finalized 2-year roadmap
+  - August 2020 - Preliminary inventory of DC software
+  - Current Efforts - Incorporate software descriptors
 links:
   - website: https://drive.google.com/drive/folders/1h_PWOHywx1M36hj00bc-rsXqEWGnHS1l
     description: |

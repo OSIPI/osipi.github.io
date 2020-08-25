@@ -28,5 +28,8 @@ Pipeline developers and users are invited to particiapte in a community-based ch
 *Please get in touch with [Task Force 6.1](/task-force-6-1/) to join now!*
 
 **DSC/DCE Challenge**  
-Pipeline developers and users are invited to particiapte in a community-based challenge to establish a set of benchmarks for analysis of DCE-MRI in the brain. Neuroradiologists are also invited to collaborate in preparing the clinical data.  
-*Please get in touch with [Task Force 6.2](/task-force-6-2/) to join now!*
+The OSIPI challenge on " Quantitative Contrast Perfusion MRI (QCP-MRI)":
+- Call for submission: all interested teams are invited to compete in this challenge that aims to establish a set of benchmarks for quantification of Ktrans from DCE-MRI scans of brain tumors. 
+- Call for participation: we invite interested pipeline developers to participate in independent replication of the proposed workflows submitted by the competing groups. 
+  
+*Please get in touch with [Task Force 6.2](/task-force-6-2/) leads for more information!*

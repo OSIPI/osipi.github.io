@@ -27,7 +27,7 @@ members:
 status:
   - February 2020 -- Lead confirmed
   - April 2020 -- Co-lead confirmed
-  - April 2020 -- Drafted a 2-year roadmap
+  - August 2020 -- Drafted a 2-year roadmap
   - August 2020 -- Preliminary inventory of DC software
   - Current Efforts -- Incorporate software descriptors
 links:

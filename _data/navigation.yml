@@ -38,18 +38,19 @@
   - title: "TF 6.2 - DCE/DSC Challenges"
     url: "/task-force-6-2/" 
 
+- title: "Search"
+  url: "/search/"
+  side: left
+  
 - title: News
   url: "/news/"
-  side: left
+  side: right
 
 - title: "Resources"
-  url: "/links/"
+  url: "/resources/"
   side: right
   
 - title: "Contribute now!"
   url: "/opportunities/"
   side: right
   
-- title: "Search"
-  url: "/search/"
-  side: left

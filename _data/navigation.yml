@@ -42,10 +42,14 @@
   url: "/news/"
   side: left
 
-- title: "Links"
+- title: "Resources"
   url: "/links/"
+  side: right
+  
+- title: "Contribute now!"
+  url: "/opportunities/"
   side: right
   
 - title: "Search"
   url: "/search/"
-  side: right
+  side: left

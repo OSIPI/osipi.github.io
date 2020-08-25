@@ -8,8 +8,8 @@ header: no
 
 Have a few minutes? Listed below are opportunities to contribute now without necessarily joining a task force.
 
-**Open surveys/calls - actively seeking community contributions!**
-------------------------------------------------------------
+**Open surveys/calls**
+----------------------
 
 **Are you an developer, user, or aware of any ASL pipelines you'd like to add to the inventory?**
 Fill out this short [survey](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) developed by [Task Force 1.1](/task-force-1-1/).
@@ -21,7 +21,7 @@ Fill out this short [survey](https://docs.google.com/forms/d/e/1FAIpQLSds0Ao-jAH
 Please get in touch with [Task Force 2.2](/task-force-2-2/).
 
 **Open Challenges**
------------------------------
+-------------------
 
 **ASL Challenge**
 Pipeline developers and users are invited to particiapte in a community-based challenge aiming to establish an optimal analysis pipeline for ASL MRI.

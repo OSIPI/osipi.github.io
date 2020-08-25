@@ -7,7 +7,7 @@ header: no
 
 **Contribute**
 ---
-There are many ways you can contribute depending on your time committment desires. Have a few minutes? Check out these [opportunities](/opportunities/) - some only requiring 5 minutues of your time. If you'd like to contribute on a longer term, then please determine which [task force](/aims/) you would like to join and get in touch with the appropriate [task force lead](/emb/). If the task force you want to join is not yet open for participation then contact one of the OSIPI [leadership team](/about/). 
+There are many ways you can contribute depending on your desired time committment. Have a few minutes? Check out these [opportunities](/opportunities/) - some only requiring 5 minutues of your time. If you'd like to contribute on for a longer time, then please determine which [task force](/aims/) you would like to join and get in touch with the appropriate [task force lead](/emb/). If the task force you want to join is not yet open for participation then contact one of the OSIPI [leadership team](/about/). 
 
 
 **Communicate**

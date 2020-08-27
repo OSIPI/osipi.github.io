@@ -26,6 +26,7 @@ members:
   - Martin Craig
   - Rebeca Echeverria Chasco
   - Joao Almeida e Sousa
+  - Fábio Nery
 status:
   - 2020.01.03 Leads confirmed
   - 2020.04.02 Members confirmed. 2-year roadmap finalized.

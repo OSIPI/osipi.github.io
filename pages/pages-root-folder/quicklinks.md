@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "OSIPI Resources"
-permalink: "/resources/"
+title: "OSIPI Links"
+permalink: "/quicklinks/"
 header: no
 ---
 

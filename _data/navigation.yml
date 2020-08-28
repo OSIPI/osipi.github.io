@@ -1,10 +1,12 @@
 - title: Home
   url: "/"
   side: left
+  nav_order: 1
 
 - title: About
   url: "/about/"
   side: left
+  nav_order: 2
   dropdown:
   - title: "Executive & Management Board"
     url: "/emb/"
@@ -14,6 +16,7 @@
 - title: Aims
   url: "/aims/"
   side: left
+  nav_order: 3
   dropdown:
   - title: "TF 1.1 - ASL software inventory"
     url: "/task-force-1-1/"
@@ -41,20 +44,25 @@
 - title: "Search"
   url: "/search/"
   side: left
+  nav_order: 4
   
 - title: News
   url: "/news/"
   side: right
+  nav_order: 5
 
 - title: "Quick Links"
   url: "/quicklinks/"
   side: right
+  nav_order: 6
 
 - title: "Resources"
   url: "/resources/"
   side: right
+  nav_order: 7
 
 - title: "Contribute now!"
   url: "/opportunities/"
   side: right
+  nav_order: 8
   

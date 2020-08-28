@@ -5,7 +5,7 @@ permalink: "/resources/"
 header: no
 ---
 
-For the 2020-2022 roadmap cycle, OSIPI aims at providing user-based reviews of processing pipelines, classification and comparisons of contributed code, inventory and sharing guidelines for digital reference objects and open-access perfusion data, reporting guidelines and formats, challenges and software validation. 
+For the 2020-2022 roadmap cycle, OSIPI aims at providing user-based reviews of processing pipelines, classification and comparisons of contributed code, inventory and sharing guidelines for digital reference objects and open-access perfusion data, reporting guidelines and formats, challenges and software validation.   
 
 Here are the current deliverables that are available to the public:
 

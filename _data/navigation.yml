@@ -49,7 +49,11 @@
 - title: "Quick Links"
   url: "/quicklinks/"
   side: right
-  
+
+- title: "Resources"
+  url: "/resources/"
+  side: right
+
 - title: "Contribute now!"
   url: "/opportunities/"
   side: right

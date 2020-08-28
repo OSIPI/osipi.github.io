@@ -41,3 +41,4 @@ links:
 
 OSIPI QCP-MRI Challenge:
 - [Challenge Outline](https://docs.google.com/document/d/1DXJsKwLrAeh471SLhlvEFaNtw-ePLZcBsxSzM8QJ_KM/edit?usp=sharing)
+- [Challenge Participation Form](https://docs.google.com/forms/d/1Rl-rrD_TWDYaWQDUaFDgSf5s0JrPzDzecSGcE0hWE-8/edit?usp=sharing)

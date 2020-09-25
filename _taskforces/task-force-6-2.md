@@ -17,10 +17,12 @@ leads:
     role: Co-lead
     email: hamid.saligheh@gmail.com
 members:
-  - Laura Bell
+  - name: Laura Bell
+    website: https://www.linkedin.com/in/lauracbell/
+    location: Barrow Neurological Institute, USA
+  - Seyed Ali Nabavizadeh  
+  - Rianne van der Heijden
   - Moss Zhao
-  - Salman Rezaei
-  - Kaveh Daneshmand
   - Xinze Zhou
   - Diego Pineda
   - Sam Sharifzadeh

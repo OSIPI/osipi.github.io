@@ -50,7 +50,7 @@ members:
   - name: Ben Dickie
     website: https://www.research.manchester.ac.uk/portal/ben.dickie.html
     location: The University of Manchester, UK
-  - name: Amhah Mahroo
+  - name: Amnah Mahroo
     location: Fraunhofer MEVIS, Germany
 status:
   - Feb 1, 2020 Lead confirmed

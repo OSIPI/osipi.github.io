@@ -18,15 +18,20 @@ leads:
     email: hamid.saligheh@gmail.com
 members:
   - Laura Bell
-  - Moss Zhao
-  - Salman Rezaei
-  - Kaveh Daneshmand
+    website: https://www.linkedin.com/in/lauracbell/
+    location: Barrow Neurological Institute
   - Xinze Zhou
+  - Rianne van der Heijden
+    website: https://www.linkedin.com/in/riannevanderheijden1/
+    location: Erasmus Universiteit Rotterdam
+  - Moss Zhao
+  - Zaki Ahmed
+    website: https://github.com/notzaki
+    location: McGill University, Canada
   - Diego Pineda
-  - Sam Sharifzadeh
   - Farzad Alizadeh
 status:
-  - 2020.07.23 Drafting outlines of the first challenges
+  - 2020.10.14 Designing the challenge DRO with Hyperfusion.ai
 links:
   - website: https://drive.google.com/drive/folders/1T9Q1hRjw7gjEOSLeUYB7RyjFLHaEfgpp
     description: |

@@ -17,15 +17,15 @@ leads:
     role: Co-lead
     email: hamid.saligheh@gmail.com
 members:
-  - Laura Bell
+  - name: Laura Bell
     website: https://www.linkedin.com/in/lauracbell/
     location: Barrow Neurological Institute
   - Xinze Zhou
-  - Rianne van der Heijden
+  - name: Rianne van der Heijden
     website: https://www.linkedin.com/in/riannevanderheijden1/
     location: Erasmus Universiteit Rotterdam
   - Moss Zhao
-  - Zaki Ahmed
+  - name: Zaki Ahmed
     website: https://github.com/notzaki
     location: McGill University, Canada
   - Diego Pineda

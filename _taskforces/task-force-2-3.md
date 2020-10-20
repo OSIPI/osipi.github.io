@@ -20,21 +20,36 @@ leads:
     role: Co-lead
     email: p.v.houdt@nki.nl 
 members:
-  - Jonathan Arvidsson (University of Gothenburg)
-  - Samual Barnes (Loma Linda University)
-  - Martin Craig (University of Oxford)
-  - Ingomar Gutmann (University of Vienna) 
-  - Zaki Ahmed (McGill University)
-  - Michael Berks (University of Manchester)
-  - Ben Ellingson (University of California, Los Angeles)
-  - Federico Pineda (University of Chicago)
-  - Matthias Schabel (Oregon Health & Science University)
-  - Sudarshan Ragunathan (Barrow Neurological Institute)
-  - Luis Torres (University of Wisconsin - Madison)
-  - Laura Bell (Barrow Neurological Institute)
-  - Sirisha Tadimalla (University of Sydney)
-  - Lucy Kershaw (University of Edinburgh)
-  - Jesper Kallehauge (Aarhus University)
+  - name: Jonathan Arvidsson
+    location: University of Gothenburg
+  - name: Samual Barnes
+    location: Loma Linda University
+  - name: Martin Craig
+    location: University of Oxford
+  - name: Ingomar Gutmann
+    location: University of Vienna 
+  - name: Zaki Ahmed
+    location: Mayo Clinic
+  - name: Michael Berks
+    location: University of Manchester
+  - name: Ben Ellingson
+    location: University of California, Los Angeles
+  - name: Federico Pineda
+    location: University of Chicago
+  - name: Matthias Schabel
+    location: Oregon Health & Science University
+  - name: Sudarshan Ragunathan
+    location: Barrow Neurological Institute
+  - name: Luis Torres
+    location: University of Wisconsin - Madison
+  - name: Laura Bell
+    location: Barrow Neurological Institute
+  - name: Sirisha Tadimalla
+    location: University of Sydney
+  - name: Lucy Kershaw
+    location: University of Edinburgh
+  - name: Jesper Kallehauge
+    location: Aarhus University
 status:
   - 22/01/2020 Lead confirmed.
   - 31/01/2020 Co-lead confirmed.

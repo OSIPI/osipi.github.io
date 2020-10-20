@@ -20,31 +20,31 @@ members:
   - name: Andrey Fedorov
     location: Brigham and Women's Hospital
     website: https://spl.harvard.edu/people/andrey-fedorov
-    andrey.fedorov@gmail.com
+    email: andrey.fedorov@gmail.com
   - name: Charlotte Debus
     location: German Aerospace Center
     website: https://www.linkedin.com/in/charlotte-debus-316214a0/?originalSubdomain=de
-    science.debusc@gmail.com
+    email: science.debusc@gmail.com
   - name: Ina Kompan
     location: German Cancer Research Centre
     website: https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html
-    i.kompan@dkfz-heidelberg.de
+    email: i.kompan@dkfz-heidelberg.de
   - name: Ives Levesque
     location: McGill University Health Centre
     website: https://www.mcgill.ca/medphys/staff/ives-levesque
-    ives.levesque@mcgill.ca
+    email: ives.levesque@mcgill.ca
   - name: Laura Bell
     location: Barrow Neurological Institute
     website: https://www.linkedin.com/in/lauracbell/
-    laura.bell@barrowneuro.org
+    email: laura.bell@barrowneuro.org
   - name: Rianne van der Heijden
     location: Erasmus University Rotterdam
     website: https://www.linkedin.com/in/riannevanderheijden1/
-    r.a.vanderheijden@erasmusmc.nl
+    email: r.a.vanderheijden@erasmusmc.nl
   - name: Sudarshan Ragunathan
     location: Barrow Neurological Institute
     website: https://www.linkedin.com/in/sudarshanragunathan/
-    sudarshan.ragunathan@barrowneuro.org
+    email: sudarshan.ragunathan@barrowneuro.org
 status:
   - February 2020 - Lead confirmed
   - April 2020 - Co-lead confirmed

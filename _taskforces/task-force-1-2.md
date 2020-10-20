@@ -17,13 +17,34 @@ leads:
     role: Co-lead
     email: mprah@mcw.edu
 members:
-  - Andrey Fedorov (Brigham and Women's Hospital)
-  - Charlotte Debus (German Aerospace Center)
-  - Ina Kompan (German Cancer Research Centre)
-  - Ives Levesque (McGill University Health Centre)
-  - Laura Bell (Barrow Neurological Institute)
-  - Rianne van der Heijden (Erasmus University Rotterdam)
-  - Sudarshan Ragunathan (Barrow Neurological Institute)
+  - name: Andrey Fedorov
+    location: Brigham and Women's Hospital
+    website: https://spl.harvard.edu/pages/People/fedorov
+    email: andrey.fedorov@gmail.com
+  - name: Charlotte Debus
+    location: German Aerospace Center
+    website: https://www.linkedin.com/in/charlotte-debus-316214a0/?originalSubdomain=de
+    email: science.debusc@gmail.com
+  - name: Ina Kompan
+    location: German Cancer Research Centre
+    website: https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html
+    email: i.kompan@dkfz-heidelberg.de
+  - name: Ives Levesque
+    location: McGill University Health Centre
+    website: https://www.mcgill.ca/medphys/staff/ives-levesque
+    email: ives.levesque@mcgill.ca
+  - name: Laura Bell
+    location: Barrow Neurological Institute
+    website: https://www.linkedin.com/in/lauracbell/
+    email: laura.bell@barrowneuro.org
+  - name: Rianne van der Heijden
+    location: Erasmus University Rotterdam
+    website: https://www.linkedin.com/in/riannevanderheijden1/
+    email: r.a.vanderheijden@erasmusmc.nl
+  - name: Sudarshan Ragunathan
+    location: Barrow Neurological Institute
+    website: https://www.linkedin.com/in/sudarshanragunathan/
+    email: sudarshan.ragunathan@barrowneuro.org
 status:
   - February 2020 - Lead confirmed
   - April 2020 - Co-lead confirmed

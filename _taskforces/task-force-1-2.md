@@ -43,7 +43,7 @@ members:
     email: r.a.vanderheijden@erasmusmc.nl
   - name: Sudarshan Ragunathan
     location: Barrow Neurological Institute
-    website: https://www.researchgate.net/profile/Sudarshan_Ragunathan
+    website: https://www.linkedin.com/in/sudarshanragunathan/
     email: sudarshan.ragunathan@barrowneuro.org
 status:
   - February 2020 - Lead confirmed

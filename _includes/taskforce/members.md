@@ -9,6 +9,9 @@
         {%- if member.location -%}
             <br/> {{ member.location }}
         {%- endif -%}
+        {%- if member.email -%}
+            <br/> <a href="mailto:{{ member.email }}">{{ member.email }}</a> <br/>
+        {%- endif -%}
     </p> </li>
     {%- else -%}
         <li> {{ member }} </li> 

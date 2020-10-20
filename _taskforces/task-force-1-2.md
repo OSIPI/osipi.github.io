@@ -19,7 +19,7 @@ leads:
 members:
   - name: Andrey Fedorov
     location: Brigham and Women's Hospital
-    website: https://spl.harvard.edu/pages/People/fedorov
+    website: https://spl.harvard.edu/people/andrey-fedorov
     email: andrey.fedorov@gmail.com
   - name: Charlotte Debus
     location: German Aerospace Center

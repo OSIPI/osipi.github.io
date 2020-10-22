@@ -30,18 +30,20 @@ members:
     location: University of Pennsylvania 
   - name: Leland Hu (Advisor)
     website: https://www.mayo.edu/research/faculty/hu-leland-s-m-d/bio-10031224
-    location: Mayo Clinic    
-  - name: Xinze Zhou
+    location: Mayo Clinic  
   - name: Rianne van der Heijden
     website: https://www.linkedin.com/in/riannevanderheijden1/
     location: Erasmus Universiteit Rotterdam
+  - name: Xinze Zhou
   - name: Moss Zhao
   - name: Zaki Ahmed
     website: https://github.com/notzaki
     location: McGill University, Canada  
   - Farzad Alizadeh
+   
 status:
-  - 2020.10.14 Designing the challenge DRO with Hyperfusion.ai
+  - 2020.10.14 Designing the challenge DRO 
+  
 links:
   - website: https://drive.google.com/drive/folders/1T9Q1hRjw7gjEOSLeUYB7RyjFLHaEfgpp
     description: |
@@ -49,9 +51,7 @@ links:
   - website: https://osipi.slack.com/archives/C012T016ELS
     description: |
       Task force slack channel - for discussions between task force members.
-  - website: https://www.hyperfusion.ai/
-    description: |
-      Sponsor of QCP-MRI Challenge 
+   
       
 ---
 

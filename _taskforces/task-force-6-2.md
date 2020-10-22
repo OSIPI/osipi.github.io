@@ -7,7 +7,7 @@ description: |
   To compare quantification pipelines for DSC/DCE-MRI in clinical cancer imaging applications. Through these challenges, the performance of DSC-/DCE-MRI perfusion analysis tools developed in-house by the participating groups or the available software packages will be tested and evaluated according to some metrics (eg. bias and precision on DROs, agreement with reference methods in-vivo, reproducibility on in-vivo data, processing time, etc). The contestants are encouraged to use the software tools listed in OSIPI in creating their pipelines. The aim of this task force is to establish a set of benchmarks for perfusion imaging in different applications. 
 leads:
   - name: Anahita Fathi Kazerooni
-    location: University of Pennsylvania, Philadelphia, PA, USA
+    location: University of Pennsylvania
     website: https://www.linkedin.com/in/anahita-fathi-kazerooni-a3287238/
     role: Lead
     email: fathikaa@pennmedicine.upenn.edu
@@ -17,18 +17,28 @@ leads:
     role: Co-lead
     email: hamid.saligheh@gmail.com
 members:
-  - name: Laura Bell
+ - name: Steven Sourbron (Advisor)
+    website: https://www.linkedin.com/in/steven-sourbron-93775752
+    location: University of Sheffield
+  - name: Laura Bell (Advisor)
     website: https://www.linkedin.com/in/lauracbell/
     location: Barrow Neurological Institute
-  - Xinze Zhou
+  - name: Keyvan Farahani (Advisor)
+    location: National Institute of Health (NIH)
+  - name: Seyed Ali Nabavizadeh (Advisor)
+    website: https://www.linkedin.com/in/ali-nabavizadeh-34a09559/
+    location: University of Pennsylvania 
+  - name: Leland Hu (Advisor)
+    website: https://www.mayo.edu/research/faculty/hu-leland-s-m-d/bio-10031224
+    location: Mayo Clinic    
+  - name: Xinze Zhou
   - name: Rianne van der Heijden
     website: https://www.linkedin.com/in/riannevanderheijden1/
     location: Erasmus Universiteit Rotterdam
-  - Moss Zhao
+  - name: Moss Zhao
   - name: Zaki Ahmed
     website: https://github.com/notzaki
-    location: McGill University, Canada
-  - Diego Pineda
+    location: McGill University, Canada  
   - Farzad Alizadeh
 status:
   - 2020.10.14 Designing the challenge DRO with Hyperfusion.ai
@@ -39,6 +49,10 @@ links:
   - website: https://osipi.slack.com/archives/C012T016ELS
     description: |
       Task force slack channel - for discussions between task force members.
+   - website: https://www.hyperfusion.ai/
+   description: |
+      Sponsor of QCP-MRI Challenge 
+      
 ---
 
 {% include taskforce_content.md %}

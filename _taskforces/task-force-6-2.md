@@ -17,7 +17,7 @@ leads:
     role: Co-lead
     email: hamid.saligheh@gmail.com
 members:
- - name: Steven Sourbron (Advisor)
+  - name: Steven Sourbron (Advisor)
     website: https://www.linkedin.com/in/steven-sourbron-93775752
     location: University of Sheffield
   - name: Laura Bell (Advisor)
@@ -49,8 +49,8 @@ links:
   - website: https://osipi.slack.com/archives/C012T016ELS
     description: |
       Task force slack channel - for discussions between task force members.
-   - website: https://www.hyperfusion.ai/
-   description: |
+  - website: https://www.hyperfusion.ai/
+    description: |
       Sponsor of QCP-MRI Challenge 
       
 ---

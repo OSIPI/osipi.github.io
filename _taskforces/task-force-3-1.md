@@ -41,8 +41,7 @@ links:
       Task force slack channel - for discussions between task force members.
   - website: https://docs.google.com/spreadsheets/d/1pUUngtguEUKRKBwCI-nhgstDI23-pVVFQWYPjjzuuu0/edit?usp=sharing
     description: |
-      Demo Phantom and DRO Inventory version 1.
-       
+      Demo Phantom and DRO Inventory version 1.     
 ---
 
 {% include taskforce_content.md %}

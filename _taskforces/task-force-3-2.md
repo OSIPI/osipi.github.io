@@ -69,6 +69,9 @@ links:
   - website: https://bit.ly/33NZei1
     description: |
       Inventory of the public imaging repositories relevant or potentially relevant to perfusion imaging. Comments and edits are welcomed!
+  - website: https://bit.ly/3823H2U
+    description: |
+      List of attributes to accompany descriptions of public perfusion datasets. Comments and edits are welcomed!
 ---
 
 {% include taskforce_content.md %}

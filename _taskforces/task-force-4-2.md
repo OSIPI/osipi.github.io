@@ -30,11 +30,13 @@ members:
   - Ingomar Gutmann
   - Patrick Thurner
   - Ben Dickie
+  - Rianne van der Heijden
 status:
   - 2019.12.02 Lead and Co-lead confirmed
   - 2020.03.26 Members confirmed
   - 2020.04.21 2-year roadmap finalized
-  - Milestone 1 work in progress
+  - Milestone 1: COMPLETED
+  - Milestone 2: Work in Progress
 links:
   - website: https://drive.google.com/drive/folders/1TTh6_7aqfGMRCw6dJkaBj84ePqZQ0H9B?usp=sharing
     description: |

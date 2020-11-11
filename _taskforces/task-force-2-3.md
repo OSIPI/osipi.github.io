@@ -56,7 +56,8 @@ status:
   - 16/03/2020 Members confirmed.
   - 7/06/2020 Roadmap COMPLETED.
   - 31 July 2020 Milestone 1 "define scope" led by Petra van Houdt. COMPLETED.
-  - 1 August 2020 Milestone 2 "collect and verify sample code" currently led by Sudarshan Ragunathan. IN-PROGRESS...
+  - 1 August 2020 Milestone 2 "collect and verify sample code" led by Sudarshan Ragunathan. COMPLETED.
+  - Milestone 3 in progress...
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |
@@ -81,3 +82,7 @@ resources:
 
 To join the task force, please contact the leads.
 <!--- Please include your task force contents below, free formatting -->
+### Public DSC/DCE-MRI Code Collection
+A public repository is now available for DSC-/DCE-MRI code contributions in the Python language:  
+https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection/tree/Milestone-2  
+Over time this will be extended and unit testing implemented. Please contact the leads if you are interested in contributing code.

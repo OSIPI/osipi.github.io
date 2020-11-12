@@ -51,7 +51,8 @@ status:
   - April 2020 - Drafted 2-year roadmap
   - June 2020 - Finalized 2-year roadmap
   - August 2020 - Preliminary inventory of DC software
-  - Current Efforts - Incorporate software descriptors
+  - November 2020 - Software descriptors added to DC inventory 
+  - Current Efforts - Define software descriptors for each tool
 links:
   - website: https://drive.google.com/drive/folders/1h_PWOHywx1M36hj00bc-rsXqEWGnHS1l
     description: |

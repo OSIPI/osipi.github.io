@@ -38,12 +38,22 @@ members:
   - name: Weiying Dai
     location: State University of New York at Binghamton, USA 
     website: https://www.binghamton.edu/computer-science/contact/profile.html?id=wdai 
+  - name: María A. Fernández Seara
+    location: Clinica Universidad de Navarra, Spain
+    website: https://www.cun.es/nuestros-profesionales/profesionales/maria-fernandez-seara
+  - name: Manuel Taso
+    location: Beth Israel Deaconess Medical Center, USA
+    website: https://www.researchgate.net/profile/Manuel_Taso
 status:
   - 2020.01.15 Leads confirmed
   - 2020.02.18 Member confirmed
   - 2020.03.25 New member joined
   - 2020.06.17 1st online meeting, meet & greet, first lexicon draft/sketch created
   - 2020.07.22 2nd online meeting, working on the milestone #1
+  - 2020.08.03 1st milestone (Standard ASL techniques and parameters in brain perfusion imaging): achieved
+    website: https://docs.google.com/document/d/1vj0Tp4yur4dpJntF90yy2bOBUx33FG-w/edit
+  - 2020.11.02 2nd milestone (Advanced ASL techniques): achieved
+    website: https://docs.google.com/document/d/1XkNorUSN0-S5rXkz6NtcfgWedyxfOnHs/edit?rtpof=true
 links:
   - website: https://drive.google.com/drive/folders/1CxyGHIXU30CYBZmnLBfylnC4iP7ytNld
     description: |

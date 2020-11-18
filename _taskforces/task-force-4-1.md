@@ -50,8 +50,8 @@ status:
   - 2020.03.25 New member joined
   - 2020.06.17 1st online meeting, meet & greet, first lexicon draft/sketch created
   - 2020.07.22 2nd online meeting, working on the milestone #1
-  - 2020.08.03 1st milestone (Standard ASL techniques and parameters in brain perfusion imaging) - [achieved](https://docs.google.com/document/d/1vj0Tp4yur4dpJntF90yy2bOBUx33FG-w/edit)
-  - description: 2020.11.02 2nd milestone (Advanced ASL techniques) - [achieved](https://docs.google.com/document/d/1XkNorUSN0-S5rXkz6NtcfgWedyxfOnHs/edit?rtpof=true)
+  - 2020.08.03 1st milestone (Standard ASL techniques and parameters in brain perfusion imaging) achieved
+  - 2020.11.02 2nd milestone (Advanced ASL techniques) achieved
 links:
   - website: https://drive.google.com/drive/folders/1CxyGHIXU30CYBZmnLBfylnC4iP7ytNld
     description: |
@@ -59,6 +59,11 @@ links:
   - website: https://osipi.slack.com/archives/CQJ6FGB8T
     description: |
       Task force slack channel - for discussions between task force members.
+resources:
+  - website: https://docs.google.com/document/d/1vj0Tp4yur4dpJntF90yy2bOBUx33FG-w/edit
+    description: Milestone 1 - Standard ASL techniques and parameters in brain perfusion imaging
+  - website: https://docs.google.com/document/d/1XkNorUSN0-S5rXkz6NtcfgWedyxfOnHs/edit?rtpof=true
+    description: Milestone 2 - Advanced ASL techniques
 ---
 
 {% include taskforce_content.md %}

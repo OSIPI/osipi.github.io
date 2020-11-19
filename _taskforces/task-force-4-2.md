@@ -31,6 +31,7 @@ members:
   - Patrick Thurner
   - Ben Dickie
   - Rianne van der Heijden
+  - Jonathan Arvidsson
 status:
   - 2019.12.02 Lead and Co-lead confirmed
   - 2020.03.26 Members confirmed

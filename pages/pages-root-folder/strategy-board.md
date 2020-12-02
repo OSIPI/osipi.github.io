@@ -39,6 +39,8 @@ If you are interested to represent an external body within the SB, please contac
 - [**Xavier Golay**](https://www.linkedin.com/in/xavier-golay-b2a2a41/?originalSubdomain=uk) (Perfusion Study Group Past Chair)
 - [**Hanzhang Lu**](http://www.mri.jhmi.edu/hlulab/) (Perfusion Study Group vice chair)
 - [**Maria A. Fernandez-Seara**](https://www.linkedin.com/in/maria-a-fernandez-seara-89613333/?originalSubdomain=es) (Perfusion Study Group secretary)
+- [**Caroline Chung**](https://faculty.mdanderson.org/profiles/caroline_chung.html) (Co-chair, QIBA DCE-MRI Biomarker Committee)
+- [**Hendrik Laue**](https://www.mevis.fraunhofer.de/en/employees/hendrik-laue.html) (Co-chair, QIBA DCE-MRI Biomarker Committee)
 
 {:.list-title}
 **SB meetings**

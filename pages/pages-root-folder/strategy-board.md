@@ -6,8 +6,7 @@ header: no
 #subheadline: "... because we need one!"
 ---
 
-The Strategy Board (SB) represents the stakeholders within OSIPI 
-and maintains the Strategic Plan outlining the mission, aims and general approach of OSIPI. If needed the SB will also propose changes to the OSIPI governance for approval by the ISMRM perfusion study group.
+The Strategy Board (SB) represents the stakeholders within OSIPI and maintains the Strategic Plan outlining the mission, aims and general approach of OSIPI. If needed the SB will also propose changes to the OSIPI governance for approval by the ISMRM perfusion study group.
 
 ![Organigram]({{ site.urlimg }}organigram-sb.png)
 
@@ -36,16 +35,18 @@ If you are interested to represent an external body within the SB, please contac
 - [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/) (OSIPI chair and perfusion study group chair)
 - [**Laura Bell**](https://www.linkedin.com/in/lauracbell/) (OSIPI vice chair)
 - [**Henk-Jan Mutsaerts**](https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/) (OSIPI secretary)
-- [**Xavier Golay**](https://www.linkedin.com/in/xavier-golay-b2a2a41/?originalSubdomain=uk) (Perfusion Study Group Past Chair)
-- [**Hanzhang Lu**](http://www.mri.jhmi.edu/hlulab/) (Perfusion Study Group vice chair)
-- [**Maria A. Fernandez-Seara**](https://www.linkedin.com/in/maria-a-fernandez-seara-89613333/?originalSubdomain=es) (Perfusion Study Group secretary)
+- [**Xavier Golay**](https://www.linkedin.com/in/xavier-golay-b2a2a41/?originalSubdomain=uk) (Perfusion study group - past Chair)
+- [**Hanzhang Lu**](http://www.mri.jhmi.edu/hlulab/) (Perfusion study group - vice chair)
+- [**Maria A. Fernandez-Seara**](https://www.linkedin.com/in/maria-a-fernandez-seara-89613333/?originalSubdomain=es) (Perfusion study group -  secretary)
+- [**Xingfeng Shao**](https://www.linkedin.com/in/xingfeng-shao-47a67371/) (Perfusion study group - trainee representative)
 - [**Caroline Chung**](https://faculty.mdanderson.org/profiles/caroline_chung.html) (Co-chair, QIBA DCE-MRI Biomarker Committee)
 - [**Hendrik Laue**](https://www.mevis.fraunhofer.de/en/employees/hendrik-laue.html) (Co-chair, QIBA DCE-MRI Biomarker Committee)
+- [**Ona Wu**](https://www.nmr.mgh.harvard.edu/user/5442) (Co-chair, QIBA DSC-MRI Biomarker Committee)
 
 {:.list-title}
 **SB meetings**
 
-- The first SB meeting was due to take place during the ISMRM 2020 (Sydney), but has been post-poned due to the cancellation of the ISMRM.
+- The first SB meeting will take place in may 2021 around the time of the ISMRM meeting in Vancouver.
 
 {:.list-title}
 **SB links**

@@ -33,13 +33,12 @@ If you are interested to represent an external body within the SB, please contac
 {:.list-title}
 **Current SB members**
 
-- [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/) (OSIPI chair)
-- [**Laura Bell**](https://www.linkedin.com/in/lauracbell/) (OSIPI co-chair)
+- [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/) (OSIPI chair and perfusion study group chair)
+- [**Laura Bell**](https://www.linkedin.com/in/lauracbell/) (OSIPI vice chair)
 - [**Henk-Jan Mutsaerts**](https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/) (OSIPI secretary)
-- [**Charlotte Debus**](https://www.linkedin.com/in/charlotte-debus-316214a0/?originalSubdomain=de) (OSIPI past-chair)
-- [**Xavier Golay**](https://www.linkedin.com/in/xavier-golay-b2a2a41/?originalSubdomain=uk) (Perfusion Study Group Chair)
-- [**Hanzhang Lu**](http://www.mri.jhmi.edu/hlulab/) (Perfusion Study Group Secretary)
-- Advisory members to be determined.
+- [**Xavier Golay**](https://www.linkedin.com/in/xavier-golay-b2a2a41/?originalSubdomain=uk) (Perfusion Study Group Past Chair)
+- [**Hanzhang Lu**](http://www.mri.jhmi.edu/hlulab/) (Perfusion Study Group vice chair)
+- [**Maria A. Fernandez-Seara**](https://www.linkedin.com/in/maria-a-fernandez-seara-89613333/?originalSubdomain=es) (Perfusion Study Group secretary)
 
 {:.list-title}
 **SB meetings**

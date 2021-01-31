@@ -20,15 +20,10 @@ leads:
     role: Co-lead
     email: Chad.Quarles@barrowneuro.org 
 members:
-  - Jonathan Arvidsson
   - Leah Henze Bancroft
   - Benoit Bourassa Moreau
-  - Ingomar Gutmann
-  - Xavier Golay
-  - Pauline Hall Barrientos
   - Jochen Hirsch
   - Aaron Oliver-Taylor
-  - Nataneal Semmineh
 status:
   - Lead identified 24.01.2020
   - Drafting 2 year roadmap

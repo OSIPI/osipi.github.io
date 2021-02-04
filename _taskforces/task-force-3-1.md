@@ -20,15 +20,10 @@ leads:
     role: Co-lead
     email: Chad.Quarles@barrowneuro.org 
 members:
-  - Jonathan Arvidsson
   - Leah Henze Bancroft
-  - Benoit Bourassa Moreau
-  - Ingomar Gutmann
-  - Xavier Golay
-  - Pauline Hall Barrientos
   - Jochen Hirsch
+  - Mu-lan Jen
   - Aaron Oliver-Taylor
-  - Nataneal Semmineh
 status:
   - Lead identified 24.01.2020
   - Drafting 2 year roadmap
@@ -39,9 +34,16 @@ links:
   - website: https://osipi.slack.com/archives/CQGSFEK1Q
     description: |
       Task force slack channel - for discussions between task force members.
-  - website: https://docs.google.com/spreadsheets/d/1pUUngtguEUKRKBwCI-nhgstDI23-pVVFQWYPjjzuuu0/edit?usp=sharing
+  - website: https://drive.google.com/file/d/1BCpsiHS9ulYbuhzquymnTtLbLhDVdWqb/view?usp=sharing
     description: |
-      Demo Phantom and DRO Inventory version 1.     
+      Inventory of user submitted physical phantoms and digital reference objects for use in ASL, DSC, and/or DCE MR Imaging.
+  - website: https://drive.google.com/file/d/1BCEVZ5VzTHCSAmWAYEF8KgyiGm3LCoqN/view?usp=sharing
+    description: |
+      Physical Phantoms and Digital Reference Objects Identified in the literature
+resources:
+  - website: https://docs.google.com/document/d/1T3XzcywGOOEcQvUzDNRnF0EWJp5YU_cbhUvmsC73XdA/edit?usp=sharing
+    description: |
+      Public - Roadmap document
 ---
 
 {% include taskforce_content.md %}

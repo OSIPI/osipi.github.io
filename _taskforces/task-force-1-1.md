@@ -29,6 +29,7 @@ status:
   - 2020.03.20 Co-lead confirmed
   - 2020.04.02 Drafted a 2-year roadmap
   - 2020.08.14 Published a questionnaire
+  - 2021.02.09 Published an ASL pipeline inventory
 links:
   - website: https://drive.google.com/drive/folders/1btNX3KT-vLWzNOYSjMHXOqrqqz1f4mV6
     description: |
@@ -40,11 +41,14 @@ resources:
   - website: https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform
     description: |
       Public - Questionnaire for ASL pipeline developers to self-assess the features of their pipelines for the ASL pipeline inventory.
+  - website: https://docs.google.com/document/d/e/2PACX-1vQ-1GF2fmz6Q4IukuKP_-57H-xi872Xq_uBlX5P0Cwpj4RYd_t73pvZ64UqXegPaVpQJhQQrVRJRPro/pub
+    description: |
+      Public - ASL pipeline inventory.
 ---
 
 {% include taskforce_content.md %}
 <!--- Please include your task force contents below, free formatting -->
 #### Call for ASL pipelines
-As a first step to create the inventory of ASL pipelines, we ask all ASL pipeline developers to self-assess the features of their pipelines by filling out this short [survey](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) before the **1st October 2020**. We will publish the results of the survey in the form of an ASL pipeline inventory here on the OSIPI webpages, and we will send a brief summary as an abstract to ISMRM 2021. We will then work on a more objective pipeline comparison together with the developers - please express your interest to participate at the end of the questionnaire. See more details in the [roadmap](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub#id.2i4c3golnmp9).
+A first version of the ASL pipeline [inventory](https://docs.google.com/document/d/e/2PACX-1vQ-1GF2fmz6Q4IukuKP_-57H-xi872Xq_uBlX5P0Cwpj4RYd_t73pvZ64UqXegPaVpQJhQQrVRJRPro/pub) is available online containing the self-assessed features of the majority of publicly available ASL pipelines. Currently, we work on a more objective pipeline comparison together with the developers. If you wish to have your pipeline included in the inventory or in the comparison, please fill in the following [survey](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform). See more details in the [roadmap](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub#id.2i4c3golnmp9).
 
 

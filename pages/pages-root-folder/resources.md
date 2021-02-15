@@ -35,7 +35,7 @@ These resources are currently under development and feedback is welcome - please
 ---
 ---
 
-**Perfusion data inventory**. A curated list of perfusion datasets and repositories, by [task force 3.2](/task-force-3-2/): click [here](https://bit.ly/38AdEF6) for perfusion data, and [here](https://docs.google.com/spreadsheets/d/1CF-Vvii6IUWf-ZUbmDUhgCf2RXAxtw4E4kIGO_HQWKY/edit#gid=1936606832) for the repositories.  
+**Perfusion data inventory**. A curated list of perfusion datasets and repositories, by [task force 3.2](/task-force-3-2/): click [here](https://docs.google.com/spreadsheets/d/1lBEBTttyLpKIPcRo8XzXhlry-owxaUkZ-Eoq6-LJWwY/edit#gid=1368103) for perfusion data, and [here](https://docs.google.com/spreadsheets/d/1CF-Vvii6IUWf-ZUbmDUhgCf2RXAxtw4E4kIGO_HQWKY/edit#gid=1936606832) for the repositories.  
 
 **Digital Reference Objects and Phantoms** *(In progress)*. A curated list of perfusion DROs on phantoms by [task force 3.1](/task-force-3-1/). Click [here](https://drive.google.com/file/d/1BCEVZ5VzTHCSAmWAYEF8KgyiGm3LCoqN/view) for a literature inventory of DROs and phantoms and [here](https://drive.google.com/file/d/1BCpsiHS9ulYbuhzquymnTtLbLhDVdWqb/view) for an inventory of DROs and phantoms from research projects that are open to collaboration.
  

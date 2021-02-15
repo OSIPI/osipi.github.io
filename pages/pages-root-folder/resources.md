@@ -13,7 +13,7 @@ These resources are currently under development and feedback is welcome - please
 ---
 ---
 
-**[DCE/DSC software inventory]](https://drive.google.com/file/d/14avwqgQv6l0Uw7xExz9P0w-rwwY-e2cA/view). ** *(In progress)*. A curated list of software packages for processing DCE & DSC data, by [task force 1.2](/task-force-1-2/): click [here](https://drive.google.com/file/d/14avwqgQv6l0Uw7xExz9P0w-rwwY-e2cA/view). 
+**[DCE/DSC software inventory](https://drive.google.com/file/d/14avwqgQv6l0Uw7xExz9P0w-rwwY-e2cA/view). ** *(In progress)*. A curated list of software packages for processing DCE & DSC data, by [task force 1.2](/task-force-1-2/): click [here](https://drive.google.com/file/d/14avwqgQv6l0Uw7xExz9P0w-rwwY-e2cA/view). 
 
 **DCE/DSC code library** *(In progress)*. A curated library of code snippets for DCE & DSC processing, by [task force 2.3](/task-force-2-3/): click [here](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection).
 

@@ -52,7 +52,8 @@ status:
   - June 2020 - Finalized 2-year roadmap
   - August 2020 - Preliminary inventory of DC software
   - November 2020 - Software descriptors added to DC inventory 
-  - Current Efforts - Define software descriptors for each tool
+  - February 2021 - First-pass of DC inventory completed
+  - Current Efforts - Draft software review process and formalize DC inventory
 links:
   - website: https://drive.google.com/drive/folders/1h_PWOHywx1M36hj00bc-rsXqEWGnHS1l
     description: |
@@ -61,7 +62,7 @@ links:
     description: |
       Task force slack channel - for discussions between task force members.
 resources:
-  - website: https://drive.google.com/file/d/14avwqgQv6l0Uw7xExz9P0w-rwwY-e2cA/view?usp=sharing
+  - website: https://docs.google.com/spreadsheets/d/e/2PACX-1vSOHrNIiWcwDD5BoHij1dpXKgEejtohqKF6KZQMZi3G6GzM_BP8xpuwRbjFFvDW9Q/pubhtml?gid=1031101549&single=true
     description: |
       In Progress - Dynamic Contrast Software Inventory
 ---

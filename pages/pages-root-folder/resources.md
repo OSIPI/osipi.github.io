@@ -13,7 +13,7 @@ These resources are currently under development and feedback is welcome - please
 ---
 ---
 
-**DCE/DSC software inventory** *(In progress)*. A curated list of software packages for processing DCE & DSC data, by [task force 1.2](/task-force-1-2/): click [here](https://drive.google.com/file/d/14avwqgQv6l0Uw7xExz9P0w-rwwY-e2cA/view). 
+**DCE/DSC software inventory**. A curated list of software packages for processing DCE & DSC data, by [task force 1.2](/task-force-1-2/): click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSOHrNIiWcwDD5BoHij1dpXKgEejtohqKF6KZQMZi3G6GzM_BP8xpuwRbjFFvDW9Q/pubhtml?gid=1031101549&single=true). 
 
 **DCE/DSC code library** *(In progress)*. A curated library of code snippets for DCE & DSC processing, by [task force 2.3](/task-force-2-3/): click [here](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection).
 
@@ -25,7 +25,7 @@ These resources are currently under development and feedback is welcome - please
 ---
 ---
 
-**ASL software inventory** *(In progress)*. A curated list of software packages for processing ASL data, by [task force 1.1](/task-force-1-1/): click [here](https://docs.google.com/document/d/e/2PACX-1vQ-1GF2fmz6Q4IukuKP_-57H-xi872Xq_uBlX5P0Cwpj4RYd_t73pvZ64UqXegPaVpQJhQQrVRJRPro/pub).     
+**ASL software inventory**. A curated list of software packages for processing ASL data, by [task force 1.1](/task-force-1-1/): click [here](https://docs.google.com/document/d/e/2PACX-1vQ-1GF2fmz6Q4IukuKP_-57H-xi872Xq_uBlX5P0Cwpj4RYd_t73pvZ64UqXegPaVpQJhQQrVRJRPro/pub).     
 
 **ASL lexicon** *(In progress)*. A harmonized terminology for encoding ASL acquisition and analysis pipelines, by [task force 4.1](/task-force-4-1/): click [here](https://docs.google.com/document/d/1vj0Tp4yur4dpJntF90yy2bOBUx33FG-w/edit) for standard methods, [here](https://docs.google.com/document/d/1XkNorUSN0-S5rXkz6NtcfgWedyxfOnHs/edit?dls=true) for advanced methods and [here](https://docs.google.com/document/d/e/2PACX-1vQFhNrhVWQnfMDNc65sQex3lk6lMtf4sR6rH7M60ytBxBs_a1wcethk8x7PuPvIQA/pub) for basic constants and parameters.
 

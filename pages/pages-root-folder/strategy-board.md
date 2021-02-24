@@ -42,7 +42,8 @@ If you are interested to represent an external body within the SB, please contac
 - [**Caroline Chung**](https://faculty.mdanderson.org/profiles/caroline_chung.html) (Co-chair, QIBA DCE-MRI Biomarker Committee)
 - [**Hendrik Laue**](https://www.mevis.fraunhofer.de/en/employees/hendrik-laue.html) (Co-chair, QIBA DCE-MRI Biomarker Committee)
 - [**Ona Wu**](https://www.nmr.mgh.harvard.edu/user/5442) (Co-chair, QIBA DSC-MRI Biomarker Committee)
-- [**Fernando Calamante**](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/fernando-calamante.html) 
+- [**Fernando Calamante**](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/fernando-calamante.html) (ISMRM president-elect)
+- [**Matthias Guenther**](https://www.mevis.fraunhofer.de/en/employees/matthias-guenther.html)(co-chair, EIBIR/QIBA ASL Biomarker Ctte)
 
 {:.list-title}
 **SB meetings**

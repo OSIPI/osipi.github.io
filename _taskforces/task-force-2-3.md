@@ -50,14 +50,15 @@ members:
     location: University of Edinburgh
   - name: Jesper Kallehauge
     location: Aarhus University
-status:
+status:  
+  - A DSC/DCE-MRI code collection repository has been set up. Code collection and testing are underway.
   - 22/01/2020 Lead confirmed.
   - 31/01/2020 Co-lead confirmed.
   - 16/03/2020 Members confirmed.
-  - 7/06/2020 Roadmap COMPLETED.
-  - 31 July 2020 Milestone 1 "define scope" led by Petra van Houdt. COMPLETED.
-  - 1 August 2020 Milestone 2 "collect and verify sample code" led by Sudarshan Ragunathan. COMPLETED.
-  - Milestone 3 in progress...
+  - 07/06/2020 Roadmap completed.
+  - 31/07/2020 Milestone 1 "define scope" led by Petra van Houdt. Completed.
+  - 01/08/2020 Milestone 2 "collect and verify sample code" led by Sudarshan Ragunathan. Completed.
+  - 15/02/2021 Milestone 3 "Targeted call for DC code". Completed.
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |
@@ -69,6 +70,11 @@ links:
     description: |
       Task force slack channel - for discussions between task force members.
 resources:
+  - website: https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection
+    description: |
+      Public - DSC/DCE-MRI code collection repository
+  - website: https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection/wiki
+      Public - Documentation
   - website: https://docs.google.com/document/d/1TXWPi6hiTA3bSQu0PbbNjnlNoVClik53Psp3QkVtvww/edit#bookmark=id.obucmtsk8skv
     description: |
       Public - Roadmap document
@@ -80,9 +86,8 @@ resources:
 {% include taskforce_content.md %}
 ---
 
-To join the task force, please contact the leads.
 <!--- Please include your task force contents below, free formatting -->
-### Public DSC/DCE-MRI Code Collection
-A public repository is now available for DSC-/DCE-MRI code contributions in the Python language:  
-https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection/tree/Milestone-2  
-Over time this will be extended and unit testing implemented. Please contact the leads if you are interested in contributing code.
+### DSC/DCE-MRI Code Collection
+Most Taskforce 2.3 activity is now taking place in our public [DSC-/DCE-MRI Python code repository](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection) on Github.  
+Documentation is being developed in the repository [wiki](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection/wiki).
+Over time this will be extended and unit testing implemented. Please contact the leads if you are interested in joining the taskforce or in contributing code.

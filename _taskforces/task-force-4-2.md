@@ -8,16 +8,16 @@ description: |
   We aim to harmonize and increase the detail in the description of parameters and configurations, enable encoding of the complete perfusion imaging workflow, and pave the way for consensus building. 
   An important application will be the amendment of the DICOM standard for DCE/DSC perfusion parametric maps, as well as BIDS extensions, and development of demonstrations and use cases. 
 leads:
+  - name: Ben Dickie
+    location: University of Manchester, UK
+    website: https://https://www.research.manchester.ac.uk/portal/ben.dickie.html
+    role: Lead
+    email: ben.dickie@manchester.ac.uk
   - name: Ina Kompan
     location: German Cancer Research Centre (DKFZ), Heidelberg
     website: https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html
-    role: Lead
-    email: i.kompan@dkfz-heidelberg.de
-  - name: David Buckley
-    location: University of Leeds, UK
-    website: https://medicinehealth.leeds.ac.uk/medicine/staff/175/professor-david-l-buckley/
     role: Co-lead
-    email: D.L.Buckley@leeds.ac.uk
+    email: i.kompan@dkfz-heidelberg.de
 members:
   - Laura Bell
   - Charlotte Debus
@@ -29,7 +29,7 @@ members:
   - Petra van Houdt
   - Ingomar Gutmann
   - Patrick Thurner
-  - Ben Dickie
+  - David Buckley
   - Rianne van der Heijden
   - Jonathan Arvidsson
 status:

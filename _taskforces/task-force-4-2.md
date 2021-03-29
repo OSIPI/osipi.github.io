@@ -10,7 +10,7 @@ description: |
 leads:
   - name: Ben Dickie
     location: University of Manchester, UK
-    website: https://https://www.research.manchester.ac.uk/portal/ben.dickie.html
+    website: https://www.research.manchester.ac.uk/portal/ben.dickie.html
     role: Lead
     email: ben.dickie@manchester.ac.uk
   - name: Ina Kompan

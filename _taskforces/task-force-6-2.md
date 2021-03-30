@@ -11,11 +11,11 @@ leads:
     website: https://www.linkedin.com/in/anahita-fathi-kazerooni-a3287238/
     role: Lead
     email: fathikaa@pennmedicine.upenn.edu
-  - name: Hamidreza Saligheh Rad
-    location: Tehran University of Medical Sciences
-    website: https://www.linkedin.com/in/hamidreza-saligheh-rad-7127021a/
+  - name: Hyunki (Harrison) Kim
+    location: The University of Alabama at Birmingham
+    website: https://www.uab.edu/medicine/radiology/news-events/department-news/848-kim-larimer-nih-grants
     role: Co-lead
-    email: hamid.saligheh@gmail.com
+    email: hyunkikim@uabmc.edu
 members:
   - name: Steven Sourbron (Advisor)
     website: https://www.linkedin.com/in/steven-sourbron-93775752
@@ -23,8 +23,8 @@ members:
   - name: Laura Bell (Advisor)
     website: https://www.linkedin.com/in/lauracbell/
     location: Barrow Neurological Institute
-  - name: Keyvan Farahani (Advisor)
-    location: National Institute of Health (NIH)
+  - name: Hamidreza Saligheh Rad (Advisor)
+    location: Tehran University of Medical Sciences, Iran
   - name: Seyed Ali Nabavizadeh (Advisor)
     website: https://www.linkedin.com/in/ali-nabavizadeh-34a09559/
     location: University of Pennsylvania 
@@ -34,15 +34,17 @@ members:
   - name: Rianne van der Heijden
     website: https://www.linkedin.com/in/riannevanderheijden1/
     location: Erasmus Universiteit Rotterdam
-  - name: Xinze Zhou
-  - name: Moss Zhao
   - name: Zaki Ahmed
     website: https://github.com/notzaki
-    location: McGill University, Canada  
-  - Farzad Alizadeh
+    location: Mayoclinic, AZ
+  - name: Eve Shalom
+    location: University of Leeds, UK
+  - name: Moss Zhao
+  - name: Salman Rezaei 
+
    
 status:
-  - 2020.10.14 Designing the challenge DRO 
+  - 2020.03.29 Drafted the challenge outline
   
 links:
   - website: https://drive.google.com/drive/folders/1T9Q1hRjw7gjEOSLeUYB7RyjFLHaEfgpp

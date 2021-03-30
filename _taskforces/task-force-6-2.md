@@ -13,7 +13,7 @@ leads:
     email: fathikaa@pennmedicine.upenn.edu
   - name: Hyunki (Harrison) Kim
     location: The University of Alabama at Birmingham
-    website: https://www.uab.edu/medicine/radiology/news-events/department-news/848-kim-larimer-nih-grants
+    website: https://www.linkedin.com/in/harrison-kim-0b5b9a32/
     role: Co-lead
     email: hyunkikim@uabmc.edu
 members:

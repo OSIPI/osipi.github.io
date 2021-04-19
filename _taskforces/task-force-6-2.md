@@ -11,7 +11,7 @@ leads:
     website: https://www.linkedin.com/in/anahita-fathi-kazerooni-a3287238/
     role: Lead
     email: fathikaa@pennmedicine.upenn.edu
-  - name: Hyunki (Harrison) Kim
+  - name: Harrison Kim
     location: The University of Alabama at Birmingham
     website: https://www.linkedin.com/in/harrison-kim-0b5b9a32/
     role: Co-lead
@@ -35,9 +35,10 @@ members:
     website: https://www.linkedin.com/in/riannevanderheijden1/
     location: Erasmus Universiteit Rotterdam
   - name: Zaki Ahmed
-    website: https://github.com/notzaki
+    website: https://github.com/notzaki/
     location: Mayoclinic, AZ
   - name: Eve Shalom
+    website: https://www.linkedin.com/in/eve-shalom-211b41106/
     location: University of Leeds, UK
   - name: Moss Zhao
   - name: Salman Rezaei 
@@ -61,4 +62,4 @@ links:
 <!--- Please include your task force contents below, free formatting -->
 
 OSIPI QCP-MRI Challenge:
-- [Challenge Outline](https://docs.google.com/document/d/1DXJsKwLrAeh471SLhlvEFaNtw-ePLZcBsxSzM8QJ_KM/edit?usp=sharing)
+- [Challenge Outline](https://drive.google.com/file/d/12POGgTitC-0jXNTSMIvKJkWWmjtfDJkr/view?usp=sharing)

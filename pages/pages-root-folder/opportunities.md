@@ -20,6 +20,9 @@ Have a few minutes? Listed below are opportunities to contribute now without nec
 **Do you have ASL code to contribute towards a library of open-source functions and scripts targeted at advanced ASL developers?**  
 *Please get in touch with [Task Force 2.2](/task-force-2-2/).*
 
+**Do you have DCE or DSC python code to contribute for the repository?**  
+*Please get in touch with [Task Force 2.3](/task-force-2-3/) or have a look at the [repository](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection) directly*
+
 **Open Challenges**
 -------------------
 

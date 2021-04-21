@@ -50,6 +50,9 @@ members:
     location: University of Edinburgh
   - name: Jesper Kallehauge
     location: Aarhus University
+  - name: Oliver Gurney-Champion
+    location: Amsterdam University Medical Center, location AMC
+     
 status:  
   - A DSC/DCE-MRI code collection repository has been set up. Code collection and testing are underway.
   - 22/01/2020 Lead confirmed.
@@ -88,6 +91,7 @@ resources:
 
 <!--- Please include your task force contents below, free formatting -->
 ### DSC/DCE-MRI Code Collection
-Most Taskforce 2.3 activity is now taking place in our public [DSC-/DCE-MRI Python code repository](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection) on Github.  
+Most Taskforce 2.3 activity is now taking place in our public [DSC-/DCE-MRI Python code repository](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection) on Github. 
+An overview of the contributed code so far can be found [here](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection/blob/develop/doc/code_contributions_record.csv).
 Documentation is being developed in the repository [wiki](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection/wiki).
 Over time this will be extended and unit testing implemented. Please contact the leads if you are interested in joining the taskforce or in contributing code.

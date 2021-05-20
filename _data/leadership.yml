@@ -1,23 +1,23 @@
 - role: Chair
-  name: Steven Sourbron
-  location: University of Sheffield, UK
-  website: https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/
-  email: s.sourbron@sheffield.ac.uk 
+  name: Laura Bell
+  location: Barrow Neurological Institute, Phoenix, AZ, USA
+  website: https://www.linkedin.com/in/lauracbell/
+  email: lauracbell@gmail.com 
 
 - role: Co-Chair
-  name: Laura Bell
-  location: Barrow Neurological Institute, Phoenix, AZ, USA,
-  website: https://www.linkedin.com/in/lauracbell/
-  email: laura.bell@barrowneuro.org
-
-- role: Secretary
   name: Henk-Jan Mutsaerts
   location: Amsterdam UMC, Netherlands/UZ Ghent, Belgium
   website: https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/
   email: henkjanmutsaerts@gmail.com
 
+- role: Secretary
+  name: Yuriko Suzuki
+  location: Wellcome Centre for Integrative Neuroimaging, FMRIB, University of Oxford, UK 
+  website: https://www.ndcn.ox.ac.uk/team/yuriko-suzuki
+  email: yuriko.suzuki@ndcn.ox.ac.uk
+
 - role: Past-Chair
-  name: Charlotte Debus
-  location: German Aerospace Center, Cologne, Germany
-  website: https://www.linkedin.com/in/charlotte-debus-316214a0/?originalSubdomain=de
-  email: science.debusc@gmail.com
+  name: Steven Sourbron
+  location: University of Sheffield, UK
+  website: https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/
+  email: s.sourbron@sheffield.ac.uk

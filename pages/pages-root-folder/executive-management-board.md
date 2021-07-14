@@ -28,7 +28,7 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 - [**Laura Bell**](https://www.linkedin.com/in/lauracbell/) (OSIPI chair) 
 - [**Henk-Jan Mutsaerts**](https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/) (OSIPI co-chair)
 - [**Yuriko Suzuki**](https://www.ndcn.ox.ac.uk/team/yuriko-suzuki) (OSIPI secretary)
-- [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/)(OSIPI past-chair)
+- [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/) (OSIPI past-chair)
 
 {% include taskforce/leads_list.html %}
 
@@ -36,7 +36,7 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 {:.list-title}
 **EMB meetings [(Minutes)](https://drive.google.com/open?id=1zjiT6dmbC7t1Svii_HG6NpYE8iS8bnR-GIf_-m02Fhc)**
 
-- 2021.08.24 7th EMB meeting at 4.00-5pm Brussels time, 10-11am New York, 7-8am Los Angeles. NEXT UP!
+- NEXT UP! 2021.08.24 Seventh EMB meeting at 4.00-5pm Brussels time, 10-11am New York, 7-8am Los Angeles.
 - 2021.05.11 Sixth EMB meeting at 3.30-5pm London time, 4.30-6pm Brussels time, 10.30am-12:00pm New York, 7.30-9am Los Angeles.
 - 2021.02.16 Fifth EMB meeting at 3.30-5pm London time, 4.30-6pm Brussels time, 10.30am-12:00pm New York, 7.30-9am Los Angeles.
 - 2020.11.17 Fourth EMB meeting at 3.30-5pm London time, 4.30-6pm Brussels time, 10.30am-12:00pm New York, 7.30-9am Los Angeles.

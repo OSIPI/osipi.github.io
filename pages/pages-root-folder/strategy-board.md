@@ -11,10 +11,10 @@ The Strategy Board (SB) represents the stakeholders within OSIPI and maintains t
 ![Organigram]({{ site.urlimg }}organigram-sb.png)
 
 The SB consists of the OSIPI leadership team, the perfusion study group governing committee, and any number of
-advisory members representing other bodies with an interest in perfusion open source software. 
+advisory members representing other bodies/societies with an interest in open science and reproducibility. 
 This could include other ISMRM study groups, other societies or more informal networks.
 
-If you are interested to represent an external body within the SB, please contact the OSIPI chair.
+If you are interested in joining the SB, please contact the OSIPI chair.
 
 {:.list-title}
 **OSIPI Strategic Plan**

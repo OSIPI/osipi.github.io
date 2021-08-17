@@ -24,8 +24,12 @@ leads:
     role: Co-lead
     email: p.v.houdt@nki.nl 
 members:
+  - name: Ben Dickie
+    location: University of Manchester
   - name: Jonathan Arvidsson
     location: University of Gothenburg
+  - name: Michael Berks
+    location: University of Manchester
   - name: Samuel Barnes
     location: Loma Linda University
   - name: Martin Craig
@@ -34,8 +38,6 @@ members:
     location: University of Vienna 
   - name: Zaki Ahmed
     location: Mayo Clinic
-  - name: Michael Berks
-    location: University of Manchester
   - name: Ben Ellingson
     location: University of California, Los Angeles
   - name: Federico Pineda

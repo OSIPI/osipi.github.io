@@ -8,11 +8,11 @@ description: |
   The challenges will use data collected by OSIPI and will be applied to the software tools listed in OSIPI in order to establish a set of benchmarks. 
   The long-term aim is to establish OSIPI as an independent arbiter for software solutions in perfusion imaging. 
 leads:
-  - name: Paula Croal
-    location: University of Oxford
-    website: https://www.linkedin.com/in/paula-croal/?originalSubdomain=uk
+  - name: Andre Paschoal
+    location: University of Sao Pablo, Brazil
+    website: https://www.linkedin.com/in/andrepaschoal
     role: Lead
-    email: paula.croal@nottingham.ac.uk
+    email: andre.paschoal@usp.br
   - name: Udunna Anazodo
     location: Lawson Health Research Institute
     website: https://www.lawsonresearch.ca/scientist/dr-udunna-anazodo

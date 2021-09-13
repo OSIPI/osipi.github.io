@@ -20,10 +20,10 @@ members:
   - Udunna Anazodo (Western University, Canada)
   - David Thomas (University College London (UCL), UK)
   - Henk-Jan Mutsaerts (Amsterdam University Medical Center, the Netherlands)
-  - Paula Croal (University of Nottingham, UK)
   - Charlotte Buchanan (University of Nottingham, UK)
   - Lydiane Hirschler (Leiden University Medical Center, the Netherlands)
   - Hongli Fan (The Johns Hopkins School of Medicine, USA)
+  - Vera Keil (Amsterdam University Medical Center, the Netherlands)
 status:
   - 2020.01.07 Lead confirmed
   - 2020.03.20 Co-lead confirmed

@@ -71,7 +71,8 @@ status:
   - 01/08/2020 Milestone 2 "collect and verify sample code" led by Sudarshan Ragunathan. Completed.
   - 15/02/2021 Milestone 3 "Targeted call for DC code". Completed.
   - 01/05/2021 Milestone 4 "Unit test process finalized". Completed.
-  - Milestone 5 "Define process of code standardization". Underway...
+  - 01/10/2021 Milestone 5 "Define process of code standardisation,"led by Michael Berks. Completed.
+  - Deliverable 1 "DC code collection v1.0 - unit tested". Underway...
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |

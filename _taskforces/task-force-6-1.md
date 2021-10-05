@@ -9,7 +9,7 @@ description: |
   The long-term aim is to establish OSIPI as an independent arbiter for software solutions in perfusion imaging. 
 leads:
   - name: Andre Paschoal
-    location: University of Sao Pablo, Brazil
+    location: University of Sao Paulo, Brazil
     website: https://www.linkedin.com/in/andrepaschoal
     role: Lead
     email: andre.paschoal@usp.br

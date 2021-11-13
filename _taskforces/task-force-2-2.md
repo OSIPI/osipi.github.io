@@ -11,16 +11,16 @@ leads:
     website: https://www.linkedin.com/in/ananth-madhuranthakam-4771189/
     role: Lead
     email: ananth.madhuranthakam@utsouthwestern.edu
-  - name: Li Zhao
-    location: Children’s National Medical Center, Washington, D.C.
-    website: https://www.linkedin.com/in/lizhaomri/
+  - name: Maria Mora Alvarez
+    location: Technical University of Munich, Germany
+    website: https://www.linkedin.com/in/maría-g-mora-álvarez-97455531/
     role: Co-lead
-    email: lz5bf@virginia.edu 
+    email: maria.mora@tum.de
 members:
   - Sudipto Dolui
   - Rebeca Echeverria Chasco
   - Patrick Hales
-  - Maria Mora
+  - Li Zhao
   - Henk-Jan Mutsaerts
   - Yiming Wang
   - Limin Zhou

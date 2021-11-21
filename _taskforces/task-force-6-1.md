@@ -12,7 +12,7 @@ leads:
     location: University of Sao Paulo, Brazil
     website: https://www.linkedin.com/in/andrepaschoal
     role: Lead
-    email: andre.paschoal@usp.br
+    email: andre.paschoal@hc.fm.usp.br
   - name: Udunna Anazodo
     location: Lawson Health Research Institute
     website: https://www.lawsonresearch.ca/scientist/dr-udunna-anazodo

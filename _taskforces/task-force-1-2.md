@@ -69,6 +69,12 @@ resources:
   - website: https://docs.google.com/spreadsheets/d/e/2PACX-1vSOHrNIiWcwDD5BoHij1dpXKgEejtohqKF6KZQMZi3G6GzM_BP8xpuwRbjFFvDW9Q/pubhtml?gid=1031101549&single=true
     description: |
       In Progress - Dynamic Contrast Software Inventory
+  - website: https://forms.gle/Us5qgati9j1V6DiD9
+    description: |
+      Online Survey of Participation Interest - MRI DC Perfusion Software
+  - website: https://forms.gle/dJZ9syiZRRJF3Wq46 
+    description: |
+      Online DC Software Review - MRI DC Perfusion Software
 ---
 
 {% include taskforce_content.md %}

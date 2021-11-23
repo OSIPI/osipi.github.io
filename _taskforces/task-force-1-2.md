@@ -45,6 +45,10 @@ members:
     location: Barrow Neurological Institute
     website: https://www.linkedin.com/in/sudarshanragunathan/
     email: sudarshan.ragunathan@barrowneuro.org
+  - name: Mueez Waqar
+    location: The University of Manchester
+    website: https://www.researchgate.net/profile/Mueez-Waqar
+    email: mueez.waqar@manchester.ac.uk 
 status:
   - February 2020 - Lead confirmed
   - April 2020 - Co-lead confirmed

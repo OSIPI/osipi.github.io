@@ -45,10 +45,6 @@ members:
     location: Barrow Neurological Institute
     website: https://www.linkedin.com/in/sudarshanragunathan/
     email: sudarshan.ragunathan@barrowneuro.org
-  - name: Mueez Waqar
-    location: The University of Manchester
-    website: https://www.researchgate.net/profile/Mueez-Waqar
-    email: mueez.waqar@manchester.ac.uk 
 status:
   - February 2020 - Lead confirmed
   - April 2020 - Co-lead confirmed
@@ -57,7 +53,10 @@ status:
   - August 2020 - Preliminary inventory of DC software
   - November 2020 - Software descriptors added to DC inventory 
   - February 2021 - First-pass of DC inventory completed
-  - Current Efforts - Draft software review process and formalize DC inventory
+  - May 2021 - Finalized DC inventory and completed draft of software review process
+  - August 2021 - First version of software reveiew process completed. Digital participation interest survey completed.
+  - September 2021 - Digital participation interest surveys distributed. Digital software review survey created. 
+  - Current Efforts - Awaiting survey and software review responses. 
 links:
   - website: https://drive.google.com/drive/folders/1h_PWOHywx1M36hj00bc-rsXqEWGnHS1l
     description: |

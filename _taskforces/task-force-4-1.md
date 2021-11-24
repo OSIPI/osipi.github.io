@@ -61,12 +61,9 @@ links:
     description: |
       Task force slack channel - for discussions between task force members.
 resources:
-  - website: https://docs.google.com/document/d/e/2PACX-1vQbRsUurhbyVB0vAf1bOulVrcYJEn7Z2JWkHBaKWP54t-DQvo0aTr6hZaFv-qC_Ew/pub
-    description: Milestone 1 - Standard ASL techniques and parameters in brain perfusion imaging
-  - website: https://docs.google.com/document/d/e/2PACX-1vSTWVF0f2E3iFKRGx2wM6PnYisGMa4EQ7mzq0N5nj6JTntqoTI3lyTlePai_04d0Q/pub
-    description: Milestone 2 - Advanced ASL techniques
-  - website: https://docs.google.com/document/d/e/2PACX-1vQFhNrhVWQnfMDNc65sQex3lk6lMtf4sR6rH7M60ytBxBs_a1wcethk8x7PuPvIQA/pub
-    description: Milestone 3 - Physiological parameters
+  - website: https://docs.google.com/document/d/e/2PACX-1vQPhnYciWScZ2vqjzBWUO72gXKKD2UA95q081OA7-2dnLiy9kOimXq1axA7E7xRxbZOmJAb9vMDZ_-D/pub
+    description: Deliverable 1 - Arterial Spin Labeling perfusion imaging and analysis lexicon and reporting recommendations (v0.1)
+
 ---
 
 {% include taskforce_content.md %}

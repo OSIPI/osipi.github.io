@@ -22,7 +22,7 @@ members:
     location: University of Sheffield
   - name: Laura Bell (Advisor)
     website: https://www.linkedin.com/in/lauracbell/
-    location: Barrow Neurological Institute
+    location: Genentech, Inc.
   - name: Hamidreza Saligheh Rad (Advisor)
     location: Tehran University of Medical Sciences, Iran
   - name: Seyed Ali Nabavizadeh (Advisor)

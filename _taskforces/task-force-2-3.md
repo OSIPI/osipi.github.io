@@ -49,7 +49,7 @@ members:
   - name: Luis Torres
     location: University of Wisconsin - Madison
   - name: Laura Bell
-    location: Barrow Neurological Institute
+    location: Genentech, Inc.
   - name: Sirisha Tadimalla
     location: University of Sydney
   - name: Lucy Kershaw

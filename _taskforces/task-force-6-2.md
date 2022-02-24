@@ -31,13 +31,14 @@ members:
     location: Erasmus Universiteit Rotterdam
   - name: Zaki Ahmed
     website: https://github.com/notzaki/
-    location: Mayo Clinic, AZ
-  - name: Hamidreza Saligheh Rad
-    location: Tehran University of Medical Sciences, Iran
+    location: Mayo Clinic, AZ 
   - name: Leland Hu (Advisor)
     website: https://www.mayo.edu/research/faculty/hu-leland-s-m-d/bio-10031224
     location: Mayo Clinic  
-
+ - name: Hamidreza Saligheh Rad
+   location: Tehran University of Medical Sciences, Iran
+ - name: Reyna Patel
+   location: Northwestern University, IL
 
    
 status:

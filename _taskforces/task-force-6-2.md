@@ -10,38 +10,34 @@ leads:
     location: University of Pennsylvania
     website: https://www.linkedin.com/in/anahita-fathi-kazerooni-a3287238/
     role: Lead
-    email: fathikaa@pennmedicine.upenn.edu
+    email: anahitaf@upenn.edu
   - name: Harrison Kim
     location: The University of Alabama at Birmingham
     website: https://www.linkedin.com/in/harrison-kim-0b5b9a32/
     role: Co-lead
     email: hyunkikim@uabmc.edu
 members:
-  - name: Steven Sourbron (Advisor)
+  - name: Steven Sourbron
     website: https://www.linkedin.com/in/steven-sourbron-93775752
     location: University of Sheffield
-  - name: Laura Bell (Advisor)
+  - name: Laura Bell
     website: https://www.linkedin.com/in/lauracbell/
     location: Genentech, Inc.
-  - name: Hamidreza Saligheh Rad (Advisor)
-    location: Tehran University of Medical Sciences, Iran
-  - name: Seyed Ali Nabavizadeh (Advisor)
-    website: https://www.linkedin.com/in/ali-nabavizadeh-34a09559/
-    location: University of Pennsylvania 
-  - name: Leland Hu (Advisor)
-    website: https://www.mayo.edu/research/faculty/hu-leland-s-m-d/bio-10031224
-    location: Mayo Clinic  
+  - name: Eve Shalom
+    website: https://www.linkedin.com/in/eve-shalom-211b41106/
+    location: University of Leeds, UK
   - name: Rianne van der Heijden
     website: https://www.linkedin.com/in/riannevanderheijden1/
     location: Erasmus Universiteit Rotterdam
   - name: Zaki Ahmed
     website: https://github.com/notzaki/
     location: Mayo Clinic, AZ
-  - name: Eve Shalom
-    website: https://www.linkedin.com/in/eve-shalom-211b41106/
-    location: University of Leeds, UK
-  - name: Moss Zhao
-  - name: Salman Rezaei 
+  - name: Hamidreza Saligheh Rad
+    location: Tehran University of Medical Sciences, Iran
+  - name: Leland Hu (Advisor)
+    website: https://www.mayo.edu/research/faculty/hu-leland-s-m-d/bio-10031224
+    location: Mayo Clinic  
+
 
    
 status:

@@ -52,6 +52,8 @@ members:
     location: Genentech, Inc.
   - name: Sirisha Tadimalla
     location: University of Sydney
+  - name: Yu Sun
+    location: University of Sydney
   - name: Lucy Kershaw
     location: University of Edinburgh
   - name: Jesper Kallehauge

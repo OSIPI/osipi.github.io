@@ -36,7 +36,7 @@ members:
     location: Erasmus Universiteit Rotterdam
   - name: Zaki Ahmed
     website: https://github.com/notzaki/
-    location: Mayoclinic, AZ
+    location: Mayo Clinic, AZ
   - name: Eve Shalom
     website: https://www.linkedin.com/in/eve-shalom-211b41106/
     location: University of Leeds, UK

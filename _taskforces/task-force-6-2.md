@@ -32,13 +32,14 @@ members:
   - name: Zaki Ahmed
     website: https://github.com/notzaki/
     location: Mayo Clinic, AZ 
-  - name: Leland Hu (Advisor)
+  - name: Leland Hu
     website: https://www.mayo.edu/research/faculty/hu-leland-s-m-d/bio-10031224
-    location: Mayo Clinic  
- - name: Hamidreza Saligheh Rad
-   location: Tehran University of Medical Sciences, Iran
- - name: Reyna Patel
-   location: Northwestern University, IL
+    location: Mayo Clinic
+  - name: Hamidreza Saligheh Rad
+    website: https://www.linkedin.com/in/hamidreza-saligheh-rad-7127021a/
+    location: Tehran University of Medical Sciences, Iran
+  - name: Reyna Patel
+    location: Northwestern University, IL
 
    
 status:

@@ -68,4 +68,3 @@ resources:
 
 {% include taskforce_content.md %}
 <!--- Please include your task force contents below, free formatting -->
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRi1ie-Er4ocInE7IVDKRpd-jXjPQV_-IwlDUXtv99L0jWjlHr2CVG1R96Ik9ZKfGjPKKPNyzQufAG2/pub?embedded=true"></iframe>

@@ -25,7 +25,7 @@ author: osipi
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://www.osipi.org'
+#url: 'https://www.osipi.org'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -77,9 +77,11 @@ exclude:
     - README.md
     - INSTALL.md
 
-# This is used to collect front matter from the taskforce md files
+# This is used to collect front matter from the taskforce and inventories md files
 collections:
   taskforces:
+    output: true
+  inventories:
     output: true
 
 # The language setting is used in /includes/header.html for html-settings

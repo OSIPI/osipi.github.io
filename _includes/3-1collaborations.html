@@ -1,0 +1,59 @@
+<link rel="stylesheet" href="css/style.css" />
+<!-- Container -->
+<div class="container">
+    <div>
+        <ul class="list">
+            {% for entry in site.data.phantom_contributions %}
+            <button class="collapsible">
+                <div class="row">
+                    <div class="row">
+                        <div class="columnL">
+                            {%if entry.imageFile %}
+                            <img src="images/{{ entry.imageFile }}" style="max-width:100%; max-height: 200px;" />
+                            {% endif %}
+                        </div>
+                        <div class="columnR">
+                            <a href="{{ entry.url[0] }}">
+                                <h1>{{ entry.name }}</h1>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div>{{entry.shortDescription}}</div>
+                        <div>Contact: {{ entry.contactFirstName }} {{ entry.contactLastName}}, <a href="mailto:{{ entry.contactEmail}}">{{ entry.contactEmail }}</a></div>
+                        <div><a href="{{entry.contactInstitutionUrl}}">{{ entry.contactInstitution }}</a> </div>
+                        <div>Collaboration Type: {%for type in entry.type%} {{type}}{%if forloop.last %}.{% else %},{% endif%}{% endfor%}</div>
+                        <div>Imaging Modality:  {%for modality in entry.modality%} {{modality}}{%if forloop.last %}.{% else %},{% endif%}{% endfor%}</div>
+                        <br>
+                    </div>
+                </div>
+            </button>
+            <div id="content{{ forloop.index }}" class="content">
+                <div>Collaboration Activities:</div>
+                <ul class="list">
+                    {% for activity in entry.activities %}
+                    <li>{{ activity }}</li>
+                    {% endfor %}
+                </ul>
+                <div>External Links:</div>
+                <ul>
+                    {% for url in entry.url %}<li><a href="{{url}}">{{url}}</a></li>{% endfor %}
+                </ul>
+                <div>{{ entry.longDescription }}</div>
+                <br>
+                <ol>
+                    {% for ref in entry.references %}
+                    <li><a href="{{ref.refUrl}}">{{ ref.refText }}</a>
+                    </li>{% endfor %}
+                </ol>
+                <div>Date added: {{entry.dateAdded}}</div>
+                <br>
+
+
+            </div>
+
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+<script src="/js/container_collapse.js"></script>

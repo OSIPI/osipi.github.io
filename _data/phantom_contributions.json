@@ -1,0 +1,173 @@
+[
+    {
+        "name": "ASLDRO",
+        "contactFirstName": "Aaron",
+        "contactLastName": "Oliver-Taylor",
+        "contactEmail": "aaron.oliver-taylor@goldstandardphantoms.com",
+        "contactInstitution": "Gold Standard Phantoms",
+        "contactInstitutionUrl": "https://www.goldstandardphantoms.com",
+        "type": [
+            "DRO",
+            "Source Code"
+        ],
+        "modality": [
+            "ASL"
+        ],
+        "shortDescription": "Digital reference object software for Arterial Spin Labelling",
+        "longDescription": "We have developed digital reference object software for Arterial Spin Labelling.  This can generate raw synthetic raw ASL data (in BIDS compliant format) based on input ground truth (perfusion rate, transit time, t1, t2, m0 etc), sequence parameters, and data output type. This software was developed as part of the ASPIRE project, a Eurostars funded collaboration between Gold Standard Phantoms, VUmc Amsterdam (ExploreASL) and mediri GmbH, with the specific intentions for it being used in software development and integration testing of ExploreASL.  The software is released under an open source MIT license and we invite the rest of the ASL community to provide feedback, fork and contribute.",
+        "imageFile": "asldro.png",
+        "url": [
+            "https://github.com/gold-standard-phantoms/asldro",
+            "https://pypi.org/project/asldro/",
+            "https://asldro.readthedocs.io/"
+        ],
+        "references": [
+            {
+                "refText": "ISMRM 2021 Abstract accepted for digital poster",
+                "refUrl": ""
+            }
+        ],
+        "activities": [
+            "Collaborations to further develop the DRO",
+            "Collaborations to use the DRO to test ASL analysis software"
+        ],
+        "dateAdded": "2021-03-16"
+    },
+    {
+        "name": "OSIPI DCE-MRI Challenge DRO",
+        "contactFirstName": "Floris",
+        "contactLastName": "Van den Abeele",
+        "contactEmail": "floris@hyperfusion.ai",
+        "contactInstitution": "Hyperfusion",
+        "contactInstitutionUrl": "https://hyperfusion.ai",
+        "type": ["DRO"],
+        "modality": ["DCE"],
+        "shortDescription": "DCE digital reference object created for the OSIPI DCE-MRI Challenge",
+        "longDescription": "This DRO was built to assess the accuracy of K^trans estimations by competing teams as part of the Osipi TF6.2 DCE-MRI perfusion analysis challenge. It is based on a two-compartment exchange model (2CXM) and the signal model of a spoiled gradient-echo sequence in steady-state. It contains multiple structures with specifications of normal gray matter, normal white matter, tumor, necrosis, and arterial input function (AIF) taking a range of values for PS, V e , V p , and F. Temporal sampling time is dt = 6s, the total scan time is 6 min and Rician noise has been simulated. ",
+        "imageFile": "OSIPI.png",
+        "url": [],
+        "references": [],
+        "activities": [
+            "Collaborations with researchers"
+        ],
+        "dateAdded": "2021-03-16"
+    },
+    {
+        "name": "QASPER Reference Scans",
+        "contactFirstName": "Jochen",
+        "contactLastName": "Hirsch",
+        "contactEmail": "jochen.hirsch@mevis.fraunhofer.de",
+        "contactInstitution": "Fraunhover MEVIS, Bremen, Germany",
+        "contactInstitutionUrl": "https://www.mevis.fraunhofer.de/en/research-and-technologies/imaging-physics.html",
+        "type": ["Physical Phantom Data"],
+        "modality": ["ASL"],
+        "shortDescription": "QASPER phantom data for sharing",
+        "longDescription": "We use QASPER for ASL sequence development and software evaluation purposes; ASL \"reference\" scans using manufacturer's sequences/protocols are compared with inhouse research sequence developments (parallel, multiband, inline motion correction, alternative reconstruction algorithms, etc.). For reference, stability and homogeneity checks we have acquired a large number of phantom and invivo scans which data might be shared. Our interest is in collaborations to work on multi-center studies, standardization and optimazation of clinical ASL approaches.",
+        "imageFile": null,
+        "url": ["https://www.goldstandardphantoms.com/qasper"],
+        "references": [],
+        "activities": [
+            "Collaborations with researchers",
+            "Standardisation and Validation",
+            "Invivo Studies",
+            "DROs"
+
+        ],
+        "dateAdded": "2021-10-27"
+    },
+    {
+        "name": "Barrow DSC-DRO",
+        "contactFirstName": "Natenael",
+        "contactLastName": "Semmineh",
+        "contactEmail": "natenael.semmineh@barrowneuro.org",
+        "contactInstitution": "Barrow Neurological Institute",
+        "contactInstitutionUrl": "https://www.barrowneuro.org/for-physicians-researchers/research/research-programs-labs/neuroimaging/quarles-laboratory/",
+        "type": ["DRO"],
+        "modality": ["DSC"],
+        "shortDescription": "DSC-MRI Digital Reference Object",
+        "longDescription": "The standardization of DSC-MRI has been confounded by a lack of consensus on DSC-MRI methodology for preventing potential rCBV inaccuracies, including the choice of acquisition protocols and post-processing algorithms. To address these issues, we developed a digital reference object (DRO) aimed at validating image acquisition and analysis methods for accurately measuring rCBV in glioblastomas. The DRO was developed using trained physiological and kinetic parameters derived from in vivo data, unique voxel-wise 3D tissue structures, and a validated MRI signal computational approach. The DRO’s ability to produce reliable signals was validated by comparison to separate cohort of patient data.", 
+        "imageFile": null,
+        "url": ["doi.org/10.7937/TCIA.2020.rmwvzwix "],
+        "references": [
+            {
+                "refText": "An Efficient Computational Approach to Characterize DSC-MRI Signals Arising from Three-Dimensional Heterogeneous Tissue Structures",
+                "refUrl": "https://dx.doi.org/10.1371/journal.pone.0084764"
+            },
+            {
+                "refText": "A Population-Based Digital Reference Object (DRO) for Optimizing Dynamic Susceptibility Contrast (DSC)-MRI Methods for Clinical Trials",
+                "refUrl": "https://dx.doi.org/10.18383/j.tom.2016.00286"
+            },
+            {
+                "refText": "Optimization of Acquisition and Analysis Methods for Clinical Dynamic Susceptibility Contrast MRI Using a Population-Based Digital Reference Object",
+                "refUrl": "https://dx.doi.org/10.3174/ajnr.A5827"
+            },
+            {
+                "refText": "Systematic assessment of multi-echo dynamic susceptibility contrast MRI using a digital reference object",
+                "refUrl": "https://dx.doi.org/10.1002/mrm.27914"
+            },
+            {
+                "refText": "Evaluating Multisite rCBV Consistency from DSC-MRI Imaging Protocols and Postprocessing Software Across the NCI Quantitative Imaging Network Sites Using a Digital Reference Object (DRO)",
+                "refUrl": "https://dx.doi.org/10.18383/j.tom.2018.00041"
+            },
+            {
+                "refText": "Evaluating the Use of rCBV as a Tumor Grade and Treatment Response Classifier Across NCI Quantitative Imaging Network Sites: Part II of the DSC-MRI Digital Reference Object (DRO) Challenge",
+                "refUrl": "https://dx.doi.org/10.18383/j.tom.2020.00012"
+            }
+        ],
+        "activities": [
+            "Sharing of DRO data and source code",
+            "Collaborations with researchers"
+        ],
+        "dateAdded": "2021-10-27"
+    },
+    {
+        "name": "nano.Sphere-Phantom",
+        "contactFirstName": "Andrea",
+        "contactLastName": "Federspiel",
+        "contactEmail": "andrea.federspiel@upd.unibe.ch",
+        "contactInstitution": "University of Bern, Translational Research Center",
+        "contactInstitutionUrl": "https://www.upd.unibe.ch/about_us/personen/prof_dr_phil_nat_federspiel_andrea/index_eng.html",
+        "type": ["Physical Phantom Plans"],
+        "modality": ["ASL"],
+        "shortDescription": "ASL Perfusion Phantom",
+        "longDescription": "A longer description of the contribution, up to 200 words",
+        "imageFile": "bern_phantom.png",
+        "url": ["https://boris.unibe.ch/109400/1/HBM_2017_Federspiel.pdf"],
+        "references": [],
+        "activities": [
+            "Collaborations with researchers",
+            "Standardisation and Validation",
+            "Invivo Studies"
+        ],
+        "dateAdded": "2021-10-27"
+    },
+    {
+        "name": "Impinging Jet Phantom",
+        "contactFirstName": "John",
+        "contactLastName": "Detre",
+        "contactEmail": "detre@pennmedicine.upenn.edu",
+        "contactInstitution": "University of Pennsylvania",
+        "contactInstitutionUrl": "",
+        "type": ["Physical Phantom Plans"],
+        "modality": ["ASL", "DSC", "DCE"],
+        "shortDescription": "Perfusion phantom for ASL MRI based on impinging jets",
+        "longDescription": "Impinging jets, driven by a peristaltic pump, were used to achieve perfusion-like mixing of magnetically labeled inflowing fluid within a single perfusion compartment. Fluid dynamics simulations predicted that maximum mixing would occur near the central axis of the perfusion compartment. Experimentally observed signal changes within this region were reproducible and well fit by the standard Buxton General Kinetic Model. Calculated perfusion rates, averaged over the entire phantom volume, agreed with the expected volumetric flow rates provided by the flow pump. Phantom sensitivity to pCASL labeling parameters was also demonstrated. Observed perfusion and transit time values were reproducible and within the physiological range for brain perfusion.",
+        "imageFile": "impinging.png",
+        "url": ["https://github.com/mgabr001-git/ASL_Phantom_3D_DesignFiles"],
+        "references": [
+            {
+                "refText": "A perfusion phantom for ASL MRI based on impinging jets",
+                "refUrl": "https://doi.org/10.1002/mrm.28697"
+            },
+            {
+                "refText": "A Single-Compartment Perfusion Phantom for ASL-MRI",
+                "refUrl": "https://index.mirasmart.com/ISMRM2019/SearchResults.php?Program_Number=2971"
+            }
+        ],
+        "activities": [
+            "Sharing design and print files for the prototype phantom",
+            "Open to new collaborations with researchers interested in this approach"
+        ],
+        "dateAdded": "2021-10-27"
+    }
+]

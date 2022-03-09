@@ -18,7 +18,7 @@ leads:
     location: Barrow Neurological Institute, Phoenix, AZ, USA
     website: https://www.barrowneuro.org/get-to-know-barrow/person/chad-quarles-phd/
     role: Co-lead
-    email: Chad.Quarles@barrowneuro.org 
+    email: Chad.Quarles@barrowneuro.org
 members:
   - Leah Henze Bancroft
   - Jochen Hirsch
@@ -47,4 +47,5 @@ resources:
 ---
 
 {% include taskforce_content.md %}
+
 <!--- Please include your task force contents below, free formatting -->

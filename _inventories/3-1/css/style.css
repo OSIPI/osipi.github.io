@@ -19,8 +19,9 @@
 }
 
 .active,
-.collapsible:hover {
+.collapsible:hover, .collapsible:focus, .collapsible.active {
   background-color: #fafafa;
+  color: black;
 }
 
 .columnL {

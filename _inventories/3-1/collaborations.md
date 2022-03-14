@@ -1,5 +1,6 @@
 ---
 layout: page
+header: no
 title: Phantom and Digital Reference Object Collaboration Inventory
 permalink: /inventories/3-1/collaborations
 ---

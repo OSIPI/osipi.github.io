@@ -9,7 +9,7 @@ description: |
   An important application will be the amendment of the DICOM standard for DCE/DSC perfusion parametric maps, as well as BIDS extensions, and development of demonstrations and use cases. 
 leads:
   - name: Ina Kompan
-    location: German Cancer Research Centre (DKFZ), Heidelberg
+    location: German Cancer Research Centre (DKFZ), Heidelberg, Germany
     website: https://www.dkfz.de/en/mic/team/people/Ina_Kompan.html
     role: Lead
     email: i.kompan@dkfz-heidelberg.de
@@ -25,10 +25,8 @@ members:
   - Andrey Fedorov
   - David Clunie
   - Steven Sourbron
-  - Chad Quarles
   - Petra van Houdt
   - Ingomar Gutmann
-  - Patrick Thurner
   - David Buckley
   - Rianne van der Heijden
   - Jonathan Arvidsson
@@ -37,7 +35,10 @@ status:
   - 2020.03.26 Members confirmed
   - 2020.04.21 2-year roadmap finalized
   - "Milestone 1: COMPLETED"
-  - "Milestone 2: Work in Progress"
+  - "Milestone 2: COMPLETED"
+  - "Milestone 3: COMPLETED"
+  - "Milestone 4: COMPLETED"
+  - "Milestone 5: Work in progress
 links:
   - website: https://drive.google.com/drive/folders/1TTh6_7aqfGMRCw6dJkaBj84ePqZQ0H9B?usp=sharing
     description: |

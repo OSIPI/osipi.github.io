@@ -53,6 +53,4 @@ resources:
 ---
 
 {% include taskforce_content.md %}
----
-
 <!--- Please include your task force contents below, free formatting -->

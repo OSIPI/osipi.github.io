@@ -7,6 +7,7 @@ GEM
     coderay (1.1.1)
     colorator (1.1.0)
     concurrent-ruby (1.1.7)
+    deep_merge (1.2.1)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -38,6 +39,9 @@ GEM
     jekyll-asciidoc (3.0.0)
       asciidoctor (>= 1.5.0)
       jekyll (>= 3.0.0)
+    jekyll-get-json (1.0.0)
+      deep_merge (~> 1.2)
+      jekyll (>= 3.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-paginate (1.1.0)
@@ -87,8 +91,9 @@ DEPENDENCIES
   coderay (= 1.1.1)
   jekyll
   jekyll-asciidoc
+  jekyll-get-json
   jekyll-gist
   jekyll-paginate
 
 BUNDLED WITH
-   2.0.2
+   2.2.17

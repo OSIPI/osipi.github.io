@@ -1,0 +1,3486 @@
+[
+    {
+        "key": "P7WAH7GE",
+        "version": 259,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/P7WAH7GE",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/P7WAH7GE",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/I3GLT5RD",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1794690
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 1405725,
+                "username": "aaronolivertaylor",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/aaronolivertaylor",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Semmineh et al.",
+            "parsedDate": "2017-03",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "P7WAH7GE",
+            "version": 259,
+            "itemType": "journalArticle",
+            "title": "A Population-Based Digital Reference Object (DRO) for Optimizing Dynamic Susceptibility Contrast (DSC)-MRI Methods for Clinical Trials",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Natenael B.",
+                    "lastName": "Semmineh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ashley M.",
+                    "lastName": "Stokes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Laura C.",
+                    "lastName": "Bell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jerrold L.",
+                    "lastName": "Boxerman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C. Chad",
+                    "lastName": "Quarles"
+                }
+            ],
+            "abstractNote": "The standardization and broad-scale integration of dynamic susceptibility contrast (DSC)-magnetic resonance imaging (MRI) have been confounded by a lack of consensus on DSC-MRI methodology for preventing potential relative cerebral blood volume inaccuracies, including the choice of acquisition protocols and postprocessing algorithms. Therefore, we developed a digital reference object (DRO), using physiological and kinetic parameters derived from in vivo data, unique voxel-wise 3-dimensional tissue structures, and a validated MRI signal computational approach, aimed at validating image acquisition and analysis methods for accurately measuring relative cerebral blood volume in glioblastomas. To achieve DSC-MRI signals representative of the temporal characteristics, magnitude, and distribution of contrast agent-induced T1 and T2* changes observed across multiple glioblastomas, the DRO's input parameters were trained using DSC-MRI data from 23 glioblastomas (&gt;40 000 voxels). The DRO's ability to produce reliable signals for combinations of pulse sequence parameters and contrast agent dosing schemes unlike those in the training data set was validated by comparison with in vivo dual-echo DSC-MRI data acquired in a separate cohort of patients with glioblastomas. Representative applications of the DRO are presented, including the selection of DSC-MRI acquisition and postprocessing methods that optimize CBV accuracy, determination of the impact of DSC-MRI methodology choices on sample size requirements, and the assessment of treatment response in clinical glioblastoma trials.",
+            "publicationTitle": "Tomography",
+            "volume": "3",
+            "issue": "1",
+            "pages": "41-49",
+            "date": "2017/3",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.18383/j.tom.2016.00286",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "https://www.mdpi.com/2379-139X/3/1/41",
+            "accessDate": "2021-04-09T22:36:43Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "www.mdpi.com",
+            "callNumber": "",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "extra": "Number: 1\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "tags": [
+                {
+                    "tag": "brain tumor perfusion",
+                    "type": 1
+                },
+                {
+                    "tag": "digital reference object",
+                    "type": 1
+                },
+                {
+                    "tag": "dynamic susceptibility contrast MRI",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_dsc"
+                },
+                {
+                    "tag": "type_dro"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-09T22:36:43Z",
+            "dateModified": "2021-09-16T16:26:29Z"
+        }
+    },
+    {
+        "key": "38XGMI8I",
+        "version": 258,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/38XGMI8I",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/38XGMI8I",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/3N9G6D42",
+                "type": "application/json",
+                "attachmentType": "text/html",
+                "attachmentSize": 98651
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "38XGMI8I",
+            "version": 258,
+            "itemType": "webpage",
+            "title": "QIBA - Digital Reference Object for Profile DCE-MRI Analysis Software Verification 2",
+            "creators": [],
+            "abstractNote": "",
+            "websiteTitle": "",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "https://qidw.rsna.org/#folder/5e20ccb8b3467a6a9210ea0c",
+            "accessDate": "2021-04-09T22:31:52Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "type_dro"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-09T22:31:52Z",
+            "dateModified": "2021-08-12T16:31:16Z"
+        }
+    },
+    {
+        "key": "FPXI45G8",
+        "version": 253,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/FPXI45G8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/FPXI45G8",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/RZVV8ABB",
+                "type": "application/json",
+                "attachmentType": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Chacon-Caldera et al.",
+            "parsedDate": "2019-05-11",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "FPXI45G8",
+            "version": 253,
+            "itemType": "conferencePaper",
+            "title": "Investigating Variability Sources in Kidney Perfusion Measurements with Pulsed ASL: A Phantom and In Vivo Pilot Study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jorge",
+                    "lastName": "Chacon-Caldera"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lisa-Maria",
+                    "lastName": "Hatz"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anja",
+                    "lastName": "Kruse"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tanja",
+                    "lastName": "Uhrig"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Fabian",
+                    "lastName": "Zimmer"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Simon",
+                    "lastName": "Hubertus"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ingo",
+                    "lastName": "Hermann"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lothar R.",
+                    "lastName": "Schad"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Frank G.",
+                    "lastName": "Zöllner"
+                }
+            ],
+            "abstractNote": "",
+            "date": "May 11-16, 2019",
+            "proceedingsTitle": "Proc. Intl. Soc. Mag. Reson. Med. 27",
+            "conferenceName": "International Society for Magnetic Resonance in Medicine",
+            "place": "Montréal, QC, Canada",
+            "publisher": "",
+            "volume": "",
+            "pages": "A5020",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "https://cds.ismrm.org/protected/19MPresentations/abstracts/5020.html",
+            "accessDate": "2021-07-09T14:21:49Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-09T14:21:49Z",
+            "dateModified": "2021-08-10T19:24:18Z"
+        }
+    },
+    {
+        "key": "MPDJFSXM",
+        "version": 249,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/MPDJFSXM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/MPDJFSXM",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/45HQKYQV",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1652775
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Gabrielyan et al.",
+            "parsedDate": "2021",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "MPDJFSXM",
+            "version": 249,
+            "itemType": "journalArticle",
+            "title": "A perfusion phantom for ASL MRI based on impinging jets",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Marianna",
+                    "lastName": "Gabrielyan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M. Dylan",
+                    "lastName": "Tisdall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christoph",
+                    "lastName": "Kammer"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher",
+                    "lastName": "Higgins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paulo E.",
+                    "lastName": "Arratia"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John A.",
+                    "lastName": "Detre"
+                }
+            ],
+            "abstractNote": "Purpose We present a novel perfusion phantom for validation of arterial spin labeled (ASL) perfusion MRI methods and protocols. Methods Impinging jets, driven by a peristaltic pump, were used to achieve perfusion-like mixing of magnetically labeled inflowing fluid within a perfusion compartment. The phantom was validated by varying pump rates and obtaining ASL-MRI data at multiple postlabeling delays using a pseudo-continuous ASL sequence with a 3D stack-of-spirals readout. An additional data set was acquired using a pseudo-continuous ASL sequence with a 2D EPI readout. Phantom sensitivity to pseudo-continuous ASL labeling efficiency was also tested. Results Fluid dynamics simulations predicted that maximum mixing would occur near the central axis of the perfusion compartment. Experimentally observed signal changes within this region were reproducible and well fit by the standard Buxton general kinetic model. Simulations and experimental data showed no label outflow from the perfusion chamber and calculated perfusion rates, averaged over the entire phantom volume, agreed with the expected volumetric flow rates provided by the flow pump. Phantom sensitivity to pseudo-continuous ASL labeling parameters was also demonstrated. Conclusion Perfusion-like signal can be simulated using impinging jets to create a well-mixed compartment. Observed perfusion and transit time values were reproducible and within the physiological range for brain perfusion. This phantom design has a broad range of potential applications in both basic and clinical research involving ASL MRI.",
+            "publicationTitle": "Magnetic Resonance in Medicine",
+            "volume": "86",
+            "issue": "2",
+            "pages": "1145-1158",
+            "date": "2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "https://doi.org/10.1002/mrm.28697",
+            "ISSN": "1522-2594",
+            "shortTitle": "",
+            "url": "http://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.28697",
+            "accessDate": "2021-04-30T20:13:51Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Wiley Online Library",
+            "callNumber": "",
+            "rights": "© 2021 International Society for Magnetic Resonance in Medicine",
+            "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.28697",
+            "tags": [
+                {
+                    "tag": "arterial spin labeling",
+                    "type": 1
+                },
+                {
+                    "tag": "cerebral blood flow",
+                    "type": 1
+                },
+                {
+                    "tag": "computational fluid dynamics",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "perfusion",
+                    "type": 1
+                },
+                {
+                    "tag": "phantom",
+                    "type": 1
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-30T20:13:51Z",
+            "dateModified": "2021-08-10T19:22:22Z"
+        }
+    },
+    {
+        "key": "EENFJ6IK",
+        "version": 248,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/EENFJ6IK",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/EENFJ6IK",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/SM262TCA",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 2605180
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Bliesener et al.",
+            "parsedDate": "2020",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "EENFJ6IK",
+            "version": 248,
+            "itemType": "journalArticle",
+            "title": "Impact of (k,t) sampling on DCE MRI tracer kinetic parameter estimation in digital reference objects",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Yannick",
+                    "lastName": "Bliesener"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sajan G.",
+                    "lastName": "Lingala"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Justin P.",
+                    "lastName": "Haldar"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Krishna S.",
+                    "lastName": "Nayak"
+                }
+            ],
+            "abstractNote": "Purpose To evaluate the impact of (k,t) data sampling on the variance of tracer-kinetic parameter (TK) estimation in high-resolution whole-brain dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) using digital reference objects. We study this in the context of TK model constraints, and in the absence of other constraints. Methods Three anatomically and physiologically realistic brain-tumor digital reference objects were generated. Data sampling strategies included uniform and variable density; zone-based, lattice, pseudo-random, and pseudo-radial; with 50-time frames and 4-fold to 25-fold undersampling. In all cases, we assume a fully sampled first time frame, and prior knowledge of the arterial input function. TK parameters were estimated by indirect estimation (i.e., image-time-series reconstruction followed by model fitting), and direct estimation from the under-sampled data. We evaluated methods based on the Cramér-Rao bound and Monte-Carlo simulations, over the range of signal-to-noise ratio (SNR) seen in clinical brain DCE-MRI. Results Lattice-based sampling provided the lowest SDs, followed by pseudo-random, pseudo-radial, and zone-based. This ranking was consistent for the Patlak and extended Tofts model. Pseudo-random sampling resulted in 19% higher averaged SD compared to lattice-based sampling. Zone-based sampling resulted in substantially higher SD at undersampling factors above 10. CRB analysis showed only a small difference between uniform and variable density for both lattice-based and pseudo-random sampling up to undersampling factors of 25. Conclusion Lattice sampling provided the lowest SDs, although the differences between sampling schemes were not substantial at low undersampling factors. The differences between lattice-based and pseudo-random sampling strategies with both uniform and variable density were within the range of error induced by other sources, at up to 25-fold undersampling.",
+            "publicationTitle": "Magnetic Resonance in Medicine",
+            "volume": "83",
+            "issue": "5",
+            "pages": "1625-1639",
+            "date": "2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "https://doi.org/10.1002/mrm.28024",
+            "ISSN": "1522-2594",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.28024",
+            "accessDate": "2021-04-09T22:32:20Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Wiley Online Library",
+            "callNumber": "",
+            "rights": "© 2019 The Authors. Magnetic Resonance in Medicine published by Wiley Periodicals, Inc. on behalf of International Society for Magnetic Resonance in Medicine",
+            "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.28024",
+            "tags": [
+                {
+                    "tag": "brain tumor",
+                    "type": 1
+                },
+                {
+                    "tag": "data sampling",
+                    "type": 1
+                },
+                {
+                    "tag": "digital reference objects",
+                    "type": 1
+                },
+                {
+                    "tag": "dynamic contrast enhanced MRI",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "type_dro"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-09T22:32:20Z",
+            "dateModified": "2021-08-10T19:21:28Z"
+        }
+    },
+    {
+        "key": "GP8ET783",
+        "version": 247,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/GP8ET783",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/GP8ET783",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/3QJRTIYV",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1115404
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Bosca and Jackson",
+            "parsedDate": "2016-01-07",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "GP8ET783",
+            "version": 247,
+            "itemType": "journalArticle",
+            "title": "Creating an anthropomorphic digital MR phantom—an extensible tool for comparing and evaluating quantitative imaging algorithms",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ryan J.",
+                    "lastName": "Bosca"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Edward F.",
+                    "lastName": "Jackson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Physics in Medicine & Biology",
+            "volume": "61",
+            "issue": "2",
+            "pages": "974",
+            "date": "2016-01-07",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Phys. Med. Biol.",
+            "language": "en",
+            "DOI": "10.1088/0031-9155/61/2/974",
+            "ISSN": "0031-9155",
+            "shortTitle": "",
+            "url": "https://iopscience.iop.org/article/10.1088/0031-9155/61/2/974/meta",
+            "accessDate": "2021-04-09T22:28:12Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "iopscience.iop.org",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: IOP Publishing",
+            "tags": [
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "type_dro"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-09T22:28:12Z",
+            "dateModified": "2021-08-10T19:20:38Z"
+        }
+    },
+    {
+        "key": "272923W8",
+        "version": 246,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/272923W8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/272923W8",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Pannetier et al.",
+            "parsedDate": "2013-03-14",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "272923W8",
+            "version": 246,
+            "itemType": "journalArticle",
+            "title": "A Simulation Tool for Dynamic Contrast Enhanced MRI",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nicolas Adrien",
+                    "lastName": "Pannetier"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Clément Stéphan",
+                    "lastName": "Debacker"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Franck",
+                    "lastName": "Mauconduit"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Thomas",
+                    "lastName": "Christen"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Emmanuel Luc",
+                    "lastName": "Barbier"
+                }
+            ],
+            "abstractNote": "The quantification of bolus-tracking MRI techniques remains challenging. The acquisition usually relies on one contrast and the analysis on a simplified model of the various phenomena that arise within a voxel, leading to inaccurate perfusion estimates. To evaluate how simplifications in the interstitial model impact perfusion estimates, we propose a numerical tool to simulate the MR signal provided by a dynamic contrast enhanced (DCE) MRI experiment. Our model encompasses the intrinsic and relaxations, the magnetic field perturbations induced by susceptibility interfaces (vessels and cells), the diffusion of the water protons, the blood flow, the permeability of the vessel wall to the the contrast agent (CA) and the constrained diffusion of the CA within the voxel. The blood compartment is modeled as a uniform compartment. The different blocks of the simulation are validated and compared to classical models. The impact of the CA diffusivity on the permeability and blood volume estimates is evaluated. Simulations demonstrate that the CA diffusivity slightly impacts the permeability estimates ( for classical blood flow and CA diffusion). The effect of long echo times is investigated. Simulations show that DCE-MRI performed with an echo time may already lead to significant underestimation of the blood volume (up to 30% lower for brain tumor permeability values). The potential and the versatility of the proposed implementation are evaluated by running the simulation with realistic vascular geometry obtained from two photons microscopy and with impermeable cells in the extravascular environment. In conclusion, the proposed simulation tool describes DCE-MRI experiments and may be used to evaluate and optimize acquisition and processing strategies.",
+            "publicationTitle": "PLOS ONE",
+            "volume": "8",
+            "issue": "3",
+            "pages": "e57636",
+            "date": "Mar 14, 2013",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "PLOS ONE",
+            "language": "en",
+            "DOI": "10.1371/journal.pone.0057636",
+            "ISSN": "1932-6203",
+            "shortTitle": "",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057636",
+            "accessDate": "2021-08-10T19:19:20Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "PLoS Journals",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: Public Library of Science",
+            "tags": [
+                {
+                    "tag": "Blood flow",
+                    "type": 1
+                },
+                {
+                    "tag": "Calcium signaling",
+                    "type": 1
+                },
+                {
+                    "tag": "Magnetic fields",
+                    "type": 1
+                },
+                {
+                    "tag": "Magnetic resonance imaging",
+                    "type": 1
+                },
+                {
+                    "tag": "Permeability",
+                    "type": 1
+                },
+                {
+                    "tag": "Radii",
+                    "type": 1
+                },
+                {
+                    "tag": "Relaxation (physics)",
+                    "type": 1
+                },
+                {
+                    "tag": "Vascular permeability",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "type_dro"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-08-10T19:19:20Z",
+            "dateModified": "2021-08-10T19:20:00Z"
+        }
+    },
+    {
+        "key": "5Q6WTV3J",
+        "version": 244,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/5Q6WTV3J",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/5Q6WTV3J",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/BFRDJA72",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1903361
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Pannetier et al.",
+            "parsedDate": "2013-09-09",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "5Q6WTV3J",
+            "version": 244,
+            "itemType": "journalArticle",
+            "title": "Correction: A Simulation Tool for Dynamic Contrast Enhanced MRI",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nicolas Adrien",
+                    "lastName": "Pannetier"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Clément Stéphan",
+                    "lastName": "Debacker"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Franck",
+                    "lastName": "Mauconduit"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Thomas",
+                    "lastName": "Christen"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Emmanuel Luc",
+                    "lastName": "Barbier"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "PLOS ONE",
+            "volume": "8",
+            "issue": "9",
+            "pages": "10.1371/annotation/0263ccf5",
+            "date": "Sep 9, 2013",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "PLOS ONE",
+            "language": "en",
+            "DOI": "10.1371/annotation/0263ccf5-239b-48d7-8880-5f4b6b709846",
+            "ISSN": "1932-6203",
+            "shortTitle": "Correction",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/annotation/0263ccf5-239b-48d7-8880-5f4b6b709846",
+            "accessDate": "2021-04-09T22:33:45Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "PLoS Journals",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: Public Library of Science",
+            "tags": [
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "type_dro"
+                }
+            ],
+            "collections": [],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/2900833/items/DKG5LYN4"
+            },
+            "dateAdded": "2021-04-09T22:33:45Z",
+            "dateModified": "2021-08-10T19:19:39Z"
+        }
+    },
+    {
+        "key": "KUHUI4HL",
+        "version": 240,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/KUHUI4HL",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/KUHUI4HL",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/7N4IRQ98",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 621574
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Beers et al.",
+            "parsedDate": "2018-03-09",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "KUHUI4HL",
+            "version": 240,
+            "itemType": "conferencePaper",
+            "title": "Anatomical DCE-MRI phantoms generated from glioma patient data",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Beers"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ken",
+                    "lastName": "Chang"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Brown"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Xia",
+                    "lastName": "Zhu"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dipanjan",
+                    "lastName": "Sengupta"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Theodore L.",
+                    "lastName": "Willke"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Elizabeth",
+                    "lastName": "Gerstner"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Bruce",
+                    "lastName": "Rosen"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jayashree",
+                    "lastName": "Kalpathy-Cramer"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Guang-Hong",
+                    "lastName": "Chen"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Joseph Y.",
+                    "lastName": "Lo"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Taly",
+                    "lastName": "Gilat Schmidt"
+                }
+            ],
+            "abstractNote": "Several digital reference objects (DROs) for DCE-MRI have been created to test the accuracy of pharmacokinetic modeling software under a variety of different noise conditions. However, there are few DROs that mimic the anatomical distribution of voxels found in real data, and similarly few DROs that are based on both malignant and normal tissue. We propose a series of DROs for modeling Ktrans and Ve derived from a publically-available RIDER DCEMRI dataset of 19 patients with gliomas. For each patient’s DCE-MRI data, we generate Ktrans and Ve parameter maps using an algorithm validated on the QIBA Tofts model phantoms. These parameter maps are denoised, and then used to generate noiseless time-intensity curves for each of the original voxels. This is accomplished by reversing the Tofts model to generate concentration-times curves from Ktrans and Ve inputs, and subsequently converting those curves into intensity values by normalizing to each patient’s average pre-bolus image intensity. The result is a noiseless DRO in the shape of the original patient data with known ground-truth Ktrans and Ve values. We make this dataset publically available for download for all 19 patients of the original RIDER dataset.",
+            "date": "2018-3-9",
+            "proceedingsTitle": "Medical Imaging 2018: Physics of Medical Imaging",
+            "conferenceName": "Physics of Medical Imaging",
+            "place": "Houston, United States",
+            "publisher": "SPIE",
+            "volume": "",
+            "pages": "102",
+            "series": "",
+            "language": "en",
+            "DOI": "10.1117/12.2294961",
+            "ISBN": "978-1-5106-1635-6 978-1-5106-1636-3",
+            "shortTitle": "",
+            "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10573/2294961/Anatomical-DCE-MRI-phantoms-generated-from-glioma-patient-data/10.1117/12.2294961.full",
+            "accessDate": "2021-04-09T22:30:27Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "type_dro"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-09T22:30:27Z",
+            "dateModified": "2021-08-10T19:15:34Z"
+        }
+    },
+    {
+        "key": "FJ8U9AU5",
+        "version": 239,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/FJ8U9AU5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/FJ8U9AU5",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/LK5CIZ5H",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 798206
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Antolak and Jackson",
+            "parsedDate": "2019-01",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "FJ8U9AU5",
+            "version": 239,
+            "itemType": "journalArticle",
+            "title": "Development and evaluation of an arterial spin-labeling digital reference object for quality control and comparison of data analysis applications",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Alexander G.",
+                    "lastName": "Antolak"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Edward F.",
+                    "lastName": "Jackson"
+                }
+            ],
+            "abstractNote": "Longitudinal assessment of quantitative imaging biomarkers (QIBs) requires a comprehensive quality control (QC) program to minimize bias and variance in measurement results. In addition, the availability of data analysis software from multiple vendors emphasizes the need for a means of quantitatively comparing the computed QIB measures produced by the applications. The purpose of this work is to describe a digital reference object (DRO) that has been developed for the evaluation of arterial spin-labeling (ASL) measurement results. The ASL DRO is a synthetic data set consisting of 10 × 10 voxel square blocks with a range of ASL control image signal-to-noise ratio (SNRControl), blood flow (BF), and proton density (PD) image SNR values (SNRControl:1–100, BF:10–210 ml/100 g min−1, SNRPD:10–100). A pseudo-continuous ASL sequence was simulated with acquisition parameters and modeled signal intensities defined according to those typically associated with clinically-acquired ASL images. ASL parameters were estimated using the commercially-available nordicICE software package (NordicNeuroLab, Inc, Milwaukee, WI). Percent bias measures and Bland–Altman analyses demonstrated decreased bias and variance with increasing SNRControl and BF values. Excellent agreement with reference values was seen for all BF values above an SNRControl of 5 (concordance correlation coefficient greater than 0.92 for all SNRPD values). The ASL DRO developed in this work allows for the evaluation of software bias and variance across physiologically-meaningful BF and SNRControl values. Such studies are essential to the transition of quantitative ASL-based BF measurements into widespread clinical research applications, and ultimately, routine clinical care.",
+            "publicationTitle": "Physics in Medicine & Biology",
+            "volume": "64",
+            "issue": "2",
+            "pages": "02NT01",
+            "date": "January 2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Phys. Med. Biol.",
+            "language": "en",
+            "DOI": "10.1088/1361-6560/aaf83b",
+            "ISSN": "0031-9155",
+            "shortTitle": "",
+            "url": "https://doi.org/10.1088/1361-6560/aaf83b",
+            "accessDate": "2021-04-09T22:26:38Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Institute of Physics",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Publisher: IOP Publishing",
+            "tags": [
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "type_dro"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-09T22:26:38Z",
+            "dateModified": "2021-08-10T19:14:47Z"
+        }
+    },
+    {
+        "key": "LTUQEWQH",
+        "version": 232,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/LTUQEWQH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/LTUQEWQH",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Gabrielyan et al.",
+            "parsedDate": "2019-05-11",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LTUQEWQH",
+            "version": 232,
+            "itemType": "conferencePaper",
+            "title": "A Single-Compartment Perfusion Phantom for ASL-MRI",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Marianna",
+                    "lastName": "Gabrielyan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher",
+                    "lastName": "Higgins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paulo E.",
+                    "lastName": "Arratia"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John A.",
+                    "lastName": "Detre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M. Dylan",
+                    "lastName": "Tisdall"
+                }
+            ],
+            "abstractNote": "",
+            "date": "May 11-16, 2019",
+            "proceedingsTitle": "Proc. Intl. Soc. Mag. Reson. Med.",
+            "conferenceName": "International Society for Magnetic Resonance in Medicine",
+            "place": "Montreal, Canada",
+            "publisher": "",
+            "volume": "",
+            "pages": "A2971",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "https://index.mirasmart.com/ISMRM2019/PDFfiles/2971.html",
+            "accessDate": "2021-07-09",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "ASL"
+                },
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "type_dro"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-09T14:13:47Z",
+            "dateModified": "2021-07-09T21:32:56Z"
+        }
+    },
+    {
+        "key": "DPERDQYP",
+        "version": 231,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/DPERDQYP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/DPERDQYP",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Golay et al.",
+            "parsedDate": "2019-10-03",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "DPERDQYP",
+            "version": 231,
+            "itemType": "conferencePaper",
+            "title": "How to quantity ASL values in a perfusion phantom",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "X",
+                    "lastName": "Golay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A",
+                    "lastName": "Oliver-Taylor"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Y",
+                    "lastName": "Suzuki"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M",
+                    "lastName": "Chappell"
+                }
+            ],
+            "abstractNote": "",
+            "date": "Oct 3-5, 2019",
+            "proceedingsTitle": "ESMRMB 2019 Congress",
+            "conferenceName": "European Society for Magnetic Resonance in Medicine and Biology",
+            "place": "Rotterdam, Netherlands",
+            "publisher": "",
+            "volume": "",
+            "pages": "A1672",
+            "series": "",
+            "language": "en",
+            "DOI": "https://doi.org/10.1007/s10334-019-00754-2",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "https://goldstandardphantoms.com/sites/default/files/attachments/How%20to%20quantify%20ASL%20values%20in%20a%20perfusion%20phantom.pdf",
+            "accessDate": "2021-07-09",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Zotero",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-09T21:16:51Z",
+            "dateModified": "2021-07-09T21:32:18Z"
+        }
+    },
+    {
+        "key": "7CV7DTSI",
+        "version": 219,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/7CV7DTSI",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/7CV7DTSI",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Oliver-Taylor et al.",
+            "parsedDate": "2019-05-11",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "7CV7DTSI",
+            "version": 219,
+            "itemType": "conferencePaper",
+            "title": "A multi-site round robin assessment of ASL using a perfusion phantom",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Aaron",
+                    "lastName": "Oliver-Taylor"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Thomas",
+                    "lastName": "Hampshire"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Henk-Jan",
+                    "lastName": "Mutsaerts"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Patricia",
+                    "lastName": "Clement"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Esther",
+                    "lastName": "Warnert"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Joost P.A.",
+                    "lastName": "Kuijer"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Koen",
+                    "lastName": "Baas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jan",
+                    "lastName": "Petr"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jeroen C.W.",
+                    "lastName": "Siero"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "José P.",
+                    "lastName": "Marques"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stefan",
+                    "lastName": "Sunaert"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ronald J.H.",
+                    "lastName": "Borra"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Matthias J.P.",
+                    "lastName": "van Osch"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Xavier",
+                    "lastName": "Golay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Eric",
+                    "lastName": "Achten"
+                }
+            ],
+            "abstractNote": "Arterial Spin Labelling shows great promise for perfusion measurements; however, despite numerous volunteer reproducibility studies, comparisons have not been made using a phantom to establish differences due to the acquisition hardware and pulse sequences. We present data from a multi-site study using a perfusion phantom, targeting 3T MRI systems from a single vendor running the same software version.",
+            "date": "May 11-16, 2019",
+            "proceedingsTitle": "Proc. Intl. Soc. Mag. Reson. Med. 27",
+            "conferenceName": "International Society for Magnetic Resonance in Medicine",
+            "place": "Montréal, QC, Canada",
+            "publisher": "",
+            "volume": "",
+            "pages": "A2653",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "https://cds.ismrm.org/protected/19MPresentations/abstracts/2653.html",
+            "accessDate": "2021-07-09T14:59:50Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-09T14:59:50Z",
+            "dateModified": "2021-07-09T15:27:01Z"
+        }
+    },
+    {
+        "key": "W36SINZS",
+        "version": 200,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/W36SINZS",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/W36SINZS",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/7DTHZ5CB",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 326864
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Wang et al.",
+            "parsedDate": "2010",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "W36SINZS",
+            "version": 200,
+            "itemType": "journalArticle",
+            "title": "Flow measurement in MRI using arterial spin labeling with cumulative readout pulses—Theory and validation",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Yi",
+                    "lastName": "Wang"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Seong-Eun",
+                    "lastName": "Kim"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Edward V. R.",
+                    "lastName": "DiBella"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dennis L.",
+                    "lastName": "Parker"
+                }
+            ],
+            "abstractNote": "Purpose: This article systematically examines arterial spin labeling (ASL) as a flow quantification technique through theoretical simulation,in vitro, and in vivo experiment. The authors present a novel imaging pulse sequence design consisting of a single ASL magnetization preparation followed by Look-Locker-like image readouts. Bloch-equation-based modeling has been developed and validated using a hemodialyzer as a tissue-mimicking flow phantom. Methods: After the single in-plane slice-selective double inversion magnetization preparation, multiple TFL readouts are acquired with linear k-space ordering, causing a signal variation that depends on through-slice flow velocity. Computer simulations were performed to assess the behavior of the flow-dependent ASL signal as a function of varying imaging parameters. The signal was optimized by choosing imaging parameters that maximize the simulated flow-sensitive signal. Furthermore, a hemodialyzer which mimics blood flow in human tissues was tested with a wide range of flow rates. An exponential curve fitting of the flow-sensitive dynamics to the model derived from Bloch equations provides a method to estimate through-slice velocity for varying flow rates on the hemodialyzer andin vivo human brain. Results: The flow dependency of the ASL signal and the sensitivity of the ASL signal to imaging parameters were demonstrated. Experimental results from a hemodialyzer when fitted with a Bloch-equation-based model provide flow measurements that are consistent with ground truth velocities. Human brain velocity mapping was obtained as well. Conclusions: The results provide evidence that the proposed pulse sequence design is an effective technique to measure total fluid flow through image voxels. The unique combination of the two main features, multiple-image readout after a single ASL preparation and linear acquisition ordering in the phase encoding direction in TFL imaging, make this technique an appealing flow imaging method to quantify through-plane flow in a time-efficient manner.",
+            "publicationTitle": "Medical Physics",
+            "volume": "37",
+            "issue": "11",
+            "pages": "5801-5810",
+            "date": "2010",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "https://doi.org/10.1118/1.3501881",
+            "ISSN": "2473-4209",
+            "shortTitle": "",
+            "url": "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.3501881",
+            "accessDate": "2021-04-09T22:37:25Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Wiley Online Library",
+            "callNumber": "",
+            "rights": "© 2010 American Association of Physicists in Medicine",
+            "extra": "_eprint: https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1118/1.3501881",
+            "tags": [
+                {
+                    "tag": "Brain",
+                    "type": 1
+                },
+                {
+                    "tag": "Encoding",
+                    "type": 1
+                },
+                {
+                    "tag": "Flow imaging",
+                    "type": 1
+                },
+                {
+                    "tag": "Flow simulations",
+                    "type": 1
+                },
+                {
+                    "tag": "Flow visualization",
+                    "type": 1
+                },
+                {
+                    "tag": "Fluid mechanics and rheology",
+                    "type": 1
+                },
+                {
+                    "tag": "Haemodynamics",
+                    "type": 1
+                },
+                {
+                    "tag": "Hemodynamics",
+                    "type": 1
+                },
+                {
+                    "tag": "Imaging fluid flow",
+                    "type": 1
+                },
+                {
+                    "tag": "MRI: anatomic",
+                    "type": 1
+                },
+                {
+                    "tag": "Magnetic resonance imaging",
+                    "type": 1
+                },
+                {
+                    "tag": "Medical imaging",
+                    "type": 1
+                },
+                {
+                    "tag": "Sequence analysis",
+                    "type": 1
+                },
+                {
+                    "tag": "Spatial resolution",
+                    "type": 1
+                },
+                {
+                    "tag": "Tissues",
+                    "type": 1
+                },
+                {
+                    "tag": "arterial spin labeling",
+                    "type": 1
+                },
+                {
+                    "tag": "biological tissues",
+                    "type": 1
+                },
+                {
+                    "tag": "biomedical MRI",
+                    "type": 1
+                },
+                {
+                    "tag": "blood vessels",
+                    "type": 1
+                },
+                {
+                    "tag": "brain",
+                    "type": 1
+                },
+                {
+                    "tag": "data acquisition",
+                    "type": 1
+                },
+                {
+                    "tag": "diffusion",
+                    "type": 1
+                },
+                {
+                    "tag": "flow velocity",
+                    "type": 1
+                },
+                {
+                    "tag": "functional",
+                    "type": 1
+                },
+                {
+                    "tag": "haemodynamics",
+                    "type": 1
+                },
+                {
+                    "tag": "haemorheology",
+                    "type": 1
+                },
+                {
+                    "tag": "image resolution",
+                    "type": 1
+                },
+                {
+                    "tag": "magnetisation",
+                    "type": 1
+                },
+                {
+                    "tag": "medical image processing",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "perfusion imaging",
+                    "type": 1
+                },
+                {
+                    "tag": "phantoms",
+                    "type": 1
+                },
+                {
+                    "tag": "spectral",
+                    "type": 1
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-09T22:37:25Z",
+            "dateModified": "2021-07-09T14:57:53Z"
+        }
+    },
+    {
+        "key": "TIBU5B64",
+        "version": 199,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/TIBU5B64",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/TIBU5B64",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/7YWXWTDJ",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 477219
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Esparza-Coss et al.",
+            "parsedDate": "2010-05-01",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "TIBU5B64",
+            "version": 199,
+            "itemType": "journalArticle",
+            "title": "Perfusion in rat brain at 7 T with arterial spin labeling using FAIR-TrueFISP and QUIPSS",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Emilio",
+                    "lastName": "Esparza-Coss"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jarek",
+                    "lastName": "Wosik"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ponnada A.",
+                    "lastName": "Narayana"
+                }
+            ],
+            "abstractNote": "Measurement of perfusion in longitudinal studies allows for the assessment of tissue integrity and the detection of subtle pathologies. In this work, the feasibility of measuring brain perfusion in rats with high spatial resolution using arterial spin labeling is reported. A flow-sensitive alternating recovery sequence, coupled with a balanced gradient fast imaging with steady-state precession readout section was used to minimize ghosting and geometric distortions, while achieving high signal-to-noise ratio. The quantitative imaging of perfusion using a single subtraction method was implemented to address the effects of variable transit delays between the labeling of spins and their arrival at the imaging slice. Studies in six rats at 7 T showed good perfusion contrast with minimal geometric distortion. The measured blood flow values of 152.5±6.3 ml/100 g per minute in gray matter and 72.3±14.0 ml/100 g per minute in white matter are in good agreement with previously reported values based on autoradiography, considered to be the gold standard.",
+            "publicationTitle": "Magnetic Resonance Imaging",
+            "volume": "28",
+            "issue": "4",
+            "pages": "607-612",
+            "date": "May 1, 2010",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Magnetic Resonance Imaging",
+            "language": "en",
+            "DOI": "10.1016/j.mri.2010.01.004",
+            "ISSN": "0730-725X",
+            "shortTitle": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0730725X10000287",
+            "accessDate": "2021-04-09T22:37:54Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "ScienceDirect",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Arterial spin labeling",
+                    "type": 1
+                },
+                {
+                    "tag": "Cerebral blood flow",
+                    "type": 1
+                },
+                {
+                    "tag": "FAIR-TrueFISP",
+                    "type": 1
+                },
+                {
+                    "tag": "Perfusion measurement",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-09T22:37:54Z",
+            "dateModified": "2021-07-09T14:57:10Z"
+        }
+    },
+    {
+        "key": "GFAZVQCT",
+        "version": 198,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/GFAZVQCT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/GFAZVQCT",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/ERBETWAS",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 207223
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Oliver-Taylor et al.",
+            "parsedDate": "2017-04-22",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "GFAZVQCT",
+            "version": 198,
+            "itemType": "conferencePaper",
+            "title": "A Calibrated Perfusion Phantom for Quality Assurance of Quantitative Arterial Spin Labelling",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Aaron",
+                    "lastName": "Oliver-Taylor"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Miguel",
+                    "lastName": "Gonçalves"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Thomas",
+                    "lastName": "Hampshire"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Bradley",
+                    "lastName": "Davis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Pankaj",
+                    "lastName": "Daga"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Laura",
+                    "lastName": "Evans"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alan",
+                    "lastName": "Bainbridge"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Claudia",
+                    "lastName": "Wheeler-Kingshott"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Magdalena",
+                    "lastName": "Sokolska"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John",
+                    "lastName": "Thornton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Enrico",
+                    "lastName": "De Vita"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Xavier",
+                    "lastName": "Golay"
+                }
+            ],
+            "abstractNote": "Arterial Spin Labelling shows great promise for perfusion measurements, however its clinical adoption is precluded by the lack of a standardised phantom to validate such measurements. A perfusion phantom specially designed and built for optimal use with clinical ASL sequences is presented, alongside characterisation results. Measurements of perfusion rate and arterial transit time were made using a multi-TI FAIR PASL sequence. Results indicate the phantom has good stability, high SNR and exhibits perfusion rates and arterial transit times that are comparable with human physiology.",
+            "date": "Aprl 22-27, 2017",
+            "proceedingsTitle": "Proc. Intl. Soc. Mag. Reson. Med. 25",
+            "conferenceName": "International Society for Magnetic Resonance in Medicine",
+            "place": "Honolulu, Hawaii, United States",
+            "publisher": "",
+            "volume": "",
+            "pages": "A0681",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "https://cds.ismrm.org/protected/17MProceedings/PDFfiles/0681.html",
+            "accessDate": "2021-05-12",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-29T19:13:30Z",
+            "dateModified": "2021-07-09T14:54:10Z"
+        }
+    },
+    {
+        "key": "DGBS3USP",
+        "version": 197,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/DGBS3USP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/DGBS3USP",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/YWMNU53C",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 570791
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Stafford et al.",
+            "parsedDate": "2014-05-10",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "DGBS3USP",
+            "version": 197,
+            "itemType": "conferencePaper",
+            "title": "A Standardization Phantom for Quantitative Perfusion with Arterial Spin Labeling",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Randall B",
+                    "lastName": "Stafford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael C",
+                    "lastName": "Langham"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Scott V",
+                    "lastName": "Davis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jongho",
+                    "lastName": "Lee"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John A",
+                    "lastName": "Detre"
+                }
+            ],
+            "abstractNote": "Purpose: Arterial spin labeling (ASL) is a well established method for obtaining non-invasive perfusion images with MR[1]. Perfusion refers to the delivery of oxygen and nutrients to tissues by means of blood flow through an intricate vascular tree, including exchange of perfusate at the microvascular level. A limitation in the development and validation of perfusion imaging methods is the absence of a perfusion phantom that can be used for calibration and quality assurance (QA). Some recent progress has been made in the development of phantoms for flow measurements with ASL[2,3], however a standardized phantom that appropriately simulates perfusion in the microvasculature remains elusive.\nMaterials and Methods: We utilized a two-chamber phantom design[2], constructed from a 50-mm diameter glass chromatography column. The first chamber was filled with 1-mm diameter acid-washed glass beads (Sigma-Aldrich, G1152), and the second chamber filled with a coarse synthetic fiber mesh (Fig. 1). The glass beads dispersed the labeled in-flowing perfusate, and provided a realistic transit time from the labeling plane to the mesh. The high packing density and magnetic susceptibility (Fig. 1) of the glass beads leads to complete signal loss. The fiber mesh provides a much higher water proton density and a lower susceptibility. The water-filled cavities within the mesh also provide a medium of exchange of the labeled and unlabeled perfusate. A Masterflex L/S programmable peristaltic pump (Cole-Parmer) was used to pump the perfusate through 5-mm innerdiameter neoprene tubing. The phantom perfusate consisted of a dilute solution of copper sulfate (~0.15 g/L CuSO4 in saline), which was used to approximately match the T1 of arterial blood at 3 T. The exterior of the column was packed between two gadolinium-doped saline bags (4 mL Gd-DTPA per 1L saline) to allow for center-frequency detection and shimming. ASL data were collected at 3 T (Siemens Tim Trio) with a conventional 1500-ms pseudo-continuous ASL (pCASL)4 labeling train, followed by a single-slice SPGR (FLASH) readout. Ten label/control pairs were collected for two pump flow rates (350 mL/min and 450 mL/min) and six different post-label delay times (500-3000 ms at 500-ms increments). The T1 of the perfusate and the approximate proton density of the mesh was determined using MP-RAGE with variable inversion time. Percent difference was measured from circular ROIs drawn in the percent difference images within the mesh. A Gaussian-based dispersion model was used to simulate the expected ΔM% for a range of transit times.\nResults: The measured T1 of the perfusate solution was approximately 1320 ms, and the proton density of the mesh relative to the perfusate was 0.20. Sample images are shown in Fig. 2 from a 28-mm circular ROI drawn over the center of the phantom for the various experiments. Although the signal changes are not uniform across the ROI, increasing the pump flow increases the signal in the percent difference images. Varying the post-label delay also allows for temporal analysis of the 1500-ms label bolus passage through the mesh. The measured percent difference from these ROIs (Fig. 3) confirmed the desired tissue-mimicking behavior of the labeled perfusate exchange within the mesh.\nDiscussion: As shown in Fig. 2, the exchange of labeled and unlabeled perfusate within the mesh represents a more realistic model of tissue-level perfusion compared to previous designs[2,3]. One limitation of this phantom is the current design has a high magnetic susceptibility near the fiber mesh due to the glass beads and the shell of the chromatography column. Thus, the current design is not well suited for precise high-order shimming needed for echo-planar imaging (EPI) acquisitions. The discrepancies between the measured ROI data and the dispersion simulation suggest a more appropriate model is needed. Future work will improve the phantom design to allow for both EPI-based data acquisitions, and simulation of multiple tissue types.",
+            "date": "May 10-16, 2014",
+            "proceedingsTitle": "Proc. Intl. Soc. Mag. Reson. Med. 22",
+            "conferenceName": "International Society for Magnetic Resonance in Medicine",
+            "place": "Milan, Italy",
+            "publisher": "",
+            "volume": "",
+            "pages": "A4572",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "https://cds.ismrm.org/protected/14MProceedings/PDFfiles/4572.pdf",
+            "accessDate": "2021-04-29",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-29T18:45:26Z",
+            "dateModified": "2021-07-09T14:53:31Z"
+        }
+    },
+    {
+        "key": "XG7XFHKF",
+        "version": 192,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/XG7XFHKF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/XG7XFHKF",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/VU7HZCVK",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 605070
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Noguchi et al.",
+            "parsedDate": "2007",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "XG7XFHKF",
+            "version": 192,
+            "itemType": "journalArticle",
+            "title": "Quantitative Perfusion Imaging with Pulsed Arterial Spin Labeling: A Phantom Study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Tomoyuki",
+                    "lastName": "Noguchi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Takashi",
+                    "lastName": "Yoshiura"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Akio",
+                    "lastName": "Hiwatashi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Osamu",
+                    "lastName": "Togao"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Koji",
+                    "lastName": "Yamashita"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kouji",
+                    "lastName": "Kobayashi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Futoshi",
+                    "lastName": "Mihara"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hiroshi",
+                    "lastName": "Honda"
+                }
+            ],
+            "abstractNote": "Purpose: Pulsed arterial spin labeling (PASL) is a magnetic resonance (MR) method for measuring cerebral blood flow. Although several validation studies for PASL in animals and humans have been reported, no reports have detailed the fundamental study of PASL using a flow phantom. We compared the true and theoretical flow rates in a flow phantom to confirm the analytical validity of quantitative perfusion imaging with Q2TIPS sequence. Methods: We built a flow phantom consisting of a 40-mm diameter plastic syringe filled with plastic beads and small plastic tubes 4 mm in diameter. Gd-DTPA-doped 8L water solution (0.1 mM) was circulated between the syringe and a tank through a plastic tube by a constant flow pump while the flow rate was adjusted between 0 and 2.61 cm/s. Q2TIPS sequence parameters were TI1=50 ms and TI2=1400 ms. Five imaging slices of 50 subtraction images were acquired sequentially in a distal-to-proximal direction using a single-shot echo planar imaging (EPI) technique. The theoretical flow rate calculated based upon the previously reported kinetic model for Q2TIPS was compared with the true flow rate. Results: A good linear relationship was observed between the theoretical, F′, and true flow rates, F, in a flow rate range of 1.43 to 1.95 cm/s (F′=1.024•F−1.915, R2=0.902). The ratio of theoretical to true flow rate was 92 (+/−) 4%. Conclusion: Flow rate was quantified with reasonable accuracy when the entire amount of labeled bolus within the phantom could be recovered. Our experiment confirmed the analytical validity of Q2TIPS and suggested that blood flow measurement may be feasible using the Q2TIPS pulse sequence and kinetic model of the PASL equation.",
+            "publicationTitle": "Magnetic Resonance in Medical Sciences",
+            "volume": "6",
+            "issue": "2",
+            "pages": "91-97",
+            "date": "2007",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.2463/mrms.6.91",
+            "ISSN": "",
+            "shortTitle": "Quantitative Perfusion Imaging with Pulsed Arterial Spin Labeling",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "J-Stage",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "ASL"
+                },
+                {
+                    "tag": "Q2TIPS",
+                    "type": 1
+                },
+                {
+                    "tag": "arterial spin labeling",
+                    "type": 1
+                },
+                {
+                    "tag": "cerebral blood flow",
+                    "type": 1
+                },
+                {
+                    "tag": "flow phantom study",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "physical phantom"
+                },
+                {
+                    "tag": "quantitative blood flow measurement",
+                    "type": 1
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-24T20:56:20Z",
+            "dateModified": "2021-07-09T14:46:04Z"
+        }
+    },
+    {
+        "key": "CZK538Z3",
+        "version": 191,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/CZK538Z3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/CZK538Z3",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/YD9BEJ28",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1245876
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Koktzoglou et al.",
+            "parsedDate": "2016",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "CZK538Z3",
+            "version": 191,
+            "itemType": "journalArticle",
+            "title": "Arterial spin labeled carotid MR angiography: A phantom study examining the impact of technical and hemodynamic factors",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ioannis",
+                    "lastName": "Koktzoglou"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Shivraman",
+                    "lastName": "Giri"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Davide",
+                    "lastName": "Piccini"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David M.",
+                    "lastName": "Grodzki"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Oisin",
+                    "lastName": "Flanagan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ian G.",
+                    "lastName": "Murphy"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "NavYash",
+                    "lastName": "Gupta"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jeremy D.",
+                    "lastName": "Collins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Robert R.",
+                    "lastName": "Edelman"
+                }
+            ],
+            "abstractNote": "Purpose To quantify the accuracy of three-dimensional (3D) radial arterial spin labeled (ASL) magnetic resonance angiography (MRA) using vascular models of carotid stenosis. Methods Eight vascular models were imaged at 1.5 Tesla using pulsatile flow waveforms at rates found in the internal carotid arteries (100–400 mL/min). The impacts of the 3D ASL imaging readout (fast low angle shot (FLASH) versus balanced steady-state free precession (bSSFP)), ultrashort echo time imaging using a pointwise encoding time reduction with radial acquisition (PETRA), and model stenosis severity on the accuracy of vascular model display at the location of stenosis were quantified. Accuracy was computed vis-à-vis a reference bSSFP volume acquired under no flow. Comparisons were made with standard-of-care contrast-enhanced MRA (CEMRA) and Cartesian time-of-flight (TOF) MRA protocols. Results For 50% and 70% stenoses, CEMRA was most accurate (respective accuracies of 81.7% and 78.6%), followed by ASL FLASH (75.7% and 71.8%), ASL PETRA (69.6% and 70.6%), 3D TOF (66.6% and 57.1%), ASL bSSFP (68.7% and 51.2%), and 2D TOF (65.1% and 50.6%). Conclusion Flow phantom imaging studies show that ASL MRA can improve the display of hemodynamically significant carotid arterial stenosis compared with TOF MRA, with FLASH and ultrashort echo time readouts being most accurate. Magn Reson Med 75:295–301, 2016. © 2015 Wiley Periodicals, Inc.",
+            "publicationTitle": "Magnetic Resonance in Medicine",
+            "volume": "75",
+            "issue": "1",
+            "pages": "295-301",
+            "date": "2016",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "https://doi.org/10.1002/mrm.25611",
+            "ISSN": "1522-2594",
+            "shortTitle": "Arterial spin labeled carotid MR angiography",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.25611",
+            "accessDate": "2021-04-24T20:55:09Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Wiley Online Library",
+            "callNumber": "",
+            "rights": "© 2015 Wiley Periodicals, Inc.",
+            "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.25611",
+            "tags": [
+                {
+                    "tag": "ASL"
+                },
+                {
+                    "tag": "angiography",
+                    "type": 1
+                },
+                {
+                    "tag": "arterial spin labeling",
+                    "type": 1
+                },
+                {
+                    "tag": "carotid",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_asl"
+                },
+                {
+                    "tag": "phantoms",
+                    "type": 1
+                },
+                {
+                    "tag": "physical phantom"
+                },
+                {
+                    "tag": "radial",
+                    "type": 1
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-24T20:55:09Z",
+            "dateModified": "2021-07-09T14:45:31Z"
+        }
+    },
+    {
+        "key": "BH34BXM2",
+        "version": 190,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/BH34BXM2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/BH34BXM2",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/IGR67QSC",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 568417
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Anderson et al.",
+            "parsedDate": "2011",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "BH34BXM2",
+            "version": 190,
+            "itemType": "journalArticle",
+            "title": "Semipermeable hollow fiber phantoms for development and validation of perfusion-sensitive mr methods and signal models",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "J. R.",
+                    "lastName": "Anderson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. J. H.",
+                    "lastName": "Ackerman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. R.",
+                    "lastName": "Garbow"
+                }
+            ],
+            "abstractNote": "Two semipermeable, hollow fiber phantoms for the validation of perfusion-sensitive magnetic resonance methods and signal models are described. Semipermeable hollow fibers harvested from a standard commercial hemodialysis cartridge serve to mimic tissue capillary function. Flow of aqueous media through the fiber lumen is achieved with a laboratory-grade peristaltic pump. Diffusion of water and solute species (e.g., Gd-based contrast agent) occurs across the fiber wall, allowing exchange between the lumen and the extralumenal space. Phantom design attributes include: i) small physical size, ii) easy and low-cost construction, iii) definable compartment volumes, and iv) experimental control over media content and flow rate. © 2011 Wiley Periodicals, Inc. Concepts Magn Reson Part B (Magn Reson Engineering) 39B: 149–158, 2011",
+            "publicationTitle": "Concepts in Magnetic Resonance Part B: Magnetic Resonance Engineering",
+            "volume": "39B",
+            "issue": "3",
+            "pages": "149-158",
+            "date": "2011",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "https://doi.org/10.1002/cmr.b.20202",
+            "ISSN": "1552-504X",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cmr.b.20202",
+            "accessDate": "2021-04-09T22:38:18Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Wiley Online Library",
+            "callNumber": "",
+            "rights": "Copyright © 2011 Wiley Periodicals, Inc.",
+            "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/cmr.b.20202",
+            "tags": [
+                {
+                    "tag": "MR phantom design",
+                    "type": 1
+                },
+                {
+                    "tag": "dialyzer",
+                    "type": 1
+                },
+                {
+                    "tag": "hollow fiber bioreactor",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "perfusion",
+                    "type": 1
+                },
+                {
+                    "tag": "semi-permeable hollow fiber",
+                    "type": 1
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-09T22:38:18Z",
+            "dateModified": "2021-07-09T14:45:09Z"
+        }
+    },
+    {
+        "key": "QLZJC6GB",
+        "version": 189,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/QLZJC6GB",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/QLZJC6GB",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/EJH6YGPK",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1945389
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "O’Doherty et al.",
+            "parsedDate": "2017-10-12",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "QLZJC6GB",
+            "version": 189,
+            "itemType": "journalArticle",
+            "title": "Feasibility of simultaneous PET-MR perfusion using a novel cardiac perfusion phantom",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jim",
+                    "lastName": "O’Doherty"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Eva",
+                    "lastName": "Sammut"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Schleyer"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Stirling"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Muhummad Sohaib",
+                    "lastName": "Nazir"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul K.",
+                    "lastName": "Marsden"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Amedeo",
+                    "lastName": "Chiribiri"
+                }
+            ],
+            "abstractNote": "PET-MR scanners are beginning to be employed for quantitative myocardial perfusion imaging. In order to examine simultaneous perfusion calculations, this work describes a feasibility study of simultaneous PET-MR of gadolinium-based contrast agent (GBCA) and PET radiotracer in a novel cardiac perfusion phantom.",
+            "publicationTitle": "European Journal of Hybrid Imaging",
+            "volume": "1",
+            "issue": "1",
+            "pages": "4",
+            "date": "October 12, 2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "European Journal of Hybrid Imaging",
+            "language": "",
+            "DOI": "10.1186/s41824-017-0008-9",
+            "ISSN": "2510-3636",
+            "shortTitle": "",
+            "url": "https://doi.org/10.1186/s41824-017-0008-9",
+            "accessDate": "2021-04-24T20:52:12Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "BioMed Central",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Cardiology",
+                    "type": 1
+                },
+                {
+                    "tag": "DCE"
+                },
+                {
+                    "tag": "Flow",
+                    "type": 1
+                },
+                {
+                    "tag": "PET-MR",
+                    "type": 1
+                },
+                {
+                    "tag": "Perfusion",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "physical phantom"
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-24T20:52:12Z",
+            "dateModified": "2021-07-09T14:44:27Z"
+        }
+    },
+    {
+        "key": "GQ4V7I9Q",
+        "version": 187,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/GQ4V7I9Q",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/GQ4V7I9Q",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/6SS2RHUN",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 4077313
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Driscoll et al.",
+            "parsedDate": "2011",
+            "numChildren": 3
+        },
+        "data": {
+            "key": "GQ4V7I9Q",
+            "version": 187,
+            "itemType": "journalArticle",
+            "title": "Development of a dynamic flow imaging phantom for dynamic contrast-enhanced CT",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "B.",
+                    "lastName": "Driscoll"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "H.",
+                    "lastName": "Keller"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Coolens"
+                }
+            ],
+            "abstractNote": "Purpose: Dynamic contrast enhanced CT (DCE-CT) studies with modeling of blood flow and tissue perfusion are becoming more prevalent in the clinic, with advances in wide volume CT scanners allowing the imaging of an entire organ with sub-second image frequency and sub-millimeter accuracy. Wide-spread implementation of perfusion DCE-CT, however, is pending fundamental validation of the quantitative parameters that result from dynamic contrast imaging and perfusion modeling. Therefore, the goal of this work was to design and construct a novel dynamic flow imaging phantom capable of producing typical clinical time-attenuation curves (TACs) with the purpose of developing a framework for the quantification and validation of DCE-CT measurements and kinetic modeling under realistic flow conditions. Methods: The phantom is based on a simple two-compartment model and was printed using a 3D printer. Initial analysis of the phantom involved simple flow measurements and progressed to DCE-CT experiments in order to test the phantoms range and reproducibility. The phantom was then utilized to generate realistic input TACs. A phantom prediction model was developed to compute the input and output TACs based on a given set of five experimental (control) parameters: pump flow rate, injection pump flow rate, injection contrast concentration, and both control valve positions. The prediction model is then inversely applied to determine thecontrol parameters necessary to generate a set of desired input and output TACs. A protocol was developed and performed using the phantom to investigate image noise, partial volume effects and CT number accuracy under realistic flow conditions Results: This phantom and its surrounding flow system are capable of creating a wide range of physiologically relevant TACs, which are reproducible with minimal error between experiments (σ/μ < 5% for all metrics investigated). The dynamic flow phantom was capable of producing input and output TACs using either step function based or typical clinical arterial input function (AIF) inputs. The measured TACs were in excellent agreement with predictions across all comparison metrics with goodness of fit (R2) for the input function between 0.95 and 0.98, while the maximum enhancement differed by no more than 3.3%. The predicted output functions were similarly accurate producing R2 values between 0.92 and 0.99 and maximum enhancement to within 9.0%. The effect of ROI size on the arterial input function (AIF) was investigated in order to determine an operating range of ROI sizes which were minimally affected by noise for small dimensions and partial volume effects for large dimensions. It was possible to establish the measurement sensitivity of both the Toshiba (ROI radius range from 1.5 to 3.2 mm “low dose”, 1.4 to 3.0 mm “high dose”) and GE scanner (1.5 to 2.6 mm “low dose”, 1.1 to 3.4 mm “high dose”). This application of the phantom also provides the ability to evaluate the effect of the AIF error on kinetic model parameter predictions. Conclusions: The dynamic flow imaging phantom is capable of producing accurate and reproducible results which can be predicted and quantified. This results in a unique tool for perfusion DCE-CT validation under realistic flow conditions which can be applied not only to compare different CT scanners and imaging protocols but also to provide a ground truth across multimodality dynamic imaging given its MRI and PET compatibility.",
+            "publicationTitle": "Medical Physics",
+            "volume": "38",
+            "issue": "8",
+            "pages": "4866-4880",
+            "date": "2011",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "https://doi.org/10.1118/1.3615058",
+            "ISSN": "2473-4209",
+            "shortTitle": "",
+            "url": "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.3615058",
+            "accessDate": "2021-04-24T20:51:00Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Wiley Online Library",
+            "callNumber": "",
+            "rights": "© 2011 American Association of Physicists in Medicine",
+            "extra": "_eprint: https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1118/1.3615058",
+            "tags": [
+                {
+                    "tag": "Calibration",
+                    "type": 1
+                },
+                {
+                    "tag": "Computed tomography",
+                    "type": 1
+                },
+                {
+                    "tag": "DCE"
+                },
+                {
+                    "tag": "DCE-CT",
+                    "type": 1
+                },
+                {
+                    "tag": "Flow control",
+                    "type": 1
+                },
+                {
+                    "tag": "Flow visualization",
+                    "type": 1
+                },
+                {
+                    "tag": "Fluid mechanics and rheology",
+                    "type": 1
+                },
+                {
+                    "tag": "Image scanners",
+                    "type": 1
+                },
+                {
+                    "tag": "Medical image contrast",
+                    "type": 1
+                },
+                {
+                    "tag": "Medical image noise",
+                    "type": 1
+                },
+                {
+                    "tag": "Medical imaging",
+                    "type": 1
+                },
+                {
+                    "tag": "Rheology and fluid dynamics",
+                    "type": 1
+                },
+                {
+                    "tag": "Signal generators",
+                    "type": 1
+                },
+                {
+                    "tag": "X-ray imaging",
+                    "type": 1
+                },
+                {
+                    "tag": "blood flow measurement",
+                    "type": 1
+                },
+                {
+                    "tag": "computerised tomography",
+                    "type": 1
+                },
+                {
+                    "tag": "haemorheology",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "perfusion CT",
+                    "type": 1
+                },
+                {
+                    "tag": "phantom",
+                    "type": 1
+                },
+                {
+                    "tag": "phantoms",
+                    "type": 1
+                },
+                {
+                    "tag": "physical phantom"
+                },
+                {
+                    "tag": "polymers",
+                    "type": 1
+                },
+                {
+                    "tag": "quality assurance",
+                    "type": 1
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-24T20:51:00Z",
+            "dateModified": "2021-07-09T14:40:56Z"
+        }
+    },
+    {
+        "key": "X54G24H3",
+        "version": 186,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/X54G24H3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/X54G24H3",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/W3B6XGQK",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 407611
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Ebrahimi et al.",
+            "parsedDate": "2008-03-18",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "X54G24H3",
+            "version": 186,
+            "itemType": "conferencePaper",
+            "title": "A perfusion phantom for quantitative medical imaging",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Behzad",
+                    "lastName": "Ebrahimi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Scott D.",
+                    "lastName": "Swanson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Bobak",
+                    "lastName": "Mosadegh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Timothy E.",
+                    "lastName": "Chupp"
+                }
+            ],
+            "abstractNote": "A perfusion phantom with unique features and a wide variety of applications in MR and other imaging modalities is presented. The phantom is especially suited for tissue perfusion simulation with diffusible and non-diffusible MR tracers. A network of micro-channels in the scale of actual capillaries replicates the blood flow in tissues. Using microfabrication techniques, networks with any desired pattern can be generated. Since the geometry of networks is known, flow rate, delay, dispersion and other fluid parameters can be exactly calculated using finite elements numerical methods. These calculated results can be used to investigate the accuracy of experimental measurements and the precision of mathematical models.",
+            "date": "2008/03/18",
+            "proceedingsTitle": "Medical Imaging 2008: Physics of Medical Imaging",
+            "conferenceName": "Medical Imaging 2008: Physics of Medical Imaging",
+            "place": "San Diego, California, United States",
+            "publisher": "International Society for Optics and Photonics",
+            "volume": "",
+            "pages": "A6913",
+            "series": "",
+            "language": "",
+            "DOI": "10.1117/12.770894",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6913/69130W/A-perfusion-phantom-for-quantitative-medical-imaging/10.1117/12.770894.short",
+            "accessDate": "2021-04-24T20:48:30Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "www.spiedigitallibrary.org",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-24T20:48:30Z",
+            "dateModified": "2021-07-09T14:39:53Z"
+        }
+    },
+    {
+        "key": "DY7S8IEU",
+        "version": 183,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/DY7S8IEU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/DY7S8IEU",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/6WG8WFYW",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 3747750
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Kim et al.",
+            "parsedDate": "2017",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "DY7S8IEU",
+            "version": 183,
+            "itemType": "journalArticle",
+            "title": "Portable perfusion phantom for quantitative DCE-MRI of the abdomen",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Harrison",
+                    "lastName": "Kim"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mina",
+                    "lastName": "Mousa"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Patrick",
+                    "lastName": "Schexnailder"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Robert",
+                    "lastName": "Hergenrother"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Bolding"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Bernard",
+                    "lastName": "Ntsikoussalabongui"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Vinoy",
+                    "lastName": "Thomas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Desiree E.",
+                    "lastName": "Morgan"
+                }
+            ],
+            "abstractNote": "Purpose The aim of this study was to develop a portable perfusion phantom and validate its utility in quantitative dynamic contrast-enhanced magnetic resonance imaging of the abdomen. Methods A portable perfusion phantom yielding a reproducible contrast enhancement curve (CEC) was developed. A phantom package including perfusion and static phantoms were imaged simultaneously with each of three healthy human volunteers in two different 3T MR scanners. Look-up tables correlating reference (known) contrast concentrations with measured ones were created using either the static or perfusion phantom. Contrast maps of image slices showing four organs (liver, spleen, pancreas, and paravertebral muscle) were generated before and after data correction using the look-up tables. The contrast concentrations at 4.5 min after dosing in each of the four organs were averaged for each volunteer. The mean contrast concentrations (4 organs × 3 volunteers = 12) were compared for the two scanners, and the intra-class correlation coefficient (ICC) was calculated. Also, the ICC of the mean Ktrans values between the two scanners was calculated before and after data correction. Results The repeatability coefficient of CECs of perfusion phantom was higher than 0.997 in all measurements. The ICC of the tissue contrast concentrations between the two scanners was 0.693 before correction, but increased to 0.974 after correction using the look-up tables (LUTs) of perfusion phantom. However, the ICC was not increased after correction using static phantom (ICC: 0.617). Similarly, the ICC of the Ktrans values was 0.899 before correction, but increased to 0.996 after correction using perfusion phantom LUTs. The ICC of the Ktrans values, however, was not increased when static phantom LUTs were used (ICC: 0.866). Conclusions The perfusion phantom reduced variability in quantitating contrast concentration and Ktrans values of human abdominal tissues across different MR units, but static phantom did not. The perfusion phantom has the potential to facilitate multi-institutional clinical trials employing quantitative DCE-MRI to evaluate various abdominal malignancies.",
+            "publicationTitle": "Medical Physics",
+            "volume": "44",
+            "issue": "10",
+            "pages": "5198-5209",
+            "date": "2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "https://doi.org/10.1002/mp.12466",
+            "ISSN": "2473-4209",
+            "shortTitle": "",
+            "url": "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12466",
+            "accessDate": "2021-04-24T20:44:20Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Wiley Online Library",
+            "callNumber": "",
+            "rights": "© 2017 American Association of Physicists in Medicine",
+            "extra": "_eprint: https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.12466",
+            "tags": [
+                {
+                    "tag": "DCE-MRI",
+                    "type": 1
+                },
+                {
+                    "tag": "abdomen",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "perfusion parameters",
+                    "type": 1
+                },
+                {
+                    "tag": "perfusion phantom",
+                    "type": 1
+                },
+                {
+                    "tag": "static phantom",
+                    "type": 1
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-24T20:44:20Z",
+            "dateModified": "2021-07-09T14:36:25Z"
+        }
+    },
+    {
+        "key": "CNVR9UJ8",
+        "version": 181,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/CNVR9UJ8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/CNVR9UJ8",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/EEE5PQXN",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1056697
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5632437,
+                "username": "mulanjen",
+                "name": "Mu-Lan Jen",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/mulanjen",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Kamphuis et al.",
+            "parsedDate": "2020-03-04",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "CNVR9UJ8",
+            "version": 181,
+            "itemType": "journalArticle",
+            "title": "Quantitative imaging: systematic review of perfusion/flow phantoms",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Marije E.",
+                    "lastName": "Kamphuis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Marcel J. W.",
+                    "lastName": "Greuter"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Riemer H. J. A.",
+                    "lastName": "Slart"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Cornelis H.",
+                    "lastName": "Slump"
+                }
+            ],
+            "abstractNote": "We aimed at reviewing design and realisation of perfusion/flow phantoms for validating quantitative perfusion imaging (PI) applications to encourage best practices.",
+            "publicationTitle": "European Radiology Experimental",
+            "volume": "4",
+            "issue": "1",
+            "pages": "15",
+            "date": "March 4, 2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "European Radiology Experimental",
+            "language": "",
+            "DOI": "10.1186/s41747-019-0133-2",
+            "ISSN": "2509-9280",
+            "shortTitle": "Quantitative imaging",
+            "url": "https://doi.org/10.1186/s41747-019-0133-2",
+            "accessDate": "2021-04-24T20:41:33Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "BioMed Central",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "DCE"
+                },
+                {
+                    "tag": "Microcirculation",
+                    "type": 1
+                },
+                {
+                    "tag": "Perfusion imaging",
+                    "type": 1
+                },
+                {
+                    "tag": "Phantoms (imaging)",
+                    "type": 1
+                },
+                {
+                    "tag": "Reference standards",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_dce"
+                },
+                {
+                    "tag": "physical phantom"
+                },
+                {
+                    "tag": "type_phantom"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-24T20:41:33Z",
+            "dateModified": "2021-07-09T14:35:33Z"
+        }
+    }
+]

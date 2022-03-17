@@ -1,0 +1,55 @@
+
+<link rel="stylesheet" href="css/style.css" />
+<!-- Container -->
+<div class="container">
+    <div>All literature references are held in the <a href= "https://www.zotero.org/groups/2900833/osipi_tf3.1_literature/library">OSIPI TF3.1 Literature zotero library</a></div>
+    {% assign modality_mappings = "" | split: ',' %}
+    {% for label in site.data.literature_mapping.modalities %}
+        {% assign modality_mappings =  modality_mappings | push : label[0] %}
+    {%endfor%}
+
+    {% assign type_mappings = "" | split: ',' %}
+    {% for label in site.data.literature_mapping.types %}
+        {% assign type_mappings =  type_mappings | push : label[0] %}
+    {%endfor%}
+    <div>
+        <ul class="list">
+            {% for entry in site.data.phantom_literature %}
+            {% if entry.data.itemType != "attachment" %}
+            <button class = "collapsible">
+                <div class="row">
+                    <div><a href="{{ entry.data.url }}" target="_blank">{{ entry.data.title }}</a></div>
+                    <div>{{site.data.literature_mapping.entries[entry.data.itemType]}}</div>
+                    <div>{{ entry.meta.creatorSummary }} {{ entry.data.date }}</div>
+                    {% assign valid_tags = "" | split: ',' %}
+                    {% assign modality_tags = "" | split: ',' %}
+                    {% assign type_tags = "" | split: ',' %}
+                    {%for tag in entry.data.tags %}
+                        {% if modality_mappings contains tag.tag %}
+                            {% assign modality_tags = modality_tags | push: tag.tag %}
+                        {% elsif  type_mappings contains tag.tag %}
+                            {% assign type_tags = type_tags | push: tag.tag %}
+                        {% else %}
+                            {% assign valid_tags = valid_tags | push: tag.tag %}
+                        {% endif %}
+                    {% endfor %}
+                    <div>Type: {{ site.data.literature_mapping.types[type_tags.first] }}</div>
+                    <div>Imaging Modality: {{ site.data.literature_mapping.modalities[modality_tags.first] }}</div>
+                    <div>Tags: {%for tag in valid_tags %}
+                            {{tag}}{%if forloop.last %}.{% else %},{% endif%}
+                        {% endfor%}</div>
+
+                </div>
+            </button>
+            <div id="content{{ forloop.index }}" class="content">
+                <div>{{ entry.data.abstractNote }}</div>
+                <br>
+                <div>Download citation <a href="https://api.zotero.org/groups/2900833/items/{{ entry.key }}?format=bibtex">bibtex</a></div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+<script src="/js/container_collapse.js"></script>
+

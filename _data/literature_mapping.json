@@ -1,0 +1,16 @@
+{
+    "entries":{
+        "conferencePaper": "Conference Paper",
+        "journalArticle": "Journal Article",
+        "webpage": "web page"
+    },
+    "modalities": {
+        "modality_dce": "DCE",
+        "modality_dsc": "DSC",
+        "modality_asl": "ASL"
+    },
+    "types":{  
+        "type_phantom": "Physical Phantom",
+        "type_dro": "Digital Reference Object"
+    }
+}

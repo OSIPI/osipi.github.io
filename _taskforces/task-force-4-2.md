@@ -38,7 +38,7 @@ status:
   - "Milestone 2: COMPLETED"
   - "Milestone 3: COMPLETED"
   - "Milestone 4: COMPLETED"
-  - "Milestone 5: Work in progress
+  - "Milestone 5: Work in progress"
 links:
   - website: https://drive.google.com/drive/folders/1TTh6_7aqfGMRCw6dJkaBj84ePqZQ0H9B?usp=sharing
     description: |
@@ -53,4 +53,6 @@ resources:
 ---
 
 {% include taskforce_content.md %}
+---
+
 <!--- Please include your task force contents below, free formatting -->

@@ -574,86 +574,6 @@
         }
     },
     {
-        "key": "GSVCG4RG",
-        "version": 339,
-        "library": {
-            "type": "group",
-            "id": 2900833,
-            "name": "OSIPI TF3.1 Literature",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2900833/items/GSVCG4RG",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/GSVCG4RG",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 5632437,
-                "username": "mulanjen",
-                "name": "Mu-Lan Jen",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/mulanjen",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "parsedDate": "2021-05-15",
-            "numChildren": 0
-        },
-        "data": {
-            "key": "GSVCG4RG",
-            "version": 339,
-            "itemType": "conferencePaper",
-            "title": "TEST CASE",
-            "creators": [],
-            "abstractNote": "",
-            "date": "May 15-20, 2021",
-            "proceedingsTitle": "Proc. Intl. Soc. Mag. Reson. Med. 29",
-            "conferenceName": "International Society for Magnetic Resonance in Medicine",
-            "place": "Online",
-            "publisher": "",
-            "volume": "",
-            "pages": "A",
-            "series": "",
-            "language": "",
-            "DOI": "",
-            "ISBN": "",
-            "shortTitle": "",
-            "url": "",
-            "accessDate": "2022-02-10",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "modality_dsc"
-                },
-                {
-                    "tag": "type_phantom"
-                }
-            ],
-            "collections": [],
-            "relations": {},
-            "dateAdded": "2022-02-14T22:49:30Z",
-            "dateModified": "2022-02-14T22:56:10Z"
-        }
-    },
-    {
         "key": "FSX4T5FF",
         "version": 339,
         "library": {
@@ -2979,6 +2899,143 @@
             "relations": {},
             "dateAdded": "2022-02-14T22:08:57Z",
             "dateModified": "2022-02-14T22:09:39Z"
+        }
+    },
+    {
+        "key": "P7WAH7GE",
+        "version": 259,
+        "library": {
+            "type": "group",
+            "id": 2900833,
+            "name": "OSIPI TF3.1 Literature",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/osipi_tf3.1_literature",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2900833/items/P7WAH7GE",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/osipi_tf3.1_literature/items/P7WAH7GE",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/groups/2900833/items/I3GLT5RD",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1794690
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5635422,
+                "username": "jimhholmes",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/jimhholmes",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 1405725,
+                "username": "aaronolivertaylor",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/aaronolivertaylor",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Semmineh et al.",
+            "parsedDate": "2017-03",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "P7WAH7GE",
+            "version": 259,
+            "itemType": "journalArticle",
+            "title": "A Population-Based Digital Reference Object (DRO) for Optimizing Dynamic Susceptibility Contrast (DSC)-MRI Methods for Clinical Trials",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Natenael B.",
+                    "lastName": "Semmineh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ashley M.",
+                    "lastName": "Stokes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Laura C.",
+                    "lastName": "Bell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jerrold L.",
+                    "lastName": "Boxerman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C. Chad",
+                    "lastName": "Quarles"
+                }
+            ],
+            "abstractNote": "The standardization and broad-scale integration of dynamic susceptibility contrast (DSC)-magnetic resonance imaging (MRI) have been confounded by a lack of consensus on DSC-MRI methodology for preventing potential relative cerebral blood volume inaccuracies, including the choice of acquisition protocols and postprocessing algorithms. Therefore, we developed a digital reference object (DRO), using physiological and kinetic parameters derived from in vivo data, unique voxel-wise 3-dimensional tissue structures, and a validated MRI signal computational approach, aimed at validating image acquisition and analysis methods for accurately measuring relative cerebral blood volume in glioblastomas. To achieve DSC-MRI signals representative of the temporal characteristics, magnitude, and distribution of contrast agent-induced T1 and T2* changes observed across multiple glioblastomas, the DRO's input parameters were trained using DSC-MRI data from 23 glioblastomas (&gt;40 000 voxels). The DRO's ability to produce reliable signals for combinations of pulse sequence parameters and contrast agent dosing schemes unlike those in the training data set was validated by comparison with in vivo dual-echo DSC-MRI data acquired in a separate cohort of patients with glioblastomas. Representative applications of the DRO are presented, including the selection of DSC-MRI acquisition and postprocessing methods that optimize CBV accuracy, determination of the impact of DSC-MRI methodology choices on sample size requirements, and the assessment of treatment response in clinical glioblastoma trials.",
+            "publicationTitle": "Tomography",
+            "volume": "3",
+            "issue": "1",
+            "pages": "41-49",
+            "date": "2017/3",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.18383/j.tom.2016.00286",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "https://www.mdpi.com/2379-139X/3/1/41",
+            "accessDate": "2021-04-09T22:36:43Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "www.mdpi.com",
+            "callNumber": "",
+            "rights": "http://creativecommons.org/licenses/by/3.0/",
+            "extra": "Number: 1\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "tags": [
+                {
+                    "tag": "brain tumor perfusion",
+                    "type": 1
+                },
+                {
+                    "tag": "digital reference object",
+                    "type": 1
+                },
+                {
+                    "tag": "dynamic susceptibility contrast MRI",
+                    "type": 1
+                },
+                {
+                    "tag": "modality_dsc"
+                },
+                {
+                    "tag": "type_dro"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-09T22:36:43Z",
+            "dateModified": "2021-09-16T16:26:29Z"
         }
     }
 ]

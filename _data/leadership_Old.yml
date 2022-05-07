@@ -1,23 +1,23 @@
 - role: Chair
+  name: Laura Bell
+  location: Genentech Inc, South San Francisco, CA, USA
+  website: https://www.linkedin.com/in/lauracbell/
+  email: bell.laura@gene.com 
+
+- role: Co-Chair
   name: Henk Mutsaerts
   location: Amsterdam UMC, Amsterdam, The Netherlands
   website: https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/
   email: h.j.mutsaerts@amsterdamumc.nl
 
-- role: Co-Chair
+- role: Secretary
   name: Yuriko Suzuki
   location: Wellcome Centre for Integrative Neuroimaging, FMRIB, University of Oxford, UK 
   website: https://www.ndcn.ox.ac.uk/team/yuriko-suzuki
   email: yuriko.suzuki@ndcn.ox.ac.uk
 
-- role: Secretary
-  name: Petra van Houdt
-  location: the Netherlands Cancer Institute, Amsterdam, NL
-  website: https://www.linkedin.com/in/petra-van-houdt-a7612510/
-  email: p.v.houdt@nki.nl
-
 - role: Past-Chair
-  name: Laura Bell
-  location: Genentech Inc, South San Francisco, CA, USA
-  website: https://www.linkedin.com/in/lauracbell/
-  email: bell.laura@gene.com
+  name: Steven Sourbron
+  location: University of Sheffield, UK
+  website: https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/
+  email: s.sourbron@sheffield.ac.uk

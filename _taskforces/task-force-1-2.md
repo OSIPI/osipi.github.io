@@ -6,15 +6,10 @@ aims: Create an inventory of available DCE/DSC packages
 description: |
   Develop a comprehensive inventory of software packages for perfusion imaging analysis. This is aimed at end-users looking for a suitable tool to process their data. The inventory will list available tools, providing information that will help users to select a suitable tool, such as scope of application, methodology, level of validation, license policy, transparency, user-friendliness, and reviews by other users. TF 1.2 provides this for DCE/DSC software.
 leads:
-  - name: Kathleen Schmainda
-    location: Medical College of Wisconsin
-    website: https://www.mcw.edu/departments/biophysics/faculty/kathleen-schmainda-phd
-    role: Lead
-    email: kathleen@mcw.edu
   - name: Melissa Prah
     location: Medical College of Wisconsin
     website: https://www.mcw.edu/departments/biophysics/faculty/prah-melissa
-    role: Co-lead
+    role: Lead
     email: mprah@mcw.edu
 members:
   - name: Andrey Fedorov

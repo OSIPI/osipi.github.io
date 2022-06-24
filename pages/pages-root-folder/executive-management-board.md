@@ -31,7 +31,7 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 - [**Yuriko Suzuki**](https://www.ndcn.ox.ac.uk/team/yuriko-suzuki) (OSIPI co-chair)
 - [**Petra van Houdt**](https://www.linkedin.com/in/petra-van-houdt-a7612510/) (OSIPI secretary)
 - [**Laura Bell**](https://www.linkedin.com/in/lauracbell/) (OSIPI past-chair) 
-- [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/) (OSIPI past-chair)
+
 
 {% include taskforce/leads_list.html %}
 

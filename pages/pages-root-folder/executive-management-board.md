@@ -8,6 +8,8 @@ header: no
 
 The **Executive and Management Board (EMB)** of OSIPI is the central body responsible 
 for the execution of the strategic plan and ongoing management of OSIPI. 
+The EMB consists of 4 members nominated by the ISMRM perfusion study group (past chair, chair, co-chair, secretary). Each is appointed for 1 year with a rotation on the annual meeting of the ISMRM, when a new secretary is nominated by the study group and the past chair rotates off.
+
 
 ![Organigram]({{ site.urlimg }}organigram-emb.png)
 
@@ -19,16 +21,17 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 {:.list-title}
 **Current OSIPI Roadmap**
 
-- [Version 2.0](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) 
+- [Roadmap 2020-2022, Version 2.0](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) 
 
 {:.list-title}
 **Current EMB members**
 
 {:style="margin-bottom:0"}
-- [**Laura Bell**](https://www.linkedin.com/in/lauracbell/) (OSIPI chair) 
-- [**Henk-Jan Mutsaerts**](https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/) (OSIPI co-chair)
-- [**Yuriko Suzuki**](https://www.ndcn.ox.ac.uk/team/yuriko-suzuki) (OSIPI secretary)
-- [**Steven Sourbron**](https://www.linkedin.com/in/steven-sourbron-93775752/?originalSubdomain=uk/) (OSIPI past-chair)
+- [**Henk-Jan Mutsaerts**](https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/) (OSIPI chair)
+- [**Yuriko Suzuki**](https://www.ndcn.ox.ac.uk/team/yuriko-suzuki) (OSIPI co-chair)
+- [**Petra van Houdt**](https://www.linkedin.com/in/petra-van-houdt-a7612510/) (OSIPI secretary)
+- [**Laura Bell**](https://www.linkedin.com/in/lauracbell/) (OSIPI past-chair) 
+
 
 {% include taskforce/leads_list.html %}
 

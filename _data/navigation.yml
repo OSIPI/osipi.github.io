@@ -12,6 +12,8 @@
     url: "/emb/"
   - title: "Strategy Board"
     url: "/sb/"
+  - title: "Contributors"
+    url: "/contributors/"
     
 - title: Aims
   url: "/aims/"

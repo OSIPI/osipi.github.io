@@ -8,6 +8,11 @@
   class: icon-chat
   title: Join the OSIPI community
 
+- name: Twitter
+  url: http://twitter.com/https://twitter.com/OSIPI_ISMRM
+  class: icon-twitter
+  title: follow OSIPI on Twitter
+
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia
 #   class: icon-youtube

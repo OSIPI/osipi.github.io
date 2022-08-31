@@ -4,10 +4,7 @@ permalink: "/task-force-2-3/"
 title: "OSIPI Task Force 2.3: DCE/DSC contributions"
 aims: Collect, validate and harmonise DCE/DSC code snippets from developers
 description: |
-  Task force 2.3 will develop a library of open-source functions, scripts and pipelines for DCE/DSC perfusion imaging analysis. 
-  This is aimed at developers of DCE/DSC perfusion methods looking for specific functionality or development templates, or who want to share their own in-house developments with others. 
-  Contributions will be sourced from the community, and may include individual functions and more complete pipelines in various programming languages. 
-  Task force 2.3 will organise these in a coherent and well-documented library structure as defined by task force 2.1, then identify and develop any missing functionality. 
+  Task force 2.3 aims to collect, test and share open-source perfusion imaging code for use in research and software development. Code contributions can include modules covering one or more steps within the image processing pipeline, for example T1 mapping, converting signal to concentration and pharmacokinetic modelling. A further aim of OSIPI is to develop a fully tested and harmonised code library, drawing on the contributions within this repository. 
   
   **Note that most Taskforce 2.3 activity is now taking place in our public [DSC-/DCE-MRI Python code repository](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection) on Github. Please visit the repository [wiki](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection/wiki) for detailed information.**
   
@@ -73,8 +70,9 @@ status:
   - 01/08/2020 Milestone 2 "collect and verify sample code" led by Sudarshan Ragunathan. Completed.
   - 15/02/2021 Milestone 3 "Targeted call for DC code". Completed.
   - 01/05/2021 Milestone 4 "Unit test process finalized". Completed.
-  - 01/10/2021 Milestone 5 "Define process of code standardisation,"led by Michael Berks. Completed.
-  - Deliverable 1 "DC code collection v1.0 - unit tested". Underway...
+  - 01/10/2021 Milestone 5 "Define process of code standardisation," led by Michael Berks. Completed.
+  - Deliverable 1 "DC code collection v1.0 - unit tested". Completed.
+  - Deliverable 2 "Deliverable #2: DC library manuscript". Underway.
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |
@@ -86,9 +84,12 @@ resources:
   - website: https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection
     description: |
       Public - DSC/DCE-MRI code collection repository
+  - website: http://osipi.org/DCE-DSC-MRI_TestResults/intro.html
+    description: |
+      Public - Test results website
   - website: https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection/wiki
     description: |
-      Public - Documentation
+      Public - Documentation (wiki)
   - website: https://docs.google.com/document/d/1TXWPi6hiTA3bSQu0PbbNjnlNoVClik53Psp3QkVtvww/edit#bookmark=id.obucmtsk8skv
     description: |
       Public - Roadmap document

@@ -15,7 +15,7 @@ An initial call-to-action survey of the study group membership revealed a strong
 
 A founding board organised [launch events](/news/) during and after the ISMRM 2019 and drafted more detailed plans including this project website and logo, communication channels, governance structure and mission statement. 
 
-The plans were accepted by the ISMRM study group and the ISMRM executive committee in november 2019 and the operational phase of OSIPI was launched on 1 december 2019. OSIPI has no predefined end date and is designed to evolve as the need for coordinated perfusion software development changes.
+The plans were accepted by the ISMRM study group and the ISMRM president and president-elect in november 2019 and the operational phase of OSIPI was launched on 1 december 2019. OSIPI has no predefined end date and is designed to evolve as the need for coordinated perfusion software development changes.
 
 *OSIPI founding board:* Laura Bell, Patricia Clement, Charlotte Debus, Andrey Fedorov, Simon Levy, Steven Sourbron, and Frank Zoellner. 
 

@@ -36,8 +36,7 @@ callforaction:
   style: alert
 
 preamble:
-  text: PLEASE NOTE that this website is currently not updated, as we are designing a new website. COMING SOON! OSIPI’s 
-mission is to create open access resources for perfusion imaging research in order to eliminate the practice of duplicate development, improve the reproducibility of perfusion imaging research, and speed up the translation into tools for discovery science, drug development, and clinical practice.
+  text: PLEASE NOTE that this website is currently not updated, as we are designing a new website. STAY TUNED
 
 permalink: /index.html
 #

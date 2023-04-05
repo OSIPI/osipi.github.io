@@ -19,9 +19,10 @@ monitors its implementation, and reports back to the [ISMRM Perfusion Study Grou
 The EMB consists of the OSIPI leadership team and one co-lead for each task force. Meetings are held quarterly.
 
 {:.list-title}
-**Current OSIPI Roadmap**
+**OSIPI Roadmaps**
 
-- [Roadmap 2020-2022, Version 2.0](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) 
+- [Roadmap 1 2020-2022](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub)
+- [Roadmap 2 2023-2025](https://docs.google.com/document/d/e/2PACX-1vQqOATrWE2COIXq4qTkEe1Bix26GVr_-YTKUJbevCPXXFJf_nMKH3_Nw3DMsY2BcZHPKBG3EOg4SU4r/pub)
 
 {:.list-title}
 **Current EMB members**
@@ -39,13 +40,6 @@ The EMB consists of the OSIPI leadership team and one co-lead for each task forc
 {:.list-title}
 **EMB meetings [(Minutes)](https://drive.google.com/open?id=1zjiT6dmbC7t1Svii_HG6NpYE8iS8bnR-GIf_-m02Fhc)**
 
-- NEXT UP! 2021.08.24 Seventh EMB meeting at 4.00-5pm Brussels time, 10-11am New York, 7-8am Los Angeles.
-- 2021.05.11 Sixth EMB meeting at 3.30-5pm London time, 4.30-6pm Brussels time, 10.30am-12:00pm New York, 7.30-9am Los Angeles.
-- 2021.02.16 Fifth EMB meeting at 3.30-5pm London time, 4.30-6pm Brussels time, 10.30am-12:00pm New York, 7.30-9am Los Angeles.
-- 2020.11.17 Fourth EMB meeting at 3.30-5pm London time, 4.30-6pm Brussels time, 10.30am-12:00pm New York, 7.30-9am Los Angeles.
-- 2020.08.04 Third EMB meeting at 3.30-5pm London time, 4.30-6pm Brussels time, 10.30am-12:00pm New York, 7.30-9am Los Angeles.
-- 2020.04.21 Second EMB meeting at 3-4pm London time, 4-5pm Brussels time, 11-12am New York, 8-9am Los Angeles 
-- 2020.02.07 First EMB meeting at 15:00 GMT 
 
 {:.list-title}
 **EMB links**

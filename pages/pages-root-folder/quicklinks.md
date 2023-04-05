@@ -20,7 +20,7 @@ The overall aims and strategy of OSIPI are laid out in the [strategic plan](http
 
 **Roadmap**
 ---
-The OSIPI Roadmap is available [here](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub) and maps out the implementation of the strategic plan and is revisited at regular intervals by the [Executive & Management Board](/emb/).
+The current OSIPI Roadmap 2 (2023-2025) is available [here](https://docs.google.com/document/d/e/2PACX-1vQqOATrWE2COIXq4qTkEe1Bix26GVr_-YTKUJbevCPXXFJf_nMKH3_Nw3DMsY2BcZHPKBG3EOg4SU4r/pub) and maps out the implementation of the strategic plan and is revisited at regular intervals by the [Executive & Management Board](/emb/).
 
 **Governance**
 ---

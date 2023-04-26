@@ -32,6 +32,6 @@ OSIPI is an initiative of the [ISMRM perfusion study group](https://www.ismrm.or
 
 **Website**
 ---
-The [OSIPI webpage](https://www.osipi.org) is hosted on [github](https://github.com/OSIPI/osipi.github.io/). Feel free to contribute - instructions are provided [here](https://docs.google.com/document/d/1cJV7rnJEzPXu_hyDiw8PEZtw27N1jthtuWXPynBpjmk/edit?usp=sharing) if you are not familiar with Github.
+The [OSIPI webpage](https://osipi.github.io) is hosted on [github](https://github.com/OSIPI/osipi.github.io/). Feel free to contribute - instructions are provided [here](https://docs.google.com/document/d/1cJV7rnJEzPXu_hyDiw8PEZtw27N1jthtuWXPynBpjmk/edit?usp=sharing) if you are not familiar with Github.
 
 

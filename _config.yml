@@ -17,7 +17,7 @@ slogan: '(OSIPI)'
 description: 'OSIPI aims to develop resources and best practices for the analysis of perfusion imaging data and interoperability of the analysis results'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="https://www.osipi.org/">OSIPI</a>'
+credits: '<p>Created with &hearts; by <a href="https://osipi.github.io/">OSIPI</a>'
 
 # Main author of the website
 # See > authors.yml
@@ -25,7 +25,7 @@ author: osipi
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://www.osipi.org'
+url: 'https://osipi.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/OSIPI/osipi.github.io/blob/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://www.osipi.org/images/'
+urlimg: 'https://osipi.github.io/images/'
 
 
 # Logo size is 600x80 pixels

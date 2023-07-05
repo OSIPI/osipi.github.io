@@ -9,56 +9,54 @@ description: |
   **Note that most Taskforce 2.3 activity is now taking place in our public [DSC-/DCE-MRI Python code repository](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection) on Github. Please visit the repository [wiki](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection/wiki) for detailed information.**
   
   Please contact the leads if you are interested in joining the taskforce or in contributing code.  
+# leads:
+#   - name: Michael Thrippleton
+#     location: Centre for Clinical Brain Sciences, University of Edinburgh, UK
+#     website: https://www.ed.ac.uk/profile/dr-michael-thrippleton
+#     role: Lead
+#     email: m.j.thrippleton@ed.ac.uk 
+#   - name: Petra van Houdt
+#     location: the Netherlands Cancer Institute, Amsterdam, NL
+#     website: https://www.nki.nl/divisions/radiotherapy/van-der-heide-uulke-group/
+#     role: Co-lead
+#     email: p.v.houdt@nki.nl 
 leads:
-  - name: Michael Thrippleton
-    location: Centre for Clinical Brain Sciences, University of Edinburgh, UK
-    website: https://www.ed.ac.uk/profile/dr-michael-thrippleton
+  - name: Sirisha Tadimalla
+    location: University of Sydney, Australia
+    website: https://www.sydney.edu.au/science/about/our-people/academic-staff/sirisha-tadimalla.html
     role: Lead
-    email: m.j.thrippleton@ed.ac.uk 
-  - name: Petra van Houdt
-    location: the Netherlands Cancer Institute, Amsterdam, NL
-    website: https://www.nki.nl/divisions/radiotherapy/van-der-heide-uulke-group/
+    email: sirisha.tadimalla@sydney.edu.au
+  - name: Lucy Kershaw
+    location: University of Edinburgh, UK
+    website: 
     role: Co-lead
-    email: p.v.houdt@nki.nl 
+    email: lucy.kershaw@ed.ac.uk 
 members:
+  - name: Michael Thrippleton
+    location: University of Edinburgh
+  - name: Petra van Houdt
+    location: The Netherlands Cancer Institute, Amsterdam, NL
   - name: Ben Dickie
     location: University of Manchester
-  - name: Jonathan Arvidsson
-    location: University of Gothenburg
   - name: Michael Berks
     location: University of Manchester
-  - name: Samuel Barnes
-    location: Loma Linda University
-  - name: Martin Craig
-    location: University of Oxford
   - name: Ingomar Gutmann
     location: University of Vienna 
   - name: Zaki Ahmed
     location: Mayo Clinic
-  - name: Ben Ellingson
-    location: University of California, Los Angeles
-  - name: Federico Pineda
-    location: University of Chicago
-  - name: Matthias Schabel
-    location: Oregon Health & Science University
   - name: Sudarshan Ragunathan
     location: Barrow Neurological Institute
   - name: Luis Torres
     location: University of Wisconsin - Madison
-  - name: Laura Bell
-    location: Genentech, Inc.
-  - name: Sirisha Tadimalla
-    location: University of Sydney
   - name: Yu Sun
     location: University of Sydney
-  - name: Lucy Kershaw
-    location: University of Edinburgh
-  - name: Jesper Kallehauge
-    location: Aarhus University
-  - name: Oliver Gurney-Champion
-    location: Amsterdam University Medical Center, location AMC
-  - name: Adam Tattersall
-    location: University of Edinburgh
+  - name: Yu-Feng (Erin) Wang
+    location: University of Sydney
+  - name: Steven Sourbron
+    location: University of Sheffield
+  - name: Nick Dowell
+    location: University of Sussex
+
      
 status:  
   - A DSC/DCE-MRI code collection repository has been set up. Code collection and testing are underway (see [here](https://github.com/OSIPI/DCE-DSC-MRI_CodeCollection/blob/develop/doc/code_contributions_record.csv) for overview of progress).
@@ -72,7 +70,10 @@ status:
   - 01/05/2021 Milestone 4 "Unit test process finalized". Completed.
   - 01/10/2021 Milestone 5 "Define process of code standardisation," led by Michael Berks. Completed.
   - Deliverable 1 "DC code collection v1.0 - unit tested". Completed.
-  - Deliverable 2 "Deliverable #2: DC library manuscript". Underway.
+  - Deliverable 2 "DC library manuscript". Completed.
+
+  - New roadmap complete and underway
+
 links:
   - website: https://drive.google.com/drive/folders/1vCVhyKfdMdUORmSgl-M7Du71qDjsRurc
     description: |

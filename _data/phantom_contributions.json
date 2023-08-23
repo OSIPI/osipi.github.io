@@ -1,4 +1,36 @@
 [
+  {
+        "name": "Synthetic ASL DRO",
+        "contactFirstName": "Frank",
+        "contactLastName": "Zoellner",
+        "contactEmail": "frank.zoellner@medma.uni-heidelberg.de",
+        "contactInstitution": "Computer Assisted Clinical Medicine, Mannheim INstitute for Intelligent Systems in Medicine, Medical Faculty Mannheim, Heidelberg University",
+        "contactInstitutionUrl": "https://www.umm.uni-heidelberg.de/miism/computer-assisted-clinical-medicine/",
+        "type": [
+            "DRO",
+            "Source Code"
+        ],
+        "modality": [
+            "ASL"
+        ],
+        "shortDescription": "Synthetic renal ASL data sets",
+        "longDescription": "Synthetic renal ASL data sets simulating in-vivo acquisitions were generated using body models from the XCAT phantom, the general kinetic model and literature values for tissue properties. Sequence and ASL parameters were set in accordance with the current renal ASL consensus. Five PASL and five PCASL data sets with healthy perfusion and one PCASL data set with abnormal perfusion are available",
+        "imageFile": "",
+        "url": [
+            "https://doi.org/10.11588/data/QAHWSF"
+        ],
+        "references": [
+            {
+                "refText": "Brumer I, Bauer DF, Schad LR, Zöllner FG. Synthetic Arterial Spin Labeling MRI of the Kidneys for Evaluation of Data Processing Pipeline. Diagnostics. 2022; 12(8):1854",
+                "refUrl": "https://doi.org/10.3390/diagnostics12081854"
+            }
+        ],
+        "activities": [
+            "Collaborations to further develop the DRO",
+            "Collaborations to use the DRO to test ASL analysis software"
+        ],
+        "dateAdded": "2023-08-23"
+    },
     {
         "name": "ASLDRO",
         "contactFirstName": "Aaron",

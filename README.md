@@ -1,5 +1,5 @@
 # DEPRECATED
-This website has been deprecated. Please visit our new website hosted by [ISMRM](osipi.ismrm.org).
+This website has been deprecated. Please visit our new website hosted by [ISMRM](http://osipi.ismrm.org).
 
 # Welcome to the Osipi Website Repo
 

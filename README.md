@@ -1,3 +1,6 @@
+# DEPRECATED
+This website has been deprecated. Please visit our new website hosted by [ISMRM](osipi.ismrm.org).
+
 # Welcome to the Osipi Website Repo
 
 This is the repository hosting the content of the web site for the Open Science Initiative for Perfusion Imaging (OSIPI)

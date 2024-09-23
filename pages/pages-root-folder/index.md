@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: "Redirecting"
-redirect_to: https://yournewdomain.com
+redirect_to: https://osipi.ismrm.org
 permalink: /index.html
 homepage: true
 ---

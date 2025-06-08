@@ -15,6 +15,8 @@ copyright: Copyright &copy; 2025 OSIPI
 # Configuration
 theme:
   name: material
+  logo: assets/osipiImgs/OSIPI_logo.png
+  favicon: assets/osipiImgs/OSIPI_logo_only_square.png
   custom_dir: docs/overrides
   features:
     - announce.dismiss
@@ -66,9 +68,6 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
 
 # Plugins
 plugins:
@@ -84,6 +83,9 @@ extra:
       link: https://github.com/OSIPI
     - icon: fontawesome/brands/slack
       link: https://app.slack.com/client/TFGVCE9HS
+
+extra_css:
+    - assets/stylesheets/extra.css
 
 # Extensions
 markdown_extensions:
@@ -141,4 +143,23 @@ not_in_nav: |
 # Page tree
 nav:
   - Home: index.md
-  - Getting started: getting-started.md
+
+  - Getting started:
+      - Overview: getting-started.md
+
+  - Lexicons:
+      - Overview: lexicons.md
+      - "(TF4.1) ASL Lexicon": https://osipi.github.io/ASL-Lexicon/
+      - "(TF4.2) Caplex – Contrast-agent based perfusion MRI": https://osipi.github.io/OSIPI_CAPLEX/
+
+  - Python Code Repositories:
+      - Overview: pyCode.md
+      - "OSIPI Python package": https://github.com/OSIPI/osipi
+      - "(TF2.2) ASL toolbox": https://github.com/OSIPI/TF2.2_OSIPI-ASL-toolbox/blob/main/ASL_functionalities_test_report_Github.docx
+      - "(TF2.3) DCE/DSC repository": https://osipi.github.io/DCE-DSC-MRI_TestResults/intro.html
+      - "(TF2.4) IVIM repository": https://osipi.github.io/TF2.4_IVIM-MRI_CodeCollection/
+
+  - Tools:
+      - Overview: tools.md
+      - "ASL parameter generator": https://github.com/OSIPI/asl-parameter-reporter
+      - "Artefact database": https://github.com/OSIPI/perfusion-artifacts

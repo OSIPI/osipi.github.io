@@ -36,7 +36,7 @@ theme:
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
-    - navigation.sections
+    # - navigation.sections
     - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
@@ -69,13 +69,19 @@ theme:
     text: Roboto
     code: Roboto Mono
 
-# Plugins
 plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
-
+  - multirepo:
+      cleanup: false
+      nav_repos:
+        - name: osipi-python-package
+          import_url: https://github.com/OSIPI/osipi?branch=main
+          imports: [
+            docs/index.md,docs/user-guide/*,docs/about/index.md, docs/contribution/index.md
+          ]
 # Additional configuration
 extra:
   social:
@@ -150,14 +156,34 @@ nav:
   - Lexicons:
       - Overview: lexicons.md
       - "(TF4.1) ASL Lexicon": https://osipi.github.io/ASL-Lexicon/
-      - "(TF4.2) Caplex – Contrast-agent based perfusion MRI": https://osipi.github.io/OSIPI_CAPLEX/
+      - "(TF4.2) Caplex – Contrast-agent based perfusion MRI": '!import https://github.com/OSIPI/OSIPI_CAPLEX?branch=main&docs_dir=docs&multi_docs=True&config=mkdocs.yml&keep_docs_dir=true'
 
   - Python Code Repositories:
       - Overview: pyCode.md
-      - "OSIPI Python package": https://github.com/OSIPI/osipi
-      - "(TF2.2) ASL toolbox": https://github.com/OSIPI/TF2.2_OSIPI-ASL-toolbox/blob/main/ASL_functionalities_test_report_Github.docx
-      - "(TF2.3) DCE/DSC repository": https://osipi.github.io/DCE-DSC-MRI_TestResults/intro.html
-      - "(TF2.4) IVIM repository": https://osipi.github.io/TF2.4_IVIM-MRI_CodeCollection/
+
+      - OSIPI Python package:
+        - Overview: osipi-python-package/docs/index.md
+        - User Guide:
+            - Overview: osipi-python-package/docs/user-guide/index.md
+            - Installation: osipi-python-package/docs/user-guide/install.md
+            - Simulating data:
+                - Overview: osipi-python-package/docs/user-guide/simulate.md
+                - Simulate: osipi-python-package/docs/user-guide/gen_aif.md
+            - Fitting data:
+                - Overview: osipi-python-package/docs/user-guide/fitting.md
+                - Fit: osipi-python-package/docs/user-guide/fit_tissue.md
+        - About: osipi-python-package/docs/about/index.md
+        - Developer Guide: osipi-python-package/docs/contribution/index.md
+        - References: https://osipi.github.io/osipi/references/
+        - Examples: https://osipi.github.io/osipi/generated/gallery/
+
+          
+      - "(TF2.2) ASL toolbox":
+        - Documentation: https://github.com/OSIPI/TF2.2_OSIPI-ASL-toolbox/blob/main/ASL_functionalities_test_report_Github.docx
+      - "(TF2.3) DCE/DSC repository":
+        - Documentation: https://osipi.github.io/DCE-DSC-MRI_TestResults/intro.html
+      - "(TF2.4) IVIM repository": 
+        - Documentation: https://osipi.github.io/TF2.4_IVIM-MRI_CodeCollection/
 
   - Tools:
       - Overview: tools.md

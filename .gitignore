@@ -38,6 +38,9 @@ example.zip
 TODO
 tmp
 
+# Temporary folder
+temp_dir/
+
 # IDEs & Editors
 .idea
 *~

@@ -22,3 +22,6 @@
   {{ super() }}
   <script src="{{ 'assets/javascripts/custom.9e5da760.min.js' | url }}"></script>
 {% endblock %}
+{% block htmltitle %}
+  <title>{{ config.site_name }}</title>
+{% endblock %}

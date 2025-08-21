@@ -3,3 +3,9 @@ mkdocs-multirepo-plugin
 mkdocs-material
 mkdocs-material-extensions
 mkdocs-minify-plugin
+mkdocs-jupyter
+Pygments
+jupyter-book
+pytest
+wheel
+mkdocs-open-in-new-tab

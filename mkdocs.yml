@@ -82,6 +82,9 @@ plugins:
           imports: [
             docs/index.md,docs/user-guide/*,docs/about/index.md, docs/contribution/index.md
           ]
+  - open-in-new-tab
+  - mkdocs-jupyter
+  # - mknotebooks
 # Additional configuration
 extra:
   social:
@@ -92,12 +95,17 @@ extra:
 
 extra_css:
     - assets/stylesheets/extra.css
+extra_javascript:
+  - js/mathjax-config.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 
 # Extensions
 markdown_extensions:
   - abbr
   - admonition
   - attr_list
+  - codehilite
   - def_list
   - footnotes
   - md_in_html
@@ -177,11 +185,10 @@ nav:
         - References: https://osipi.github.io/osipi/references/
         - Examples: https://osipi.github.io/osipi/generated/gallery/
 
-          
       - "(TF2.2) ASL repository":
         - Documentation: https://github.com/OSIPI/TF2.2_OSIPI-ASL-toolbox/blob/main/ASL_functionalities_test_report_Github.docx
       - "(TF2.3) DCE/DSC repository":
-        - Documentation: https://osipi.github.io/DCE-DSC-MRI_TestResults/intro.html
+        - Documentation: https://rohankrmahato.github.io/DCE-DSC-MRI_CodeCollection/
       - "(TF2.4) IVIM repository": 
         - Documentation: https://osipi.github.io/TF2.4_IVIM-MRI_CodeCollection/
 

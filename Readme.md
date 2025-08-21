@@ -1,72 +1,56 @@
-## 🛠️ Setup and Run Instructions
+# Guide to run this documentation locally
 
-Follow these steps to set up and run the project:
+## 1. Create a Virtual Environment
 
----
-
-### 1. ✅ Prerequisites
-
-Make sure **Python** is installed on your system. You can verify it by running:
+Run the following command in your project directory:
 
 ```bash
-python --version
+python -m venv venv
 ```
+
+This will create a folder named **`venv`** containing the virtual environment.
 
 ---
 
-### 2. 📦 Initialize the Virtual Environment
+## 2. Activate the Virtual Environment
 
-Set up your environment and install dependencies with:
+To start using the virtual environment:
 
-```bash
-python setup_env.py initialize
-```
-
-This will:
-
-* Create a virtual environment (default: `venv`)
-* Install all packages listed in `requirements.txt`
-* Output the command to activate the virtual environment
-
----
-
-### 3. 🚀 Activate the Virtual Environment
-
-Use the command printed after initialization to activate the environment:
-
-* On **Windows** (use **Git Bash** for compatibility — PowerShell/CMD may not work):
-
-  ```bash
-  source venv/Scripts/activate
-  ```
-
-* On **macOS/Linux**:
+* **On macOS/Linux:**
 
   ```bash
   source venv/bin/activate
   ```
 
+* **On Windows (Git Bash):**
+
+  ```powershell
+  source venv/Scripts/activate
+  ```
+
 ---
 
-### 4. 🔧 Start the Development Server
+## 3. Install Dependencies
 
-Once the virtual environment is active, start the MkDocs server:
+If you have a `requirements.txt` file in your project:
 
 ```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 4. Serve the Mkdocs locally
+
+```
 mkdocs serve
 ```
+This will start the mkdocs server
 
-This will launch a local server at:
-👉 `http://127.0.0.1:8000`
+## 5 ( Optional ). Deactivate the Virtual Environment
 
----
-
-### 5. 🧹 Clean Up (Optional)
-
-To remove the virtual environment and temporary files, run:
+When finished working, you can exit the environment with:
 
 ```bash
-python setup_env.py clean
+deactivate
 ```
-
-This will delete the environment and clean the project directory.

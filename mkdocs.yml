@@ -24,28 +24,16 @@ theme:
     - content.action.view
     - content.code.annotate
     - content.code.copy
-    # - content.code.select
-    # - content.footnote.tooltips
-    # - content.tabs.link
     - content.tooltips
-    # - header.autohide
-    # - navigation.expand
     - navigation.footer
     - navigation.indexes
-    # - navigation.instant
-    # - navigation.instant.prefetch
-    # - navigation.instant.progress
-    # - navigation.prune
-    # - navigation.sections
     - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
     - toc.follow
-    # - toc.integrate
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -76,15 +64,8 @@ plugins:
       minify_html: true
   - multirepo:
       cleanup: false
-      nav_repos:
-        - name: osipi-python-package
-          import_url: https://github.com/OSIPI/osipi?branch=main
-          imports: [
-            docs/index.md,docs/user-guide/*,docs/about/index.md, docs/contribution/index.md
-          ]
   - open-in-new-tab
-  - mkdocs-jupyter
-  # - mknotebooks
+
 # Additional configuration
 extra:
   social:
@@ -169,26 +150,13 @@ nav:
   - Python Code Repositories:
       - Overview: pyCode.md
 
-      - OSIPI Python package:
-        - Overview: osipi-python-package/docs/index.md
-        - User Guide:
-            - Overview: osipi-python-package/docs/user-guide/index.md
-            - Installation: osipi-python-package/docs/user-guide/install.md
-            - Simulating data:
-                - Overview: osipi-python-package/docs/user-guide/simulate.md
-                - Simulate: osipi-python-package/docs/user-guide/gen_aif.md
-            - Fitting data:
-                - Overview: osipi-python-package/docs/user-guide/fitting.md
-                - Fit: osipi-python-package/docs/user-guide/fit_tissue.md
-        - About: osipi-python-package/docs/about/index.md
-        - Developer Guide: osipi-python-package/docs/contribution/index.md
-        - References: https://osipi.github.io/osipi/references/
-        - Examples: https://osipi.github.io/osipi/generated/gallery/
+      - "OSIPI Python package": https://osipi.github.io/osipi
 
       - "(TF2.2) ASL repository":
         - Documentation: https://github.com/OSIPI/TF2.2_OSIPI-ASL-toolbox/blob/main/ASL_functionalities_test_report_Github.docx
       - "(TF2.3) DCE/DSC repository":
-        - Documentation: https://rohankrmahato.github.io/DCE-DSC-MRI_CodeCollection/
+        - Documentation: https://osipi.github.io/DCE-DSC-MRI_CodeCollection/
+        # DCE-DSC-MRI_CodeCollection github pages is currently not setup - once setup, this will redirect to that page
       - "(TF2.4) IVIM repository": 
         - Documentation: https://osipi.github.io/TF2.4_IVIM-MRI_CodeCollection/
 

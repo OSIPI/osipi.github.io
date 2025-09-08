@@ -150,7 +150,8 @@ nav:
   - Python Code Repositories:
       - Overview: pyCode.md
 
-      - "OSIPI Python package": https://osipi.github.io/osipi
+      - "OSIPI Python package":
+        - Documentation: https://osipi.github.io/osipi
 
       - "(TF2.2) ASL repository":
         - Documentation: https://github.com/OSIPI/TF2.2_OSIPI-ASL-toolbox/blob/main/ASL_functionalities_test_report_Github.docx

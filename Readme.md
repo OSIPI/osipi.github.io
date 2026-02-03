@@ -63,7 +63,7 @@ Example:
 - multirepo:
     nav_repos:
       - name: osipi-python-package
-        import_url: https://github.com/OSIPI/osipi?branch=main
+        import_url: https://github.com/OSIPI/osipy?branch=main
         imports: [
           docs/index.md, docs/user-guide/*, docs/about/index.md
         ]
@@ -74,8 +74,8 @@ nav:
       - Overview: osipi-python-package/docs/index.md
       - User Guide: osipi-python-package/docs/user-guide/index.md
       # below we are redirecting with hyperlink
-      - References: https://osipi.github.io/osipi/references/
-      - Examples: https://osipi.github.io/osipi/generated/gallery/
+      - References: https://osipi.github.io/osipy/references/
+      - Examples: https://osipi.github.io/osipy/generated/gallery/
 ```
 
 This works, but it **clutters `mkdocs.yml`** and introduces complexity. For now, we keep it simple:

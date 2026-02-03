@@ -1,0 +1,10 @@
+mkdocs
+mkdocs-multirepo-plugin
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-minify-plugin
+mkdocs-jupyter
+Pygments
+pytest
+wheel
+mkdocs-open-in-new-tab

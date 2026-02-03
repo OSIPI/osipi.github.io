@@ -1,0 +1,22 @@
+/* Force the table to use the full page width, may cause issues on mobile */
+.md-typeset__table {
+    width: 100%;
+}
+
+.md-typeset__table table:not([class]) {
+    display: table
+}
+/* This automatically stretches the site contents to monitor width*/
+.md-grid {
+    max-width: initial;
+}
+/* Preserve words so they are not broken in the middle on newlines */
+.md-typeset td {
+    overflow-wrap: break-word;
+}
+/* Control hyperlink button properties */
+.md-button.md-button--hyperlink {
+    /* top | right | bottom | left */
+    padding: 3px 2px;
+    font-size: 12px;
+}

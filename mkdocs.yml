@@ -75,11 +75,10 @@ extra:
       link: https://app.slack.com/client/TFGVCE9HS
 
 extra_css:
-    - assets/stylesheets/extra.css
+  - assets/stylesheets/extra.css
 extra_javascript:
   - js/mathjax-config.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
 
 # Extensions
 markdown_extensions:
@@ -145,21 +144,21 @@ nav:
   - Lexicons:
       - Overview: lexicons.md
       - "(TF4.1) ASL Lexicon": https://osipi.github.io/ASL-Lexicon/
-      - "(TF4.2) Caplex – Contrast-agent based perfusion MRI": '!import https://github.com/OSIPI/OSIPI_CAPLEX?branch=main&docs_dir=docs&multi_docs=True&config=mkdocs.yml&keep_docs_dir=true'
+      - "(TF4.2) Caplex – Contrast-agent based perfusion MRI": "!import https://github.com/OSIPI/OSIPI_CAPLEX?branch=main&docs_dir=docs&multi_docs=True&config=mkdocs.yml&keep_docs_dir=true"
 
   - Python Code Repositories:
       - Overview: pyCode.md
 
       - "OSIPI Python package":
-        - Documentation: https://osipi.github.io/osipi
+          - Documentation: https://osipi.github.io/osipy
 
       - "(TF2.2) ASL repository":
-        - Documentation: https://github.com/OSIPI/TF2.2_OSIPI-ASL-toolbox/blob/main/ASL_functionalities_test_report_Github.docx
+          - Documentation: https://github.com/OSIPI/TF2.2_OSIPI-ASL-toolbox/blob/main/ASL_functionalities_test_report_Github.docx
       - "(TF2.3) DCE/DSC repository":
-        - Documentation: https://osipi.github.io/DCE-DSC-MRI_CodeCollection/
+          - Documentation: https://osipi.github.io/DCE-DSC-MRI_CodeCollection/
         # DCE-DSC-MRI_CodeCollection github pages is currently not setup - once setup, this will redirect to that page
-      - "(TF2.4) IVIM repository": 
-        - Documentation: https://osipi.github.io/TF2.4_IVIM-MRI_CodeCollection/
+      - "(TF2.4) IVIM repository":
+          - Documentation: https://osipi.github.io/TF2.4_IVIM-MRI_CodeCollection/
 
   - Tools:
       - Overview: tools.md

@@ -8,7 +8,7 @@
 }
 /* This automatically stretches the site contents to monitor width*/
 .md-grid {
-    max-width: initial;
+    max-width: 90vw;
 }
 /* Preserve words so they are not broken in the middle on newlines */
 .md-typeset td {
@@ -19,4 +19,9 @@
     /* top | right | bottom | left */
     padding: 3px 2px;
     font-size: 12px;
+}
+
+.md-header__button.md-logo{
+    padding-bottom: 18px;
+    scale: 1.2;
 }

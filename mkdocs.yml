@@ -153,10 +153,9 @@ nav:
           - Documentation: https://osipi.github.io/osipy
 
       - "(TF2.2) ASL repository":
-          - Documentation: https://github.com/OSIPI/TF2.2_OSIPI-ASL-toolbox/blob/main/ASL_functionalities_test_report_Github.docx
+          - Documentation: https://osipi.github.io/TF2.2_OSIPI-ASL-toolbox/
       - "(TF2.3) DCE/DSC repository":
           - Documentation: https://osipi.github.io/DCE-DSC-MRI_CodeCollection/
-        # DCE-DSC-MRI_CodeCollection github pages is currently not setup - once setup, this will redirect to that page
       - "(TF2.4) IVIM repository":
           - Documentation: https://osipi.github.io/TF2.4_IVIM-MRI_CodeCollection/
 

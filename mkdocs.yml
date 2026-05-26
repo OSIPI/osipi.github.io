@@ -72,7 +72,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/OSIPI
     - icon: fontawesome/brands/slack
-      link: https://app.slack.com/client/TFGVCE9HS
+      link: https://osipi.slack.com
 
 extra_css:
   - assets/stylesheets/extra.css
@@ -141,6 +141,12 @@ nav:
   - Getting started:
       - Overview: getting-started.md
 
+  - Task Forces:
+      - "Roadmap 2026-2028": https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk
+
+  - Open Calls:
+      - "IVIM Data Collection Initiative": https://docs.google.com/forms/d/1WHHWj5jNg5NSdvVH-E1QQzF5pQMnN9cWeDvaVPdVwO8/edit
+      
   - Lexicons:
       - Overview: lexicons.md
       - "(TF4.1) ASL Lexicon": https://osipi.github.io/ASL-Lexicon/
@@ -163,3 +169,16 @@ nav:
       - Overview: tools.md
       - "ASL parameter generator": https://github.com/OSIPI/asl-parameter-reporter
       - "Artefact database": https://github.com/OSIPI/perfusion-artifacts
+
+  - Learning:
+      - "ASL Tutorials": https://youtube.com/playlist?list=PLTIlnXdb9rwhoO8afyba3GQSh8ueShJ03&si=rTJUBVXftFicno3j
+      - "Recommended Literature": 
+          - "ASL Literature": aslliterature.md
+          - "DSC Literature": dscliterature.md
+          - "DCE Literature": dceliterature.md
+      - "TACTIX MRI Tutorials": https://www.youtube.com/@TACTIXTwinningProject/playlists
+
+  - Publications:
+      - "OSIPI Papers": osipipapers.md
+      - "ISMRM Abstracts": ismrmabstracts.md
+          

@@ -142,9 +142,11 @@ nav:
       - Overview: getting-started.md
 
   - Task Forces:
+      - Overview: taskforces.md
       - "Roadmap 2026-2028": https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk
 
   - Open Calls:
+      - Overview: opencalls.md
       - "IVIM Data Collection Initiative": https://docs.google.com/forms/d/1WHHWj5jNg5NSdvVH-E1QQzF5pQMnN9cWeDvaVPdVwO8/edit
       
   - Lexicons:
@@ -171,6 +173,7 @@ nav:
       - "Artefact database": https://github.com/OSIPI/perfusion-artifacts
 
   - Learning:
+      - Overview: learning.md
       - "ASL Tutorials": https://youtube.com/playlist?list=PLTIlnXdb9rwhoO8afyba3GQSh8ueShJ03&si=rTJUBVXftFicno3j
       - "Recommended Literature": 
           - "ASL Literature": aslliterature.md
@@ -179,6 +182,7 @@ nav:
       - "TACTIX MRI Tutorials": https://www.youtube.com/@TACTIXTwinningProject/playlists
 
   - Publications:
+      - Overview: publications.md
       - "OSIPI Papers": osipipapers.md
       - "ISMRM Abstracts": ismrmabstracts.md
           

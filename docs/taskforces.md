@@ -5,7 +5,7 @@ OSIPI's aims are addressed through dedicated Task Forces. The objectives, time p
 !!! abstract "Template (TFX.X)"
     Description of the Task force
 
-    Task Force leaders: [Name](email@gmail.com), name
-    Task Force members:
-    📘 [Documentation](https://osipi.github.io/)  
-    🧪 [GitHub Repository](https://github.com/osipi)
+    Task Force leaders: [Name](email@gmail.com), name <br>
+    Task Force members: <br>
+    [📘 Documentation](https://osipi.github.io/)  <br>
+    [🧪 GitHub Repository](https://github.com/osipi)

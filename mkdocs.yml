@@ -78,6 +78,7 @@ extra_css:
   - assets/stylesheets/extra.css
 extra_javascript:
   - js/mathjax-config.js
+  - javascripts/fix-xitter-tooltip.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Extensions

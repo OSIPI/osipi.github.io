@@ -141,10 +141,8 @@ not_in_nav: |
 nav:
   - Home: index.md
 
-  - Getting started:
-      - Overview: getting-started.md
-
   - About:
+      - Getting started: getting-started.md
       - About OSIPI: about.md
       - Executive & Management Board: emb.md
       - Strategy Board: strategy-board.md
@@ -173,48 +171,47 @@ nav:
           - "(TF6.2) DSC/DCE Challenge": tf/tf6-2.md
       - "Roadmap 2026-2028": https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk
 
-  - Open Calls:
-      - Overview: opencalls.md
-      - "IVIM Data Collection Initiative": https://docs.google.com/forms/d/1WHHWj5jNg5NSdvVH-E1QQzF5pQMnN9cWeDvaVPdVwO8/edit
-      
-  - Lexicons:
-      - Overview: lexicons.md
-      - "(TF4.1) ASL Lexicon": https://osipi.github.io/ASL-Lexicon/
-      - "(TF4.2) Caplex – Contrast-agent based perfusion MRI": "!import https://github.com/OSIPI/OSIPI_CAPLEX?branch=main&docs_dir=docs&multi_docs=True&config=mkdocs.yml&keep_docs_dir=true"
+  - Resources:
+      - resources.md
+      - Lexicons:
+          - Overview: lexicons.md
+          - "(TF4.1) ASL Lexicon": https://osipi.github.io/ASL-Lexicon/
+          - "(TF4.2) Caplex – Contrast-agent based perfusion MRI": "!import https://github.com/OSIPI/OSIPI_CAPLEX?branch=main&docs_dir=docs&multi_docs=True&config=mkdocs.yml&keep_docs_dir=true"
+      - Code Repositories:
+          - Overview: pyCode.md
+          - "OSIPI Python package":
+              - Documentation: https://osipi.github.io/osipy
+          - "(TF2.2) ASL repository":
+              - Documentation: https://osipi.github.io/TF2.2_OSIPI-ASL-toolbox/
+          - "(TF2.3) DCE/DSC repository":
+              - Documentation: https://osipi.github.io/DCE-DSC-MRI_CodeCollection/
+          - "(TF2.4) IVIM repository":
+              - Documentation: https://osipi.github.io/TF2.4_IVIM-MRI_CodeCollection/
+      - Tools:
+          - Overview: tools.md
+          - "ASL parameter generator": https://github.com/OSIPI/asl-parameter-reporter
+          - "Artefact database": https://github.com/OSIPI/perfusion-artifacts
 
-  - Python Code Repositories:
-      - Overview: pyCode.md
+  - Learning & Publications:
+      - learning-publications.md
+      - Learning:
+          - Overview: learning.md
+          - "ASL Tutorials": https://youtube.com/playlist?list=PLTIlnXdb9rwhoO8afyba3GQSh8ueShJ03&si=rTJUBVXftFicno3j
+          - "Recommended Literature":
+              - "ASL Literature": aslliterature.md
+              - "DSC Literature": dscliterature.md
+              - "DCE Literature": dceliterature.md
+          - "TACTIX MRI Tutorials": https://www.youtube.com/@TACTIXTwinningProject/playlists
+      - Publications:
+          - Overview: publications.md
+          - "OSIPI Papers": osipipapers.md
+          - "ISMRM Abstracts": ismrmabstracts.md
 
-      - "OSIPI Python package":
-          - Documentation: https://osipi.github.io/osipy
-
-      - "(TF2.2) ASL repository":
-          - Documentation: https://osipi.github.io/TF2.2_OSIPI-ASL-toolbox/
-      - "(TF2.3) DCE/DSC repository":
-          - Documentation: https://osipi.github.io/DCE-DSC-MRI_CodeCollection/
-      - "(TF2.4) IVIM repository":
-          - Documentation: https://osipi.github.io/TF2.4_IVIM-MRI_CodeCollection/
-
-  - Tools:
-      - Overview: tools.md
-      - "ASL parameter generator": https://github.com/OSIPI/asl-parameter-reporter
-      - "Artefact database": https://github.com/OSIPI/perfusion-artifacts
-
-  - Learning:
-      - Overview: learning.md
-      - "ASL Tutorials": https://youtube.com/playlist?list=PLTIlnXdb9rwhoO8afyba3GQSh8ueShJ03&si=rTJUBVXftFicno3j
-      - "Recommended Literature": 
-          - "ASL Literature": aslliterature.md
-          - "DSC Literature": dscliterature.md
-          - "DCE Literature": dceliterature.md
-      - "TACTIX MRI Tutorials": https://www.youtube.com/@TACTIXTwinningProject/playlists
-
-  - Publications:
-      - Overview: publications.md
-      - "OSIPI Papers": osipipapers.md
-      - "ISMRM Abstracts": ismrmabstracts.md
-
-  - News:
-      - Overview: news.md
+  - News & Events:
+      - news-events.md
+      - News: news.md
       - "Google Summer of Code": gsoc.md
+      - Open Calls:
+          - Overview: opencalls.md
+          - "IVIM Data Collection Initiative": https://docs.google.com/forms/d/1WHHWj5jNg5NSdvVH-E1QQzF5pQMnN9cWeDvaVPdVwO8/edit
           

@@ -1,4 +1,4 @@
-# Python Code Repositories
+# Code Repositories
 
 OSIPI supports a suite of open-source codebases for reproducible and standardized perfusion MRI analysis:
 

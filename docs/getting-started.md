@@ -8,27 +8,27 @@ Welcome to **OSIPI**, the Open Science Initiative for Perfusion Imaging.
 ## Who is this for?
 
 !!! note ""
-    This hub is designed for:
+    OSIPI is for:
     
-    - 🧠 **Researchers** analyzing perfusion MRI data  
-    - 👩‍💻 **Developers** contributing tools or algorithms  
-    - 🩺 **Clinicians** using MRI in practice  
-    - 🌐 Anyone aiming to support reproducibility and interoperability
+    - **Researchers** analyzing perfusion MRI data  
+    - **Developers** contributing tools or algorithms  
+    - **Clinicians** using MRI in practice  
+    - Anyone aiming to support reproducibility and interoperability
 
 ## Start here
 
 !!! tip "Explore the key sections"
-    - ℹ️ **[About OSIPI](about.md)**  
+    - **[About OSIPI](about.md)**  
       Mission, founding history, leadership, and how the initiative is governed  
-    - 🧭 **[Task Forces](taskforces.md)**  
+    - **[Task Forces](taskforces.md)**  
       The working groups behind OSIPI's six aims, with leads and ongoing projects  
-    - 📚 **[Lexicons](lexicons.md)**  
+    - **[Lexicons](lexicons.md)**  
       Standardized terminology for ASL and contrast-agent based perfusion MRI  
-    - 🧪 **[Code Repositories](pyCode.md)**  
+    - **[Code Repositories](pyCode.md)**  
       Python and MATLAB tools for DCE, DSC, ASL, and IVIM analysis  
-    - 🛠️ **[Tools](tools.md)**  
+    - **[Tools](tools.md)**  
       Web-based utilities for dataset validation and artifact reporting  
-    - 📰 **[News](news.md)**  
+    - **[News](news.md)**  
       Announcements, challenges, events, and Google Summer of Code
 
 ## Get involved
@@ -40,4 +40,4 @@ Welcome to **OSIPI**, the Open Science Initiative for Perfusion Imaging.
 
 ---
 
-🧭 *Use the navbar to browse resources, or head directly to your topic of interest.*
+*Use the navigation to browse resources, or head directly to your topic of interest.*

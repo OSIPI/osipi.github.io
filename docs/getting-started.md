@@ -1,9 +1,9 @@
 # Getting Started
 
-Welcome to the **OSIPI Documentation Hub**
+Welcome to **OSIPI**, the Open Science Initiative for Perfusion Imaging.
 
 !!! info "What is OSIPI?"
-    **OSIPI** (Open Science Initiative for Perfusion Imaging) is an initiative of the ISMRM, aiming to improve transparency, standardization, and reproducibility in perfusion MRI. This site hosts documentation for lexicons, tools, and code repositories developed by OSIPI task forces.
+    **OSIPI** (Open Science Initiative for Perfusion Imaging) is an initiative of the ISMRM Perfusion Study Group, aiming to improve transparency, standardization, and reproducibility in perfusion MRI. OSIPI develops shared resources — lexicons, code libraries, data inventories, challenges, and education materials — through volunteer task forces. See [About OSIPI](about.md) for the mission, history, and how the initiative is organized.
 
 ## Who is this for?
 
@@ -18,12 +18,18 @@ Welcome to the **OSIPI Documentation Hub**
 ## Start here
 
 !!! tip "Explore the key sections"
-    - 📚 **Lexicons**  
+    - ℹ️ **[About OSIPI](about.md)**  
+      Mission, founding history, leadership, and how the initiative is governed  
+    - 🧭 **[Task Forces](taskforces.md)**  
+      The working groups behind OSIPI's six aims, with leads and ongoing projects  
+    - 📚 **[Lexicons](lexicons.md)**  
       Standardized terminology for ASL and contrast-agent based perfusion MRI  
-    - 🧪 **Code Repositories**  
+    - 🧪 **[Code Repositories](pyCode.md)**  
       Python and MATLAB tools for DCE, DSC, ASL, and IVIM analysis  
-    - 🛠️ **Tools**  
-      Web-based utilities for dataset validation and artifact reporting
+    - 🛠️ **[Tools](tools.md)**  
+      Web-based utilities for dataset validation and artifact reporting  
+    - 📰 **[News](news.md)**  
+      Announcements, challenges, events, and Google Summer of Code
 
 ## Get involved
 

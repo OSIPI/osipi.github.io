@@ -1,0 +1,54 @@
+name: Check links
+
+# Catches broken links before they reach master. Two layers:
+#   1. `mkdocs build --strict` fails on broken internal links and missing
+#      navigation targets.
+#   2. lychee checks external (http/https) links in the docs and mkdocs.yml.
+# Hosts that require a login or block automated requests are listed in
+# .lycheeignore so they don't produce unreliable failures.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build site (fails on broken internal links and nav)
+        run: mkdocs build --strict
+
+      - name: Check external links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --scheme http
+            --scheme https
+            --accept 200,206,429
+            --max-retries 2
+            "docs/**/*.md"
+            "mkdocs.yml"
+            "Readme.md"
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

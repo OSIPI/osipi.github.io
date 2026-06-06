@@ -50,9 +50,9 @@ Key manuscripts in perfusion MRI, curated by OSIPI Task Force 5.2 for those gett
 - Wong EC. An introduction to ASL labeling techniques. J Magn Reson Imaging. 2014 Jul;40(1):1-10. Revised:
 - Michael Chappell, Bradley MacIntosh, and Thomas Okell. [​​Introduction to Perfusion Quantification using Arterial Spin Labelling Oxford Neuroimaging Primers](https://doi.org/10.1093/oso/9780198793816.003.0001)
 - Grade M et al. [A neuroradiologist’s guide to arterial spin labeling MRI in clinical practice. Neuroradiology. 2015 57:1181–202.](https://doi.org/10.1007/s00234-015-1571-z)
-- Clement P et al. [Variability of physiological brain perfusion in healthy subjects - A systematic review of modifiers. Considerations for multi-center ASL studies. J Cereb Blood Flow Metab. 2018 Sep;38(9):1418-1437](https://doi.org/10.1177/0271678X17702156.)
+- Clement P et al. [Variability of physiological brain perfusion in healthy subjects - A systematic review of modifiers. Considerations for multi-center ASL studies. J Cereb Blood Flow Metab. 2018 Sep;38(9):1418-1437](https://doi.org/10.1177/0271678X17702156)
 - Aguirre GK, Detre J a., Wang J. [Perfusion fMRI for Functional Neuroimaging. Int Rev Neurobiol 2005; 66:213–236](https://doi.org/10.1016/S0074-7742(05)66007-2)
-- Haller S, Zaharchuk G, Thomas DL, Lovblad KO, Barkhof F, Golay X. [Arterial Spin Labeling Perfusion of the Brain: Emerging Clinical Applications. Radiology. 2016 Nov;281(2):337-356.](https://doi.org/10.1148/radiol.2016150789.)
+- Haller S, Zaharchuk G, Thomas DL, Lovblad KO, Barkhof F, Golay X. [Arterial Spin Labeling Perfusion of the Brain: Emerging Clinical Applications. Radiology. 2016 Nov;281(2):337-356.](https://doi.org/10.1148/radiol.2016150789)
 - Odudu A et al. [Arterial spin labelling MRI to measure renal perfusion: a systematic review and statement paper. Nephrol Dial Transplant. 2018 Sep 1;33(suppl_2):ii15-ii21](https://doi.org/10.1093/ndt/gfy180)
 - Nery F et al. [Consensus-based technical recommendations for clinical translation of renal ASL MRI. MAGMA. 2020 Feb;33(1):141-161](https://doi.org/10.1007/s10334-019-00800-z)
 

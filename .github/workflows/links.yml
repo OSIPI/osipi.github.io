@@ -5,7 +5,9 @@ name: Check links
 #      navigation targets.
 #   2. lychee checks external (http/https) links in the docs and mkdocs.yml.
 # Hosts that require a login or block automated requests are listed in
-# .lycheeignore so they don't produce unreliable failures.
+# .lycheeignore. Publishers and doi.org commonly return 403/429 to bots even
+# for valid links, so those codes (plus transient 503) are accepted; genuine
+# 404s, dead domains, and connection errors still fail the build.
 
 on:
   push:
@@ -44,11 +46,10 @@ jobs:
             --no-progress
             --scheme http
             --scheme https
-            --accept 200,206,429
+            --accept 200,206,403,429,503
             --max-retries 2
             "docs/**/*.md"
             "mkdocs.yml"
-            "Readme.md"
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

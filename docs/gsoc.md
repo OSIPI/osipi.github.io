@@ -15,7 +15,7 @@ OSIPI participates in the Google Summer of Code (GSoC) program to expand its con
 
 **Hanliang Xu** created a tool that automatically extracts and generates "ASL parameters" from DICOM and BIDS images. This tool is designed to assist researchers in easily describing standardized imaging parameters in their scientific publications. This work is related to TF4.1.
 
-See the [tool here](https://osipi.ismrm.org/task-forces/tf4-1/asl-methods-generator/). [Read the full report](https://github.com/Hanliang-Xu/Hanliang-Xu.github.io/blob/main/README.md).
+See the [tool here](https://osipi.ismrm.org/task-forces/tf4-1/asl-methods-generator/). [View the project repository](https://github.com/Hanliang-Xu/Hanliang-Xu.github.io).
 
 ### Setting up a framework for large-scale development
 

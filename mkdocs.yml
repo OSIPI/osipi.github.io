@@ -1,5 +1,5 @@
 # Project information
-site_name: OSIPI Documentation Hub
+site_name: OSIPI
 site_url: https://github.com/OSIPI/osipi.github.io
 site_author: OSIPI
 site_description: >-
@@ -73,6 +73,9 @@ extra:
       link: https://github.com/OSIPI
     - icon: fontawesome/brands/slack
       link: https://osipi.slack.com
+    - icon: simple/zenodo
+      link: https://zenodo.org/communities/ismrm-osipi/
+      name: OSIPI on Zenodo
 
 extra_css:
   - assets/stylesheets/extra.css
@@ -141,8 +144,33 @@ nav:
   - Getting started:
       - Overview: getting-started.md
 
+  - About:
+      - About OSIPI: about.md
+      - Executive & Management Board: emb.md
+      - Strategy Board: strategy-board.md
+      - Contributors: contributors.md
+
   - Task Forces:
       - Overview: taskforces.md
+      - "Aim 1 – Software Inventories":
+          - "(TF1.1) ASL Software Inventory": tf/tf1-1.md
+          - "(TF1.2) DSC/DCE Software Inventory": tf/tf1-2.md
+      - "Aim 2 – Code Libraries":
+          - "(TF2.2) ASL Code": tf/tf2-2.md
+          - "(TF2.3) DSC/DCE Code": tf/tf2-3.md
+          - "(TF2.4) IVIM Code": tf/tf2-4.md
+      - "Aim 3 – Data":
+          - "(TF3.1) DROs & Phantoms": tf/tf3-1.md
+          - "(TF3.2) Clinical & Preclinical Data": tf/tf3-2.md
+      - "Aim 4 – Lexicons":
+          - "(TF4.1) ASL Lexicon": tf/tf4-1.md
+          - "(TF4.2) CAPLEX": tf/tf4-2.md
+      - "Aim 5 – Exchange & Education":
+          - "(TF5.1) Website & Technical Support": tf/tf5-1.md
+          - "(TF5.2) Education": tf/tf5-2.md
+      - "Aim 6 – Challenges":
+          - "(TF6.1) ASL Challenge": tf/tf6-1.md
+          - "(TF6.2) DSC/DCE Challenge": tf/tf6-2.md
       - "Roadmap 2026-2028": https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk
 
   - Open Calls:
@@ -185,4 +213,8 @@ nav:
       - Overview: publications.md
       - "OSIPI Papers": osipipapers.md
       - "ISMRM Abstracts": ismrmabstracts.md
+
+  - News:
+      - Overview: news.md
+      - "Google Summer of Code": gsoc.md
           

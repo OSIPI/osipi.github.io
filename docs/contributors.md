@@ -106,17 +106,18 @@ Contact us at [ismrmosipi@gmail.com](mailto:ismrmosipi@gmail.com).
 | Yu-Feng (Erin) Wang | Institute of Medical Physics, Faculty of Science, the University of Sydney, Camperdown NSW | member | TF2.3 |
 | Zaki Ahmed | Corewell William Beaumont University Hospital; GR85+8M Royal Oak, Michigan, USA | founding member, member | TF2.3; TF4.2; TF6.2 |
 | Zhiliang Wei | The Johns Hopkins University School of Medicine; 733 N Broadway, Baltimore, MD 21205, United States | member | TF2.2 |
-| Usman Akinyemi | Plaksha University, India | member | GSoC 2025 |
-| Rohan Kumar Mahato | Indian Institute of Technology Guwahati, Guwahatie, Assam, India | member | GSoC 2025 |
-| Tongxin (Elo) Li | Cornell Tech, New York, NY, United States | member | GSoC 2025 |
+
+
 
 ## Past Contributors
 
 | Name | Institute | Role | Years |
 | --- | --- | --- | --- |
+| Ahmed Basem | Fayoum University | TF2.4; GSoC 2024 | 2024 |
 | Ananth Madhuranthakam | UT Southwestern, TX, USA | past TF2.2 lead | 2020-2022 |
 | Annette van der Toorn | University Medical Center Utrecht, The Netherlands | TF3.2 | 2020-2022 |
 | Beatriz Asenjo Garcia | Regional University Hospital of Málaga, Spain | TF3.2 | 2020-2022 |
+| Beatriz Padrela | Amsterdam University Medical Center, location VUmc | TF1.1 | 2020-2022 |
 | Ben Ellingson | University of California, Los Angeles | TF2.3 | 2020-2022 |
 | Cassandra Gould Van Praag | University of Oxford | TF6.1 | 2020-2022 |
 | Chad Quarles | Barrow Neurological Institute, Phoenix, AZ | past TF3.1 lead | 2020-2022 |
@@ -125,14 +126,21 @@ Contact us at [ismrmosipi@gmail.com](mailto:ismrmosipi@gmail.com).
 | David Buckley | University of leeds | past TF4.2 lead | 2020-2022 |
 | David Clunie | PixelMed Publishing, Bangor, PA | TF4.2 | 2020-2022 |
 | Diego Pineda-Ordóñez | Clínica del Country, Bogotá, Colombia | TF6.1 | 2020-2022 |
+| Enrico de Vita | St Thomas' Hospital, Westminster Bridge Road, London, SE1 7EH | TF1.1 | 2020-2022 |
+| Eve Shalom | Sheffield University | TF6.2 | 2020-2023 |
 | Fábio Nery | University college London | TF2.1 | 2020-2022 |
 | Federico Pineda | University of Chicago | TF2.3; TF3.2 | 2020-2022 |
 | Felix Navarro | Regional University Hospital of Málaga, Spain | TF3.2 | 2020-2022 |
 | Flora Kennedy McConnell | University of Nottingham | TF6.1 | 2020-2022 |
 | Frank Zoellner | Ruprecht-Karls-Universität Heidelberg, Grabengasse, Heidelberg, Germany | founding member | 2019-2020 |
 | Greg Cron | Harvard Medical School | past TF3.2 co-lead | 2020-2022 |
+| Hamidreza Saligheh Rad | Tehran University of Medical Sciences, Iran | TF6.2 | 2020-2023 |
+| Hu Leland | Mayo Clinic Comprehensive Cancer Center, Phoenix Arizona | TF6.2 | 2020-2023 |
+| Ibrahim Abdelazim | FAU Nurnberg, DE | GSoC 2025 | 2025 |
 | Ives Levesque | McGill University - Faculty of Medicine | TF1.2 | 2020-2022 |
 | Joao Almeida e Sousa | department of infection and immunity, the University of Sheffield, UK | TF2.1 | 2020-2022 |
+| Jochen Hirsch | Fraunhofer MEVIS, Germany | TF3.1; TF3.2 | 2020-2023 |
+| Jorge Espinoza Abud | Bankaya, Mexico City | TF2.2 | 2020-2023 |
 | Kathleen Schmainda | biophysics, medical college of wisconsin | past TF1.2 lead | 2020-2022 |
 | Li Zhao | Zhejiang University | past TF2.2 co-lead | 2020-2022 |
 | Lutz Lüdemann | Universitätsklinikum Essen, Germany | TF3.2 | 2020-2022 |
@@ -140,29 +148,25 @@ Contact us at [ismrmosipi@gmail.com](mailto:ismrmosipi@gmail.com).
 | Maria-Eleni Dounavi | department of psychiatry, university of cambridge, Herchel Smith Bldg, Robinson Way, Cambridge CB2 0SZ, United Kingdom | TF6.1 | 2020-2022 |
 | Martin Craig | University of Oxford | TF2.1; TF2.3 | 2020-2022 |
 | Matthias Schabel | Oregon Health & Science University, Portland, United States | TF2.1 | 2020-2021 |
+| Melissa Lange | The Julius Maximilians University of Würzburg | GSoC 2025 | 2025 |
+| Melissa Prah | Medical College of Wisconsin | past TF1.2 lead | 2020-2022 |
+| Mohamed Nasser | Cairo University Rd, Oula, Al Giza, Giza Governorate 3725121, Egypt | TF5.1; GSoC 2024 | 2024 |
+| Mueez Waqar | The University of Manchester | TF1.2 | 2023 |
+| Nick Dowell | Brighton and Sussex Medical School, Clinical Imaging Sciences Centre (CISC), University of Sussex, Brighton, BN1 9RR | TF2.3 | 2023 |
 | Patrick Hales | University College of London | TF2.2 | 2020-2021 |
 | Pauline Hall Barrientos | MRI physics Royal Hospital for Children, NHS Greater Glasgow and Clyde | TF3.2 | 2020-2022 |
 | Pieter Vandemaele | Ghent university | TF6.1 | 2020-2022 |
 | Ralf Floca | German cancer research center | TF4.2 | 2020-2022 |
 | Rebeca Echeverria Chasco | Universidad Pública de Navarra | TF2.1; TF2.2 | 2020-2022 |
 | Reyna Patel | Northwestern University, IL | TF6.2 | 2020-2022 |
+| Rohan Kumar Mahato | Indian Institute of Technology Guwahati, Guwahatie, Assam, India | GSoC 2025 | 2025 |
 | Samuel Barnes | Loma Linda University | TF2.3 | 2020-2022 |
 | Seyed Ali Nabavizadeh | Penn State Materials Research Institute | TF6.2 | 2020-2022 |
 | Simon Levy | Center for Magnetic Resonance in Biology and Medicine, Aix-Marseille University | Founding member, past TF2.1 co-lead | 2019-2021 |
+| Tongxin (Elo) Li | Cornell Tech, New York, NY, United States | GSoC 2025 | 2025 |
 | Udunna Anazodo | MNI, McGill University, Montreal | past TF6.1 co-lead | 2020-2022 |
-| Melissa Prah | Medical College of Wisconsin | past TF1.2 lead | 2020-2022 |
+| Usman Akinyemi | Plaksha University, India | GSoC 2025 | 2025 |
 | Yiming Wang | Philips, China, Shanghai, Minhang District | TF2.2 | 2020-2023 |
-| Beatriz Padrela | Amsterdam University Medical Center, location VUmc | TF1.1 | 2020-2022 |
-| Enrico de Vita | St Thomas' Hospital, Westminster Bridge Road, London, SE1 7EH | TF1.1 | 2020-2022 |
-| Hamidreza Saligheh Rad | Tehran University of Medical Sciences, Iran | TF6.2 | 2020-2023 |
-| Hu Leland | Mayo Clinic Comprehensive Cancer Center, Phoenix Arizona | TF6.2 | 2020-2023 |
-| Jochen Hirsch | Fraunhofer MEVIS, Germany | TF3.1; TF3.2 | 2020-2023 |
-| Jorge Espinoza Abud | Bankaya, Mexico City | TF2.2 | 2020-2023 |
-| Mueez Waqar | The University of Manchester | TF1.2 | 2023 |
-| Nick Dowell | Brighton and Sussex Medical School, Clinical Imaging Sciences Centre (CISC), University of Sussex, Brighton, BN1 9RR | TF2.3 | 2023 |
-| Eve Shalom | Sheffield University | TF6.2 | 2020-2023 |
-| Ahmed Basem | Fayoum University | TF2.4; GSoC 2024 | 2024 |
-| Mohamed Nasser | Cairo University Rd, Oula, Al Giza, Giza Governorate 3725121, Egypt | TF5.1; GSoC 2024 | 2024 |
 
 !!! note "OSIPI founding board"
     Laura Bell, Patricia Clement, Charlotte Debus, Andrey Fedorov, Simon Levy, Steven Sourbron, and Frank Zoellner.

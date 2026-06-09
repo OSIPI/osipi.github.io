@@ -47,14 +47,14 @@ OSIPI is led by a management team of 4 members (past chair, chair, co-chair, sec
 
 | Name | Role |
 | --- | --- |
-| Yuriko Suzuki | Chair |
-| Petra van Houdt | Co-chair |
-| Ben Dickie | Secretary |
-| Henk-Jan Mutsaerts | Past-chair |
+| Jan Petr | Chair |
+| Lena Vaclavu | Co-chair |
+| Oliver Gurney Champion | Secretary |
+| Ben Dickie | Past-chair |
 
 ## How can I join OSIPI?
 
-The ongoing workplan is summarised in the [OSIPI Roadmap 2 2023-2025](https://docs.google.com/document/d/e/2PACX-1vQqOATrWE2COIXq4qTkEe1Bix26GVr_-YTKUJbevCPXXFJf_nMKH3_Nw3DMsY2BcZHPKBG3EOg4SU4r/pub).
+The ongoing workplan is summarised in the [OSIPI Roadmap 3 2026-2028](https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk).
 
 We are always looking for help. If you want to contribute to a particular task force, please get in touch with the appropriate task force lead directly. The names and contact details are on the task force pages. If you want to contribute but are unsure where, or your ideas are outside the remit of any given task force, please contact a member of the OSIPI management team.
 

@@ -157,18 +157,29 @@ nav:
           - "(TF2.2) ASL Code": tf/tf2-2.md
           - "(TF2.3) DSC/DCE Code": tf/tf2-3.md
           - "(TF2.4) IVIM Code": tf/tf2-4.md
+          - "(TF2.5) Open-source ASL": tf/tf2-5.md
+          - "(TF2.6) OSIPI python package": tf/tf2-6.md
+          - "(TF2.7) IVIM preprocessing": tf/tf2-7.md
       - "Aim 3 – Data":
           - "(TF3.1) DROs & Phantoms": tf/tf3-1.md
           - "(TF3.2) Clinical & Preclinical Data": tf/tf3-2.md
+          - "(TF3.3) IVIM big data collection": tf/tf3-3.md
+          - "(TF3.4) Data Register": tf/tf3-4.md
       - "Aim 4 – Lexicons":
           - "(TF4.1) ASL Lexicon": tf/tf4-1.md
           - "(TF4.2) CAPLEX": tf/tf4-2.md
+          - "(TF4.4) BBB MRI lexicon": tf/tf4-4.md
+          - "(TF4.5) IVIM lexicon": tf/tf4-5.md
+          - "(TF4.6) Method section generator": tf/tf4-6.md
       - "Aim 5 – Exchange & Education":
           - "(TF5.1) Website & Technical Support": tf/tf5-1.md
           - "(TF5.2) Education": tf/tf5-2.md
+          - "(TF5.3) AURA artifact repository": tf/tf5-3.md
+          - "(TF5.4) Clinical case reports": tf/tf5-4.md
       - "Aim 6 – Challenges":
           - "(TF6.1) ASL Challenge": tf/tf6-1.md
           - "(TF6.2) DSC/DCE Challenge": tf/tf6-2.md
+          - "(TF6.3) IVIM algorithm comparison": tf/tf6-3.md
       - "Roadmap 2026-2028": https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk
 
   - Resources:

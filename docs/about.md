@@ -52,6 +52,9 @@ OSIPI is led by a management team of 4 members (past chair, chair, co-chair, sec
 | Oliver Gurney Champion | Secretary |
 | Ben Dickie | Past-chair |
 
+!!! note "Past chairs"
+    Steven Sourbron, Laura Bell, Henk-Jan Mutsaerts, Yuriko Suzuki, Petra van Houdt, Ben Dickie.
+
 ## How can I join OSIPI?
 
 The ongoing workplan is summarised in the [OSIPI Roadmap 3 2026-2028](https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk).

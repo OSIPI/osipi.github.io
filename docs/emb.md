@@ -13,40 +13,47 @@ The EMB consists of the OSIPI leadership team and the (co-)leads of each task fo
 !!! info "OSIPI Roadmaps"
     - [Roadmap 1 2020-2022](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub)
     - [Roadmap 2 2023-2025](https://docs.google.com/document/d/e/2PACX-1vQqOATrWE2COIXq4qTkEe1Bix26GVr_-YTKUJbevCPXXFJf_nMKH3_Nw3DMsY2BcZHPKBG3EOg4SU4r/pub)
-    - Roadmap 3: work in progress
+    - [Roadmap 3 2026-2028](https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk)
 
-## Current EMB members (June 2025)
+## Current EMB members (June 2026)
 
 | Name | Role |
 | --- | --- |
-| Ben Dickie | OSIPI chair |
-| Jan Petr | OSIPI co-chair |
-| Lena Václavů | OSIPI secretary |
-| Petra van Houdt | OSIPI past chair |
-| Jan Petr | OSIPI Task Force 1.1 Lead |
-| Sudipto Dolui | OSIPI Task Force 1.1 Co-lead |
+| Jan Petr | OSIPI chair |
+| Lena Václavů | OSIPI co-chair |
+| Oliver Gurney-Champion | OSIPI secretary |
+| Ben Dickie | OSIPI past chair |
 | Maria Mora | OSIPI Task Force 2.2 Lead |
-| Azeez Adebimpe | OSIPI Task Force 2.2 Lead |
-| Sirisha Tadimalla | OSIPI Task Force 2.3 Lead |
-| Lucy Kershaw | OSIPI Task Force 2.3 Co-lead |
-| Oliver Gurney-Champion | OSIPI Task Force 2.4 Lead |
-| Oscar Jalnefjord | OSIPI Task Force 2.4 Co-lead |
-| Aaron Oliver-Taylor | OSIPI Task Force 3.1 Lead |
-| Mu-lan Jen | OSIPI Task Force 3.1 Co-lead |
-| David Thomas | OSIPI Task Force 4.1 Lead |
-| Patricia Clement | OSIPI Task Force 4.1 Co-lead |
-| Ben Dickie | OSIPI Task Force 4.2 Lead |
-| Luis Torres | OSIPI Task Force 5.1 Lead |
-| Luis Hernandez-Garcia | OSIPI Task Force 5.2 Lead |
-| Andre Paschoal | OSIPI Task Force 6.1 Lead |
-| Icaro Oliveira | OSIPI Task Force 6.1 Co-lead |
-| Soudabeh Kargar | OSIPI Task Force 6.2 Lead |
-| Harrison Kim | OSIPI Task Force 6.2 Co-lead |
+| Zhiliang Wei | OSIPI Task Force 2.2 Lead |
+| Martijn Nagtegaal | OSIPI Task Force 2.5 Lead |
+| Ben Dickie | OSIPI Task Force 2.5 Co-lead |
+| Luis Torres | OSIPI Task Force 2.6 Lead |
+| Petra van Houdt | OSIPI Task Force 2.6 Co-lead |
+| Susi Rauh | OSIPI Task Force 2.7 Lead |
+| Siria Pasini | OSIPI Task Force 2.7 Co-lead |
+| Beatriz Padrela | OSIPI Task Force 4.4 Co-lead |
+| Ben Dickie | OSIPI Task Force 4.4 Lead |
+| Oscar Jalnefjord | OSIPI Task Force 4.5 Lead |
+| Swati Rane  | OSIPI Task Force 4.5 Co-lead |
+| David Thomas | OSIPI Task Force 4.6 Lead |
+| Jan Petr | OSIPI Task Force 4.6 Co-lead |
+| Patricia Clement | OSIPI Task Force 5.3 Lead |
+| Sudipto Dolui | OSIPI Task Force 5.3 Co-lead |
+| Thomas Lindner | OSIPI Task Force 5.4 Lead |
+| Yuriko Suzuki | OSIPI Task Force 5.4 Co-lead |
+| Lena Václavů | OSIPI Task Force 6.1 Lead |
+| Aisling Fothergill | OSIPI Task Force 6.1 Co-lead |
+| Olivia Jones | OSIPI Task Force 6.2 Lead |
+| Damon Verstappen | OSIPI Task Force 6.2 Co-lead |
+| Oliver Gurney Champion | OSIPI Task Force 6.3 Lead |
+| Ben Neijndorff | OSIPI Task Force 6.3 Co-lead |
 
 ## Past Leadership
 
 | Name | Role |
 | --- | --- |
+| Ben Dickie | OSIPI chair 2025 |
+| Petra van Houdt | OSIPI chair 2024 |
 | Yuriko Suzuki | OSIPI chair 2023 |
 | Henk-Jan Mutsaerts | OSIPI chair 2022 |
 | Laura C Bell | OSIPI chair 2021 |

@@ -15,9 +15,12 @@ OSIPI-related abstracts presented at ISMRM annual meetings, grouped by year and 
 - TF 6.3 — Reproducibility of intravoxel incoherent motion imaging: impact of the fitting algorithm. [ISMRM 2026, abstract 668-03-013](http://echo.ismrm.org/p/ISMRM2026/668-03-013)
 
 ## 2025
-- TF 2.2 — ISMRM Open Science Initiative for Perfusion Imaging (OSIPI): Composite Python Library for ASL Image Processing. ISMRM 2024, abstract 0972
-- TF 4.6 — A user-friendly ISMRM-OSIPI online software tool for standardized and automated reporting of ASL acquisition parameters. ISMRM 2024
+- TF 2.6 — ISMRM Open Science Initiative for Perfusion Imaging (OSIPI): Composite Python Library for ASL Image Processing. [ISMRM 2025, abstract 3692](https://cds.ismrm.org/protected/25MProceedings/PDFfiles/3692_Nv2N2aQQv.html)
+- TF 2.6 — The OSIPI Python Package for Standardized Perfusion MRI Analysis. [ISMRM workshop on Perfusion MRI 2025](https://cds.ismrm.org/protected/Perfusion25/abstracts/Nasser.pdf)
+- TF 4.6 — A user-friendly ISMRM-OSIPI online software tool for standardized and automated reporting of ASL acquisition parameters. ISMRM 2025
+- TF 4.6 — An Online ISMRM-OSIPI Tool for Standardized Reporting of ASL Acquisition Parameters. [ISMRM workshop on Perfusion MRI 2025](https://cds.ismrm.org/protected/Perfusion25/abstracts/Xu%20Hanliang.pdf)
 - TF 5.3 — AURA: building ‘A User Repository of Artifacts for Perfusion Imaging’. [ESMRMB 2025, PA07](https://link.springer.com/article/10.1007/s10334-025-01300-z)
+
 
 ## 2024
 - Towards reproducible perfusion MRI analysis: the ISMRM Open Science Initiative for Perfusion Imaging. [ESMRMB 2024, abstract 419](https://link.springer.com/article/10.1007/s10334-024-01191-6)

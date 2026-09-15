@@ -8,7 +8,7 @@ To achieve OSIPI's mission, six specific aims were identified. Each aim is suppo
 
 Inventories and evaluation of available complete perfusion image analysis tools for end-users.
 
-!!! abstract "TF1.1 — ASL software inventory"
+!!! abstract "TF1.1 — ASL software inventory (inactive)"
     Inventory of publicly available ASL pipelines along with their features, compatibility, and links to manuals and source code.
 
     [Task Force 1.1 details](tf/tf1-1.md)
@@ -27,12 +27,12 @@ Develops community-driven open-source code libraries for perfusion imaging analy
 
     [Task Force 2.2 details](tf/tf2-2.md)
 
-!!! abstract "TF2.3 — DSC/DCE code contributions"
+!!! abstract "TF2.3 — DSC/DCE code contributions (inactive)"
     Tested code collection of open-source Python functions for DCE/DSC perfusion imaging analysis.
 
     [Task Force 2.3 details](tf/tf2-3.md)
 
-!!! abstract "TF2.4 — IVIM code contributions"
+!!! abstract "TF2.4 — IVIM code contributions (inactive)"
     Gathered and tested code for intravoxel incoherent motion (IVIM) analysis, with model fitting code in Python and Matlab.
 
     [Task Force 2.4 details](tf/tf2-4.md)
@@ -56,7 +56,7 @@ Develops community-driven open-source code libraries for perfusion imaging analy
 
 Inventories with open-access (pre-)clinical or phantom data and digital reference objects (DROs).
 
-!!! abstract "TF3.1 — Digital Reference Objects and Phantoms"
+!!! abstract "TF3.1 — Digital Reference Objects and Phantoms (inactive)"
     Inventory of digital reference objects and phantom data for perfusion MRI.
 
     [Task Force 3.1 details](tf/tf3-1.md)
@@ -80,13 +80,13 @@ Inventories with open-access (pre-)clinical or phantom data and digital referenc
 
 Develop terminology and reporting guidelines for image acquisition and perfusion image analysis.
 
-!!! abstract "TF4.1 — ASL Lexicon"
+!!! abstract "TF4.1 — ASL Lexicon (inactive)"
     Standardized terminology and reporting recommendations for arterial spin labeling imaging.
 
     [Lexicons overview](lexicons.md)  <br>
     [📘 ASL Lexicon documentation](https://osipi.github.io/ASL-Lexicon/)
 
-!!! abstract "TF4.2 — DSC/DCE Lexicon (CAPLEX)"
+!!! abstract "TF4.2 — DSC/DCE Lexicon (CAPLEX) (inactive)"
     Lexicon of definitions for quantities, models, and analysis methods used in contrast-agent-based perfusion MRI.
 
     [Lexicons overview](lexicons.md)  <br>
@@ -111,12 +111,12 @@ Develop terminology and reporting guidelines for image acquisition and perfusion
 
 Dissemination of resources through website and educational activities.
 
-!!! abstract "TF5.1 — Website"
-    Develops and maintains the OSIPI website for sharing resources with the community.
+!!! abstract "TF5.1 — Website & Communication"
+    Develops and maintains the OSIPI website for sharing resources with the community and communicates with the community
 
     [Task Force 5.1 details](tf/tf5-1.md)
 
-!!! abstract "TF5.2 — Education"
+!!! abstract "TF5.2 — Education (inactive)"
     Develops educational activities and materials for perfusion imaging.
 
     [Task Force 5.2 details](tf/tf5-2.md)

@@ -1,6 +1,7 @@
 # OSIPI Papers
 
-Peer-reviewed journal articles authored by OSIPI task forces, documenting the inventories, code collections, and challenges developed by the initiative.
+ISMRM papers are published in the [MRM special section : ISMRM open initiative for perfusion imaging (OSIPI)](https://onlinelibrary.wiley.com/toc/15222594/2024/91/5)
+Here is a list of the peer-reviewed journal articles authored by OSIPI task forces, documenting the inventories, code collections, and challenges developed by the initiative.
 
 ## Peer-reviewed papers
 

@@ -2,6 +2,18 @@
 
 Updates from the OSIPI community: project launches, Google Summer of Code, workshops, and publications.
 
+## Looking for new members
+
+*Sep 25, 2026*
+
+The following task forces are looking for new members with specific expertise:
+
+- TF2.2 - Experts in ASL outside of the brain (contact MMORAALVAR at childrensnational.org)
+- TF2.7 - Fill in a [questionnaire on IVIM processing](https://docs.google.com/forms/d/e/1FAIpQLSdDpNGqSpcrEEOlmHyHhYNn4bzBccCpNvpnPvGoVvrs10S1Yw) or share IVIM code (or contact Siria.Pasini at marionegri.it)
+- TF4.4 - Experts in imaging or biology of the blood brain barrier for a joint application for EU COST Action (contact l.vaclavu at lumc.nl before 20 Oct 2026).
+- TF5.4 - Medical doctors and trainees to help collecting clinical cases for a systematic review (contact t.lindner at uke.de)
+
+
 ## GSoC 2025: 5 projects selected
 
 *May 8, 2025*

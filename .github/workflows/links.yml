@@ -47,6 +47,8 @@ jobs:
             --scheme http
             --scheme https
             --accept 200,206,403,429,503
+            --exclude 'https://www.esciencecenter.nl/'
+            --exclude 'https?://echo\.ismrm\.org/.*'
             --max-retries 2
             "docs/**/*.md"
             "mkdocs.yml"

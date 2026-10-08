@@ -1,6 +1,6 @@
 # Task Forces
 
-OSIPI's aims are addressed through dedicated Task Forces. The objectives, time plan, leadership, and members of each task force for the years 2026-2028 are defined in the [Roadmap](https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk). More details and contacts are available below.
+OSIPI's aims are addressed through dedicated Task Forces. The objectives, time plan, leadership, and members of each task force for the years 2026-2028 are defined in the [Roadmap](https://docs.google.com/document/d/e/2PACX-1vTiMSgnrMSzPk7V0_KoCxIwLtl_YDy101Fqg5RnVd4gxn5qPvtNnTiftPTzdFk5zNXePs9HLv3FkFLQ/pub). More details and contacts are available below.
 
 To achieve OSIPI's mission, six specific aims were identified. Each aim is supported by one to three task forces (TF), generally split by non-contrast (arterial spin labeling; ASL) and contrast-agent-based (dynamic susceptibility contrast; DSC; and dynamic contrast enhanced; DCE) perfusion MRI. From the second roadmap, intravoxel incoherent motion (IVIM) was also added.
 

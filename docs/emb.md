@@ -13,7 +13,7 @@ The EMB consists of the OSIPI leadership team and the (co-)leads of each task fo
 !!! info "OSIPI Roadmaps"
     - [Roadmap 1 2020-2022](https://docs.google.com/document/d/e/2PACX-1vRbxX9ywttwQfd2hyj62h676RjEZ3YHZBIBTkUmEb2nqOmrRVd-PlWeL6nAsJ79akQpXHmtBIizJiOK/pub)
     - [Roadmap 2 2023-2025](https://docs.google.com/document/d/e/2PACX-1vQqOATrWE2COIXq4qTkEe1Bix26GVr_-YTKUJbevCPXXFJf_nMKH3_Nw3DMsY2BcZHPKBG3EOg4SU4r/pub)
-    - [Roadmap 3 2026-2028](https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk)
+    - [Roadmap 3 2026-2028](https://docs.google.com/document/d/e/2PACX-1vTiMSgnrMSzPk7V0_KoCxIwLtl_YDy101Fqg5RnVd4gxn5qPvtNnTiftPTzdFk5zNXePs9HLv3FkFLQ/pub)
 
 ## Current EMB members (June 2026)
 

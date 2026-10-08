@@ -57,7 +57,7 @@ OSIPI is led by a management team of 4 members (past chair, chair, co-chair, sec
 
 ## How can I join OSIPI?
 
-The ongoing workplan is summarised in the [OSIPI Roadmap 3 2026-2028](https://docs.google.com/document/d/1w2JlVK3hP5dgXMcrK8da5z94ivsK8Or__NU9qUR6WRk).
+The ongoing workplan is summarised in the [OSIPI Roadmap 3 2026-2028](https://docs.google.com/document/d/e/2PACX-1vTiMSgnrMSzPk7V0_KoCxIwLtl_YDy101Fqg5RnVd4gxn5qPvtNnTiftPTzdFk5zNXePs9HLv3FkFLQ/pub).
 
 We are always looking for help. If you want to contribute to a particular task force, please get in touch with the appropriate task force lead directly. The names and contact details are on the task force pages. If you want to contribute but are unsure where, or your ideas are outside the remit of any given task force, please contact a member of the OSIPI management team.
 

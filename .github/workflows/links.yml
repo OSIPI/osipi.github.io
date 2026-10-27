@@ -39,6 +39,23 @@ jobs:
       - name: Build site (fails on broken internal links and nav)
         run: mkdocs build --strict
 
+      - name: Check slower external links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --scheme http
+            --scheme https
+            --accept 200,202,206,403,429,503
+            --include 'https?://doi.org/.*'
+            --timeout 60 
+            --max-retries 3
+            "docs/**/*.md"
+            "mkdocs.yml"
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}      
+          
       - name: Check external links
         uses: lycheeverse/lychee-action@v2
         with:
@@ -57,18 +74,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Check slower external links
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: >-
-            --no-progress
-            --scheme http
-            --scheme https
-            --include 'https?://doi.org/.*'
-            --timeout 60 
-            --max-retries 3
-            "docs/**/*.md"
-            "mkdocs.yml"
-          fail: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}          
+    

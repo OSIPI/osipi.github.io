@@ -49,9 +49,26 @@ jobs:
             --accept 200,202,206,403,429,503
             --exclude 'https://www.esciencecenter.nl/'
             --exclude 'https?://echo\.ismrm\.org/.*'
+            --exclude 'https?://doi.org/.*'            
             --max-retries 2
             "docs/**/*.md"
             "mkdocs.yml"
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check slower external links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --scheme http
+            --scheme https
+            --include 'https?://doi.org/.*'
+            --timeout 60 
+            --max-retries 3
+            "docs/**/*.md"
+            "mkdocs.yml"
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}          

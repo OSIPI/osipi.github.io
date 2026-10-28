@@ -48,5 +48,5 @@ OSIPI-related abstracts presented at ISMRM annual meetings, grouped by year and 
 
 - TF1.1 — The Open Source Initiative for Perfusion Imaging (OSIPI): ASL Pipeline inventory. [ISMRM 2021, abstract 2713](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/2713.html)
 - TF6.1 — The Open Source Initiative for Perfusion Imaging (OSIPI) ASL MRI Challenge. [ISMRM 2021, abstract 2714](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/2714.html)
-- TF6.2 — he Open Source Initiative for Perfusion Imaging (OSIPI): DCE-MRI Challenge. [ISMRM 2021, abstract 1094](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/1094.html)
+- TF6.2 — The Open Source Initiative for Perfusion Imaging (OSIPI): DCE-MRI Challenge. [ISMRM 2021, abstract 1094](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/1094.html)
 

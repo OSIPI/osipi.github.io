@@ -2,6 +2,39 @@
 
 Updates from the OSIPI community: project launches, Google Summer of Code, workshops, and publications.
 
+## From ideas to impact: OSIPI community drives forward six abstracts for ISMRM 2027
+
+*Nov 3, 2026*
+
+The past weeks have been an exciting period for the ISMRM-OSIPI community. As the deadline for the ISMRM 2027 abstract submissions approached, contributors across several Task Forces came together to turn ideas, ongoing initiatives and software developments into scientific abstracts.
+
+What has been particularly impressive is the progress made in such a short time. Some initiatives that were still taking shape just two weeks before the deadline have developed into full scientific abstracts. This reflects not only the scientific expertise within our community, but also the enthusiasm, commitment and collaborative spirit of its members.
+
+Six abstracts have emerged from this collective effort, covering a broad range of topics:
+
+### Abstracts
+
+TF2.6 – OSIPI Python package: ISMRM-OSIPI’s Community-Informed Open-Source Framework and Dashboard for Perfusion MRI Analysis: osipy. Presenting progress towards a community-driven, open-source framework for perfusion MRI analysis.
+
+TF2.2 – ASL code contributions: An ISMRM-OSIPI Unified, Open-Source, Quality Control Toolbox for Brain, Renal, and Placental ASL MRI. Bringing together quality-control tools for arterial spin labelling across different organs.
+
+TF2.2 – ASL code contributions: ISMRM-OSIPI PyASL: GUI-Based Workflow Execution and Batch Processing. Making ASL analysis workflows more accessible and reproducible through graphical interfaces and batch processing.
+
+TF2.7 – IVIM preprocessing: Putting the Pieces Together: A Survey- and Consensus-Based IVIM Preprocessing Pipeline from OSIPI. Working towards a community-informed and standardised approach to IVIM preprocessing.
+
+TF4.5 – IVIM lexicon: Incoherent Language for Intravoxel Incoherent Motion: Towards an IVIM Consensus Lexicon. Addressing the terminology challenges in IVIM research and building a shared language for the field.
+
+TF6.2 – DSC/DCE challenges: ISMRM-OSIPI DCE-MRI Challenge 2027: Benchmarking Analysis Pipelines for the Estimation of Subtle Blood-Brain Barrier Leakage. Establishing a framework to compare and benchmark DCE-MRI analysis pipelines for detecting subtle blood-brain barrier leakage.
+
+These contributions illustrate the breadth of OSIPI's activities: from developing shared software and quality-control tools, to improving standardisation and reproducibility, and establishing benchmarks for quantitative MRI methods.
+
+A special thank you goes to everyone who contributed to these abstracts, and particularly to the Google Summer of Code (GSoC) contributors, whose work has helped advance several of these initiatives. The progress would not have been possible without the time, energy and expertise generously invested by members of the community.
+
+We are proud of what this community has achieved together. These abstracts are more than individual scientific contributions: they demonstrate how collaborative, open-science initiatives can turn shared challenges into tangible progress for the quantitative MRI community.
+
+We look forward to sharing these developments and discussing them with you at ISMRM 2027!
+
+
 ## Task Forces seeking members and contributions
 
 *Sep 25, 2026*
